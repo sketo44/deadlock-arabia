@@ -1,5 +1,5 @@
 export async function mountExpandedLore(story,hero,escape){
- const file=({1:'infernus-lore-expanded.json',4:'lady-geist-lore-expanded.json',6:'abrams-lore-expanded.json',3:'vindicta-lore-expanded.json',72:'billy-lore-expanded.json',85:'solomon-lore-expanded.json',64:'drifter-lore-expanded.json',2:'seven-lore-expanded.json',7:'wraith-lore-expanded.json',11:'dynamo-lore-expanded.json'})[Number(hero.id)];if(!file||story.querySelector('.expanded-hero-lore'))return;
+ const file=({8:'mcginnis-lore-expanded.json',10:'paradox-lore-expanded.json',12:'kelvin-lore-expanded.json',1:'infernus-lore-expanded.json',4:'lady-geist-lore-expanded.json',6:'abrams-lore-expanded.json',3:'vindicta-lore-expanded.json',72:'billy-lore-expanded.json',85:'solomon-lore-expanded.json',64:'drifter-lore-expanded.json',2:'seven-lore-expanded.json',7:'wraith-lore-expanded.json',11:'dynamo-lore-expanded.json'})[Number(hero.id)];if(!file||story.querySelector('.expanded-hero-lore'))return;
  const host=document.createElement('section');host.className='expanded-hero-lore';host.innerHTML='<p role="status">جارٍ تحميل ملف القصة المفصل…</p>';
  const about=story.querySelector('.hero-about');about.before(host);
  try{
