@@ -1,7 +1,7 @@
 
-import {mountHeroSections} from './hero-sections.js?v=hero-layout-50';
+import {mountHeroSections} from './hero-sections.js?v=hero-layout-51';
 export function mountSeven(host,r,escape,roster){
- const bakedBackground=[2,3,7,11,64,72,85].includes(Number(r.id));
+ const bakedBackground=[1,2,3,4,6,7,11,64,72,85].includes(Number(r.id));
  const blankImage='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22/%3E';
  const current=roster.findIndex(h=>h.id===r.id),previous=roster[(current-1+roster.length)%roster.length],next=roster[(current+1)%roster.length];
  document.title=r.nameAr+' · '+r.name+' | Deadlock AR';
@@ -13,7 +13,7 @@ export function mountSeven(host,r,escape,roster){
  host.classList.add('seven-lore','seven-experience');
  host.innerHTML=`<section class="seven-stage" aria-labelledby="seven-title"><img class="seven-scene" src="${bakedBackground?blankImage:'assets/lore/seven-game-background.jpg'}" alt="" width="1920" height="1080" fetchpriority="high">${r.effect==='lightning'?bolts:'<div class="hero-atmosphere" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>'}<div class="seven-stage-copy"><span class="seven-class">${escape(r.nameAr)}</span><h1 id="seven-title" dir="ltr">${escape(r.name.toUpperCase())}</h1><p class="seven-headline">${escape(r.headlineAr)}</p><p class="seven-stage-intro">${escape(r.gameplayAr)}</p><div class="seven-stage-actions"><button type="button" data-seven-jump="seven-abilities">استكشف قدراته</button><button type="button" class="outline" data-seven-jump="seven-story-title">اقرأ حكايته</button></div></div><figure class="seven-poster"><img src="${bakedBackground?blankImage:escape(r.poster)}" alt="لوحة ${escape(r.nameAr)} مع نبذة من قصته" width="1086" height="1448" fetchpriority="high"></figure>${arrows}<span class="seven-stage-foot" aria-hidden="true">${escape(r.nameAr)}</span></section>${picker}<div class="seven-specs-slot"></div><article class="seven-story" aria-labelledby="seven-story-title"><div class="seven-story-heading"><span>حكاية ${escape(r.nameAr)}</span><h2 id="seven-story-title">${escape(r.headlineAr)}</h2><p>القصة الكاملة من خلفية الشخصية.</p><span class="seven-story-mark" aria-hidden="true">${String(r.name).slice(0,1)}</span></div><div class="seven-story-reading"><div class="seven-story-body">${r.storyAr.map(p=>`<p>${escape(p)}</p>`).join('')}</div><a class="seven-story-source" href="${escape(r.wikiUrl)}#Backstory" target="_blank" rel="noopener">الخلفية الأصلية للشخصية ↗</a></div></article>`;
  const wordmark=document.createElement('img');wordmark.className='hero-name-wordmark';wordmark.src=`assets/hero-wordmarks/${Number(r.id)}.svg`;wordmark.alt=r.name;wordmark.addEventListener('error',()=>wordmark.replaceWith(document.createTextNode(r.name.toUpperCase())),{once:true});host.querySelector('#seven-title').replaceChildren(wordmark);
- if([2,3,7,11,64,72,85].includes(Number(r.id))){
+ if([1,2,3,4,6,7,11,64,72,85].includes(Number(r.id))){
    if(!document.querySelector('.wraith-page-backdrop')){const backdrop=document.createElement('div');backdrop.className='wraith-page-backdrop';backdrop.setAttribute('aria-hidden','true');document.body.prepend(backdrop);}
    host.querySelector('.seven-class').textContent=Number(r.id)===7?'ريث':Number(r.id)===85?'سليمان':r.nameAr;
    host.querySelector('.seven-poster')?.remove();
@@ -25,7 +25,7 @@ export function mountSeven(host,r,escape,roster){
  const profile=document.querySelector('.seven-profile-pending');const info=profile?.querySelector(':scope > div');if(info){info.classList.add('seven-profile-info');const buildButton=info.querySelector('[data-new]');if(buildButton){buildButton.classList.add('hero-build-action');buildButton.innerHTML=`<span class="build-action-emblem" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="m16 3 12 7v12l-12 7-12-7V10Z M4 10l12 7 12-7M16 17v12M10 6.5l12 7v11"/></svg></span><span class="build-action-label">ابنِ بيلد <b dir="ltr">${escape(r.name)}</b></span><svg class="build-action-arrow" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 12H5m6-6-6 6 6 6"/></svg>`;}host.querySelector('.seven-specs-slot').append(info);profile.remove()}
  const abilities=document.querySelector('main>.abilities');if(abilities){abilities.id='seven-abilities';abilities.previousElementSibling?.classList.add('seven-abilities-title');abilities.classList.add('seven-ability-grid');mountAbilityIcons(abilities);const title=abilities.previousElementSibling;if(title?.classList.contains('seven-abilities-title'))title.remove();host.querySelector('.seven-specs-slot').append(abilities)}
  mountHeroSections(host,r,escape);
- if([2,3,7,11,64,72,85].includes(Number(r.id))){
+ if([1,2,3,4,6,7,11,64,72,85].includes(Number(r.id))){
    // Each dossier tab now owns the entire opening region, rather than sitting below a permanent hero.
    const stage=host.querySelector('.seven-stage');
    const switcher=stage.querySelector('.hero-switch');

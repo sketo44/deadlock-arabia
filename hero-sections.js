@@ -1,4 +1,4 @@
-import {mountExpandedLore} from './expanded-hero-lore.js?v=hero-layout-49';
+import {mountExpandedLore} from './expanded-hero-lore.js?v=hero-layout-51';
 import {modelPage,mountModel} from './hero-model.js?v=hero-layout-24';
 import {mountArRanking} from './hero-ar-ranking.js?v=hero-layout-36';
 export function mountHeroSections(host,r,escape){
@@ -14,7 +14,7 @@ export function mountHeroSections(host,r,escape){
  specGroups.forEach((group,index)=>{if(!group.node)return;const fold=document.createElement('details');fold.className='expanded-lore-section hero-spec-fold';fold.innerHTML=`<summary><span class="expanded-lore-number">${String(index+1).padStart(2,'0')}</span><h3>${group.title}</h3><span class="expanded-lore-toggle" aria-hidden="true">+</span></summary>`;specs.append(fold);fold.append(group.node)});
  const ranking=document.createElement('section');ranking.className='hero-ar-ranking';let rankingMounted=false;
  const panels=[overview,story,specs,model,ranking],labels=['نظرة عامة','القصة','القدرات والإحصائيات','عرض الشخصية 3D','تصنيف اللاعبين DEAD LOCK AR'];
- if([2,3,7,11,64,72,85].includes(Number(r.id))){
+ if([1,2,3,4,6,7,11,64,72,85].includes(Number(r.id))){
    const heading=document.createElement('header');heading.className='wraith-permanent-heading';
    const arabic=document.createElement('span');arabic.textContent=Number(r.id)===7?'ريث':Number(r.id)===85?'سليمان':r.nameAr;
    const title=document.createElement('h1');title.className='wraith-panel-title';title.dir='ltr';const mark=document.createElement('img');mark.className='hero-name-wordmark';mark.src=`assets/hero-wordmarks/${Number(r.id)}.svg`;mark.alt=r.name;mark.addEventListener('error',()=>mark.replaceWith(document.createTextNode(r.name.toUpperCase())),{once:true});title.append(mark);heading.append(arabic,title);host.prepend(heading);
