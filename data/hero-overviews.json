@@ -1,0 +1,834 @@
+[
+  {
+    "id": 1,
+    "name": "Infernus",
+    "paragraphsAr": [
+      "إنفرنوس شخصية من إكسيا عندها تحكّم قوي بالنار، تستخدمه عشان تسرّع حركتها وتحرق خصومها. يجمع بين Flame Dash ومادة Napalm عشان يلاحق العدو ويشعل فيه Afterburn. واللي يظل واقف بعد هذا كله يواجه انفجار Concussive Combustion، اللي يصعقه ويتركه مكشوف لمزيد من الحرق.",
+      "إنفرنوس من الجيل الثاني لمهاجري إكسيا، وتربّى في نيويورك بمراهقة مضطربة ومليانة مشاكل وجرائم منظّمة. لما كبر اشتغل في بار وتعلّم يهدّي انفعالاته. بين الموسيقى الزينة والناس اللي يستمتع بالسوالف معهم، نادرًا صار يحتاج يرجع لقواه الخارقة الخطيرة."
+    ],
+    "originalParagraphs": [
+      "Infernus is a Hero in Deadlock . He is an Ixian with a powerful control of flame that he uses to enhance his speed and ignite his enemies. Combining his Flame Dash with the ability to spew a Napalm catalyst , Infernus can chase down and ignite his foes with a deadly Afterburn . Any targets left standing will be subject to his explosive Concussive Combustion , knocking them out and leaving them vulnerable to further immolation.",
+      "As a second-generation immigrant from Ixia, Infernus had a troubled and intense youth while he was raised in New York. Despite a rash of organized crime as a teenager, he found himself tending a bar in his adulthood and learning to calm his intense emotions. With quality music and interesting people to talk to, Infernus rarely has a need these days to call up his dangerous supernatural abilities."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Infernus?oldid=161768",
+    "revision": 161768,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 2,
+    "name": "Seven",
+    "paragraphsAr": [
+      "سفن عالم مهووس بالعظمة، يعوّض غياب مبادئه بترسانة هجمات كهربائية. يتميز بالسيطرة السريعة على ساحة القتال: يقفل المناطق بـLightning Ball ويقوّي سلاحه بـSurge عشان يعاقب الأعداء المتجمعين. وبعد ما يعطّلهم بـStatic Charge، يطلق Storm Cloud ويصبّ عليهم الكهرباء.",
+      "ما نعرف وش اللي ودّى سفن لسجن Lost Whisper، لكنه حوّل محاولة إعدامه إلى مذبحة بحق سجّانيه وهرب. الحين مختبئ تحت المدينة، ويبغى يكمل الطقس عشان يحقق اللي يسميه الارتقاء إلى الألوهية."
+    ],
+    "originalParagraphs": [
+      "Seven is a Hero in Deadlock . A megalomaniac scientist who substitutes his absence of ethics with a wide array of electric attacks, Seven excels in rapidly taking control of the battlefield by denying areas with Lightning Balls and Surging his gun to punish his foes for staying close together. After putting his enemies in their place with Static Charge , Seven is free to discharge himself into a Storm Cloud and fry them alive.",
+      "It is unknown what actions led to Seven being imprisoned within Lost Whisper . However, Seven managed to turn what was meant to be his execution into the bloody murder of his captors. Finally free and waiting within the underbelly of the Cursed Apple, he wishes to reach \"apotheosis\" by completing the ritual ."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Seven?oldid=187215",
+    "revision": 187215,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 3,
+    "name": "Vindicta",
+    "paragraphsAr": [
+      "فينديكتا قناصة قوية وسريعة الحركة، تشتبك مع أهدافها وتصطادهم من بعيد. تبدأ المواجهة بـCrow Familiar عشان تسبب نزيف، وبعدها تستخدم Flight وتحافظ على مسافتها. تثبّت الأعداء حول Stake مغروز بالأرض وتستهدفهم ببندقيتها القوية؛ والخصم اللي دمه قليل لازم يحسب حساب Assassinate، طلقة قنص مدمّرة من مسافة بعيدة.",
+      "اتهموا فينديكتا بالسحر وقتلها جون هاثورن خلال محاكمات سالم في القرن السابع عشر. رجعت لعالم الأحياء وقت المايلستروم الأول، وصارت تحارب جماعة Friends of Humanity، محققي التفتيش الجدد، عشان تحمي الكائنات الخارقة مثلها."
+    ],
+    "originalParagraphs": [
+      "Vindicta is a Hero in Deadlock . She is a mobile and powerful marksman, engaging and picking off her targets from a distance. Using her Crow Familiar to initiate fights by bleeding her targets, Vindicta may launch into Flight to keep her distance from enemies and tether them with a Stake in the ground while targeting them with her powerful rifle. Enemies that are near-death should fear her ability to Assassinate at long-range with a devastating sniper shot.",
+      "A girl who was accused of witchcraft and killed by John Hathorne during the Salem Witch Trials of the 1600s, Vindicta returned to this world during the first Maelstrom . Seeking to protect her fellow supernatural entities, Vindicta is waging a war against the Neo-inquisitorial \" Friends of Humanity \"."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Vindicta?oldid=194496",
+    "revision": 194496,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 4,
+    "name": "Lady Geist",
+    "paragraphsAr": [
+      "ليدي غايست سيدة مجتمع عقدت ميثاقًا مع روح، وتدفع من صحتها عشان تستخدم قدراتها وتسحب حياة خصومها. تضحّي بقوة حياتها لرمي Essence Bomb وشظايا الدم المشحونة بـMalice، وتعوّض صحتها بـLife Drain من الأعداء والوحدات. أما Soul Exchange فتبدّل نسبة صحتها مع بطل عدو، وتقلب عليه المواجهة تمهيدًا للضربة الأخيرة.",
+      "كانت الليدي جين غايست حديث المدينة، الكل يعرفها ويدعوها للحفلات، لين تقدّمت بالعمر وراح جمالها وما بقي إلا ذكريات أيامها. من يأسها تعاقدت مع روح قوية وقيّدتها بتعاويذ تحميها، ورجعت شابة. الحين لازم تتغذّى على حياة غيرها عشان تحافظ على جمالها، وتأمل إن الـOathkeeper يظل مقيدًا."
+    ],
+    "originalParagraphs": [
+      "Lady Geist is a Hero in Deadlock . A socialite with a necromantic pact, Lady Geist consumes her own health for her abilities while draining the life away from opponents. Sacrificing her life force to launch Essence Bombs and blood shards filled with Malice , Lady Geist can regain lost health with Life Drain , sapping enemy heroes and units of their health. Her Soul Exchange swaps health values with an enemy hero, turning the odds against them for a killing blow.",
+      "The Toast of the Town, Lady Jeanne Geist was famed by all and invited to every ball and gala in the city... until her beauty faded in her old age and left her with only memories and stories of her glory. In desperation, she formed a pact with a powerful spirit and bound it by powerful wards until she was safe and young again. All she needs to do now is feed on the life force of her fellows to maintain her beauty... and hope desperately that the Oathkeeper will stay bound."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Lady_Geist?oldid=181806",
+    "revision": 181806,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 6,
+    "name": "Abrams",
+    "paragraphsAr": [
+      "أبرامز مقاتل عنيد وثقيل الضرب، يفضّل يدخل على العدو من قريب. يستعين بالقوة المظلمة لكتابه عشان يسحب حياة الأعداء المحيطين بـSiphon Life، ويتحمّل ضرباتهم بـInfernal Resilience. يقدر يبدأ الفايت باندفاعة Shoulder Charge أو صعقة جماعية من Seismic Impact، ويفصل الأهداف الضعيفة عن فريقها عشان يجهّز لها دمج قوي.",
+      "أبرامز محقّق معروف في نيويورك، حلّ قضايا من الخطف إلى جرائم القتل الطقسية. يومًا ما لقى كتابًا غامضًا على مكتبه، ومعه رسالة مكتوبة بدم الأونيكس تقول: «لا تخليهم ياخذونه». بعدها بدأت تفجيرات السيارات والاقتحامات لمكتبه؛ والحين يحاول يفهم وش السالفة."
+    ],
+    "originalParagraphs": [
+      "Abrams is a Hero in Deadlock . He is a hard-boiled, hard-hitting bruiser of a character that focuses on engaging enemies in close combat. Abrams is a juggernaut on the battlefield, tapping into the dark power of his Tome to Siphon Life from nearby enemies and utilizing his Infernal Resilience to brush off the damage he takes. With a sudden Shoulder Charge or area stun from his Seismic Impact , he can aggressively initiate fights and isolate fragile targets from the rest of their team to set up a devastating burst of damage.",
+      "A capable and well-known detective of New York, Abrams solved crimes ranging from kidnappings to ritual murders. One day, a mysterious Tome was left on his desk with a note of \"Don't let them have it\" scrawled in Onyx blood; followed by car bombings and break-ins to his office. Now, Abrams is trying to figure out just what the hell is going on."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Abrams?oldid=197378",
+    "revision": 197378,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 7,
+    "name": "Wraith",
+    "paragraphsAr": [
+      "ريث سريعة بالكلام وبإطلاق النار، وعندها قدرات هجومية وحركة قوية. Full Auto يرفع سرعة إطلاقها، وCard Trick يرسل أوراقها على الأهداف، وProject Mind ينقلها داخل الفايت أو يطلعها منه. تقدر تعزل عدو بـTelekinesis وترميه بالاتجاه اللي تختاره، وكأنها تقرر مين من الفريق المقابل يموت أول.",
+      "بشخصيتها القوية وجاذبيتها، تدير ريث شبكة قمار، وصارت اسمًا معروفًا في عالم الجريمة بنيويورك."
+    ],
+    "originalParagraphs": [
+      "Wraith is a Hero in Deadlock . She is a fast-talking and fast-firing combatant with potent offensive abilities and mobility. She can activate her Full Auto to boost her own fire rate, perform Card Tricks by sending them at her targets and Project Mind to teleport either into or out of dangerous fights. Singling out a foe with her Telekinesis and throwing them into any direction, Wraith can decide who on the enemy team should die first.",
+      "Employing her charisma and strength to run a gambling network, Wraith is a widely-known feature of the criminal underworld of New York City."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Wraith?oldid=188764",
+    "revision": 188764,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 8,
+    "name": "McGinnis",
+    "paragraphsAr": [
+      "ماكغينيس ترأس قسم البحث والتطوير العسكري في Fairfax Industries، وواثقة جدًا بشغلها: رشاشها، وMini Turret الآلية، وSpectral Wall اللي تحمي الزملاء وتمسك المواقع وتحاصر الأعداء. Medicinal Specter يعالج الحلفاء القريبين، وHeavy Barrage يطلق قصفًا طيفيًا مدمرًا يوصل حتى للأعداء البعيدين.",
+      "مارغريت «ماغي» ماكغينيس مهندسة موهوبة بدأت من صغرها. ما تحب الشغل النظري، وتقضي أغلب وقتها في ورشة ميكانيكا وتجارب تمسّ القوى الخارقة. أخلاقيات تطوير آلات حرب غيبية مشكوك فيها، بس هي مو شايلة هم ما دام راتبها يوصل."
+    ],
+    "originalParagraphs": [
+      "McGinnis is a Hero in Deadlock . The head of Fairfax Industries Military R&D department, McGinnis has a high opinion of her own work which includes her machine gun, numerous automatic Mini Turrets , Spectral Walls that she can create to protect teammates, hold down positions and trap enemies, a Medicinal Specter that dispenses health to nearby allies, and finally, a devastating spectral Heavy Barrage that can reach even faraway enemies.",
+      "A talented engineer who started her career from a young age, Margaret \"Maggie\" McGinnis isn't fond of theoretical work, thus spending most of her time working in a mechanics shop, often meddling with the supernatural. While the ethics of brainstorming the occult war machine are grey at best, McGinnis isn't that fussed so long as she gets her paycheck."
+    ],
+    "sourceUrl": "https://deadlock.wiki/McGinnis?oldid=188752",
+    "revision": 188752,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 10,
+    "name": "Paradox",
+    "paragraphsAr": [
+      "بارادوكس تتلاعب بالوقت عشان تعطّل الأعداء وتبطئهم. بشحنة Kinetic Carbine تهدد الخصم من مختلف المسافات، وتضغط عليه بـPulse Grenade وTime Wall في المكان المناسب. وفي اللحظة الصح تستخدم Paradoxical Swap وتبدّل مكانها مع هدفها، فترميه وسط فريقها بموقف خطير.",
+      "بارادوكس اسم الشخصية واسم نقابة اللصوص اللي تنتمي لها. تخصصهم سرقة الأشياء اللي الناس تحسبها مستحيلة والاقتحام لأشد المنشآت تحصينًا. دوافعهم مبهمة، غير إن أعضاءهم واضح يستمتعون بإحراج أكبر شركات العالم وحكوماته."
+    ],
+    "originalParagraphs": [
+      "Paradox is a Hero in Deadlock . She wields time manipulation with potent disruption and slowing abilities. With a charged Kinetic Carbine , she can threaten her enemies at any range while damaging and slowing them with thrown Pulse Grenades and well-placed Time Walls . At just the right moment, Paradox can activate her Paradoxical Swap to change places with her target, dropping them into a dangerous situation amongst her team.",
+      "Paradox is both the name of this Hero and the name of their Thieves' Guild, specializing in stealing the untouchable and breaking into ultra-secure facilities. Their motives are unclear, except for a certain level of delight that its members seem to take in snubbing the world's biggest corporations and governments."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Paradox?oldid=192230",
+    "revision": 192230,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 11,
+    "name": "Dynamo",
+    "paragraphsAr": [
+      "البروفيسور داينمو شخصية ودودة وداعمة: يعالج زملاءه وينقلهم بعيد عن الخطر، أو يدخّلهم فيه، ويتحوّل إلى Singularity باللحظة المناسبة. لحظة تهوّر بخّرت جسمه، والحين يدور أمنية من الباترونز ترجع له شكله الجسدي.",
+      "يعتمد على ذكائه وقوته عشان يسند الفريق بالعلاج والنقل ورفع الخصوم بالهواء. وإذا جاء الوقت المناسب، يطلق Singularity اللي ممكن تقلب نتيجة الفايت بالكامل.",
+      "كان أستاذًا في Columbia College، لين غلبه غروره أثناء دراسة بوابة نجمية مع فريقه في نيويورك. اقترب من الظاهرة أكثر من اللازم، فدمّرت جسمه وحوّلته إلى هيئة نجم يحتضر. لكنه ما استسلم؛ روحه وفضوله بقوا، وحالته زادت رغبته بالمعرفة وبإيجاد مخرج من جسمه المعدني."
+    ],
+    "originalParagraphs": [
+      "Professor Dynamo is a supportive and friendly Hero that is glad to heal his allies, teleport them out of (or into) danger, and transform into a singularity at just the right time. A moment of carelessness vaporized the professor's body, so he now seeks a wish from the Patrons to recover his physical form.",
+      "He is a man of wit, using his brain and his brawn to provide support to his teammates by healing them , teleporting them , knocking his opponents into the air , and when the time is right, unleashing a Singularity which can drastically shift the tides of battle.",
+      "Once just a mere professor for Columbia College, his life would change after letting his ego get the best of him when he and his team of professors were studying an Astral Gate in New York. Dynamo ventured too close to the anomaly which obliterated his body and reduced it to that of a dying star. But that didn't stop him, because although his body may be gone, his spirit and curiosity live on, with his condition only further fueling his desire for knowledge and a way out of his metal body."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Dynamo?oldid=188747",
+    "revision": 188747,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 12,
+    "name": "Kelvin",
+    "paragraphsAr": [
+      "كلفن عالم عاد من الموت، يستخدم التجميد لإبطاء الأعداء وعلاج زملائه. يصنع Ice Path تحت رجوله للتنقّل الأسرع له ولفريقه، ويرمي Frost Grenade ويطلق Arctic Beam عشان يجهّز الأهداف لهجمات حلفائه. الاستخدام الصح لقبة Frozen Shelter يحمي ويعالج الفريق، وفي نفس الوقت ممكن يحبس خصومًا بداخلها.",
+      "بصفته عالمًا يحب الاستكشاف، تحمّس لإشاعات فتح بوابة نجمية ثامنة بالقطب الشمالي وجهّز بعثة للبحث عنها. لكن البعثة اختفت بالثلج، وبعد أكثر من سنة لقوا جسمه المتجمّد وهو ما زال يتحرك. كلفن ما يتذكر وش صار، ويدور إجابة عند الباترونز."
+    ],
+    "originalParagraphs": [
+      "Kelvin is a Hero in Deadlock . He is a dedicated, undead scientist with a bevy of freezing abilities to slow his enemies and heal allies. He can conjure an Ice Path under his feet for faster movement for himself and his team, throwing Frost Grenades and firing his Arctic Beam at nearby enemies to set them up for his companions' attacks. Tactical usage of his Frozen Shelter ice dome can protect and heal allies while trapping hapless opponents.",
+      "As an adventuring scientist, Kelvin was particularly excited for rumors of an 8th Astral Gate opening in the Arctic, developing an expedition to hunt for it. However, something went wrong with the expedition, vanishing into the snow and leaving Kelvin's frozen, animate body to be discovered over a year later. With no memory of the expedition, Kelvin seeks the Patrons for answers."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Kelvin?oldid=188779",
+    "revision": 188779,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 13,
+    "name": "Haze",
+    "paragraphsAr": [
+      "هيز قاتلة متخفية تنهي الأعداء المنفردين بسرعة. تركز على هدف واحد وتستخدم أدواتها ورشاشيها السريعين عشان تقتله. وبصفتها Sandman في منظمة OSIC، تقدر تدخل أحلام أهدافها وتفحص دوافعهم، لكن سبب مشاركتها في الطقس لسه مجهول.",
+      "هي عميلة سرية في قسم Sandman، وتتفوق باصطياد الخصم اللي بعيد عن مكانه الآمن بفضل Fixation. Smoke Bomb تخليها تتسلل له، وSleep Dagger تنوّمه قبل وابل النار من قريب. وإذا اشتد الموقف، تدخل Bullet Dance عشان تتفادى النيران المقابلة وتنهي الأهداف الباقية."
+    ],
+    "originalParagraphs": [
+      "Haze is a stealthy assassin Hero who eliminates solitary enemies swiftly. By fixating on single targets, she can use multiple tools and a pair of fast-firing SMGs to send them to a final rest. As a \"Sandman\" with the OSIC , Haze can infiltrate the dreams of her targets to scrutinize their motivations; though her motives around the Ritual are still unknown.",
+      "She works as a secret agent in the Sandman Division of OSIC , fighting as a devastating assassin character who excels in Fixating on foes that are out of position and swiftly ending them. Her Smoke Bomb lets her sneak up on enemies before knocking them out with a Sleep Dagger and unleashing a hail of gunfire at close range. In desperate situations, Haze can enter her Bullet Dance to avoid return fire while dispatching her remaining targets."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Haze?oldid=192321",
+    "revision": 192321,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 14,
+    "name": "Holliday",
+    "paragraphsAr": [
+      "هوليداي رامية دقيقة معها حبلها الموثوق. تستخدم البارود ومنصات القفز لتهيئة الفايت، ثم تعتمد على تصويبها بمسدس العائلة عشان تنهيه. كانت شريفة في بلدة بعيدة، والحين تطارد قاتلًا بشوارع المدينة ومستعدة تقبل مساعدة خارقة من أي شخص يقدر يوفرها.",
+      "بقدرة Crackshot تبطئ وتضر خصومها من بعيد، وتقدر تقذف Powder Keg باستخدام Bounce Pad أو ضربة ميلي. وإذا بغت تعزل هدفًا، تمسكه بـSpirit Lasso وتسحبه إلى نيران زملائها.",
+      "حفيدة حامل المسدس الأسطوري Doc Holliday كانت راضية بحياتها في بلدة صغيرة. تغيّر كل شيء لما بدأ موسيقي متنقل اسمه The Troubadour سلسلة جرائم مروعة. وصلت له وواجهته لكنه هرب؛ وبعد ستة شهور من التحقيق استنتجت إن هدفه القادم نيويورك. راحت هناك عازمة تقتله."
+    ],
+    "originalParagraphs": [
+      "Holliday is a crackshot Hero with deadly aim and a trusty lasso. Utilizing everything from gunpowder to bounce pads to set up a fight, she relies on her aim with her trusty heirloom revolver to finish the job. Once a sheriff on the outskirts of civilization, Holliday now hunts a killer on the streets of the Cursed Apple and she's willing to enlist the supernatural help of anyone that can offer it.",
+      "With a Crackshot of her pistol, she can slow and damage her foes from a distance before launching an explosive Powder Keg with her Bounce Pad or a melee attack. To isolate her foes, she can wrangle them with her Spirit Lasso and drag them into the attacks of her allies.",
+      "The granddaughter of the legendary gunslinger Doc Holliday was once a sheriff content with the small-town life. This would all change when a travelling musician known simply as \" The Troubadour \" began a gruesome killing spree; but when she tracked down and confronted him, he managed to flee. Intending to track him down, Holliday spent six months investigating and deduced that the killer's next target was New York. She's going to kill that evil son of a bitch."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Holliday?oldid=192323",
+    "revision": 192323,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 15,
+    "name": "Bebop",
+    "paragraphsAr": [
+      "بيبوب يعزل الأعداء ويلخبط صفوفهم بذراعه الممتدة اللي تسحب أي شخصية لعنده. هو غولم مؤدب ومحترم، يقاتل في نزالات دموية وفي الطقس عشان يلقى علاجًا لصانعته.",
+      "هذا الغولم المصنوع من الخردة عنده قلب كبير وذراع أكبر. مع دعم فريقه يصير تهديدًا قويًا: Grappling Arm تسحب العدو أو الزميل، تنقذ واحد أو تورّط الثاني. يلصق Sticky Bomb بالخصم ويرسله بالاتجاه اللي يبيه بـExploding Uppercut. واللي يبقى يواجه Hyper Beam، شعاع يقطع ساحة القتال وينهي الأهداف.",
+      "بيبوب هو الابن الآلي للأرملة Miss Shelly، عاملة ساحة الخردة. كانوا يشتغلون بالمعادن بالنهار ويسمعون جاز بالليل، لين مرضت. عشان يدفع ثمن دوائها دخل بيبوب النزالات الدموية في Bear Pit. صانعته ما كانت بترضى عن نشاطه غير القانوني، لكنه يعتقد إن اللي ما تعرفه ما يضرها."
+    ],
+    "originalParagraphs": [
+      "Bebop is an isolating and disruptive Hero with an extendable arm to pull any other hero to his side. A polite and proper golem, he fights in both bloodsport and in the Ritual to find a cure for his creator.",
+      "A scrap golem with a big heart and a bigger extendable arm, Bebop is a potent threat on the battlefield when supported by his team. His Grappling Arm can pull friends and enemies alike towards him, saving them from certain doom or guaranteeing it. Bebop can attach Sticky Bombs to nearby foes and launch them in any direction with a powerful Exploding Uppercut . For any foes left standing, Bebop's Hyper Beam can cut across the battlefield and finish them off.",
+      "The mechanical son of a widowed junkyard attendant, Bebop and Miss Shelly lived together at a junkyard, working with scrap metal by day and listening to jazz music by night. But once Miss Shelly fell ill, Bebop had to resort to participating in bloodsport at the Bear Pit to pay for her medicine. And while Bebop's creator wouldn't approve of his illicit activities, what she doesn't know can't hurt her."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Bebop?oldid=194476",
+    "revision": 194476,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 16,
+    "name": "Calico",
+    "paragraphsAr": [
+      "كاليكو قاتلة تتخفّى في الظلال وتجوب الشوارع بهيئة قطتها، قبل تفاجئ أعداءها بالمخالب والقنابل. كانت صائدة وحوش ثم صارت قاتلة مأجورة، وتشوف إن قتل واحد من الباترونز دعاية ممتازة لشغلها.",
+      "تتلبّس قطتها Ava وتستغل الظلام، وترمي Gloom Bomb وتضرب بـLeaping Slash عشان تضر الخصم وتعالج نفسها. وبـReturn to Shadows تختفي بعد الفايت أو ترجع تدخل لما العدو ما يتوقعها.",
+      "كاليكو مبسوطة إنها أخيرًا تكسب مبالغ تستاهل من اغتيال الناس. مهما كان قتل الوحوش مع Baxter Society عملًا نافعًا، مردوده المادي ببساطة ما كان يكفيها."
+    ],
+    "originalParagraphs": [
+      "Calico is a shadowy assassin Hero who stalks the streets in the form of her cat before ambushing foes with claw and bombs. A former monster hunter turned hired assassin, she has decided that killing one of the Patrons would be an excellent marketing opportunity.",
+      "Possessing her cat, Ava , Calico uses the shadows to her advantage to surprise her foes, slinging Gloom Bombs and attacking with a Leaping Slash for damage and healing. By Returning to the Shadows , she can turn any fight to her advantage, disappearing after a fight or engaging again when the enemy least expects her.",
+      "As a contract killer, Calico is glad to finally be earning significant money by assassinating other people. Despite the good that the Baxter Society did by slaying monsters, it simply didn't pay well enough for her."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Calico?oldid=194349",
+    "revision": 194349,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 17,
+    "name": "Grey Talon",
+    "paragraphsAr": [
+      "غراي تالون مقاتل روحاني بالقوس، يضغط على أعدائه بالسهام والقوى الروحية من بعيد. يحافظ على مسافته بالفخاخ والطيران القصير، ويرسل رفيقته البومة الروحية لإنهاء الأهداف قليلة الدم. هو صائد وحوش مشهور رجع من التقاعد عشان يلاحق قتلة عائلته، ويمكن يطلب مساعدة الباترونز.",
+      "يستعمل قوسه القوي مع الفخاخ والطيران السحري عشان يثبت أعداءه وينهيهم. يشحن Charged Shot لضربة قوية من بعيد، وبعدها يرسل Spirit Owl، بومته روهان، عشان يكمل عليهم.",
+      "ويسلي غراي تالون من مؤسسي Baxter Society لصيد الوحوش. تقاعد بعد أربعين سنة لخدمة عائلته الكبيرة، لين جاه خبر موت ابنه وزوجة ابنه وأحفاده بحريق منزل غامض. ومع ضيق الوقت الباقي من عمره، كرّسه لملاحقة اللي أشعلوا الحريق، وقوسه بيده."
+    ],
+    "originalParagraphs": [
+      "Grey Talon is a bow-wielding mystical Hero that harasses his enemies with arrows and spirit from long range. He uses traps and brief flight to maintain his distance, and sends his spirit companion owl to eliminate low-health opponents. A famed, long-serving monster hunter, Grey Talon finds himself pulled out of retirement to hunt down the killers of his family and perhaps enlist the Patrons to his aid.",
+      "He is a clever, long-range combatant that uses his powerful bow in combination with traps and mystical flight to pin down and destroy his foes. With the ability to charge his arrow shot for powerful effect, Grey Talon can harass his foes at a distance before launching his Spirit Owl , Rohan, to finish them off.",
+      "A founding member of the highly respected monster hunting organization The Baxter Society , Wesley Grey Talon happily retired after 40 years of service to support his extended family. He was living well until he was alerted that his son, daughter-in-law, and grandchildren had died in a mysterious house fire. With not much time left, he dedicated the remainder of his life towards hunting the perpetrators of the arson, bow in hand."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Grey_Talon?oldid=192320",
+    "revision": 192320,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 18,
+    "name": "Mo & Krill",
+    "paragraphsAr": [
+      "مو وكريل ثنائي معروف ومحترم في عالم الجريمة الأمريكي، يجمعان بين الحركة وتعطيل الخصم. Burrow يخليهما يتنقلان تحت الأرض ويطلعان فجأة على العدو، وإذا كان جاهزًا لهما، Sand Blast يعطّل سلاحه. Scorn يساعدهما يصمدان وسط المجموعة إلى أن تجي المساندة، والخصم اللي يتقدم زيادة ينمسك بـCombo ويصير عاجزًا عن الرد.",
+      "موريس وكريل من Tunnel Rats ومقرّبان من ريث، ويتاجران بالممنوعات ويتخذان أنفاق نيويورك بيتًا لهما. العصابات المنافسة اللي تحاول تستغل الأنفاق لمصلحتها تكتشف بالطريقة الصعبة قد إيش يحمي هالثنائي أرضه."
+    ],
+    "originalParagraphs": [
+      "Mo & Krill are Heroes in Deadlock . Highly respected members of America's underworld, together they are a disruptive and mobile pair that can Burrow around the battlefield and leave their enemies in ruins. Jumping out of ground let Mo & Krill catch their enemies unprepared, and if they are prepared then that will be rectified when Sand Blast jams their weapons. The duo is not concerned about being ambushed by a large group of people, as Scorn will force them to scatter or else risk the pair surviving long enough for backup to arrive. If some poor moron oversteps, Mo and Krill can Combo them to render them helpless.",
+      "Members of The Tunnel Rats and close associates of Wraith , Maurice and Krill are illicit traders who make the underground of New York their home. Rival gangs that try to exploit these tunnel systems for their own gain will painfully discover how protective this pair of smugglers can be."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Mo_%26_Krill?oldid=188755",
+    "revision": 188755,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 19,
+    "name": "Shiv",
+    "paragraphsAr": [
+      "شيف صائد وحوش يحاول يكفّر عن ماضيه، ويعتمد على الدخول والخروج واصطياد الأهداف المكشوفة. يستفيد من ارتداد الشوتقن للتنقّل واللحاق، ويرمي Serrated Knives عشان يسبب نزيف من بعيد، ثم يدخل بالوقت اللي يختاره بـSlice and Dice. استمرار الضرر يبني Rage ويقوّي قدراته، وBloodletting يساعده يتحمّل الإصابات، قبل ما ينهي الهدف المحتضر بـKilling Blow.",
+      "كان شيف مجرمًا، والحين يحاول يصلح أخطاءه بصيد الوحوش لحساب Baxter Society.",
+      "صدرت الشخصية يوم 15 أغسطس 2024."
+    ],
+    "originalParagraphs": [
+      "Shiv is a Hero in Deadlock . Seeking atonement for his past life, Shiv is a cutthroat monster hunter with a cause, conducting hit-and-run attacks and picking off vulnerable targets. Shiv can efficiently traverse the battlefield and catch up with his targets by making full use of his shotgun's recoil. Flinging Serrated Knives to bleed his foes from range, Shiv initiates close quarters combat on his terms by dashing to them while Slicing and Dicing through those standing in his way. By continuously dealing damage, Shiv builds Rage which enhances his abilities and allows him to be a one man army. Withstanding grievous damage via Bloodletting , Shiv finishes off dying targets with a devastating Killing Blow .",
+      "A former criminal, Shiv seeks to make up for his mistakes by hunting down monsters on behalf of The Baxter Society .",
+      "Shiv was released on August 15, 2024 ."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Shiv?oldid=192180",
+    "revision": 192180,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 20,
+    "name": "Ivy",
+    "paragraphsAr": [
+      "آيفي تمثال غارغويل صار حارسًا للناس، وعندها أدوات دعم وتعطيل قوية. تربط نفسها بزميل عبر Kudzu Connection لمشاركة العلاج والبفات، وتزرع Entangling Thorns وتتحول إلى Stone Form عشان تضر وتصعق وتعالج نفسها. وبالطيران تقدر تشيل زميلًا أو تصنع قنبلة وتنقلها لأي مكان، سواء Air Drop وسط الأعداء أو إنقاذ حليف من الخطر.",
+      "كانت آيفي تمثالًا بلا حياة، إلى أن استُدعيت لحماية بنت وعائلتها من عصابة Mendoza Syndicate. وعدت عائلة Arroyo بحمايتهم وبدأت تفكك العصابة بنفسها. بعد ثمانية عشر عامًا نجحت، والحين تبحث خارج Spanish Harlem عن هدف جديد تكرّس له حياتها."
+    ],
+    "originalParagraphs": [
+      "Ivy is a Hero in Deadlock . She is a gargoyle-turned-vigilante with potent supportive and disruptive abilities to assist her allies in combat. After setting up a Kudzu Connection with an ally to share healing and buffs, she can grow patches of Entangling Thorns and transform into her Stone Form to damage and stun the enemy while healing herself. With her abilities of flight, she can pick up any ally or create a bomb and fly them to any point on the battlefield, choosing to either explosively Air Drop them into the middle of the enemy battle group, or rescue an ally from danger.",
+      "Ivy's former life as an inanimate gargoyle ended abruptly when she was summoned to life to protect a girl and her family from The Mendoza Syndicate . Vowing to protect her new family, The Arroyos , Ivy began a vigilante mission to dismantle the Syndicate. After 18 years of work, she succeeded at defeating the organization, and now searches outside Spanish Harlem to find a new goal to dedicate her life to."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Ivy?oldid=188991",
+    "revision": 188991,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 25,
+    "name": "Warden",
+    "paragraphsAr": [
+      "واردن مقاتل صلب وعنيد، عنده عزيمة ما تنتهي وخبرة بالكيمياء الغيبية. يبدأ المواجهة بـBinding Word أو Alchemical Flask اللي يربك الخصم، ثم يدخل للقتال القريب مستعينًا بحماية Willpower. وإذا صار الوضع صعبًا يطلق Last Stand، يضر ويسحب حياة الأعداء الموجودين قدامه.",
+      "هو من سلالة كيميائيين مقاتلين، كانوا يتدربون لليوم اللي يوقفون فيه كارثة غيبية. مع السنين ضاع سبب التدريب، فوالداه ما كانوا مستعدين للمايلستروم الأول. ومع اقتراب الكارثة الجديدة، تدرب واردن من ولادته ليصير سلاحًا يمنع الباترونز من دخول عالمنا مهما كان الثمن."
+    ],
+    "originalParagraphs": [
+      "Warden is a Hero in Deadlock . He is a tough, tenacious brawler with endless determination and a technique for alchemy. Opening fights with either a Binding Word or a disrupting Alchemical Flask , Warden dashes into the fight to brawl at close range and utilizing his Willpower for protection and staying power. In desperate situations, Warden can trigger his Last Stand , damaging and stealing life from all foes in front of him.",
+      "The descendant of a long line of militant alchemists, Warden's ancestors once trained vigorously for the day they would have to stave off a mystic apocalypse. But as time passed, the meaning behind the training was lost, causing Warden's parents to be unprepared for the first maelstrom . With the apocalypse on the horizon, Warden was trained since birth, forged into a weapon built specifically towards stopping the Patrons from ever entering our world, no matter the cost."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Warden?oldid=162259",
+    "revision": 162259,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 27,
+    "name": "Yamato",
+    "paragraphsAr": [
+      "ياماتو قاتلة للقتال القريب تعتمد على ضربات دقيقة وسيف قوي. تستخدم Flying Strike وخطافها عشان تقرب، وتجمع الميلي مع Power Slash وCrimson Slash لإيذاء الأعداء وإبطائهم وتعطيلهم وعلاج نفسها. وإذا دخلت بكامل قوتها، Shadow Transformation يملؤها بروح ظل أخيها ويجعلها لفترة قصيرة صعبة الإيقاف وهي تنهي خصومها.",
+      "كاوري وأخوها كانا من قادة جريمة Seventh Moon، وجلبا لها المال والنفوذ. خلاف أثناء التوسع انتهى بموت أخيها وهروبها إلى الولايات المتحدة. سوء فهم بعد وصولها خلّاها تتخذ اسمه، ياماتو، وتعاهد نفسها تحقق حلمه بالانتشار الدولي."
+    ],
+    "originalParagraphs": [
+      "Yamato is a Hero in Deadlock . She is a close-range assassin using precise strikes and sword attacks to destroy her foes. Conducting a Flying Strike with her grapple to get close, Yamato unleashes her powerful melee attacks along with Power Slash and Crimson Slash attacks to damage, slow, and disable her enemies while healing herself. Once fully engaged, she can unleash her Shadow Transformation to become infused with her brother's shadow soul, becoming unstoppable for a short time while ending the life of her opponents.",
+      "Kaori and her brother were crime lords of the Seventh Moon , bringing in wealth and power to the organization. However, a dispute during expansion led to the death of Kaori's brother and her escape to the United States . A miscommunication once she arrived led to Kaori adopting her brother's name, Yamato, vowing to secure her brother's dream of international presence."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Yamato?oldid=188765",
+    "revision": 188765,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 31,
+    "name": "Lash",
+    "paragraphsAr": [
+      "جيكوب لاش واحد وقح، ومقاتل عنيف يحب يبدأ الفايت ويلاحق الهاربين. يقفز بخطاف Grapple، ويجلد الخصم بـFlog اللي يسحب له حياة، ثم يضرب الأرض بـGround Strike عشان يصيب أكثر من هدف. وإذا تجمع فريق العدو، يقدر يشيلهم مع بعض بـDeath Slam ويرميهم بالأرض.",
+      "لاش عامل تحميل بالميناء وغروره بحجم منطاد، لكن شهرته الأكبر جاية من كونه بطل نادي القتال السري Bear Pit."
+    ],
+    "originalParagraphs": [
+      "Jacob Lash is an asshole, and a Hero in Deadlock . The Lash is a brutal bruiser who eagerly initiates fights and chases down fleeing opponents. He leaps into combat with his Grappling hook , Flogging his foes with a life-stealing whip and stomping the ground with a Ground Strike that damages multiple targets. If the enemy team groups up, the Lash can pick them all up at once and Death Slam them into the ground.",
+      "A stevedore with ego the size of an airship, the Lash is more famous for his reputation as the champion of the underground fight club Bear Pit ."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Lash?oldid=192160",
+    "revision": 192160,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 35,
+    "name": "Viscous",
+    "paragraphsAr": [
+      "فيسكس أخضر اللون: شقائق نعمان بحرية بقوى نفسية داخل بدلة هلامية. يرمي Splatter عشان يغطي الأرض بالمادة الخضراء ويبطئ الضحايا، ثم يوجّه Puddle Punch ليبعد الأعداء عن فريقهم أو ينقذ زملاءه من الخصوم. وحتى لو مسكوه، اللي داخل The Cube محمي بالكامل. وبعدها تجي Goo Ball وتبدأ الفوضى.",
+      "هو كائن بحري طيب، ولو إنه طفولي، وموطنه في مثلث برمودا غزاه مفترس غامض وخطير يُعرف باسم Adversary. وصل للسطح بجسم من الهلام الطيفي، ويبغى يستدعي الباترونز عشان يحمون موطنه في الأعماق.",
+      "صدرت الشخصية يوم 1 أغسطس 2024."
+    ],
+    "originalParagraphs": [
+      "Viscous is a Hero in Deadlock . He's green.  A psychic sea anemone in a protoplasmic suit, Viscous can throw Splatter to cover the area in green goo which slows down his victims and leaves them vulnerable to Puddle Punches , which will knock his enemies away from their friends and his friends away from their enemies. Even if they manage to catch Viscous it doesn't matter, as anything inside The Cube is completely invulnerable. Soon Goo Ball comes, and walls painted green will be joined by echoes of screams.",
+      "Viscous is a kind, if not childish psychic sea anemone whose home in the Bermuda Triangle has been invaded by a mysterious, dangerous predator only known as the Adversary. He reached the surface in a body built from ectoplasmic goo; his mission to summon the Patrons to protect his home in the Deep.",
+      "Viscous was released on August 1, 2024 ."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Viscous?oldid=194493",
+    "revision": 194493,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 50,
+    "name": "Pocket",
+    "paragraphsAr": [
+      "بوكِت يقاتل في الطقس عشان يحصل فرصة يوقف أباه، ويفضّل المواجهة القريبة بشوتقنه القوي وقدراته السريعة. يفتح حقيبته السحرية ويطلق Barrage على مجموعات الأعداء بدفعات روحية. Flying Cloak تضر الأهداف وتنقله من خلفها عشان يفرّغ شوتقنه، وEnchanter’s Satchel تخليه يختفي داخل الحقيبة ويتفادى الرد. وإذا حاصروه يطلق Affliction اللي تأكل دمهم تدريجيًا وتجهّزهم لهجمة قوية.",
+      "أرين فيرفاكس هو الوريث الأكبر لثروة Fairfax Industries، لكنه متخفٍ من أكثر من خمس سنوات بعد محاولة اغتيال فاشلة. خوفه على حياته ورغبته يمشي بطريقه الخاص خلّته يخفي هويته باسم بوكِت، ويحقق في مين حاول يقتله."
+    ],
+    "originalParagraphs": [
+      "Pocket is a Hero in Deadlock . Having to fight in the Ritual for the chance to stop their father , Pocket prefers to fight up close thanks to their powerful shotgun and highly mobile abilities. Opening their magic briefcase to Barrage groups of enemies with spiritual bursts, Pocket may use their Flying Cloak to damage their targets and teleport past them to unload their shotgun; disappearing inside their Enchanter's Satchel to avoid return fire. When surrounded by enemies, Pocket can unleash an Affliction to slowly eat away at their health, setting their enemies up for a devastating attack.",
+      "The eldest heir to Fairfax Industries , Arin Fairfax has been in hiding for over 5 years after a failed assassination attempt. Fearing for their life and wishing to chart their own path, the newly nicknamed Pocket has been keeping their original identity secret while investigating who had tried to kill them."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Pocket?oldid=194441",
+    "revision": 194441,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 52,
+    "name": "Mirage",
+    "paragraphsAr": [
+      "ميراج خفيف الحركة ويعتمد على قدرات رياح قوية لتعطيل الخصم. يرمي Fire Scarabs ويتحول إلى Dust Devil عشان يضر الأهداف ويرفعها ويسرق حياتها ويفلت منها، بينما Djinn’s Mark تقوّي هجماته. ولما يجي الوقت المناسب، Traveler تنقله فورًا عبر الماب لمساعدة زملائه أو اصطياد خصم ضعيف أو متابعة هدف.",
+      "ميراج مبعوث وحارس دبلوماسي لسفيرة الجن ناشالا ديون. مهمته يحميها ويساعد مهمة الجن للحصول على ولاية وايومنغ.",
+      "صدرت الشخصية يوم 26 سبتمبر 2024."
+    ],
+    "originalParagraphs": [
+      "Mirage is a Hero in Deadlock . He is agile and uses powerful wind-based abilities for disruption. By throwing out Fire Scarabs and transforming into a Dust Devil , Mirage can damage, lift up, steal life and elude his targets while applying Djinn's Mark to enemies to enhance his attacks. When the time is right, he can Travel across the map in an instant to assist his allies, hunt down weak foes and take care of objectives.",
+      "As an emissary of the Djinn ambassador Nashala Dion , Mirage is a diplomatic bodyguard who is charged with protecting the Djinn while supporting their mission to acquire the state of Wyoming.",
+      "Mirage was released on September 26, 2024 ."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Mirage?oldid=189529",
+    "revision": 189529,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 58,
+    "name": "Vyper",
+    "paragraphsAr": [
+      "فايبر تنزلق بسرعة عبر ساحة القتال بـSlither عشان تتفادى الهجمات وتمطر أعداءها بالرصاص. Lethal Venom يحقن الهاربين بسم ينهيهم، وScrewjab Dagger يصيب الأهداف البعيدة، أما Petrifying Bolas فتضمن إن الهدف ما يهرب بسهولة.",
+      "فايبر خارجة عن القانون ومندفعة، تدخل السجن قد ما تهرب منه. وصنعت لنفسها سمعة بين حلفاء وأعداء من عالم الجريمة في منطقة الولايات الثلاث حول نيوجيرسي.",
+      "دخلت الشخصية Hero Labs يوم 24 أكتوبر 2024, وصدرت رسميًا يوم 17 يناير 2025."
+    ],
+    "originalParagraphs": [
+      "Vyper is a Hero in Deadlock . After Slithering across the battlefield to swiftly avoid enemy attacks while spraying them with copious amount of bullets, Vyper can inject retreating foes with Lethal Venom to finish them off and use her Screwjab Dagger to hit faraway targets. By slinging her Petrifying Bolas , Vyper will make sure that her targets won't get away from her.",
+      "Vyper is an impulsive outlaw that gets thrown in jail as many times as she escapes it, building a reputation among a number of criminal allies and enemies across the New Jersey Tri-State Area .",
+      "Vyper was added to Hero Labs as \"Viper\" on October 24, 2024 , and officially released on January 17, 2025 ."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Vyper?oldid=197650",
+    "revision": 197650,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 60,
+    "name": "Sinclair",
+    "paragraphsAr": [
+      "سنكلير يستخدم عصاه السحرية لإطلاق Vexing Bolt ومفاجأة الأعداء، ويحوّلهم إلى أرانب. Spectral Assistant يضاعف ضغطه ويعطيه طريق هروب سريع، وحتى قدرات أعدائه يقدر يقلبها عليهم بحيلته الأخيرة Audience Participation.",
+      "هنري وسافانا كانا ساحري مسرح شابين ومتحابين، وربطا روحيهما ببعض للأبد. لكن علاقتهما تضررت بعد حادث مسرحي مأساوي أخذ حياتهما معًا. الحين يجتمعان تحت اسم سنكلير ويدوران طريقة ينفصلان ويجدان راحتهما في الآخرة.",
+      "دخلت الشخصية Hero Labs يوم 24 أكتوبر 2024, وصدرت رسميًا يوم 17 يناير 2025."
+    ],
+    "originalParagraphs": [
+      "Sinclair is a Hero in Deadlock . With their trusty magic wand, they can shoot Vexing Bolts to surprise enemies and use magic to turn them into Rabbits . The Spectral Assistant amplifies their damage and can serve as a fast escape route. Sinclair can even turn their enemies' abilities against themselves with their surprising final trick, Audience Participation .",
+      "Henry and Savannah were two young stage magicians in love, who bound their souls to each other for eternity. However, their relationship was strained after a tragic on-stage accident claimed both of their lives. Now, under the shared title of Sinclair, they seek a way to be separated and find peace in the afterlife.",
+      "Sinclair was added to Hero Labs (as Magician ) on October 24, 2024 , and officially released on January 17, 2025 (as THE MAGNIFICENT SINCLAIR )."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Sinclair?oldid=184511",
+    "revision": 184511,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 63,
+    "name": "Mina",
+    "paragraphsAr": [
+      "مينا ضررها قوي لكن تحمّلها ضعيف؛ تضرب بمظلتها وتسبب دفعات ضرر سبيرت من بعيد عبر Love Bites. وإذا زاد الخطر تتحول إلى خفافيش وتهرب. كل تفعيل لـLove Bites يقوّي قدراتها كمصاصة دماء، إلى أن تطلق Nox Nostra: سربًا ضخمًا يلاحق الأعداء القريبين ويسكتهم.",
+      "مينا ها بنت غنية وطموحة، كانت مخطوبة للوريث الأكبر لثروة Fairfax Industries، لكنه اغتيل قبل الزواج. والداها استأجرا مصاص دماء عشان يحوّلها ويعطيها حياة أبدية. وبين تعلّم قواها الجديدة والدخول لمجتمع مصاصي الدماء الراقي، صار طموحها تكون الفيكونت القادم لنيويورك.",
+      "صدرت الشخصية يوم 18 أغسطس 2025."
+    ],
+    "originalParagraphs": [
+      "Mina is a Hero in Deadlock ; a glass cannon that rakes enemies with her umbrella and delivers quick bursts of Spirit damage at range with her passive, Love Bites . She can transform into bats and escape when things get a bit too messy. Each time she triggers Love Bites, her vampiric powers grow stronger. This builds toward her ultimate, Nox Nostra , which unleashes a massive swarm of bats that hunt down and silence nearby enemies.",
+      "Mina Ha was an ambitious and rich girl betrothed to American royalty, the eldest heir to the Fairfax Industries fortune. However, her hopes were dashed when her spouse-to-be was assassinated prior to the wedding. Her parents, seeking only the best for their daughter, contracted a vampire to turn Mina into a vampire and grant her eternal life. Now learning her new powers and navigating vampire high society, Mina's ambitious eye is set on becoming the next Viscount of New York.",
+      "Mina was released on August 18, 2025 as the first hero in the Six New Heroes update."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Mina?oldid=188753",
+    "revision": 188753,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 64,
+    "name": "Drifter",
+    "paragraphsAr": [
+      "دريفتر شخصية متعطشة للدم تجوب شوارع المدينة، تتبع ضحاياها من ريحتهم وتعلّم عليهم وتمزّق الأهداف المنعزلة وسط ليل أبدي. هو مصاص دماء قديم يحتقر قوانين مصاصي الدماء التقليدية، ويشوف الطقس مجرد ساحة جديدة لشغله الدموي.",
+      "وصل رعب قديم إلى نيويورك ما له اسم غير دريفتر. إذا حط عينه على ضحية، Bloodscent يقوده لها مهما حاولت تهرب؛ وحتى لو ابتعدت، Stalker’s Mark يخليه يظهر خلفها قبل الانقضاض بـRend. وإذا حلّ Eternal Night، ما عاد يبقى من الهدوء إلا صفير خافت تختلط معه الصرخات."
+    ],
+    "originalParagraphs": [
+      "Drifter is a bloodythirsty Hero that stalks the streets of The Cursed Apple . He can hunt his victims with bloodscent alone, marking and rending isolated targets to pieces in an eternal night. As an ancient vampire with a contempt of traditional vampiric law, Drifter is eager to join the Ritual only as another battleground on which to conduct his bloody work.",
+      "Something ancient has arrived in New York... a nameless horror known only as the Drifter. Relentless as time, as certain as death, once Drifter sets his eyes on a victim there's nothing they can do to stop him. They can try to run, but his Bloodscent drives him forward, leading him to isolated prey. Even if they manage to escape it doesn't matter, as Stalker's Mark allows Drifter to appear right behind his enemies before lunging in for the kill with a vicious Rend . Soon Eternal Night comes, and a faint whistling in the breeze will be joined by a chorus of screams."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Drifter?oldid=189508",
+    "revision": 189508,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 65,
+    "name": "Venator",
+    "paragraphsAr": [
+      "فيناتور ما يمشي بطريق الصلاح بس؛ يفتح الطريق لغيره. يرمي Consecrating Grenade عشان يضعف العدو ويمنع استعادة صحته، وينشر Hex-Lined Snap Trap لتثبيته. Gutshot من الشوتقن يبعد اللي يقرب زيادة، وبالوقت المناسب يطلق Ira Domini للقضاء على الشر.",
+      "الأب كوين رورك صائد وحوش ما يهدأ، ويمثّل غضب جماعة Venators of Saint Benedict. أرسله رؤساؤه من الفاتيكان بمهمة واضحة: يمحي الشر اللي بدأ يتحرك في نيويورك.",
+      "صدرت الشخصية يوم 5 فبراير 2026."
+    ],
+    "originalParagraphs": [
+      "Venator is a Hero in Deadlock . He doesn't walk the righteous path, he blazes the trail so that others may do so safely. His biggest challenge is knowing which weapon to use first. Firing a Consecrating Grenade into the fray softens up his enemies and keeps them from restoring health, and his Hex-Lined Snap Trap scatters across the ground to lock them in place. A Gutshot from his shotgun will knock back enemies who get too close, and when the time is right, Ira Domini will rid the world of evil once and for all.",
+      "A relentless monster hunter, Father Quinn Rourke represents the righteous wrath and fury of the Venators of Saint Benedict. Sent by his superiors at the Vatican, the Venator has been designated a mission: to annihilate the evil stirring in New York.",
+      "Venator was released on February 5, 2026 as the fourth winner of the Old Gods, New Blood update contest."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Venator?oldid=193144",
+    "revision": 193144,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 66,
+    "name": "Victor",
+    "paragraphsAr": [
+      "فيكتور واقف على الحد بين الحياة والموت، وتعلّم يستغل الألم. يصعق نفسه بـJumpstart عشان يرفع الأدرينالين ويشغّل قلبه المتعطل، ويستقبل الضرر بذراعيه المختلفتين ويخزنه في Pain Battery عشان يذيق خصمه منه. اللي يقرب يعلق في Aura of Suffering، وحتى لو حسبته مات، يقدر يجمع نفسه ويرجع يعيش.",
+      "صحا فيكتور على طاولة مشرحة بلا أي ذكريات. كل اللي يبيه يعرف مين صنعه، ومن أصحاب الأجزاء اللي تركّب منها.",
+      "صدرت الشخصية يوم 29 أغسطس 2025."
+    ],
+    "originalParagraphs": [
+      "Victor is a Hero in Deadlock who walks the line between life and death. Victor has learned to harness pain, shocking himself with Jumpstart to get his adrenaline rushing and his faulty heart pumping. He welcomes incoming damage with open (albeit mismatched) arms, channeling it into his Pain Battery and granting enemies a taste of the pain he endures. Get too close and risk getting caught in his Aura of Suffering , but hey, at least you'll be suffering together. And just when you think you've taken him down, he'll piece himself back together and live again!",
+      "After waking up on a mortuary table with no memories, Victor wants nothing more than to find out who made him and from whom he is made of.",
+      "Victor was released on August 29, 2025 as the final hero of the Six New Heroes update."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Victor?oldid=194494",
+    "revision": 194494,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 67,
+    "name": "Paige",
+    "paragraphsAr": [
+      "بيج تخلّي أهل مانهاتن يعرفون قوة الكلمة المكتوبة. ترمي كتابًا وتستدعي Bookwyrm يحرق اللي يقرب، أو تثبت الأعداء بـCaptivating Read. حلفاؤها المرهقون يستقوون بـPlot Armor، وبـRallying Charge يتحول الخيال لحقيقة وتستدعي فرسانًا يندفعون عبر المدينة.",
+      "كبرت بيج في بيت مليان كتب ومحبة ولطف، لكنها كانت على خلاف مع أخيها الأصغر المتمرد برايس. انجذب للسحر الغيبي الخطير واختفى يومًا وهي بعيدة. الحين، بعدما صارت ساحرة كتب موهوبة، تدور إجابة عن اختفائه وما راح توقف لين تلقاها.",
+      "صدرت الشخصية يوم 25 أغسطس 2025."
+    ],
+    "originalParagraphs": [
+      "Paige is a Hero in Deadlock . Citizens of Manhattan will learn to appreciate the power of the written word when Paige joins the fight. With the mere toss of a book she can conjure a Bookwyrm that sears enemies who get too close, or bind them to the ground with Captivating Read . Waning allies will find themselves emboldened by Plot Armor , granting them the courage to fight another day. Fantasy becomes reality with Rallying Charge , summoning an entire cavalry to gallop across the city.",
+      "Paige grew up with books, love, and kindness in her family home; but she was at odds with her rebellious younger brother, Bryce. He sought out dangerous occult magics, disappearing one day while Paige's normally-watchful eye was away. Now a talented bibliomancer, Paige seeks answers about her brother's disappearance and will stop at nothing to find them.",
+      "Paige was released on August 25, 2025 as the fourth hero of the Six New Heroes update (third winner of hero vote)."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Paige?oldid=188756",
+    "revision": 188756,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 69,
+    "name": "The Doorman",
+    "paragraphsAr": [
+      "الدورمان شخصية مهذبة ولبقة بقوة أشبه بالإله، يصنع أبوابًا تربط شوارع المدينة ببعض ويرسل أعداءه لبُعد مخيف داخل فندقه المفضل. يصف نفسه بأنه إله في بداياته، وجاء يراقب البشر، ويمكن يزور بعض أصدقائه القدامى.",
+      "بواب فندق Baroness المتواضع أكثر بكثير من شكله. Call Bell يربك الأعداء القريبين، وLuggage Cart السريعة تطيحهم. ولو ضعت بشوارع مانهاتن، Doorway يفتح لك اختصارًا؛ أما الأعداء المميزون فيحصلون على رحلة ما تنسى إلى The Baroness Hotel.",
+      "هذا الكائن الكوني المعروف كان ناوي يزور عالمنا لبضعة أسابيع فقط. وبعد ما ملّ القتل والتعذيب العبثي، قرر يبقى بوابًا بسيطًا في قطاع الخدمات بنيويورك، ويواصل مراقبة سلوك البشر الغريب."
+    ],
+    "originalParagraphs": [
+      "The Doorman is a proper, polite, godlike Hero that conjures connected portal doorways in the streets and sends his enemies to a frightful pocket dimension of his favorite hotel. As a \"fledgling god\", The Doorman is here to merely observe humanity; though perhaps a visit with his old friends is in order.",
+      "He's proper, he's polite, but the humble Doorman of The Baroness Hotel is more than meets the eye. A brisk ring of his Call Bell leaves nearby enemies disoriented, and his high-speed Luggage Cart knocks them right off their feet. Do you find yourself getting lost easily in the streets of Manhattan? Don't worry, The Doorman is here to provide a shortcut with his Doorway whenever the need arises. And only the most special of enemies get to experience the trip of a lifetime to The Baroness Hotel .",
+      "A self-described \"Fledgling God\" and a cosmic being of some repute, the Doorman planned to experience this plane for only a few weeks. After growing bored of wanton murder and torment, he since decided to remain as a simple doorman within the New York service industry to continue observing humanity's curious behavior."
+    ],
+    "sourceUrl": "https://deadlock.wiki/The_Doorman?oldid=188745",
+    "revision": 188745,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 72,
+    "name": "Billy",
+    "paragraphsAr": [
+      "بيلي شخصية غاضبة وفوضوية، يحمل مضربًا كبيرًا مسمّرًا وله رأس ماعز بقرون. غضبه موجه لأي شيء وكل شيء، ويقاتل ضد السلطة، ويمكن من أجل تغيير إيجابي، لكنه دائمًا يدفع ضرائبه.",
+      "هو مقاتل خط أمامي مشتعل بالغضب وما يتراجع عن التحدي. Rising Ram يقربه من خصمه، وBashdown يضرب الأرض بموجة تصيب الأعداء. الهرب ما يفيد كثير مع Chain Gang اللي يربطهم ويسحبهم له؛ ورشفة من قنينته تخليه Blasted وتخلّي خصومه يتورطون أكثر.",
+      "صدرت الشخصية يوم 20 أغسطس 2025."
+    ],
+    "originalParagraphs": [
+      "Billy is a furious and chaotic Hero with a big spiked bat, a horned goat's head, and an overflow of fury at everything and anything. He fights against \"The Man\" and may even fight for positive change in the world; but he always pays his taxes.",
+      "A white hot ball of rage, furious at the very notion of... something. Billy is a chaotic front-liner who never backs down from a challenge. With Rising Ram he gets up close and personal, before slamming down with Bashdown to create shockwaves through his enemies. Running isn't even an option when Billy can use his ultimate Chain Gang to grapple enemies and pull them back in. A quick swig from his bottle gets him Blasted , and his enemies totally wrecked.",
+      "Billy was released on August 20, 2025 as the second hero of the Six New Heroes update (first winner of hero vote)."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Billy?oldid=194408",
+    "revision": 194408,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 76,
+    "name": "Graves",
+    "paragraphsAr": [
+      "غريفز تستدعي الموتى وتسحب جوهر الحياة في المعركة. تجمع بين الغيلان والرؤوس الميتة المتحركة والشقوق الروحية، وتسرق قوة الأعداء أحياءً وأمواتًا. ومن يوم نبشت يد ليتش مدفونة في Van Cortlandt Park، لقت أفضل معلّم لفن استحضار الموتى ممكن تتمناه.",
+      "الموتى كثرت طلباتهم، وغريفز عندها الجرأة تلبيها. يد الليتش المقطوعة صارت حليفًا قيّمًا تتعلق بواسطته بالأعداء وتسرق قوتهم. Jar of Dead يجمع بقايا الموتى ويرميها على الخصوم ليعطي أرواحهم فرصة أخيرة للانتقام؛ وGrasping Hands يشق الأرض فتطلع أيادٍ تمسك كواحل الأعداء. وإذا ما كفى كل هذا، Borrowed Decree يستدعي الموتى للقتال بجانبها."
+    ],
+    "originalParagraphs": [
+      "Graves is a summoning, deathly Hero with a talent for siphoning life essence on the battlefield. She summons vicious ghouls, mobile deadheads, and spirit rifts as she fights, stealing the power of her enemies both dead and alive. After unearthing a lich hand buried in Van Cortlandt Park, Darcy Graves found the best necromancy teacher that she could ask for.",
+      "The dead have been making a whole lot of demands lately, and only Graves has the courage to oblige. That severed lich hand she found in the cemetery has proven itself a valuable ally, allowing her to latch onto her enemies and steal their power for herself. Her curiosities about the passage of life are further put to use with Jar of Dead , collecting the remains of the fallen, shaking them up, and throwing them back at her enemies to grant those remorseful spirits a final shot at revenge. With Grasping Hands she strikes a deep crack in the earth, allowing those down below to grab onto enemies' ankles and stop them from escaping her reach. And when all else fails, a Borrowed Decree will summon the dead to fight alongside her."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Graves?oldid=192319",
+    "revision": 192319,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 77,
+    "name": "Apollo",
+    "paragraphsAr": [
+      "أبولو مبارز سريع الحركة، يدخل على الأهداف المنعزلة بضربات دقيقة. هو أمير شاب من إكسيا، ويشارك بالطقس عشان يثبت مهارته ويشرّف اسم عائلته.",
+      "يبدأ اقترابه بـFlawless Advance، ويضبط توقيت ضرباته لزيادة الضرر. يصد الهجمات بحركة من سيفه ويرد بسرعة بـRiposte، ويستخدم Disengaging Sigil للقفز بعيدًا عن الفايت. وفي ضربته الأخيرة يلبس قناع المبارزة ويستحضر قوة إكسيا عبر Itani Lo Sahn.",
+      "جاء أمير إكسيا من أرض جمال وتقاليد وصراعات. العنف السياسي مو غريب هناك، لكن يوم أرسلوه لنيويورك لحمايته عرف إن الوضع خطير. الحين يتدرب كمبارز بارع في Blackmore Academy، ويعرف إنهم بيستدعونه يومًا لوطنه؛ ولما يرجع، بيثبت إنه يستحق حمل سيف عائلته الموروث.",
+      "صدرت الشخصية يوم 12 فبراير 2026."
+    ],
+    "originalParagraphs": [
+      "Apollo is a high-mobility fencer Hero who engages isolated targets with precision strikes. As a young prince of Ixia , he fights in the Ritual to prove his skill and honor his family name.",
+      "With Flawless Advance the fencer begins his approach, timing his strikes perfectly to inflict more damage. Counter-attacks aren't a concern for Apollo, as a flourish of his blade deflects the damage and triggers a quick Riposte , and Disengaging Sigil allows him to jump out of the fray with ease. For his final blow, Apollo dons his fencer's mask and channels Ixia 's might with Itani Lo Sahn , leaving enemies defeated in his wake.",
+      "As the prince of Ixia , Apollo comes from a land of beauty, tradition and conflict. Political violence was common in Ixia, but when Apollo was sent to New York for his own safety, he knew the situation was serious. Now a highly skilled fencer at Blackmore Academy , Apollo knows that in due time, he will be called back to Ixia... and when he returns, he will show why he's worthy to wield his family's ancestral blade.",
+      "Apollo was released on February 12, 2026 as the last hero of the Old Gods, New Blood update."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Apollo?oldid=197379",
+    "revision": 197379,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 78,
+    "name": "Deadman Danny",
+    "paragraphsAr": [
+      "ديدمان داني جريء وانفجاري، معه قاذف صواريخ وحقيبة طيران صاروخية وقدرات إضافية تفجّر خصومه. بحقيبة الصواريخ المثبتة فيه بشكل دائم، يتحمس لإبهار أي عميل محتمل لشركة Fairfax Industries.",
+      "تقدّم Fairfax موظف المبيعات الأثمن عندها: ديدمان داني. يطير فوق شوارع نيويورك بنظام Chimera Mk1، ويمطر الأعداء بـStrix Salvo ويعلّم عليهم لهجمات لاحقة. Jettison Fuel يطرد الحرارة من النظام ويغمر الأعداء القريبين بالنار، لكن عرضه الأهم هو Close the Deal: تجربة عملية متفجرة تقنع العملاء بكل اللي تقدمه Fairfax.",
+      "صدرت الشخصية يوم 13 أكتوبر 2026."
+    ],
+    "originalParagraphs": [
+      "Deadman Danny is a daring and explosive Hero with a rocket launcher, a rocket jetpack, and a series of additional rocket skills to blow his opponents away. With only the most powerful of permanently-attached rocket packs, Danny is excited to surprise and amaze all potential Fairfax Industries customers.",
+      "Today, Fairfax Industries is proud to introduce their most valuable salesman: Deadman Danny. Wielding a rocket launcher and flying high above the streets of New York (courtesy of the Chimera Mk1 - the latest and greatest in self-adhered aviation technology), Danny rains his Strix Salvo missiles down upon foes, marking them for future attacks. Jettison Fuel is a handy trick that both expels heat from the Chimera System, while also dousing nearby enemies in the warm embrace of a firey inferno. Yet his most impressive tactic has always been his ability to Close the Deal , wowing prospective customers with an explosive hands-on demonstration of all that Fairfax has to offer.",
+      "Deadman Danny was released on October 13, 2026 as the fourth winner of the hero vote in the City Never Sleeps update."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Deadman_Danny?oldid=194538",
+    "revision": 194538,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 79,
+    "name": "Rem",
+    "paragraphsAr": [
+      "ريم وصل بالغلط من عالم الأحلام وعلق في المدينة اللي ما تنام. يحب يحل مشاكله بمعارك المخدات، فيرمي مخدته المفضلة ويدفع الخصم إذا قرب زيادة. أما أصدقاءه فيحبهم قريبين، يقفز لمساعدتهم وينام شوي على أكتافهم. Lil Helpers يستكشفون نيويورك بفضول ويشجعون حلفاءه؛ وإذا جاء Naptime ما عاد أحد يقدر يفتح عيونه.",
+      "ريم طفل نعسان من عالم الأحلام، علق هو ومساعدوه الصغار في نيويورك. يفتش أحياءها الخمسة عن طريق للبيت، ويبغى يستدعي الباترونز عشان يرجع لعائلته.",
+      "صدرت الشخصية يوم 26 يناير 2026."
+    ],
+    "originalParagraphs": [
+      "Rem is a Hero in Deadlock . An accidental stowaway from the world of dreams, Rem has found himself stranded in the city that never sleeps. Pillow fights are Rem's preferred form of conflict, tossing his favorite pillow at enemies to knock them back when they're getting too close. His friends, however, he likes to keep nearby - leaping to their aid when things get dicey and taking a quick nap on their shoulder. His Lil Helpers are curious creatures, taking interest in everything the streets of New York have to offer, and cheering on his allies as they go. Ultimately when Naptime hits, no one will be able to keep their eyes open.",
+      "A sleepy child from a world of dreams, Rem and his little helpers found themselves stranded in New York. Searching the five boroughs for a way home, Rem seeks to summon the Patrons so he can finally return to his family.",
+      "Rem was released on January 26, 2026 as the first winner of the Old Gods, New Blood update contest."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Rem?oldid=187309",
+    "revision": 187309,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 80,
+    "name": "Silver",
+    "paragraphsAr": [
+      "سيلفر تصطاد المجرمين عشان تعيش، لكن اليوم تخطط مستذئبة نيويورك لاستدعاء إله. خبرتها كصائدة جوائز جهّزتها للطقس: تمسك العدو بـEntangling Bola، وتضربه بـBoot Kick، وتنهيه بـSlam Fire من بندقيتها. وفي النهاية Lycan Curse تفرض نفسها سواء رضت أو لا، والخصم القريب بيندم إذا تحولت.",
+      "ليلا سيلفر مستذئبة من أقدم ما تتذكر، وتؤكد إن حالتها تحت السيطرة. رغم نجاحها كصائدة جوائز، تعاني يوميًا من مشاكل الشرب والتدخين والمال وعلاقاتها، وتطلب مساعدة الباترون عشان تبدأ تعيش بشكل أفضل.",
+      "سيلفر تتميز بمجموعتين مختلفتين من القدرات: مجموعة لهيئتها البشرية والثانية لهيئة المستذئبة. تتبدل تلقائيًا لما يحوّلها Lycan Curse.",
+      "صدرت الشخصية يوم 2 فبراير 2026."
+    ],
+    "originalParagraphs": [
+      "Silver is a Hero in Deadlock , making her living tracking down lowlifes, but today New York’s misanthrope lycanthrope plans on summoning a god. Fortunately, her career as a bounty hunter has prepared her well for all that the ritual requires. She makes quick work of adversaries by catching them with her Entangling Bola , Boot Kicking them in the face, and finishing them off with a Slam Fire from her rifle. But inevitably, the Lycan Curse comes calling whether she likes it or not, and her foes will regret being too close when it does.",
+      "Lilah Silver has been a werewolf for as long as she can remember, insisting that she has her Lycanthropy under control. Despite her successes as a bounty hunter, Silver struggles with alcohol, smoking, financial, and personal troubles on a daily basis, driving her to seek the Patron 's help to \"thrive\".",
+      "Silver is unique among heroes in having two distinct sets of abilities—one for her human form and one for her werewolf form—which automatically swap when her Lycan Curse transforms her.",
+      "Silver was released on February 2, 2026 as the third winner of the Old Gods, New Blood update contest."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Silver?oldid=188767",
+    "revision": 188767,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 81,
+    "name": "Celeste",
+    "paragraphsAr": [
+      "سيليست شخصية مبهرة تعطل الخصم، تطفو فوق المعركة وتلقي قدراتها باستعراض لامع. تشارك في الطقس لإنقاذ روح زميلها في السيرك، وتحاول تخفي هويتها الحقيقية كوحيدة قرن عن الصيادين.",
+      "نجمة Coney Island تبدأ عرضها بـLight Eater؛ تنفخ أمامها وهي تضيء بعصاها لتغطي الأعداء وتزيد الضرر عليهم. بعدها Dazzling Trick يحيطها بدرع ينفجر ويسكت القريبين إذا كسروه. لا تنشغل بطيرانها أو رقص Radiant Daggers، لأنها بتمطرك من فوق. أما Shining Wonder فهو ختام العرض اللي يبهر الحلفاء ويؤلم الأعداء.",
+      "القرن على رأسها مو قطعة ملصوقة؛ سيليست فعلًا وحيدة قرن. الناس يحسبون هالكائنات أسطورة، وهي تخفي حقيقتها خوفًا من قتلها لأجل قرنها. لكن لما خسر واحد من عائلتها المختارة في السيرك جزءًا من روحه بدين قمار، صارت مستعدة تكشف نفسها إذا كان هذا ينقذ أهلها."
+    ],
+    "originalParagraphs": [
+      "Celeste is a dazzling and disruptive Hero , drifting above the battlefield and tossing her abilities with a shining wonder. She fights in the Ritual to save the soul of her fellow carnie, hoping to keep her true identity as a Unicorn secret from the poachers of the Cursed Apple .",
+      "It's not every day that Coney Island's biggest star, The Dazzling Celeste, performs on the streets of Manhattan. Her show begins with Light Eater , where a deep breath lit by her blazing baton coats enemies in front of her, and grants increased damage against them. Following that up, she envelops herself in the prismatic shield of her Dazzling Trick , which explodes and silences nearby enemies who break it. Try not to get distracted by her gliding gracefully through the air, or by the dance of her Radiant Daggers , as you'll regret being underneath them when they rain down from above. As for her memorable final act, the Shining Wonder will make her allies go OOH and her foes go AGGHHH!",
+      "A popular attraction at Coney Island, \"The dazzling Celeste\" isn't a carnie with a horn glued to her head: she's actually a unicorn. As unicorns are nothing more than a myth in the eyes of the public, Celeste hides her true identity out of fear of getting poached for her horn. However, when one of her found family members on the sideshow loses part of their soul in a gambling debt, Celeste is prepared to risk revealing her identity if it means helping her family."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Celeste?oldid=188743",
+    "revision": 188743,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 84,
+    "name": "Rat King",
+    "paragraphsAr": [
+      "ملك الجرذان طلع من المجاري للشوارع عشان يثبت حكمه. Scrap Grenade ترتد على طول Broadway، وSwarm of Rats تعض كعوب الأعداء. يلبس Royal Pestments ويتحمّل النيران وهو يقود الهجوم، وراية Banner of Ratannia تلهم أتباعه وسط المعركة وتخلي خصومه يندمون على محاولة إسقاطه.",
+      "لويس، حاكم جحور نيويورك، عنده خطة يحول Long Island إلى جنة للجرذان. وعشان ما يترك شيئًا للحظ، يبغى يستدعي الباترونز ويضمن فرصته.",
+      "صدرت الشخصية يوم 2 أكتوبر 2026."
+    ],
+    "originalParagraphs": [
+      "Rat King is a Hero in Deadlock . Out of the sewers and into the streets, the rightful King of the Rats is here at last. Rodent-hating citizens of Manhattan won't be prepared to see his Scrap Grenade bouncing down Broadway, nor for his Swarm of Rats biting at their heels. By donning his Royal Pestments , the Rat King shakes off incoming damage, allowing him to bravely lead the charge into battle. His loyal subjects will feel awed and inspired when they see the great Banner of Ratannia waving in the middle of combat, and those who oppose him will rue the day they ever thought they could overthrow the king.",
+      "Ruler of the New York Warrens, Louis  has a plan to make Long Island a rat utopia. Wanting to not take any chances, he seeks to summon the patrons to hedge his bets.",
+      "Rat King was released on October 2, 2026 as the first winner of the hero vote in the City Never Sleeps update."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Rat_King?oldid=197668",
+    "revision": 197668,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 85,
+    "name": "Solomon",
+    "paragraphsAr": [
+      "سولومون منطقي ويحب السيطرة، ويتعامل مع ساحة المعركة كأنها رقعة شطرنج. يحرّك الفيلة والأحصنة والقلاع حول الفايت قبل ما ينزل الملكة ويحسم بكش مات.",
+      "يبقى هادئًا قدام أي متحدٍ جديد، ولما تناديه الباترونز يشوف المدينة كرقعة كبيرة. Setup Bishop ينشر وحدات الضرر ويحرّكها بالشوارع، وKingside Knight يحمي الحلفاء ويساعد الانسحاب التكتيكي، وRook Battery يندفع بقوة ويوقف الخصوم. وأخيرًا Develop Queen يقفل عليهم المواجهة.",
+      "صدرت الشخصية يوم 9 أكتوبر 2026."
+    ],
+    "originalParagraphs": [
+      "Solomon is a Hero in Deadlock . He is logical, controlling, and treats the battlefield like a chessboard. He navigates his bishops, knights, and rooks around a fight before dropping the Queen in an ultimate checkmate.",
+      "Solomon remains calm and collected when facing a new challenger, so when the Patrons come calling, he approaches the city as if it's one giant chessboard. With Setup Bishop he advances, planting his loyal damage dealers ahead of him and sliding them across the streets with ease. Kingside Knight comes into play when it's time for defense, granting protection to allies and making tactical retreats when needed. Rook Battery charges forward with great force, stalling enemies in their tracks. And with his final move, Develop Queen , he locks down his enemies in an ultimate checkmate.",
+      "Solomon was released on October 9, 2026 as the third winner of the hero vote in the City Never Sleeps update."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Solomon?oldid=194506",
+    "revision": 194506,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 86,
+    "name": "Violet",
+    "paragraphsAr": [
+      "فايوليت فنانة خفيفة الحركة، تستخدم الرسم وموهبتها لتفرض إرادتها على الطقس. بالحبر والألوان تقدر تقوّي حلفاءها بضربة فرشاة وتربك خصومها بضربة ثانية.",
+      "بفرشاتها ودقتها، Living Ink يقوّي رصاصها ويحوّل الإلهام إلى شيء حقيقي. في Flow State تنساب ناحية الخطر لتضر العدو أو تبتعد للهروب، وStill Life يلتقط صورة الأعداء بنتيجة تصعقهم. أما Abstract Landscape فيحيطها ومن حولها بأكبر لوحاتها، ويترك المشاهدين عاجزين عن الكلام.",
+      "فايوليت طالبة فن موهوبة وصغيرة بالعمر، تستعد تواجه شكوكها بنفسها وتصنع اسمًا في عالم الفنون الجميلة التنافسي.",
+      "صدرت الشخصية يوم 16 أكتوبر 2026."
+    ],
+    "originalParagraphs": [
+      "Violet is an artistic, nimble Hero that uses her paint and talent to bend the Ritual to her will. With ink and paint, she can empower her allies with one stroke while disrupting her foes with another.",
+      "Brush in hand, Violet approaches the ritual with the same precision she does her art, wielding Living Ink that both empowers her bullets, and draws mere inspiration into reality. When entering Flow State , her ink glides easily, weaving towards danger to deal damage, or away from it to make a quick getaway. By creating a Still Life Violet can truly capture her enemies' likeness to stunning results. And with Abstract Landscape she surrounds herself and those nearby with her biggest and most ambitious piece yet, leaving onlookers completely speechless.",
+      "Violet is a young and talented art student, ready to face her self-doubts and make a name for herself in the competitive world of fine arts.",
+      "Violet was released on October 16, 2026 as the fifth winner of the hero vote in the City Never Sleeps update."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Violet?oldid=197665",
+    "revision": 197665,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  },
+  {
+    "id": 88,
+    "name": "Baba",
+    "paragraphsAr": [
+      "بابا ساحرة تلقي اللعنات وتسحب السبيرت، وتدخل الخط الأمامي على مقعدها طويل الأرجل. بين الشاي الحار والصوف الملعون وفتات الخبز، حضورها وضحكتها شيء لازم تحسب حسابه.",
+      "في المعركة ترمي Threadsap، بكرة خيط فوضوية تسرق سبيرت الأعداء وتقوّيها. رجلينها مو مثل أول، لكن مقعدها يحيى ويساعدها تركض وتقفز وتركل بقوة. وبوقت الشاي ممكن تنصبّ عليك Baba’s Brew؛ بعضها ألطف من بعض. وإذا انتهى الشاي، يجي دور The Birds.",
+      "السائح قد يشوفها عجوزًا عادية جالسة بالحديقة تشرب شاي وتكلم طيورها، لكن أهل نيويورك شاكّين من زمان إن وراءها شيء أكبر. سيدة حمام Central Park مستعدة تستخدم خبرة عمرها بالسحر عشان تحمي مانهاتن من السياح المزعجين اللي يبغون يستدعون الباترونز، وكل هذا من غير ما تترك مقعدها.",
+      "صدرت الشخصية يوم 6 أكتوبر 2026."
+    ],
+    "originalParagraphs": [
+      "Baba is a Hero in Deadlock . She is a hexing, spirit -draining witch who uses her long-legged bench to brawl in the front lines of the Ritual . Flinging scalding tea, cursed yarn, and breadcrumbs in equal measure, Baba is a cackling force to be reckoned with.",
+      "In the heat of battle, Baba throws out her Threadsap , a chaotic spool of yarn that steals the very spirit of her enemies, granting her greater power. While her legs might not be what they used to, her trusty bench comes to life with a creak of metal, allowing her to run, jump, and kick with impressive vigor. Parkgoers know it's best to stay on Baba's good side, as at tea time you might find yourself splashed with one of Baba's Brews (some of them much sweeter than others), and when tea time is over - The Birds come out to play...",
+      "Tourists in the park might not think much of ol' Baba sitting on her bench - sipping tea and talking to her birds - but the locals have always suspected that something more brews below the surface. An institution of New York City, the Central Park Pigeon Lady is ready to use her lifelong experience in witchcraft to protect Manhattan from rowdy tourists wanting to summon the Patrons , without leaving her trusty bench.",
+      "Baba was released on October 6, 2026 as the second winner of the hero vote in the City Never Sleeps update."
+    ],
+    "sourceUrl": "https://deadlock.wiki/Baba?oldid=194480",
+    "revision": 194480,
+    "section": "Overview / page introduction",
+    "translatedAt": "2026-10-18",
+    "license": "CC BY-SA 4.0",
+    "translationNote": "ترجمة عربية بلغة اللاعبين للنبذة المنشورة في مقدمة صفحة الشخصية."
+  }
+]

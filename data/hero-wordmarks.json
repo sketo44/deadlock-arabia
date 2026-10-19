@@ -1,0 +1,346 @@
+[
+  {
+    "id": 1,
+    "name": "Infernus",
+    "available": true,
+    "src": "assets/hero-wordmarks/1.svg",
+    "source": "https://cdn.deadlock.wiki/Infernus_name.svg",
+    "page": "https://deadlock.wiki/File:Infernus_name.svg"
+  },
+  {
+    "id": 2,
+    "name": "Seven",
+    "available": true,
+    "src": "assets/hero-wordmarks/2.svg",
+    "source": "https://cdn.deadlock.wiki/Seven_name.svg",
+    "page": "https://deadlock.wiki/File:Seven_name.svg"
+  },
+  {
+    "id": 3,
+    "name": "Vindicta",
+    "available": true,
+    "src": "assets/hero-wordmarks/3.svg",
+    "source": "https://cdn.deadlock.wiki/Vindicta_name.svg",
+    "page": "https://deadlock.wiki/File:Vindicta_name.svg"
+  },
+  {
+    "id": 4,
+    "name": "Lady Geist",
+    "available": true,
+    "src": "assets/hero-wordmarks/4.svg",
+    "source": "https://cdn.deadlock.wiki/Lady_Geist_name.svg",
+    "page": "https://deadlock.wiki/File:Lady_Geist_name.svg"
+  },
+  {
+    "id": 6,
+    "name": "Abrams",
+    "available": true,
+    "src": "assets/hero-wordmarks/6.svg",
+    "source": "https://cdn.deadlock.wiki/Abrams_name.svg",
+    "page": "https://deadlock.wiki/File:Abrams_name.svg"
+  },
+  {
+    "id": 7,
+    "name": "Wraith",
+    "available": true,
+    "src": "assets/hero-wordmarks/7.svg",
+    "source": "https://cdn.deadlock.wiki/Wraith_name.svg",
+    "page": "https://deadlock.wiki/File:Wraith_name.svg"
+  },
+  {
+    "id": 8,
+    "name": "McGinnis",
+    "available": true,
+    "src": "assets/hero-wordmarks/8.svg",
+    "source": "https://cdn.deadlock.wiki/McGinnis_name.svg",
+    "page": "https://deadlock.wiki/File:McGinnis_name.svg"
+  },
+  {
+    "id": 10,
+    "name": "Paradox",
+    "available": true,
+    "src": "assets/hero-wordmarks/10.svg",
+    "source": "https://cdn.deadlock.wiki/Paradox_name.svg",
+    "page": "https://deadlock.wiki/File:Paradox_name.svg"
+  },
+  {
+    "id": 11,
+    "name": "Dynamo",
+    "available": true,
+    "src": "assets/hero-wordmarks/11.svg",
+    "source": "https://cdn.deadlock.wiki/Dynamo_name.svg",
+    "page": "https://deadlock.wiki/File:Dynamo_name.svg"
+  },
+  {
+    "id": 12,
+    "name": "Kelvin",
+    "available": true,
+    "src": "assets/hero-wordmarks/12.svg",
+    "source": "https://cdn.deadlock.wiki/Kelvin_name.svg",
+    "page": "https://deadlock.wiki/File:Kelvin_name.svg"
+  },
+  {
+    "id": 13,
+    "name": "Haze",
+    "available": true,
+    "src": "assets/hero-wordmarks/13.svg",
+    "source": "https://cdn.deadlock.wiki/Haze_name.svg",
+    "page": "https://deadlock.wiki/File:Haze_name.svg"
+  },
+  {
+    "id": 14,
+    "name": "Holliday",
+    "available": true,
+    "src": "assets/hero-wordmarks/14.svg",
+    "source": "https://cdn.deadlock.wiki/Holliday_name.svg",
+    "page": "https://deadlock.wiki/File:Holliday_name.svg"
+  },
+  {
+    "id": 15,
+    "name": "Bebop",
+    "available": true,
+    "src": "assets/hero-wordmarks/15.svg",
+    "source": "https://cdn.deadlock.wiki/Bebop_name.svg",
+    "page": "https://deadlock.wiki/File:Bebop_name.svg"
+  },
+  {
+    "id": 16,
+    "name": "Calico",
+    "available": true,
+    "src": "assets/hero-wordmarks/16.svg",
+    "source": "https://cdn.deadlock.wiki/Calico_name.svg",
+    "page": "https://deadlock.wiki/File:Calico_name.svg"
+  },
+  {
+    "id": 17,
+    "name": "Grey Talon",
+    "available": true,
+    "src": "assets/hero-wordmarks/17.svg",
+    "source": "https://cdn.deadlock.wiki/Grey_Talon_name.svg",
+    "page": "https://deadlock.wiki/File:Grey_Talon_name.svg"
+  },
+  {
+    "id": 18,
+    "name": "Mo & Krill",
+    "available": true,
+    "src": "assets/hero-wordmarks/18.svg",
+    "source": "https://cdn.deadlock.wiki/Mo_%26_Krill_name.svg",
+    "page": "https://deadlock.wiki/File:Mo_%26_Krill_name.svg"
+  },
+  {
+    "id": 19,
+    "name": "Shiv",
+    "available": true,
+    "src": "assets/hero-wordmarks/19.svg",
+    "source": "https://cdn.deadlock.wiki/Shiv_name.svg",
+    "page": "https://deadlock.wiki/File:Shiv_name.svg"
+  },
+  {
+    "id": 20,
+    "name": "Ivy",
+    "available": true,
+    "src": "assets/hero-wordmarks/20.svg",
+    "source": "https://cdn.deadlock.wiki/Ivy_name.svg",
+    "page": "https://deadlock.wiki/File:Ivy_name.svg"
+  },
+  {
+    "id": 25,
+    "name": "Warden",
+    "available": true,
+    "src": "assets/hero-wordmarks/25.svg",
+    "source": "https://cdn.deadlock.wiki/Warden_name.svg",
+    "page": "https://deadlock.wiki/File:Warden_name.svg"
+  },
+  {
+    "id": 27,
+    "name": "Yamato",
+    "available": true,
+    "src": "assets/hero-wordmarks/27.svg",
+    "source": "https://cdn.deadlock.wiki/Yamato_name.svg",
+    "page": "https://deadlock.wiki/File:Yamato_name.svg"
+  },
+  {
+    "id": 31,
+    "name": "Lash",
+    "available": true,
+    "src": "assets/hero-wordmarks/31.svg",
+    "source": "https://cdn.deadlock.wiki/Lash_name.svg",
+    "page": "https://deadlock.wiki/File:Lash_name.svg"
+  },
+  {
+    "id": 35,
+    "name": "Viscous",
+    "available": true,
+    "src": "assets/hero-wordmarks/35.svg",
+    "source": "https://cdn.deadlock.wiki/Viscous_name.svg",
+    "page": "https://deadlock.wiki/File:Viscous_name.svg"
+  },
+  {
+    "id": 50,
+    "name": "Pocket",
+    "available": true,
+    "src": "assets/hero-wordmarks/50.svg",
+    "source": "https://cdn.deadlock.wiki/Pocket_name.svg",
+    "page": "https://deadlock.wiki/File:Pocket_name.svg"
+  },
+  {
+    "id": 52,
+    "name": "Mirage",
+    "available": true,
+    "src": "assets/hero-wordmarks/52.svg",
+    "source": "https://cdn.deadlock.wiki/Mirage_name.svg",
+    "page": "https://deadlock.wiki/File:Mirage_name.svg"
+  },
+  {
+    "id": 58,
+    "name": "Vyper",
+    "available": true,
+    "src": "assets/hero-wordmarks/58.svg",
+    "source": "https://cdn.deadlock.wiki/Vyper_name.svg",
+    "page": "https://deadlock.wiki/File:Vyper_name.svg"
+  },
+  {
+    "id": 60,
+    "name": "Sinclair",
+    "available": true,
+    "src": "assets/hero-wordmarks/60.svg",
+    "source": "https://cdn.deadlock.wiki/Sinclair_name.svg",
+    "page": "https://deadlock.wiki/File:Sinclair_name.svg"
+  },
+  {
+    "id": 63,
+    "name": "Mina",
+    "available": true,
+    "src": "assets/hero-wordmarks/63.svg",
+    "source": "https://cdn.deadlock.wiki/Mina_name.svg",
+    "page": "https://deadlock.wiki/File:Mina_name.svg"
+  },
+  {
+    "id": 64,
+    "name": "Drifter",
+    "available": true,
+    "src": "assets/hero-wordmarks/64.svg",
+    "source": "https://cdn.deadlock.wiki/Drifter_name.svg",
+    "page": "https://deadlock.wiki/File:Drifter_name.svg"
+  },
+  {
+    "id": 65,
+    "name": "Venator",
+    "available": true,
+    "src": "assets/hero-wordmarks/65.svg",
+    "source": "https://cdn.deadlock.wiki/Venator_name.svg",
+    "page": "https://deadlock.wiki/File:Venator_name.svg"
+  },
+  {
+    "id": 66,
+    "name": "Victor",
+    "available": true,
+    "src": "assets/hero-wordmarks/66.svg",
+    "source": "https://cdn.deadlock.wiki/Victor_name.svg",
+    "page": "https://deadlock.wiki/File:Victor_name.svg"
+  },
+  {
+    "id": 67,
+    "name": "Paige",
+    "available": true,
+    "src": "assets/hero-wordmarks/67.svg",
+    "source": "https://cdn.deadlock.wiki/Paige_name.svg",
+    "page": "https://deadlock.wiki/File:Paige_name.svg"
+  },
+  {
+    "id": 69,
+    "name": "The Doorman",
+    "available": true,
+    "src": "assets/hero-wordmarks/69.svg",
+    "source": "https://cdn.deadlock.wiki/The_Doorman_name.svg",
+    "page": "https://deadlock.wiki/File:The_Doorman_name.svg"
+  },
+  {
+    "id": 72,
+    "name": "Billy",
+    "available": true,
+    "src": "assets/hero-wordmarks/72.svg",
+    "source": "https://cdn.deadlock.wiki/Billy_name.svg",
+    "page": "https://deadlock.wiki/File:Billy_name.svg"
+  },
+  {
+    "id": 76,
+    "name": "Graves",
+    "available": true,
+    "src": "assets/hero-wordmarks/76.svg",
+    "source": "https://cdn.deadlock.wiki/Graves_name.svg",
+    "page": "https://deadlock.wiki/File:Graves_name.svg"
+  },
+  {
+    "id": 77,
+    "name": "Apollo",
+    "available": true,
+    "src": "assets/hero-wordmarks/77.svg",
+    "source": "https://cdn.deadlock.wiki/Apollo_name.svg",
+    "page": "https://deadlock.wiki/File:Apollo_name.svg"
+  },
+  {
+    "id": 78,
+    "name": "Deadman Danny",
+    "available": true,
+    "src": "assets/hero-wordmarks/78.svg",
+    "source": "https://cdn.deadlock.wiki/Deadman_Danny_name.svg",
+    "page": "https://deadlock.wiki/File:Deadman_Danny_name.svg"
+  },
+  {
+    "id": 79,
+    "name": "Rem",
+    "available": true,
+    "src": "assets/hero-wordmarks/79.svg",
+    "source": "https://cdn.deadlock.wiki/Rem_name.svg",
+    "page": "https://deadlock.wiki/File:Rem_name.svg"
+  },
+  {
+    "id": 80,
+    "name": "Silver",
+    "available": true,
+    "src": "assets/hero-wordmarks/80.svg",
+    "source": "https://cdn.deadlock.wiki/Silver_name.svg",
+    "page": "https://deadlock.wiki/File:Silver_name.svg"
+  },
+  {
+    "id": 81,
+    "name": "Celeste",
+    "available": true,
+    "src": "assets/hero-wordmarks/81.svg",
+    "source": "https://cdn.deadlock.wiki/Celeste_name.svg",
+    "page": "https://deadlock.wiki/File:Celeste_name.svg"
+  },
+  {
+    "id": 84,
+    "name": "Rat King",
+    "available": true,
+    "src": "assets/hero-wordmarks/84.svg",
+    "source": "https://cdn.deadlock.wiki/Rat_King_name.svg",
+    "page": "https://deadlock.wiki/File:Rat_King_name.svg"
+  },
+  {
+    "id": 85,
+    "name": "Solomon",
+    "available": true,
+    "src": "assets/hero-wordmarks/85.svg",
+    "source": "https://cdn.deadlock.wiki/Solomon_name.svg",
+    "page": "https://deadlock.wiki/File:Solomon_name.svg"
+  },
+  {
+    "id": 86,
+    "name": "Violet",
+    "available": true,
+    "src": "assets/hero-wordmarks/86.svg",
+    "source": "https://cdn.deadlock.wiki/Violet_name.svg",
+    "page": "https://deadlock.wiki/File:Violet_name.svg"
+  },
+  {
+    "id": 88,
+    "name": "Baba",
+    "available": true,
+    "src": "assets/hero-wordmarks/88.svg",
+    "source": "https://cdn.deadlock.wiki/Baba_name.svg",
+    "page": "https://deadlock.wiki/File:Baba_name.svg"
+  }
+]

@@ -1,0 +1,28 @@
+import {mountExpandedLore} from './expanded-hero-lore.js?v=hero-layout-49';
+import {modelPage,mountModel} from './hero-model.js?v=hero-layout-24';
+import {mountArRanking} from './hero-ar-ranking.js?v=hero-layout-36';
+export function mountHeroSections(host,r,escape){
+ const stage=host.querySelector('.seven-stage'),specs=host.querySelector('.seven-specs-slot'),story=host.querySelector('.seven-story');
+ const nav=document.createElement('nav');nav.className='hero-sections';nav.setAttribute('aria-label','أقسام ملف الشخصية');const tabs=document.createElement('div');tabs.className='hero-section-tabs';tabs.setAttribute('role','tablist');tabs.setAttribute('aria-label','معلومات الشخصية');nav.append(tabs);
+ const overview=document.createElement('section');overview.className='hero-overview';overview.innerHTML=`<div><h2>نظرة عامة على <b dir="ltr">${escape(r.name)}</b></h2><p>${escape(r.gameplayAr)}</p><p>${escape(r.summaryAr)}</p></div><button type="button" class="hero-model-link" data-show-model><img src="${escape(r.portrait)}" alt=""><span><strong>شوف الشخصية من كل الجهات</strong><small>عرض 3D · لفّها بالماوس يمين ويسار</small></span></button>`;
+ overview.querySelector('h2').remove();
+ const overviewText=text=>String(text).split(/([A-Za-z][A-Za-z0-9’'&-]*(?: [A-Za-z0-9’'&-]+)*)/g).map((part,i)=>i%2?`<bdi class="hero-overview-term" dir="ltr">${escape(part)}</bdi>`:escape(part)).join('');
+ const about=document.createElement('article');about.className='hero-about';about.innerHTML=`<h2>عن ${escape(r.nameAr)}</h2><div class="hero-about-reading">${r.overviewAr?.length?r.overviewAr.map(p=>`<p>${overviewText(p)}</p>`).join(''):'<p>نبذة الويكي غير متاحة لهذه الشخصية حاليًا.</p>'}</div><a href="${escape(r.overviewSourceUrl||r.wikiUrl)}" target="_blank" rel="noopener">النبذة الأصلية في Deadlock Wiki ↗</a><small>ترجمة عربية لقسم Overview في الويكي · <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a></small>`;
+ const model=document.createElement('section');model.className='hero-inline-model';let modelMounted=false;
+ story.append(about);
+ const specGroups=[{node:specs.querySelector('.seven-profile-info'),title:'إحصائيات الشخصية'},{node:specs.querySelector('.seven-ability-grid'),title:'القدرات وتفاصيلها'}];
+ specGroups.forEach((group,index)=>{if(!group.node)return;const fold=document.createElement('details');fold.className='expanded-lore-section hero-spec-fold';fold.innerHTML=`<summary><span class="expanded-lore-number">${String(index+1).padStart(2,'0')}</span><h3>${group.title}</h3><span class="expanded-lore-toggle" aria-hidden="true">+</span></summary>`;specs.append(fold);fold.append(group.node)});
+ const ranking=document.createElement('section');ranking.className='hero-ar-ranking';let rankingMounted=false;
+ const panels=[overview,story,specs,model,ranking],labels=['نظرة عامة','القصة','القدرات والإحصائيات','عرض الشخصية 3D','تصنيف اللاعبين DEAD LOCK AR'];
+ if([2,3,7,11,64,72,85].includes(Number(r.id))){
+   const heading=document.createElement('header');heading.className='wraith-permanent-heading';
+   const arabic=document.createElement('span');arabic.textContent=Number(r.id)===7?'ريث':Number(r.id)===85?'سليمان':r.nameAr;
+   const title=document.createElement('h1');title.className='wraith-panel-title';title.dir='ltr';const mark=document.createElement('img');mark.className='hero-name-wordmark';mark.src=`assets/hero-wordmarks/${Number(r.id)}.svg`;mark.alt=r.name;mark.addEventListener('error',()=>mark.replaceWith(document.createTextNode(r.name.toUpperCase())),{once:true});title.append(mark);heading.append(arabic,title);host.prepend(heading);
+ }
+ host.querySelector('.hero-card-picker').after(nav);const content=document.createElement('div');content.className='hero-section-panels';host.append(content);panels.forEach((p,i)=>{p.id='hero-section-'+i;p.setAttribute('role','tabpanel');p.setAttribute('aria-labelledby','hero-tab-'+i);content.append(p)});
+ const buttons=panels.map((p,i)=>{const b=document.createElement('button');b.type='button';b.id='hero-tab-'+i;b.textContent=labels[i];b.setAttribute('role','tab');b.setAttribute('aria-controls',p.id);b.addEventListener('click',()=>select(i));tabs.append(b);return b});
+ function select(index,focus=false){if(panels[index]===story)mountExpandedLore(story,r,escape);if(panels[index]===ranking&&!rankingMounted){rankingMounted=true;mountArRanking(ranking,r)}panels.forEach((p,i)=>{p.hidden=i!==index;buttons[i].setAttribute('aria-selected',String(i===index));buttons[i].tabIndex=i===index?0:-1});if(focus)buttons[index].focus({preventScroll:true});if(panels[index]===model&&!modelMounted){modelMounted=true;model.innerHTML=modelPage(r.id,{heroes:[{...r,image:r.portrait}]});model.querySelector('.model-heading').remove();model.querySelector('.model-selector').remove();mountModel(model.querySelector('.ar-model-page'),true)}}
+ overview.querySelector('[data-show-model]').remove();
+ nav.addEventListener('keydown',e=>{const i=buttons.indexOf(document.activeElement);if(i<0)return;let next;if(e.key==='ArrowLeft')next=(i+1)%buttons.length;if(e.key==='ArrowRight')next=(i+buttons.length-1)%buttons.length;if(e.key==='Home')next=0;if(e.key==='End')next=buttons.length-1;if(next!==undefined){e.preventDefault();select(next,true)}});
+ host.querySelectorAll('[data-seven-jump]').forEach(b=>b.addEventListener('click',()=>select(b.dataset.sevenJump==='seven-abilities'?panels.indexOf(specs):panels.indexOf(story)),{capture:true}));select(['127.0.0.1','localhost','[::1]'].includes(location.hostname)&&new URLSearchParams(location.search).get('ranking-demo')==='1'?panels.indexOf(ranking):0);
+}

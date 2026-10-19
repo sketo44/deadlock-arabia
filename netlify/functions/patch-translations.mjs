@@ -1,0 +1,2 @@
+import {db,configured,json} from './_shared/store.mjs';
+export default async function handler(request){if(request.method!=='GET')return json({error:'Method not allowed'},405);if(!configured())return json({configured:false,translations:[]});try{return json({configured:true,translations:await db('patch_translations?select=source_url,source_hash,title_ar,body_ar,kind,published_at&order=published_at.desc&limit=25')})}catch{return json({error:'تعذّر تحميل الأخبار العربية'},503)}}

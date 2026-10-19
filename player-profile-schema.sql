@@ -1,0 +1,9 @@
+alter table public.arab_members add column if not exists seconds_played bigint not null default 0;
+alter table public.arab_members add column if not exists kills bigint not null default 0;
+alter table public.arab_members add column if not exists deaths bigint not null default 0;
+alter table public.arab_members add column if not exists assists bigint not null default 0;
+alter table public.arab_members add column if not exists profile_version integer not null default 0;
+alter table public.arab_hero_stats add column if not exists seconds_played bigint not null default 0;
+alter table public.arab_hero_stats add column if not exists kills bigint not null default 0;
+alter table public.arab_hero_stats add column if not exists deaths bigint not null default 0;
+alter table public.arab_hero_stats add column if not exists assists bigint not null default 0;

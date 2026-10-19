@@ -1,0 +1,3317 @@
+[
+  {
+    "id": 1,
+    "name": "Infernus",
+    "loreEnglish": "Like most teenagers; Infernus was wild, rebellious, and impetuous.  Unlike most teenagers, Infernus was a creature from another plane and had a supernatural mastery over fire.  Needless to say:  his youth was filled with no small amount of arson, murder, and evidence disposal.  But that was then.  Now an adult, Infernus has mellowed out considerably.  He's happy working at a bar with good live music, and talking to interesting people.  That being said when someone at the bar gets belligerent or violent, he's not afraid to dust off the skills he once honed.",
+    "wikiUrl": "https://deadlock.wiki/Infernus",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.633Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/infernus_bg.webp",
+    "portrait": "assets/1.webp",
+    "summaryAr": "إنفرنوس جاي من عالم ثاني، ومن صغره عنده تحكّم خارق بالنار. مراهقته كانت مليانة تمرّد ومشاكل؛ مو مجرد واحد لابس لبس ناري.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 161768,
+    "wikiTitle": "Infernus",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "إنفرنوس كان مثل كثير من المراهقين: متمرّد، مندفع، ويدخل نفسه بالمشاكل. الفرق إنه مخلوق جاي من عالم ثاني، وعنده تحكّم خارق بالنار. عشان كذا شبابه كان مليان حرق وقتل وتخلّص من الأدلة.",
+      "بس هالكلام كان زمان. بعد ما كبر صار أهدأ بكثير؛ مبسوط بشغله في بار فيه موسيقى حيّة حلوة، ويحب يسولف مع الناس اللي عندهم قصص. ومع هذا، إذا أحد بالمكان صار عدواني أو عنيف، ما عنده مشكلة يرجع يستخدم المهارات اللي أتقنها زمان."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "إنفرنوس",
+    "headlineAr": "نار ما بردت.",
+    "gameplayAr": "يحرق الخصم مع الوقت ويكمل عليه بسرعة حركته. مناسب إذا تحب ضغط مستمر وتطارد اللي يهرب.",
+    "identityColor": "#C93C26",
+    "effect": "embers",
+    "poster": "assets/lore/01-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "إنفرنوس شخصية من إكسيا عندها تحكّم قوي بالنار، تستخدمه عشان تسرّع حركتها وتحرق خصومها. يجمع بين Flame Dash ومادة Napalm عشان يلاحق العدو ويشعل فيه Afterburn. واللي يظل واقف بعد هذا كله يواجه انفجار Concussive Combustion، اللي يصعقه ويتركه مكشوف لمزيد من الحرق.",
+      "إنفرنوس من الجيل الثاني لمهاجري إكسيا، وتربّى في نيويورك بمراهقة مضطربة ومليانة مشاكل وجرائم منظّمة. لما كبر اشتغل في بار وتعلّم يهدّي انفعالاته. بين الموسيقى الزينة والناس اللي يستمتع بالسوالف معهم، نادرًا صار يحتاج يرجع لقواه الخارقة الخطيرة."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Infernus?oldid=161768",
+    "overviewRevision": 161768,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 2,
+    "name": "Seven",
+    "loreEnglish": "When mystic energy awoke on Earth, the world changed... anything was possible.  But just because anything WAS possible, didn't mean that anything SHOULD be possible.  And so the government made rules.   Laws.  A means for US citizens to enjoy the benefits of the supernatural world in safety.  But rules and laws are for lesser men.  Men with limitations.  Men who were not Seven.  <br><br>There are many rumors about what Seven did to land himself in Lost Whisper, an oubliette for the most dangerous of occultists.  But there is no doubt about what happened on the night of his execution. <br><br>Wards placed by the most powerful ritualists of 7 different nations... wards designed to not just prevent mystical interference with the execution, but to simultaneously obliterate Seven's soul so that it could never be contacted, resurrected, or otherwise be used by someone looking to follow in his footsteps... failed.<br><br>Onlookers viewed in horror as the strongest mentalist employed by the US Army's head popped like a grape.  They screamed as Scotland Yard's premiere occult investigator, the one who allegedly captured Seven, crumbled to ash.  Seven's body buckled and writhed against his restraints; his skin burning from eldritch electricity... and yet he would not die.  He laughed.<br><br>He laughed as he tore himself free from his bondage.<br><br>He laughed as his captors cowered in fear.<br><br>He laughed as he massacred his tormentors.<br><br>He laughed as he tasted the fresh air that was denied to him for years.<br><br>And he laughed when he thought about what he was going to do once he reached New York City.",
+    "wikiUrl": "https://deadlock.wiki/Seven",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/seven_bg.webp",
+    "portrait": "assets/2.webp",
+    "summaryAr": "بعد ما صحَت الطاقة الغامضة على الأرض صار المستحيل ممكن، وطلعت قوانين تنظّم استخدامها. حكاية سيفن مرتبطة بهالعالم وحدوده.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 187215,
+    "wikiTitle": "Seven",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "يوم صحَت الطاقة الغامضة على الأرض، تغيّر العالم وصار كل شيء ممكن. بس مو كل شيء تقدر تسويه يعني المفروض تسويه. عشان كذا حطّت الحكومة قوانين تنظّم استخدام القوى الخارقة، وتخلّي الناس يستفيدون منها بأمان. لكن سيفن كان يشوف هالقوانين للناس الأقل منه؛ للناس اللي عندهم حدود. وهو ما كان يشوف نفسه واحد منهم.",
+      "فيه إشاعات كثيرة عن الشي اللي سوّاه وودّاه لسجن «لوست ويسبر»، السجن المخصّص لأخطر مستخدمي السحر. محد متأكد من سبب سجنه، لكن اللي صار ليلة إعدامه ما فيه شك فيه.",
+      "أقوى خبراء الطقوس من سبع دول مختلفة حطّوا تعاويذ حماية حول مكان الإعدام. هدفهم مو بس يمنعون أي تدخّل سحري؛ كانوا يبون يمحون روح سيفن بالكامل، عشان محد يقدر يتواصل معها، أو يرجّعه للحياة، أو يستخدم روحه ويمشي على خطاه. ومع كل هالاحتياطات… فشلت التعاويذ.",
+      "اللي كانوا يتفرّجون شافوا رأس أقوى مختص بالقوى الذهنية عند الجيش الأمريكي ينفجر قدّامهم. وبعده تحوّل أبرز محقّق بالظواهر الغامضة في سكوتلاند يارد إلى رماد؛ نفس المحقّق اللي يُقال إنه قبض على سيفن. جسم سيفن كان يتلوّى وهو مربوط، وجلده يحترق من كهرباء غامضة… ومع هذا ما مات. كان يضحك.",
+      "كان يضحك وهو يقطع قيوده ويتحرّر.",
+      "ويضحك وهو يشوف سجّانيه يرتجفون من الخوف.",
+      "ويضحك وهو يقتل اللي عذّبوه.",
+      "ويضحك وهو يتنفّس الهواء اللي انحرم منه سنين.",
+      "ويضحك وهو يفكّر باللي بيسوّيه أول ما يوصل نيويورك."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "poster": "assets/lore/02-poster.webp",
+    "nameAr": "سيفن",
+    "headlineAr": "الموت ما وقّفه.",
+    "gameplayAr": "ضرر كهرباء يصيب أكثر من هدف. يقدر يسيطر على منطقة كاملة إذا اختار وقت ومكان الألتمت صح.",
+    "identityColor": "#d7bb56",
+    "effect": "lightning",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "سفن عالم مهووس بالعظمة، يعوّض غياب مبادئه بترسانة هجمات كهربائية. يتميز بالسيطرة السريعة على ساحة القتال: يقفل المناطق بـLightning Ball ويقوّي سلاحه بـSurge عشان يعاقب الأعداء المتجمعين. وبعد ما يعطّلهم بـStatic Charge، يطلق Storm Cloud ويصبّ عليهم الكهرباء.",
+      "ما نعرف وش اللي ودّى سفن لسجن Lost Whisper، لكنه حوّل محاولة إعدامه إلى مذبحة بحق سجّانيه وهرب. الحين مختبئ تحت المدينة، ويبغى يكمل الطقس عشان يحقق اللي يسميه الارتقاء إلى الألوهية."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Seven?oldid=187215",
+    "overviewRevision": 187215,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 3,
+    "name": "Vindicta",
+    "loreEnglish": "A victim of John Hathorne during the Salem Witch Trials, Vindicta got a second chance of life when her spirit was brought back to the mortal plane during the first Maelstrom (the event that introduced the supernatural to the public at large).<br><br>Waging a one ghost war against \"The Friends of Humanity\", a neo inquisition formed by Hathorne's descendants; Vindicta looks to keep the supernatural safe from Hathorne's ilk, and she isn't afraid to stack as many bodies as needed to do it.",
+    "wikiUrl": "https://deadlock.wiki/Vindicta",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/vindicta_bg.webp",
+    "portrait": "assets/3.webp",
+    "summaryAr": "فينديكتا كانت ضحية بمحاكمات ساحرات سالم. رجعت روحها لعالم البشر مع أول دوّامة فتحت باب القوى الخارقة للناس.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 194496,
+    "wikiTitle": "Vindicta",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D Models",
+        "anchor": "3D_Models"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "فينديكتا كانت من ضحايا جون هاثورن أيام محاكمات ساحرات سالم. وجتها فرصة ثانية للحياة لما رجعت روحها لعالم البشر خلال أول «ميلستروم»، الحدث اللي كشف وجود القوى الخارقة للناس عمومًا.",
+      "واليوم تخوض لحالها حرب شبح ضد جماعة «أصدقاء الإنسانية»، وهي محاكم تفتيش جديدة أسّسها أحفاد هاثورن. هدفها تحمي الكائنات الخارقة من أمثاله، وما تتردد تقتل العدد اللي تحتاجه عشان تحقق هالشي."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "فينديكتا",
+    "headlineAr": "فرصة ثانية… وحساب قديم.",
+    "gameplayAr": "سنايبر من بعيد، تطير عشان تختار زاوية وتخلص على الخصم المصاب. انتبه للقتال القريب.",
+    "identityColor": "#A2C7E5",
+    "effect": "aura",
+    "poster": "assets/lore/03-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "فينديكتا قناصة قوية وسريعة الحركة، تشتبك مع أهدافها وتصطادهم من بعيد. تبدأ المواجهة بـCrow Familiar عشان تسبب نزيف، وبعدها تستخدم Flight وتحافظ على مسافتها. تثبّت الأعداء حول Stake مغروز بالأرض وتستهدفهم ببندقيتها القوية؛ والخصم اللي دمه قليل لازم يحسب حساب Assassinate، طلقة قنص مدمّرة من مسافة بعيدة.",
+      "اتهموا فينديكتا بالسحر وقتلها جون هاثورن خلال محاكمات سالم في القرن السابع عشر. رجعت لعالم الأحياء وقت المايلستروم الأول، وصارت تحارب جماعة Friends of Humanity، محققي التفتيش الجدد، عشان تحمي الكائنات الخارقة مثلها."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Vindicta?oldid=194496",
+    "overviewRevision": 194496,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 4,
+    "name": "Lady Geist",
+    "loreEnglish": "Once, Lady Jeanne Geist was the toast of the town.  But as time passed and her beauty faded she found herself further and further from her glory days in High Society until finally she was nothing more than a frail woman in a nursing home, telling stories of a glorious past.  And that's when Oathkeeper revealed himself.  A powerful spirit from another plane, Oathkeeper offered her a path to reclaim her past glories... he could restore her youth; all she had to do was drain the essence of the living to sustain herself. <br><br>Geist was torn.  Obviously murder was ghoulish business, and undoubtedly Oathkeeper was not an entity that could be trusted... but still, the thought of having a second chance of reliving her youth was too good to pass up.  And so she concocted a plan: after making a pact with Oathkeeper she would bind and ward him, limiting his influence and pull over her.  Oathkeeper would still get fed; but on her terms, not his.<br><br>However, as years have turned to decades; the strength of the Ward has weakened, and Oathkeeper hungers more than he ever has in the past...",
+    "wikiUrl": "https://deadlock.wiki/Lady_Geist",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/geist_bg.webp",
+    "portrait": "assets/4.webp",
+    "summaryAr": "ليدي جين غايست كانت نجمة المجتمع الراقي، لكن العمر أبعدها عن أيام شهرتها. قصتها تبدأ من رغبتها ترجع للي فقدته.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 181806,
+    "wikiTitle": "Lady Geist",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "See also",
+        "anchor": "See_also"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "في يوم من الأيام، الليدي جين غايست كانت حديث المجتمع الراقي. لكن مع مرور السنين وذبول جمالها، ابتعدت أكثر وأكثر عن أيام مجدها، لين صارت امرأة ضعيفة في دار رعاية، تحكي عن ماضٍ عظيم.",
+      "وقتها ظهر لها «أوثكيبر»، روح قوية من عالم ثاني. عرض عليها يرجّع شبابها ومجدها القديم، مقابل إنها تمتص جوهر الأحياء عشان تستمر بالحياة.",
+      "غايست احتارت. القتل شيء بشع، وأوثكيبر واضح إنه مو كائن تثق فيه، لكن فرصة تعيش شبابها من جديد كانت مغرية زيادة. فحطّت خطة: تعقد الاتفاق معه، وبعدها تقيّده بتعاويذ تحدّ من تأثيره وسيطرته عليها. بياخذ غذاءه، بس بشروطها هي.",
+      "لكن السنين صارت عقود، والتعاويذ بدأت تضعف… وأوثكيبر صار أجوع من أي وقت مضى."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "ليدي غايست",
+    "headlineAr": "الشباب له ثمن.",
+    "gameplayAr": "تدفع من صحتها عشان تضرب بقوة، وتسحب صحة أو تبدلها وقت الخطر. تحتاج توازن بين الهجوم والمحافظة على صحتك.",
+    "identityColor": "#218440",
+    "effect": "aura",
+    "poster": "assets/lore/04-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "ليدي غايست سيدة مجتمع عقدت ميثاقًا مع روح، وتدفع من صحتها عشان تستخدم قدراتها وتسحب حياة خصومها. تضحّي بقوة حياتها لرمي Essence Bomb وشظايا الدم المشحونة بـMalice، وتعوّض صحتها بـLife Drain من الأعداء والوحدات. أما Soul Exchange فتبدّل نسبة صحتها مع بطل عدو، وتقلب عليه المواجهة تمهيدًا للضربة الأخيرة.",
+      "كانت الليدي جين غايست حديث المدينة، الكل يعرفها ويدعوها للحفلات، لين تقدّمت بالعمر وراح جمالها وما بقي إلا ذكريات أيامها. من يأسها تعاقدت مع روح قوية وقيّدتها بتعاويذ تحميها، ورجعت شابة. الحين لازم تتغذّى على حياة غيرها عشان تحافظ على جمالها، وتأمل إن الـOathkeeper يظل مقيدًا."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Lady_Geist?oldid=181806",
+    "overviewRevision": 181806,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 6,
+    "name": "Abrams",
+    "loreEnglish": "Hard hitting, hard headed, and hard drinking; Detective Abrams has been a fixture on the New York investigating scene for years.  From stolen art, to missing persons, to ritual murders; Abrams didn't just take any case that came across his desk... he solved them.<br><br>But his days of following cheating spouses came to an end the day he opened his office door and found The Tome sitting on his desk.<br><br>No instruction was left for him save for a brief note scrawled in onyx blood that read \"Don't let them have it\".  Abrams hasn't figured where the thing came from; but seeing as his home has been broken into, his office tossed on 3 different occasions, and his car firebombed he has a vested interest in figuring out what the hell is going on.",
+    "wikiUrl": "https://deadlock.wiki/Abrams",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/abrams_bg.webp",
+    "portrait": "assets/6.webp",
+    "summaryAr": "أبرامز محقق معروف بنيويورك، عنيد وثقيل بالضرب. قضاياه تمتد من آثار مسروقة وأشخاص مفقودين إلى جرائم بطقوس غامضة.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 197378,
+    "wikiTitle": "Abrams",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D models",
+        "anchor": "3D_models"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "المحقّق أبرامز معروف في نيويورك من سنين: ضربه قوي، راسه يابس، ويشرب كثير. من سرقة الأعمال الفنية، للمفقودين، لجرائم القتل الطقسية؛ ما كان بس يقبل القضايا اللي توصل مكتبه… كان يحلّها.",
+      "لكن أيام ملاحقة الأزواج الخاينين انتهت يوم فتح باب مكتبه ولقى كتابًا غامضًا على مكتبه.",
+      "ما كان معه أي تعليمات، بس ورقة قصيرة مكتوبة بدم أسود مثل العقيق، تقول: «لا تخلّيهم ياخذونه». للحين ما عرف من وين جاء الكتاب، لكن بعد ما انسرق بيته، وتفتّش مكتبه ثلاث مرات، وانحرقت سيارته بقنبلة حارقة، صار عنده سبب شخصي قوي يعرف وش السالفة."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "أبرامز",
+    "headlineAr": "قضية ما اختارها.",
+    "gameplayAr": "مقاتل قريب يعيش على العلاج والميلي. يدخل بالكتف ويحب يحشر خصمه عند جدار.",
+    "identityColor": "#2092AE",
+    "effect": "aura",
+    "poster": "assets/lore/06-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "أبرامز مقاتل عنيد وثقيل الضرب، يفضّل يدخل على العدو من قريب. يستعين بالقوة المظلمة لكتابه عشان يسحب حياة الأعداء المحيطين بـSiphon Life، ويتحمّل ضرباتهم بـInfernal Resilience. يقدر يبدأ الفايت باندفاعة Shoulder Charge أو صعقة جماعية من Seismic Impact، ويفصل الأهداف الضعيفة عن فريقها عشان يجهّز لها دمج قوي.",
+      "أبرامز محقّق معروف في نيويورك، حلّ قضايا من الخطف إلى جرائم القتل الطقسية. يومًا ما لقى كتابًا غامضًا على مكتبه، ومعه رسالة مكتوبة بدم الأونيكس تقول: «لا تخليهم ياخذونه». بعدها بدأت تفجيرات السيارات والاقتحامات لمكتبه؛ والحين يحاول يفهم وش السالفة."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Abrams?oldid=197378",
+    "overviewRevision": 197378,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 7,
+    "name": "Wraith",
+    "loreEnglish": "The cornerstone of the New York gambling scene, Wraith's organization is about as open a secret as it comes.  However, thanks to a non-trivial amount of bribes, shakedowns, and blackmail, Wraith knows that she's above the law.",
+    "wikiUrl": "https://deadlock.wiki/Wraith",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/wraith_bg.webp",
+    "portrait": "assets/7.webp",
+    "summaryAr": "رايث من الأسماء الكبيرة بعالم القمار في نيويورك. منظمتها معروفة، والرشاوي والابتزاز خلتها تتصرف كأن القانون ما يطالها.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 188764,
+    "wikiTitle": "Wraith",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D Models",
+        "anchor": "3D_Models"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "رايث ركن أساسي في عالم القمار بنيويورك، ومنظمتها سر مكشوف تقريبًا للكل. لكن بفضل كمية كبيرة من الرشاوى والابتزاز وفرض الإتاوات، هي تعرف زين إنها فوق القانون."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "رايث",
+    "headlineAr": "كل ورقة بحساب.",
+    "gameplayAr": "رصاص سريع وأوراق وقدرة انتقال. ترفع الخصم عشان تفتح لك فرصة تركز عليه.",
+    "identityColor": "#944D78",
+    "effect": "aura",
+    "poster": "assets/lore/07-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "ريث سريعة بالكلام وبإطلاق النار، وعندها قدرات هجومية وحركة قوية. Full Auto يرفع سرعة إطلاقها، وCard Trick يرسل أوراقها على الأهداف، وProject Mind ينقلها داخل الفايت أو يطلعها منه. تقدر تعزل عدو بـTelekinesis وترميه بالاتجاه اللي تختاره، وكأنها تقرر مين من الفريق المقابل يموت أول.",
+      "بشخصيتها القوية وجاذبيتها، تدير ريث شبكة قمار، وصارت اسمًا معروفًا في عالم الجريمة بنيويورك."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Wraith?oldid=188764",
+    "overviewRevision": 188764,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 8,
+    "name": "McGinnis",
+    "loreEnglish": "Maggie McGinnis always had a knack for building things. At 4 she was using Lincoln Logs to recreate architectural marvels. At 10 she built and rewired a custom light fixture for her parents' anniversary. At 15 she designed a machine that refined the souls of the dead...that last one got a little more attention than the Lincoln Logs.<br><br>Now the head of Fairfax Industries Military R&D department, McGinnis spends her time in the machine shop, not in a lab. She's not interested in theory, to her science is magic you can touch.",
+    "wikiUrl": "https://deadlock.wiki/McGinnis",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/mcginnis_bg.webp",
+    "portrait": "assets/8.webp",
+    "summaryAr": "ماغي مكغينيس موهوبة بالهندسة من طفولتها؛ بدأت تبني أشياء معقدة وهي صغيرة. الآلات بالنسبة لها جزء من شخصيتها، مو مجرد سلاح.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 188752,
+    "wikiTitle": "McGinnis",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D models",
+        "anchor": "3D_models"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "ماغي مكغينيس من صغرها عندها موهبة في بناء الأشياء. بعمر أربع سنين كانت تعيد بناء معالم معمارية بمكعّبات خشبية. بعمر عشر سنين صمّمت ومدّدت أسلاك إنارة خاصة لذكرى زواج أهلها. وبعمر خمس عشرة سنة صمّمت آلة تصفّي أرواح الموتى… الأخيرة لفتت أنظار الناس أكثر شوي من المكعّبات.",
+      "الحين هي رئيسة قسم البحث والتطوير العسكري في «فيرفاكس إندستريز». تقضي وقتها في الورشة، مو المختبر. النظريات ما تشدّها؛ بالنسبة لها، العلم سحر تقدر تلمسه بيدك."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "مكغينيس",
+    "headlineAr": "العلم تحت يدها.",
+    "gameplayAr": "تبني أبراج وتعالج فريقها وتقفل الطريق بجدار. قوية إذا جهزت مكان القتال.",
+    "identityColor": "#23549D",
+    "effect": "aura",
+    "poster": "assets/lore/08-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "ماكغينيس ترأس قسم البحث والتطوير العسكري في Fairfax Industries، وواثقة جدًا بشغلها: رشاشها، وMini Turret الآلية، وSpectral Wall اللي تحمي الزملاء وتمسك المواقع وتحاصر الأعداء. Medicinal Specter يعالج الحلفاء القريبين، وHeavy Barrage يطلق قصفًا طيفيًا مدمرًا يوصل حتى للأعداء البعيدين.",
+      "مارغريت «ماغي» ماكغينيس مهندسة موهوبة بدأت من صغرها. ما تحب الشغل النظري، وتقضي أغلب وقتها في ورشة ميكانيكا وتجارب تمسّ القوى الخارقة. أخلاقيات تطوير آلات حرب غيبية مشكوك فيها، بس هي مو شايلة هم ما دام راتبها يوصل."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/McGinnis?oldid=188752",
+    "overviewRevision": 188752,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 10,
+    "name": "Paradox",
+    "loreEnglish": "Paradox.  An artifact of time, and the name of a notorious thieves' guild... one that prides themselves on constructing elaborate heists that target the most untouchable of individuals and institutions.  What does Paradox do with the countless artifacts, state secrets, and celebrity paternity tests that they have stolen?  Put it on display at pop-up museums, so that they can show the world that no one is out of Paradox's reach.<br><br>Shrouded in mystery, each member of Paradox dons a mask and takes on the organization's name.  They are everywhere.  They are nowhere.  And if they want something, they are inevitable.",
+    "wikiUrl": "https://deadlock.wiki/Paradox",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/paradox_bg.webp",
+    "portrait": "assets/10.webp",
+    "summaryAr": "بارادوكس اسم لغز مرتبط بالزمن، واسم عصابة لصوص مشهورة بسرقات معقدة. أهدافهم عادة جهات وناس يحسبون إن الوصول لهم مستحيل.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 192230,
+    "wikiTitle": "Paradox",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Kinetic Carbine Item Interactions",
+        "anchor": "Kinetic_Carbine_Item_Interactions"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D models",
+        "anchor": "3D_models"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "See also",
+        "anchor": "See_also"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "«بارادوكس» اسم أثر مرتبط بالزمن، واسم نقابة لصوص سيئة السمعة بنفس الوقت. النقابة تفخر بسرقاتها المعقّدة اللي تستهدف أشخاصًا ومؤسسات يحسبون نفسهم بعيدين عن أي يد.",
+      "وش تسوي بكل الآثار وأسرار الدول وفحوص إثبات نسب المشاهير اللي تسرقها؟ تعرضها في متاحف مؤقتة، عشان تورّي العالم إن محد بعيد عن متناول بارادوكس.",
+      "كل عضو يلبس قناع ويحمل اسم المنظمة، وهويتهم كلها غموض. موجودين بكل مكان، وبولا مكان. وإذا قرّروا يبون شيء، وصولهم له مسألة وقت."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "بارادوكس",
+    "headlineAr": "محد بعيد عن متناولهم.",
+    "gameplayAr": "تتحكم بتوقيت المواجهة وتبدل مكانها مع خصم. تحتاج تصويب وتنسيق مع الفريق.",
+    "identityColor": "#983952",
+    "effect": "aura",
+    "poster": "assets/lore/10-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "بارادوكس تتلاعب بالوقت عشان تعطّل الأعداء وتبطئهم. بشحنة Kinetic Carbine تهدد الخصم من مختلف المسافات، وتضغط عليه بـPulse Grenade وTime Wall في المكان المناسب. وفي اللحظة الصح تستخدم Paradoxical Swap وتبدّل مكانها مع هدفها، فترميه وسط فريقها بموقف خطير.",
+      "بارادوكس اسم الشخصية واسم نقابة اللصوص اللي تنتمي لها. تخصصهم سرقة الأشياء اللي الناس تحسبها مستحيلة والاقتحام لأشد المنشآت تحصينًا. دوافعهم مبهمة، غير إن أعضاءهم واضح يستمتعون بإحراج أكبر شركات العالم وحكوماته."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Paradox?oldid=192230",
+    "overviewRevision": 192230,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 11,
+    "name": "Dynamo",
+    "loreEnglish": "As a Scientist, Professor Dynamo always had an inquisitive mind.  So when a rift in space and time opened up in central park he was first on the scene to investigate - and while he expected such a majestic sight to be life changing, he was thinking more in a metaphorical way as opposed to having his body atomized and reduced to a tiny dying star.<br><br>But while his body is gone, his spirit and lust for knowledge lives on.  A tenured professor at Columbia College, Dynamo looks to learn more about his condition while maintaining his class load, after all: he has future minds to inspire.",
+    "wikiUrl": "https://deadlock.wiki/Dynamo",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/dynamo_bg.webp",
+    "portrait": "assets/11.webp",
+    "summaryAr": "البروفيسور داينمو عالم فضولي. يوم انفتح شق بالزمان والمكان بسنترال بارك كان أول من راح يدرسه، والتجربة غيّرت حياته.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 188747,
+    "wikiTitle": "Dynamo",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "البروفيسور داينمو عالم فضولي بطبيعته. عشان كذا يوم انفتح شق في الزمان والمكان بسنترال بارك، كان أول واحد يوصل عشان يدرسه. توقّع المنظر يغيّر حياته، لكن كان يقصدها بشكل مجازي… مو إن جسمه يتفتت لذرّات ويتحوّل إلى نجم صغير يحتضر.",
+      "جسمه راح، لكن روحه وشغفه بالمعرفة للحين موجودين. وهو أستاذ ثابت بجامعة كولومبيا، يحاول يفهم حالته الجديدة ويحافظ بنفس الوقت على جدول محاضراته. بالنهاية، فيه عقول من الجيل الجاي تحتاج أحد يلهمها."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "داينمو",
+    "headlineAr": "جسمه راح. فضوله باقي.",
+    "gameplayAr": "يدعم الفريق بالعلاج والانتقال، ويجمع الأعداء بألتمت قوي إذا أخذ زاوية مناسبة.",
+    "identityColor": "#D0B945",
+    "effect": "aura",
+    "poster": "assets/lore/11-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "البروفيسور داينمو شخصية ودودة وداعمة: يعالج زملاءه وينقلهم بعيد عن الخطر، أو يدخّلهم فيه، ويتحوّل إلى Singularity باللحظة المناسبة. لحظة تهوّر بخّرت جسمه، والحين يدور أمنية من الباترونز ترجع له شكله الجسدي.",
+      "يعتمد على ذكائه وقوته عشان يسند الفريق بالعلاج والنقل ورفع الخصوم بالهواء. وإذا جاء الوقت المناسب، يطلق Singularity اللي ممكن تقلب نتيجة الفايت بالكامل.",
+      "كان أستاذًا في Columbia College، لين غلبه غروره أثناء دراسة بوابة نجمية مع فريقه في نيويورك. اقترب من الظاهرة أكثر من اللازم، فدمّرت جسمه وحوّلته إلى هيئة نجم يحتضر. لكنه ما استسلم؛ روحه وفضوله بقوا، وحالته زادت رغبته بالمعرفة وبإيجاد مخرج من جسمه المعدني."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Dynamo?oldid=188747",
+    "overviewRevision": 188747,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 12,
+    "name": "Kelvin",
+    "loreEnglish": "A famed adventuring scientist, Kelvin made it his life's mission to explore and understand the unknowable.  So naturally when rumors surfaced regarding an 8th astral gate hidden in the arctic, Kelvin couldn't build an expedition team fast enough.  Assembling the brightest minds of his generation, Kelvin and his team set forth with much fanfare.<br><br>They never returned.<br><br>A year and a half later the frozen body of Kelvin was found by a fishing trawler, his corpse clutching a rock etched with glowing runes.  The crew chipped away at the ice, looking to get a closer look at the body and were shocked when Kelvin opened his eyes.  They checked his vitals... there was no pulse.  They sought to bandage his open wounds... there was no blood.  And yet, impossibly, Kelvin was \"alive\".<br><br>Having no memory of what happened on the expedition, Kelvin is looking for answers.",
+    "wikiUrl": "https://deadlock.wiki/Kelvin",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/kelvin_bg.webp",
+    "portrait": "assets/12.webp",
+    "summaryAr": "كيلفن عالم ومستكشف مشهور، مكرّس حياته لفهم المجهول. إشاعة عن بوابة نجمية ثامنة بالقطب دفعته يجمع بعثة استكشاف.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 188779,
+    "wikiTitle": "Kelvin",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "كيلفن عالم مغامر مشهور، كرّس حياته لاستكشاف الأشياء اللي الناس تعجز عن فهمها. ويوم سمع إشاعات عن بوابة نجمية ثامنة مخفية في القطب الشمالي، استعجل يجمع فريق بعثة. اختار ألمع عقول جيله، وانطلقوا وسط احتفال واهتمام كبير.",
+      "ما رجعوا.",
+      "بعد سنة ونص، لقت سفينة صيد جسم كيلفن المتجمّد، وهو ماسك حجر محفور عليه رموز مضيئة. الطاقم كسّروا الجليد عشان يشوفون الجثة عن قرب، وانصدموا يوم فتح عيونه. فحصوه: ما فيه نبض. حاولوا يضمّدون جروحه المفتوحة: ما فيه دم. ومع هذا، وبشكل مستحيل، كان «حي».",
+      "كيلفن ما يتذكر وش صار بالبعثة، والحين يدور أجوبة."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "كيلفن",
+    "headlineAr": "رجع من الجليد.",
+    "gameplayAr": "يعالج ويبطّئ ويبني مسار جليد. القبة تقدر تقلب مواجهة لك أو تحبس فريقك إذا استخدمتها بوقت غلط.",
+    "identityColor": "#74ABBC",
+    "effect": "aura",
+    "poster": "assets/lore/12-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "كلفن عالم عاد من الموت، يستخدم التجميد لإبطاء الأعداء وعلاج زملائه. يصنع Ice Path تحت رجوله للتنقّل الأسرع له ولفريقه، ويرمي Frost Grenade ويطلق Arctic Beam عشان يجهّز الأهداف لهجمات حلفائه. الاستخدام الصح لقبة Frozen Shelter يحمي ويعالج الفريق، وفي نفس الوقت ممكن يحبس خصومًا بداخلها.",
+      "بصفته عالمًا يحب الاستكشاف، تحمّس لإشاعات فتح بوابة نجمية ثامنة بالقطب الشمالي وجهّز بعثة للبحث عنها. لكن البعثة اختفت بالثلج، وبعد أكثر من سنة لقوا جسمه المتجمّد وهو ما زال يتحرك. كلفن ما يتذكر وش صار، ويدور إجابة عند الباترونز."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Kelvin?oldid=188779",
+    "overviewRevision": 188779,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 13,
+    "name": "Haze",
+    "loreEnglish": "The Occult Security and Investigation Commission is a black box government organization that makes the CIA look transparent.  It falls on the men, women, and entities of the OSIC to keep the country safe from sinister forces that are beyond the capabilities of local law enforcement.<br><br>As a member of the notorious Sandman Division, Haze is routinely tasked with infiltrating the dreams of persons of interest, to assess their threat level, and if needed... to put them to sleep.",
+    "wikiUrl": "https://deadlock.wiki/Haze",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/haze_bg.webp",
+    "portrait": "assets/13.webp",
+    "summaryAr": "هيز مرتبطة بهيئة الأمن والتحقيقات الغامضة OSIC، وهي جهة حكومية شديدة السرية. شغلهم حماية البلد من تهديدات خارقة للطبيعة.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 192321,
+    "wikiTitle": "Haze",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "«هيئة أمن وتحقيقات الظواهر الغامضة»، أو OSIC، جهة حكومية سرّيتها تخلي حتى الاستخبارات الأمريكية تبدو شفافة. موظفوها، من بشر وكائنات، مسؤولين عن حماية البلد من قوى شريرة تتجاوز قدرة الشرطة المحلية.",
+      "هيز عضوة في قسم «ساندمان» سيئ السمعة. مهمتها المعتادة تدخل أحلام أشخاص تحت المراقبة، وتقيّم مدى خطورتهم… وإذا احتاج الوضع، تنوّمهم للأبد."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "هيز",
+    "headlineAr": "حتى الأحلام لها عيون.",
+    "gameplayAr": "تتحرك بالتخفي وتنوّم هدفها، وضرر رصاصها يزيد مع الاستمرار على نفس الخصم.",
+    "identityColor": "#AC6133",
+    "effect": "aura",
+    "poster": "assets/lore/13-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "هيز قاتلة متخفية تنهي الأعداء المنفردين بسرعة. تركز على هدف واحد وتستخدم أدواتها ورشاشيها السريعين عشان تقتله. وبصفتها Sandman في منظمة OSIC، تقدر تدخل أحلام أهدافها وتفحص دوافعهم، لكن سبب مشاركتها في الطقس لسه مجهول.",
+      "هي عميلة سرية في قسم Sandman، وتتفوق باصطياد الخصم اللي بعيد عن مكانه الآمن بفضل Fixation. Smoke Bomb تخليها تتسلل له، وSleep Dagger تنوّمه قبل وابل النار من قريب. وإذا اشتد الموقف، تدخل Bullet Dance عشان تتفادى النيران المقابلة وتنهي الأهداف الباقية."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Haze?oldid=192321",
+    "overviewRevision": 192321,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 14,
+    "name": "Holliday",
+    "loreEnglish": "There are people who spent their whole lives dreaming about moving to New York.  Holliday isn't one of those people.  Content with being a Sheriff in a small town, Holliday enjoyed a career where the only time she had to use her gun was when trick shooting at the county fair...then the murders started.<br><br>Grisly and inhumane; the bodies were found with their ribcages ripped open... their innards picked apart as if by birds.  Holliday tracked down the killer, a travelling folk musician that the media dubbed \"The Troubadour\", but when she confronted him he exploded into a murder of crows and flew away.<br><br>That was 6 months ago, and while the murders in central Illinois have stopped, Holliday's investigation has not.  She believes that The Troubadour is travelling to New York, and when she finds him she's going to kill that evil son of a bitch.",
+    "wikiUrl": "https://deadlock.wiki/Holliday",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/astro_bg.webp",
+    "portrait": "assets/14.webp",
+    "summaryAr": "هوليداي ما كانت تحلم بنيويورك؛ كانت مرتاحة بشغلها كشريفة بلدة صغيرة. انتقالها للمدينة مو رحلة سياحية ولا بداية سهلة.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 192323,
+    "wikiTitle": "Holliday",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "See also",
+        "anchor": "See_also"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "فيه ناس يحلمون طول عمرهم ينتقلون لنيويورك. هوليداي مو منهم. كانت مرتاحة بشغلها شريفة في بلدة صغيرة، وما تحتاج تطلع سلاحها إلا عشان عروض الرماية بمعرض المقاطعة… لين بدأت جرائم القتل.",
+      "الضحايا كانوا بمنظر بشع وغير آدمي؛ صدورهم مفتوحة وأحشاؤهم ممزقة كأن طيورًا نهشتها. هوليداي تتبّعت القاتل، وهو موسيقي شعبي متنقّل سمّاه الإعلام «التروبادور». لكن يوم واجهته، انفجر إلى سرب غربان وطار بعيد.",
+      "هالكلام قبل ستة أشهر. الجرائم بوسط إلينوي توقفت، لكن تحقيق هوليداي ما توقف. هي تعتقد إن التروبادور متوجّه لنيويورك، وإذا لقته بتنهي هالشر بيدها."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "هوليداي",
+    "headlineAr": "المطاردة ما انتهت.",
+    "gameplayAr": "تلعب بالبراميل ومنصات القفز والهيدشوت، وتسحب هدف بالحبل عشان تفتح مواجهة.",
+    "identityColor": "#A35A1B",
+    "effect": "aura",
+    "poster": "assets/lore/14-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "هوليداي رامية دقيقة معها حبلها الموثوق. تستخدم البارود ومنصات القفز لتهيئة الفايت، ثم تعتمد على تصويبها بمسدس العائلة عشان تنهيه. كانت شريفة في بلدة بعيدة، والحين تطارد قاتلًا بشوارع المدينة ومستعدة تقبل مساعدة خارقة من أي شخص يقدر يوفرها.",
+      "بقدرة Crackshot تبطئ وتضر خصومها من بعيد، وتقدر تقذف Powder Keg باستخدام Bounce Pad أو ضربة ميلي. وإذا بغت تعزل هدفًا، تمسكه بـSpirit Lasso وتسحبه إلى نيران زملائها.",
+      "حفيدة حامل المسدس الأسطوري Doc Holliday كانت راضية بحياتها في بلدة صغيرة. تغيّر كل شيء لما بدأ موسيقي متنقل اسمه The Troubadour سلسلة جرائم مروعة. وصلت له وواجهته لكنه هرب؛ وبعد ستة شهور من التحقيق استنتجت إن هدفه القادم نيويورك. راحت هناك عازمة تقتله."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Holliday?oldid=192323",
+    "overviewRevision": 192323,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 15,
+    "name": "Bebop",
+    "loreEnglish": "Forged by the hands of a widowed junk yard attendant; Bebop was more than just some scrap golem laborer... he was the son she couldn't have.  Together they would work in the iron yard during the day, and listen to jazz at night. It was a predictable, if not comforting routine.  But now, Bebop's creator has fallen ill and while Miss Shelly wouldn't approve of the activities that Bebop does at night to pay for her medicine, what she doesn't know can't hurt her.",
+    "wikiUrl": "https://deadlock.wiki/Bebop",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/bebop_bg.webp",
+    "portrait": "assets/15.webp",
+    "summaryAr": "بيبوب صنعته أرملة تشتغل بساحة خردة، وكان بالنسبة لها ولد أكثر من كونه آلة. كانوا يشتغلون بالنهار ويسمعون جاز بالليل.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 194476,
+    "wikiTitle": "Bebop",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "See also",
+        "anchor": "See_also"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "أرملة تشتغل في ساحة خردة صنعت بيبوب بيدها. وبالنسبة لها ما كان مجرد عامل آلي مصنوع من الحديد؛ كان الابن اللي ما قدرت تجيبه. كانوا يشتغلون بالساحة النهار، ويسمعون الجاز بالليل. روتين معروف ومريح.",
+      "لكن الحين صانعته مرضت. والآنسة شيلي أكيد ما راح ترضى بالأشياء اللي يسويها بيبوب بالليل عشان يدفع حق دوائها… بس اللي ما تعرفه ما راح يوجعها."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "بيبوب",
+    "headlineAr": "كل هذا عشانها.",
+    "gameplayAr": "يسحب الخصم بخطاف ويلصق قنبلة. يقدر ينقذ حليف بالسحب أو يفتح كيل على عدو.",
+    "identityColor": "#9F4734",
+    "effect": "aura",
+    "poster": "assets/lore/15-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "بيبوب يعزل الأعداء ويلخبط صفوفهم بذراعه الممتدة اللي تسحب أي شخصية لعنده. هو غولم مؤدب ومحترم، يقاتل في نزالات دموية وفي الطقس عشان يلقى علاجًا لصانعته.",
+      "هذا الغولم المصنوع من الخردة عنده قلب كبير وذراع أكبر. مع دعم فريقه يصير تهديدًا قويًا: Grappling Arm تسحب العدو أو الزميل، تنقذ واحد أو تورّط الثاني. يلصق Sticky Bomb بالخصم ويرسله بالاتجاه اللي يبيه بـExploding Uppercut. واللي يبقى يواجه Hyper Beam، شعاع يقطع ساحة القتال وينهي الأهداف.",
+      "بيبوب هو الابن الآلي للأرملة Miss Shelly، عاملة ساحة الخردة. كانوا يشتغلون بالمعادن بالنهار ويسمعون جاز بالليل، لين مرضت. عشان يدفع ثمن دوائها دخل بيبوب النزالات الدموية في Bear Pit. صانعته ما كانت بترضى عن نشاطه غير القانوني، لكنه يعتقد إن اللي ما تعرفه ما يضرها."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Bebop?oldid=194476",
+    "overviewRevision": 194476,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 16,
+    "name": "Calico",
+    "loreEnglish": "Once a decorated member of The Baxter Society, Calico left the august order once she realized that killing monsters for free was less profitable than killing people for money.<br><br>Now an in demand contract killer, Calico is living her best life ending someone else's.",
+    "wikiUrl": "https://deadlock.wiki/Calico",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/calico_bg.webp",
+    "portrait": "assets/16.webp",
+    "summaryAr": "كاليكو كانت عضوة بارزة بجمعية باكستر لصيد الوحوش. تركتها لما شافت إن الاغتيالات بمقابل أربح من صيد الوحوش مجانًا.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 194349,
+    "wikiTitle": "Calico",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "كاليكو كانت عضوة مكرّمة في «جمعية باكستر». لكنها تركت الجماعة العريقة يوم استوعبت إن قتل الوحوش ببلاش أقل ربحًا من قتل الناس بفلوس.",
+      "الحين صارت قاتلة مأجورة عليها طلب كبير، وتعيش أفضل أيامها وهي تنهي أيام غيرها."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "كاليكو",
+    "headlineAr": "حياة تنتهي… وأجر يجي.",
+    "gameplayAr": "تدخل بسرعة وتضرب من قريب ثم ترجع للظلال. تستفيد من توقيت الدخول والخروج.",
+    "identityColor": "#572798",
+    "effect": "aura",
+    "poster": "assets/lore/16-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "كاليكو قاتلة تتخفّى في الظلال وتجوب الشوارع بهيئة قطتها، قبل تفاجئ أعداءها بالمخالب والقنابل. كانت صائدة وحوش ثم صارت قاتلة مأجورة، وتشوف إن قتل واحد من الباترونز دعاية ممتازة لشغلها.",
+      "تتلبّس قطتها Ava وتستغل الظلام، وترمي Gloom Bomb وتضرب بـLeaping Slash عشان تضر الخصم وتعالج نفسها. وبـReturn to Shadows تختفي بعد الفايت أو ترجع تدخل لما العدو ما يتوقعها.",
+      "كاليكو مبسوطة إنها أخيرًا تكسب مبالغ تستاهل من اغتيال الناس. مهما كان قتل الوحوش مع Baxter Society عملًا نافعًا، مردوده المادي ببساطة ما كان يكفيها."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Calico?oldid=194349",
+    "overviewRevision": 194349,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 17,
+    "name": "Grey Talon",
+    "loreEnglish": "A founding member of \"The Baxter Society\", Wesley Grey Talon spent close to 40 years hunting monsters that preyed on man before finally deciding to find a replacement and lay down his bow. Grey Talon's duties had meant that he never spent much time with his wife and kid, and now that his son had started a family of his own he realized that this was his last chance to reconnect with the people he loved.<br><br>Retirement suited Wesley.  He made up for lost time with his wife.  He doted on his grandkids.  He cooked dinner for the whole family every Wednesday.  He was happy.<br><br>Then he got the call.<br><br>The authorities claimed that it was a freak accident... that the fire consumed his son's house before anyone got a chance to escape.  But Wesley knew better.  His son's wife was an Ixian who could snuff out flame with a thought.  If their bodies were found burned they had to be dead long before there was a fire.<br><br>And so Grey Talon has picked up his bow once more, and when he finds who's responsible there will be a bloody reckoning.",
+    "wikiUrl": "https://deadlock.wiki/Grey_Talon",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/grey_talon_bg.webp",
+    "portrait": "assets/17.webp",
+    "summaryAr": "ويسلي غراي تالون من مؤسسي جمعية باكستر. أمضى قرابة أربعين سنة يصيد وحوش تهدد البشر قبل ما يفكّر يعتزل ويسلّم قوسه.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 192320,
+    "wikiTitle": "Grey Talon",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "ويسلي غراي تالون من مؤسسي «جمعية باكستر». قضى قرابة أربعين سنة يصيد الوحوش اللي تفترس البشر، لين قرّر يلقى بديل ويحط قوسه على جنب. واجباته كانت تبعده عن زوجته وولده، ويوم ولده صار عنده عائلة، حسّ إن هذي آخر فرصة يرجع يقرب من الناس اللي يحبهم.",
+      "التقاعد ناسبه. عوّض اللي فاته مع زوجته، ودلّع أحفاده، وكان يطبخ عشاء للعائلة كل أربعاء. كان سعيدًا.",
+      "لين جاه الاتصال.",
+      "الجهات قالت إنه حادث غريب: النار التهمت بيت ولده قبل ما أحد يقدر يهرب. لكن ويسلي عرف إن السالفة مو كذا. زوجة ولده من إكسيا، وتقدر تطفي النار بمجرد فكرة. إذا لقوا أجسادهم محترقة، هذا يعني إنهم كانوا ميتين قبل الحريق بوقت.",
+      "عشان كذا رجع غراي تالون يمسك قوسه. ويوم يلقى المسؤول، الحساب بيكون دموي."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "غراي تالون",
+    "headlineAr": "القوس رجع بيده.",
+    "gameplayAr": "يضغط من بعيد بالطلقات المشحونة ويستخدم الفخاخ والطيران لفتح زاوية آمنة.",
+    "identityColor": "#5EB083",
+    "effect": "aura",
+    "poster": "assets/lore/17-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "غراي تالون مقاتل روحاني بالقوس، يضغط على أعدائه بالسهام والقوى الروحية من بعيد. يحافظ على مسافته بالفخاخ والطيران القصير، ويرسل رفيقته البومة الروحية لإنهاء الأهداف قليلة الدم. هو صائد وحوش مشهور رجع من التقاعد عشان يلاحق قتلة عائلته، ويمكن يطلب مساعدة الباترونز.",
+      "يستعمل قوسه القوي مع الفخاخ والطيران السحري عشان يثبت أعداءه وينهيهم. يشحن Charged Shot لضربة قوية من بعيد، وبعدها يرسل Spirit Owl، بومته روهان، عشان يكمل عليهم.",
+      "ويسلي غراي تالون من مؤسسي Baxter Society لصيد الوحوش. تقاعد بعد أربعين سنة لخدمة عائلته الكبيرة، لين جاه خبر موت ابنه وزوجة ابنه وأحفاده بحريق منزل غامض. ومع ضيق الوقت الباقي من عمره، كرّسه لملاحقة اللي أشعلوا الحريق، وقوسه بيده."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Grey_Talon?oldid=192320",
+    "overviewRevision": 192320,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 18,
+    "name": "Mo & Krill",
+    "loreEnglish": "Mo and Krill are members of The Tunnel Rats, a group that help facilitate illicit trade and commerce between the boroughs thanks to a network of underground tunnels.  But while most denizens of the New York underworld respect the work The Rats do, every once in a while a gang tries to exploit the tunnel system for personal vendettas...that's when Mo and Krill step in and remind the city what happens to those who disrespect their hospitality.",
+    "wikiUrl": "https://deadlock.wiki/Mo_%26_Krill",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/krill_bg.webp",
+    "portrait": "assets/18.webp",
+    "summaryAr": "مو وكريل من Tunnel Rats، جماعة تدير تجارة غير قانونية بين أحياء المدينة عبر شبكة أنفاق تحت الأرض.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 188755,
+    "wikiTitle": "Mo & Krill",
+    "wikiSections": [
+      {
+        "name": "Innate",
+        "anchor": "Innate"
+      },
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "See also",
+        "anchor": "See_also"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "مو وكريل من جماعة «فئران الأنفاق»، اللي يسهّلون التجارة غير القانونية بين أحياء نيويورك من خلال شبكة أنفاق تحت الأرض.",
+      "أغلب أهل عالم الجريمة يحترمون شغل الجماعة. لكن بين فترة وفترة تطلع عصابة تحاول تستخدم الأنفاق لتصفية حساباتها الشخصية. هنا يتدخّل مو وكريل، ويذكّرون المدينة وش يصير للي ما يحترم ضيافتهم."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "مو وكريل",
+    "headlineAr": "الأنفاق لها أهلها.",
+    "gameplayAr": "يدخل من تحت الأرض ويعطّل الخصم من قريب. الألتمت يمسك هدف لفريقك.",
+    "identityColor": "#C58428",
+    "effect": "aura",
+    "poster": "assets/lore/18-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "مو وكريل ثنائي معروف ومحترم في عالم الجريمة الأمريكي، يجمعان بين الحركة وتعطيل الخصم. Burrow يخليهما يتنقلان تحت الأرض ويطلعان فجأة على العدو، وإذا كان جاهزًا لهما، Sand Blast يعطّل سلاحه. Scorn يساعدهما يصمدان وسط المجموعة إلى أن تجي المساندة، والخصم اللي يتقدم زيادة ينمسك بـCombo ويصير عاجزًا عن الرد.",
+      "موريس وكريل من Tunnel Rats ومقرّبان من ريث، ويتاجران بالممنوعات ويتخذان أنفاق نيويورك بيتًا لهما. العصابات المنافسة اللي تحاول تستغل الأنفاق لمصلحتها تكتشف بالطريقة الصعبة قد إيش يحمي هالثنائي أرضه."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Mo_%26_Krill?oldid=188755",
+    "overviewRevision": 188755,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 19,
+    "name": "Shiv",
+    "loreEnglish": "A loyal member of \"The Baxter Society\", an international order of monster hunters, Shiv travels across North America looking to put down creatures that prey on the living.<br><br>While his less polished nature and criminal past make some of the more traditional members of the Society wary, no one can deny his effectiveness.",
+    "wikiUrl": "https://deadlock.wiki/Shiv",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/shiv_bg.webp",
+    "portrait": "assets/19.webp",
+    "summaryAr": "شيف صياد وحوش مخلص لجمعية باكستر، يتنقّل بأمريكا الشمالية ويدوّر المخلوقات اللي تفترس الأحياء. ماضيه الإجرامي جزء من حكايته.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 192180,
+    "wikiTitle": "Shiv",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "شيف عضو وفيّ في «جمعية باكستر»، وهي جماعة دولية لصيّادي الوحوش. يتنقّل في أمريكا الشمالية عشان يقضي على المخلوقات اللي تفترس الأحياء.",
+      "أسلوبه الخشن وماضيه الإجرامي يخلّون بعض الأعضاء التقليديين يشكّون فيه، لكن محد يقدر ينكر إنه ينجز المهمة."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "شيف",
+    "headlineAr": "الماضي ما يوقف الصيّاد.",
+    "gameplayAr": "ينزّف الأعداء ويتعامل مع الضرر المؤجل، وينفذ الخصم إذا نزلت صحته تحت الحد.",
+    "identityColor": "#E52A68",
+    "effect": "aura",
+    "poster": "assets/lore/19-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "شيف صائد وحوش يحاول يكفّر عن ماضيه، ويعتمد على الدخول والخروج واصطياد الأهداف المكشوفة. يستفيد من ارتداد الشوتقن للتنقّل واللحاق، ويرمي Serrated Knives عشان يسبب نزيف من بعيد، ثم يدخل بالوقت اللي يختاره بـSlice and Dice. استمرار الضرر يبني Rage ويقوّي قدراته، وBloodletting يساعده يتحمّل الإصابات، قبل ما ينهي الهدف المحتضر بـKilling Blow.",
+      "كان شيف مجرمًا، والحين يحاول يصلح أخطاءه بصيد الوحوش لحساب Baxter Society.",
+      "صدرت الشخصية يوم 15 أغسطس 2024."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Shiv?oldid=192180",
+    "overviewRevision": 192180,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 20,
+    "name": "Ivy",
+    "loreEnglish": "The gargoyle didn't know what was happening when it sprang to life...  just that a big human and a small human were being hurt.  And so the gargoyle leapt to action, sending the attackers fleeing in horror.  The small human said thank you and asked the gargoyle's name.  The gargoyle didn't have one.  And so the small human said, \"I'm going to call you Ivy.\"  The gargoyle, being covered in ivy at the time, thought it was a bit obvious, but decided to go along with it for the small human's sake.<br><br>The humans asked if Ivy would come home with them so they could show their appreciation, and so Ivy walked with them.  That night she learned much.  The family were called The Arroyo's.  The little one, Sophia.  Mofongo is what they called a plate of deliciousness.  But most importantly, she learned that the people attacking them were called \"The Mendoza Syndicate\", and they were hurting people...nice people like The Arroyo's.<br><br>18 years have passed since the day the Arroyo's took Ivy home... and during that time she made it her mission to dismantle the Mendoza Syndicate and free Spanish Harlem from its grasp.  However the thing about dedicating your life to a single pursuit for nearly 2 decades is that you don't really know what to do once you achieve it.  For the first time in her life, Ivy is prepared to venture outside of Spanish Harlem and see what the world has to offer beyond vigilante justice.",
+    "wikiUrl": "https://deadlock.wiki/Ivy",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/ivy_bg.webp",
+    "portrait": "assets/20.webp",
+    "summaryAr": "آيفي كانت تمثال غارغويل، وفجأة صحَت وشافت ناس يتعرضون للأذى. تدخلت لحمايتهم؛ أول تصرف لها كان إنقاذ أحد ما تعرفه.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 188991,
+    "wikiTitle": "Ivy",
+    "wikiSections": [
+      {
+        "name": "Innate",
+        "anchor": "Innate"
+      },
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D models",
+        "anchor": "3D_models"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "See also",
+        "anchor": "See_also"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "تمثال الغارغويل ما فهم وش صار يوم دبّت فيه الحياة. كل اللي عرفه إن فيه إنسانًا كبيرًا وإنسانًا صغيرًا يتعرضون للأذى. فقفز يساعدهم، وخلّى المهاجمين يهربون مرعوبين. الصغيرة شكرته وسألته عن اسمه. ما كان عنده اسم، فقالت: «بسمّيك آيفي». وبما إنه كان مغطى بنبتة اللبلاب، حسّ إن الاسم واضح زيادة، لكنه وافق عشان خاطرها.",
+      "دعوه يروح بيتهم عشان يشكرونه، ومشى معهم. بهالليلة تعلّم أشياء كثيرة: اسم العائلة «أرويو»، واسم الصغيرة صوفيا، و«الموفونغو» اسم أكلة لذيذة. لكن الأهم إنه عرف إن المهاجمين اسمهم «عصابة ميندوزا»، وإنهم يؤذون ناسًا طيبين مثل عائلة أرويو.",
+      "مرّت ثماني عشرة سنة من اليوم اللي أخذت فيه العائلة آيفي لبيتها. وخلالها صار هدفها تفكّك عصابة ميندوزا وتحرّر سبانيش هارلم من قبضتها. لكن إذا خصصت حياتك لهدف واحد قرابة عقدين، ما تعرف وش تسوي يوم تحققه. والحين آيفي مستعدة لأول مرة تطلع برا الحي وتشوف وش فيه بالعالم غير ملاحقة المجرمين بنفسها."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "آيفي",
+    "headlineAr": "بعد العدالة… وش باقي؟",
+    "gameplayAr": "تدعم حليف بالربط والعلاج، وتعطّل الأعداء بالشوك والتحجر وتتحرك بالفريق جوًا.",
+    "identityColor": "#9D8CA9",
+    "effect": "aura",
+    "poster": "assets/lore/20-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "آيفي تمثال غارغويل صار حارسًا للناس، وعندها أدوات دعم وتعطيل قوية. تربط نفسها بزميل عبر Kudzu Connection لمشاركة العلاج والبفات، وتزرع Entangling Thorns وتتحول إلى Stone Form عشان تضر وتصعق وتعالج نفسها. وبالطيران تقدر تشيل زميلًا أو تصنع قنبلة وتنقلها لأي مكان، سواء Air Drop وسط الأعداء أو إنقاذ حليف من الخطر.",
+      "كانت آيفي تمثالًا بلا حياة، إلى أن استُدعيت لحماية بنت وعائلتها من عصابة Mendoza Syndicate. وعدت عائلة Arroyo بحمايتهم وبدأت تفكك العصابة بنفسها. بعد ثمانية عشر عامًا نجحت، والحين تبحث خارج Spanish Harlem عن هدف جديد تكرّس له حياتها."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Ivy?oldid=188991",
+    "overviewRevision": 188991,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 25,
+    "name": "Warden",
+    "loreEnglish": "Most people think the supernatural came into the world 50 years ago.  They're wrong.  Its presence shaped folklore for generations... and as long as there have been people afraid of the shadows, there have been those who dedicated their lives to fighting in them.<br><br>Coming from a lineage of militant alchemists, Warden's family always trained for the day they would have to stave off a mystic apocalypse... but as time passed the importance of the lessons seemed less and less important.  What once was viewed as a sincere warning slowly morphed into being perceived as amusing anecdotes told by their superstitious grandparents.<br><br>When the portal opened in Central Park, Warden's parents realized not only was everything they were told was true, they were unprepared.  Refusing to let the next generation fall asleep on the job, Warden was trained since birth to be a supernatural killing machine with one purpose: stopping the Patrons from ever entering our world.",
+    "wikiUrl": "https://deadlock.wiki/Warden",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/warden_bg.webp",
+    "portrait": "assets/25.webp",
+    "summaryAr": "واردن يعرف إن القوى الخارقة أقدم من ظهورها العلني بكثير. قصته مرتبطة باللي كرّسوا حياتهم لمواجهة الأخطار اللي تعيش بالظلال.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 162259,
+    "wikiTitle": "Warden",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "أغلب الناس يحسبون إن القوى الخارقة دخلت العالم قبل خمسين سنة. هم غلطانين. وجودها شكّل الحكايات الشعبية من أجيال، ومن يوم صار فيه ناس يخافون من الظلام، صار فيه ناس يكرّسون حياتهم لمحاربته.",
+      "واردن من عائلة خيميائيين مقاتلين، درّبوا نفسهم دائمًا لليوم اللي يضطرون فيه يوقفون نهاية عالم سحرية. لكن مع الوقت، صارت الدروس تفقد أهميتها بنظر الأجيال. التحذيرات الجادة تحوّلت بالتدريج إلى سوالف مسلّية يقولها أجداد يؤمنون بالخرافات.",
+      "يوم انفتحت البوابة في سنترال بارك، استوعب أهل واردن إن كل اللي انقال لهم صحيح، وإنهم مو مستعدين. ورفضوا يخلّون الجيل الجاي يغفل مثلهم، فدرّبوه من يوم انولد يصير آلة لقتل الكائنات الخارقة، بهدف واحد: يمنع الباترونز من دخول عالمنا."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "واردن",
+    "headlineAr": "مستعد للي جاي.",
+    "gameplayAr": "يطارد ويضيّق خيارات الهروب. إذا الخصم ما خرج من منطقة اللعنة ينمسك، والألتمت يعالجه من الضرر.",
+    "identityColor": "#4D68A3",
+    "effect": "aura",
+    "poster": "assets/lore/25-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "واردن مقاتل صلب وعنيد، عنده عزيمة ما تنتهي وخبرة بالكيمياء الغيبية. يبدأ المواجهة بـBinding Word أو Alchemical Flask اللي يربك الخصم، ثم يدخل للقتال القريب مستعينًا بحماية Willpower. وإذا صار الوضع صعبًا يطلق Last Stand، يضر ويسحب حياة الأعداء الموجودين قدامه.",
+      "هو من سلالة كيميائيين مقاتلين، كانوا يتدربون لليوم اللي يوقفون فيه كارثة غيبية. مع السنين ضاع سبب التدريب، فوالداه ما كانوا مستعدين للمايلستروم الأول. ومع اقتراب الكارثة الجديدة، تدرب واردن من ولادته ليصير سلاحًا يمنع الباترونز من دخول عالمنا مهما كان الثمن."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Warden?oldid=162259",
+    "overviewRevision": 162259,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 27,
+    "name": "Yamato",
+    "loreEnglish": "犯罪組織のボスの家に生まれた花桜梨とその兄の大和にとって、<br>父の死後に「セブンスムーン」の跡目を継ぐのは自明のことでもあった。<br>そして何年もの間、かれらは対等の立場で組織を率いて利益と成功を<br>もたらし、やがてはアメリカへの進出をも目論むようになった。<br><br>思い描いていた計画は単純で、 大和がアメリカに渡って花桜梨の<br>国際的な存在感を高め、その間花桜梨は日本に残って国内を統制する、<br>といったものだった。 兄妹にとって不運だったのは、花桜梨が日本で<br>指揮をとるという計画を快く思わない部下たちがいたことだった。<br><br>そして迅速かつ暴力的な形で、反乱は発生した。大和は花桜梨を<br>守るために命を落とし、花桜梨と数人の忠実な部下たちは、<br>その大和の犠牲のおかげもあって、日本からアメリカへと<br>逃げ延びることに成功した。<br><br>アメリカに着いた花桜梨たちを出迎えたのは、本来であれば大和が<br>会う予定となっていた男であった。彼は日本人の名前になじみが<br>なかったため性別の区別がついておらず、花桜梨のことを<br>「ヤマト」と呼んだ。花桜梨は男の間違いを正そうと思ったが、<br>結局そのままにした。兄の記憶を残し続けるためにも、その名を名乗り、<br>その夢を受け継ぐことが最善の道であろうと考えたからだ。",
+    "wikiUrl": "https://deadlock.wiki/Yamato",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/yamato_bg.webp",
+    "portrait": "assets/27.webp",
+    "summaryAr": "ياماتو مرتبطة بعائلة تقود منظمة إجرامية اسمها Seventh Moon. مشروع التوسع لأمريكا دخلها هي وأخوها بقصة أكبر من مجرد صراع بالسلاح.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 188765,
+    "wikiTitle": "Yamato",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "كاوري وأخوها ياماتو انولدوا في بيت زعيم منظمة إجرامية. وبعد وفاة أبوهم، كان طبيعي يرثون قيادة «سيفنث مون». ولسنين قادوا المنظمة كشريكين متساويين، وحققوا أرباحًا ونجاحات، لين بدؤوا يخططون للتوسّع بأمريكا.",
+      "الخطة كانت بسيطة: ياماتو يروح أمريكا ويمهّد لتوسّع كاوري دوليًا، وهي تبقى باليابان تدير العمل المحلي. لكن بعض أتباعهم ما تقبّلوا فكرة إنها تكون القائدة باليابان.",
+      "التمرّد صار بسرعة وبعنف. ياماتو ضحّى بحياته عشان يحمي أخته، وبفضل تضحيته قدرت كاوري ومعها عدد من المخلصين يهربون من اليابان لأمريكا.",
+      "يوم وصلوا، استقبلهم الرجل اللي كان المفروض يقابل ياماتو. ما كان يعرف الأسماء اليابانية ولا يميّز منها الرجل عن المرأة، فناداها «ياماتو». فكّرت تصحّح له، لكنها بالنهاية سكتت. شافت إن حمل اسم أخوها وإكمال حلمه أفضل طريقة تبقي ذكراه حيّة."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "ياماتو",
+    "headlineAr": "اسم يحمل ذكرى.",
+    "gameplayAr": "مقاتلة قريب تدخل بالسيف وتتعالج، وتستغل التحول لتمديد القتال.",
+    "identityColor": "#625789",
+    "effect": "aura",
+    "poster": "assets/lore/27-poster.webp",
+    "storySourceLanguage": "ja",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "ياماتو قاتلة للقتال القريب تعتمد على ضربات دقيقة وسيف قوي. تستخدم Flying Strike وخطافها عشان تقرب، وتجمع الميلي مع Power Slash وCrimson Slash لإيذاء الأعداء وإبطائهم وتعطيلهم وعلاج نفسها. وإذا دخلت بكامل قوتها، Shadow Transformation يملؤها بروح ظل أخيها ويجعلها لفترة قصيرة صعبة الإيقاف وهي تنهي خصومها.",
+      "كاوري وأخوها كانا من قادة جريمة Seventh Moon، وجلبا لها المال والنفوذ. خلاف أثناء التوسع انتهى بموت أخيها وهروبها إلى الولايات المتحدة. سوء فهم بعد وصولها خلّاها تتخذ اسمه، ياماتو، وتعاهد نفسها تحقق حلمه بالانتشار الدولي."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Yamato?oldid=188765",
+    "overviewRevision": 188765,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 31,
+    "name": "Lash",
+    "loreEnglish": "Jacob Lash is an asshole.",
+    "wikiUrl": "https://deadlock.wiki/Lash",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/lash_bg.webp",
+    "portrait": "assets/31.webp",
+    "summaryAr": "اللعبة تتعمّد تخلي خلفية جاكوب لاش قصيرة جدًا: رجل مستفز وسيئ التعامل. ما فيه سيرة طويلة بالمصدر عشان نزيد عليها أحداث من عندنا.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 192160,
+    "wikiTitle": "Lash",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "See also",
+        "anchor": "See_also"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "جيكوب لاش واحد وقح وثقيل دم."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "لاش",
+    "headlineAr": "ثقته ما لها حدود.",
+    "gameplayAr": "قوة من الارتفاع والحركة. يدخل من فوق ويجمع الأعداء ويرميهم بمكان يخدم فريقه.",
+    "identityColor": "#4174BB",
+    "effect": "aura",
+    "poster": "assets/lore/31-poster-v3.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "جيكوب لاش واحد وقح، ومقاتل عنيف يحب يبدأ الفايت ويلاحق الهاربين. يقفز بخطاف Grapple، ويجلد الخصم بـFlog اللي يسحب له حياة، ثم يضرب الأرض بـGround Strike عشان يصيب أكثر من هدف. وإذا تجمع فريق العدو، يقدر يشيلهم مع بعض بـDeath Slam ويرميهم بالأرض.",
+      "لاش عامل تحميل بالميناء وغروره بحجم منطاد، لكن شهرته الأكبر جاية من كونه بطل نادي القتال السري Bear Pit."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Lash?oldid=192160",
+    "overviewRevision": 192160,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 35,
+    "name": "Viscous",
+    "loreEnglish": "The Bermuda Triangle was never a myth, it was a shadowline nexus deep underneath the Atlantic Ocean.  For the most part, the things that escaped this astral gate were benign (like Nessie), but now something dark and predatory known only as The Adversary hunts the seas... and ocean denizens are scared to death.<br><br>One of those inhabitants, a psychic sea anemone, wants to do something about it.  Summoning an ectoplasmic goo body to traverse the surface, Viscous is desperately trying to summon the Patrons in order to keep The Deep safe from the horror that lurks below.",
+    "wikiUrl": "https://deadlock.wiki/Viscous",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/viscous_bg.webp",
+    "portrait": "assets/35.webp",
+    "summaryAr": "فيسكوس جاي من حكاية بوابة خفية بأعماق الأطلسي عند مثلث برمودا. أغلب اللي خرج منها ما كان مؤذي، لكن ظهور تهديد مفترس غيّر الوضع.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 194493,
+    "wikiTitle": "Viscous",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "See also",
+        "anchor": "See_also"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "مثلث برمودا ما كان خرافة؛ كان نقطة التقاء للخطوط الفاصلة بين العوالم في أعماق المحيط الأطلسي. أغلب اللي خرجوا من هالبوابة النجمية كانوا مسالمين، مثل نيسي. لكن الحين فيه مخلوق مظلم ومفترس، ما يُعرف إلا باسم «الخصم»، يصيد في البحار ويخلّي سكانها مرعوبين.",
+      "واحد من هالسكان، شقائق نعمان بحرية عندها قوى ذهنية، قرّر يسوي شيء. استدعى لنفسه جسمًا من مادة شبحية لزجة يقدر يتحرك فيه على اليابسة. والحين فيسكوس يحاول بكل قوته يستدعي الباترونز عشان يحمي عالم الأعماق من الرعب المتربّص تحته."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "فيسكوس",
+    "headlineAr": "الأعماق تحتاجه.",
+    "gameplayAr": "يتحكم بالمكان باللزج والقبضات، وينقذ نفسه أو حليف بالمكعب ويتحول لكرة للمواجهة.",
+    "identityColor": "#319826",
+    "effect": "drift",
+    "poster": "assets/lore/35-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "فيسكس أخضر اللون: شقائق نعمان بحرية بقوى نفسية داخل بدلة هلامية. يرمي Splatter عشان يغطي الأرض بالمادة الخضراء ويبطئ الضحايا، ثم يوجّه Puddle Punch ليبعد الأعداء عن فريقهم أو ينقذ زملاءه من الخصوم. وحتى لو مسكوه، اللي داخل The Cube محمي بالكامل. وبعدها تجي Goo Ball وتبدأ الفوضى.",
+      "هو كائن بحري طيب، ولو إنه طفولي، وموطنه في مثلث برمودا غزاه مفترس غامض وخطير يُعرف باسم Adversary. وصل للسطح بجسم من الهلام الطيفي، ويبغى يستدعي الباترونز عشان يحمون موطنه في الأعماق.",
+      "صدرت الشخصية يوم 1 أغسطس 2024."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Viscous?oldid=194493",
+    "overviewRevision": 194493,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 50,
+    "name": "Pocket",
+    "loreEnglish": "Arin Fairfax, the eldest heir to Fairfax Industries, has been living in hiding for the past 5 years after being shot and left for dead on their 18th birthday.  Arin doesn't know who is trying to keep them from taking control of their parent's company... but in the avarice fueled viper's nest that is Fairfax Industries it could be anyone.<br><br>Taking on the name \"Pocket\", Arin desperately wants to keep their true identity a secret... not only for their own protection; but because they want to forge their own identity separate from their parents.",
+    "wikiUrl": "https://deadlock.wiki/Pocket",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/pocket_bg.webp",
+    "portrait": "assets/50.webp",
+    "summaryAr": "آرين فيرفاكس، وريث Fairfax Industries، عاش متخفيًا خمس سنوات بعد محاولة قتله بعيد ميلاده الثامن عشر. ما يعرف مين يبي يمنعه من الميراث.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 194441,
+    "wikiTitle": "Pocket",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "آرين فيرفاكس، أكبر ورثة «فيرفاكس إندستريز»، يعيش مختبئًا من خمس سنين، بعدما تعرّض لإطلاق نار وتُرك للموت يوم عيد ميلاده الثامن عشر. ما يعرف مين يحاول يمنعه من استلام شركة أهله، لكن وسط وكر الطمع والمؤامرات داخل الشركة، ممكن يكون أي أحد.",
+      "اختار اسم «بوكيت»، ويحاول بشدة يخفي هويته الحقيقية. مو بس عشان يحمي نفسه، لكن لأنه يبي يبني هوية تخصّه، بعيدة عن أهله."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "بوكيت",
+    "headlineAr": "هويته من اختياره.",
+    "gameplayAr": "يضر مجموعة ويعيد تموضعه بالعباءة والشنطة. يحتاج يدخل ويطلع بتوقيت مضبوط.",
+    "identityColor": "#858617",
+    "effect": "aura",
+    "poster": "assets/lore/50-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "بوكِت يقاتل في الطقس عشان يحصل فرصة يوقف أباه، ويفضّل المواجهة القريبة بشوتقنه القوي وقدراته السريعة. يفتح حقيبته السحرية ويطلق Barrage على مجموعات الأعداء بدفعات روحية. Flying Cloak تضر الأهداف وتنقله من خلفها عشان يفرّغ شوتقنه، وEnchanter’s Satchel تخليه يختفي داخل الحقيبة ويتفادى الرد. وإذا حاصروه يطلق Affliction اللي تأكل دمهم تدريجيًا وتجهّزهم لهجمة قوية.",
+      "أرين فيرفاكس هو الوريث الأكبر لثروة Fairfax Industries، لكنه متخفٍ من أكثر من خمس سنوات بعد محاولة اغتيال فاشلة. خوفه على حياته ورغبته يمشي بطريقه الخاص خلّته يخفي هويته باسم بوكِت، ويحقق في مين حاول يقتله."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Pocket?oldid=194441",
+    "overviewRevision": 194441,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 52,
+    "name": "Mirage",
+    "loreEnglish": "The Djinn are one of the more curious groups of people in the modern world.  Possessing great power in controlled doses, Djinn are incapable of maintaining corporeal form for longer than 48 minutes without resting within a vessel.  As a result, most Djinn employ human bodyguards for transport, protection, and companionship.<br><br>Mirage is one such bodyguard.  Employed by Djinn ambassador Nashala Dion, Mirage is in New York on a diplomatic mission.  It's the hope of the Djinn that they can negotiate with the US government for a sale of part of Wyoming so that they can build a sovereign nation for their people.",
+    "wikiUrl": "https://deadlock.wiki/Mirage",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/mirage_bg.webp",
+    "portrait": "assets/52.webp",
+    "summaryAr": "ميراج مرتبط بعالم الجن، اللي عندهم قوة كبيرة لكن وجودهم بجسم مادي محدود. بعد 48 دقيقة يحتاج الجن يرجع لوعائه ويرتاح.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 189529,
+    "wikiTitle": "Mirage",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "الجن من أغرب سكان العالم الحديث. قوتهم عظيمة لكن استخدامها له حدود؛ ما يقدرون يحافظون على جسم مادي أكثر من ثمانٍ وأربعين دقيقة بدون ما يرتاحون داخل وعاء. عشان كذا أغلبهم يوظّفون حرّاسًا بشرًا للنقل والحماية والرفقة.",
+      "ميراج واحد من هالحرّاس، ويشتغل عند سفيرة الجن ناشالا ديون. وصل نيويورك معها في مهمة دبلوماسية. أمل الجن يتفاوضون مع الحكومة الأمريكية لشراء جزء من ولاية وايومنغ، عشان يؤسّسون دولة مستقلة لشعبهم."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "ميراج",
+    "headlineAr": "مهمة من عالم ثاني.",
+    "gameplayAr": "يضغط بالخنافس والعلامات، ويتنقل بالخريطة لدعم فريقه إذا ما انقطع انتقاله.",
+    "identityColor": "#6A2E68",
+    "effect": "drift",
+    "poster": "assets/lore/52-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "ميراج خفيف الحركة ويعتمد على قدرات رياح قوية لتعطيل الخصم. يرمي Fire Scarabs ويتحول إلى Dust Devil عشان يضر الأهداف ويرفعها ويسرق حياتها ويفلت منها، بينما Djinn’s Mark تقوّي هجماته. ولما يجي الوقت المناسب، Traveler تنقله فورًا عبر الماب لمساعدة زملائه أو اصطياد خصم ضعيف أو متابعة هدف.",
+      "ميراج مبعوث وحارس دبلوماسي لسفيرة الجن ناشالا ديون. مهمته يحميها ويساعد مهمة الجن للحصول على ولاية وايومنغ.",
+      "صدرت الشخصية يوم 26 سبتمبر 2024."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Mirage?oldid=189529",
+    "overviewRevision": 189529,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 58,
+    "name": "Vyper",
+    "loreEnglish": "When it comes to breaking the law, not getting caught is a pretty important part of the job.  Vyper never got that memo.  Luckily for her, if there's one thing she's better at than being arrested, it's escaping out of jail.<br><br>Having done time in every major prison in the tri-state area, Vyper has built an impressive network of street level lowlifes that owe her one.  She's also built an impressive network of street level lowlifes that want her dead, but she tries to focus on the positive.",
+    "wikiUrl": "https://deadlock.wiki/Vyper",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/vyper_bg.webp",
+    "portrait": "assets/58.webp",
+    "summaryAr": "فايبر ما تتقن تفادي الاعتقال، لكنها شاطرة جدًا بالهرب من السجن. هالفرق بين التورّط والهروب هو قلب شخصيتها.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 189516,
+    "wikiTitle": "Vyper",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "إذا شغلك كسر القانون، إنك ما تنمسك جزء مهم من الوظيفة. فايبر واضح إن هالمعلومة ما وصلتها. لحسن حظها، الشي الوحيد اللي تتقنه أكثر من الانقباض عليها هو الهروب من السجن.",
+      "دخلت كل سجن رئيسي تقريبًا بمنطقة الولايات الثلاث، وبنت شبكة كبيرة من مجرمي الشوارع اللي مدينين لها بخدمة. وبنت بعد شبكة كبيرة من مجرمي الشوارع اللي يبونها ميتة… لكنها تفضّل تركز على الجانب الإيجابي."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "فايبر",
+    "headlineAr": "الأبواب ما توقفها.",
+    "gameplayAr": "يركز على السم والسلايد وتعطيل الحركة، ويستفيد من الخصم اللي نقصت صحته.",
+    "identityColor": "#A7AD00",
+    "effect": "aura",
+    "poster": "assets/lore/58-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "فايبر تنزلق بسرعة عبر ساحة القتال بـSlither عشان تتفادى الهجمات وتمطر أعداءها بالرصاص. Lethal Venom يحقن الهاربين بسم ينهيهم، وScrewjab Dagger يصيب الأهداف البعيدة، أما Petrifying Bolas فتضمن إن الهدف ما يهرب بسهولة.",
+      "فايبر خارجة عن القانون ومندفعة، تدخل السجن قد ما تهرب منه. وصنعت لنفسها سمعة بين حلفاء وأعداء من عالم الجريمة في منطقة الولايات الثلاث حول نيوجيرسي.",
+      "دخلت الشخصية Hero Labs يوم 24 أكتوبر 2024, وصدرت رسميًا يوم 17 يناير 2025."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Vyper?oldid=197650",
+    "overviewRevision": 197650,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 60,
+    "name": "Sinclair",
+    "loreEnglish": "Henry's parents told him he was too young and impulsive to mess with real magic, and so they gave him a deck of cards to play with.  He took to sleight of hand naturally and soon was dazzling his classmates with fantastic feats of illusions that were done without mystic artifacts or incantation.<br><br>When he was in high school he met Savannah, and their mutual love of stage magic sparked a whirlwind romance.  Soon they fell in love and created an act together.  Obviously they were meant to be; and so at prom, Henry proposed to Savannah and they married soon after graduation.<br><br>Unsurprisingly both sets of parents were not thrilled at this prospect, but Henry and Savannah knew they were soulmates.  And so they cemented their love for one another by having a blood mystic bind their souls for eternity.<br><br>When an on-stage accident claimed both their lives, no one was sure who to blame.  Henry claims Savannah was out of position.  Savannah says Henry didn't wait for his cue.  But one thing's for sure, since their souls are tied to each other neither one of them have been able to move on.  Now a bickering pair of ghosts, Henry and Savannah need to work together if they want to have any chance of undoing their eternal union.",
+    "wikiUrl": "https://deadlock.wiki/Sinclair",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/magician_bg.webp",
+    "portrait": "assets/60.webp",
+    "summaryAr": "أهل هنري قالوا له إنه مندفع وصغير على السحر الحقيقي، وعطوه ورق لعب بدلًا منه. بدأ بخفة اليد وصار يبهر اللي حوله بخدعه.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 184511,
+    "wikiTitle": "Sinclair",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Images",
+        "anchor": "Images"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "أهل هنري قالوا له إنه صغير ومندفع زيادة على السحر الحقيقي، فعطوه ورق لعب يتسلّى فيه. خفة اليد جت معه بالفطرة، وسرعان ما صار يبهر زملاءه بخدع مدهشة، بدون آثار سحرية أو تعاويذ.",
+      "بالثانوي تعرّف على سافانا، وحبّهم المشترك لسحر المسرح أشعل قصة حب سريعة. سوّوا عرضًا مع بعض، وكانوا متأكدين إنهم لبعض. وفي حفلة المدرسة طلب هنري يدها، وتزوّجوا بعد التخرج بوقت قصير.",
+      "أهل الطرفين ما تحمّسوا للموضوع، لكن هنري وسافانا كانوا مقتنعين إنهم توأم روح. فثبّتوا حبهم عند ساحر دم، ربط أرواحهم ببعض إلى الأبد.",
+      "ويوم حادث على المسرح أخذ حياتهم الاثنين، محد عرف على مين اللوم. هنري يقول إن سافانا كانت واقفة بالمكان الغلط، وهي تقول إنه ما انتظر إشارته. لكن المؤكد إن أرواحهم مربوطة، ولا واحد قدر يرحل للعالم الآخر. صاروا شبحين ما يوقفون هوشات، ولازم يتعاونون إذا يبون أي فرصة يفكّون هالارتباط الأبدي."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "سينكلير",
+    "headlineAr": "مرتبطين… للأبد.",
+    "gameplayAr": "يلعب بالمساعد وتغيير المكان، ويقدر ينسخ ألتمت عدو عشان يصنع فرصة جديدة.",
+    "identityColor": "#6B6B6B",
+    "effect": "aura",
+    "poster": "assets/lore/60-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "سنكلير يستخدم عصاه السحرية لإطلاق Vexing Bolt ومفاجأة الأعداء، ويحوّلهم إلى أرانب. Spectral Assistant يضاعف ضغطه ويعطيه طريق هروب سريع، وحتى قدرات أعدائه يقدر يقلبها عليهم بحيلته الأخيرة Audience Participation.",
+      "هنري وسافانا كانا ساحري مسرح شابين ومتحابين، وربطا روحيهما ببعض للأبد. لكن علاقتهما تضررت بعد حادث مسرحي مأساوي أخذ حياتهما معًا. الحين يجتمعان تحت اسم سنكلير ويدوران طريقة ينفصلان ويجدان راحتهما في الآخرة.",
+      "دخلت الشخصية Hero Labs يوم 24 أكتوبر 2024, وصدرت رسميًا يوم 17 يناير 2025."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Sinclair?oldid=184511",
+    "overviewRevision": 184511,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 63,
+    "name": "Mina",
+    "loreEnglish": "Mina Ha had it all...rich parents, elite education, and an arranged marriage that would see her ascend from run-of-the-mill upper class to American royalty.  She was happy.<br><br>Then her betrothed was assassinated.<br><br>Mina wept; not for the life of her fiancé, but for the future that was stolen from her.  Why couldn't the killer just wait until after the wedding? Then she'd have the last name she always dreamed of and no one would even have to pretend to love anyone.  It could have been perfect, but life wasn't fair...and so Mina did what she always does when things don't go her way: she told her parents to fix it.<br><br>Mr. And Mrs. Ha knew that the only way to appease their daughter was to offer her something greater than what she lost... and marrying into one of the world's most lauded families was a tall order to top.  They had to think big.  They had to think outside of the box.  They had to promise their daughter immortality.<br><br>It took a small fortune, but eventually they found a vampire who was willing to turn her.  Unsurprisingly, Mina thought the idea of eternal youth and a trust fund was an acceptable plan B and happily agreed to the proposal.  Now a fledgling vampire, Mina is quickly discovering that the clout she held as a human has no weight in vampire high society...and while at first that annoyed her, if there is one thing Mina has a knack for, it's learning the rules so she can subvert them.  She will be the Viscount of New York, the other vampires just don't know it yet.",
+    "wikiUrl": "https://deadlock.wiki/Mina",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/mina_bg.webp",
+    "portrait": "assets/63.webp",
+    "summaryAr": "مينا ها نشأت غنية وبتعليم راقٍ، وزواجها المرتب كان بيفتح لها باب نفوذ أكبر. اغتيال خطيبها غيّر المسار اللي رسموه لها.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 188753,
+    "wikiTitle": "Mina",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "مينا ها كان عندها كل شيء: أهل أغنياء، تعليم للنخبة، وزواج مرتّب بيرفعها من مجرد طبقة غنية إلى واحدة من أكبر العائلات الأمريكية. كانت سعيدة.",
+      "لين اغتالوا خطيبها.",
+      "مينا بكت، مو على حياته، لكن على المستقبل اللي انسرق منها. ليه القاتل ما انتظر لبعد العرس؟ كان بيصير معها اسم العائلة اللي تحلم فيه، وما كان أحد بيحتاج حتى يتظاهر إنه يحب الثاني. كان ممكن كل شيء يصير مثالي، بس الحياة مو عادلة. فسوت اللي تسويه دائمًا إذا شيء ما مشى على كيفها: قالت لأهلها يصلحون الموضوع.",
+      "أهلها عرفوا إن الطريقة الوحيدة يرضونها يعطونها شيء أكبر من اللي خسرته. لكن وش الشي اللي يتفوّق على الزواج من عائلة عالمية مشهورة؟ احتاجوا يفكّرون خارج المعتاد… ويوعدونها بالخلود.",
+      "الموضوع كلّف ثروة صغيرة، لكن لقوا مصاص دماء وافق يحوّلها. وطبعًا مينا شافت إن شبابًا أبديًا مع صندوق أموال مضمون خطة بديلة مقبولة، ووافقت مبسوطة.",
+      "الحين هي مصاصة دماء جديدة، وبدأت تستوعب إن نفوذها بين البشر ما له وزن بمجتمع مصاصي الدماء الراقي. بالبداية انزعجت، لكن الشي اللي تتقنه مينا هو تتعلّم القوانين عشان تلتف عليها. هي بتصير فيسكونت نيويورك… بس بقية مصاصي الدماء للحين ما يدرون."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "مينا",
+    "headlineAr": "الخلود كان البداية.",
+    "gameplayAr": "تضغط بضرر السبيرت والعضّات وتتفادى الاستهداف بالانتقال، ثم تفتح على أكثر من خصم بالخفافيش.",
+    "identityColor": "#A9171E",
+    "effect": "aura",
+    "poster": "assets/lore/63-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "مينا ضررها قوي لكن تحمّلها ضعيف؛ تضرب بمظلتها وتسبب دفعات ضرر سبيرت من بعيد عبر Love Bites. وإذا زاد الخطر تتحول إلى خفافيش وتهرب. كل تفعيل لـLove Bites يقوّي قدراتها كمصاصة دماء، إلى أن تطلق Nox Nostra: سربًا ضخمًا يلاحق الأعداء القريبين ويسكتهم.",
+      "مينا ها بنت غنية وطموحة، كانت مخطوبة للوريث الأكبر لثروة Fairfax Industries، لكنه اغتيل قبل الزواج. والداها استأجرا مصاص دماء عشان يحوّلها ويعطيها حياة أبدية. وبين تعلّم قواها الجديدة والدخول لمجتمع مصاصي الدماء الراقي، صار طموحها تكون الفيكونت القادم لنيويورك.",
+      "صدرت الشخصية يوم 18 أغسطس 2025."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Mina?oldid=188753",
+    "overviewRevision": 188753,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 64,
+    "name": "Drifter",
+    "loreEnglish": "An ancient vampire roaming across America, the nameless monstrosity known as The Drifter has been preying on the living for generations.\n\nUnlike most vampires, Drifter doesn’t value finery or titles and has naked contempt for vampiric laws and tradition.  This refusal to toe the line has made him a marked man all over the North American Baronies; but while Viscounts and Elders cry for his execution, Drifter continues to do what he pleases...",
+    "wikiUrl": "https://deadlock.wiki/Drifter",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/drifter_bg.webp",
+    "portrait": "assets/64.webp",
+    "summaryAr": "دريفتر مصاص دماء قديم يجول بأمريكا ويفترس الأحياء من أجيال. ما يهتم بالألقاب والترف ولا يحترم قوانين مجتمعه بسهولة.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 189508,
+    "wikiTitle": "Drifter",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "مصاص دماء قديم يجوب أمريكا، ما له اسم معروف غير «دريفتر». هالوحش يفترس الأحياء من أجيال.",
+      "وعكس أغلب مصاصي الدماء، دريفتر ما تهمّه الفخامة أو الألقاب، ويحتقر قوانينهم وتقاليدهم بشكل صريح. رفضه للالتزام خلّاه مطلوبًا في بارونيات أمريكا الشمالية كلها. لكن بينما الفيسكونتات والشيوخ يطالبون بإعدامه، هو للحين يسوي اللي يبيه."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "دريفتر",
+    "headlineAr": "ما يعترف بقوانينهم.",
+    "gameplayAr": "يطارد الهدف النازف ويظهر خلفه، ويعزل الأعداء بالظلام عشان يضغط عليهم.",
+    "identityColor": "#9D2C2B",
+    "effect": "aura",
+    "poster": "assets/lore/64-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "دريفتر شخصية متعطشة للدم تجوب شوارع المدينة، تتبع ضحاياها من ريحتهم وتعلّم عليهم وتمزّق الأهداف المنعزلة وسط ليل أبدي. هو مصاص دماء قديم يحتقر قوانين مصاصي الدماء التقليدية، ويشوف الطقس مجرد ساحة جديدة لشغله الدموي.",
+      "وصل رعب قديم إلى نيويورك ما له اسم غير دريفتر. إذا حط عينه على ضحية، Bloodscent يقوده لها مهما حاولت تهرب؛ وحتى لو ابتعدت، Stalker’s Mark يخليه يظهر خلفها قبل الانقضاض بـRend. وإذا حلّ Eternal Night، ما عاد يبقى من الهدوء إلا صفير خافت تختلط معه الصرخات."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Drifter?oldid=189508",
+    "overviewRevision": 189508,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 65,
+    "name": "Venator",
+    "loreEnglish": "The Venators of St. Benedict are a Vatican-sanctioned order whose members are deployed to regions with a high concentration of supernatural predators. Few in number, their modus operandi is to observe, identify, and exterminate. They are methodical, they are precise, and once they identify a threat to the flock they are relentless.<br><br>But even amongst those who are called The Sword Of St. Benedict, one stands apart from the others. A man whose hardened heart has allowed him to pay terrible prices in the name of the greater good... and he has once again been dispatched to New York.",
+    "wikiUrl": "https://deadlock.wiki/Venator",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/priest_bg.webp",
+    "portrait": "assets/65.webp",
+    "summaryAr": "فيناتور من رهبنة سانت بندكت المعتمدة من الفاتيكان. أفرادها يراقبون الكائنات المفترسة الخارقة ويحددونها ثم يواجهونها.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 193144,
+    "wikiTitle": "Venator",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "«فيناتورز القديس بندكت» جماعة معتمدة من الفاتيكان، يرسلون أعضاءها للمناطق اللي يكثر فيها المفترسون الخارقون. عددهم قليل، وطريقتهم: يراقبون، يحدّدون، ثم يقضون على الهدف. شغلهم منهجي ودقيق، وإذا تأكدوا من خطر على الناس، ما يتراجعون.",
+      "لكن حتى بين اللي يُسمّون «سيف القديس بندكت»، فيه رجل مختلف عن البقية. قلبه القاسي سمح له يدفع أثمانًا مرعبة باسم المصلحة الكبرى… والحين أرسلوه لنيويورك من جديد."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "فيناتور",
+    "headlineAr": "إذا حدّد الهدف، ما يتراجع.",
+    "gameplayAr": "يعتمد على القنابل والفخ والشوتقن، ويجهز القوس لإنهاء الخصم بصحة قليلة.",
+    "identityColor": "#BD3599",
+    "effect": "aura",
+    "poster": "assets/lore/65-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "فيناتور ما يمشي بطريق الصلاح بس؛ يفتح الطريق لغيره. يرمي Consecrating Grenade عشان يضعف العدو ويمنع استعادة صحته، وينشر Hex-Lined Snap Trap لتثبيته. Gutshot من الشوتقن يبعد اللي يقرب زيادة، وبالوقت المناسب يطلق Ira Domini للقضاء على الشر.",
+      "الأب كوين رورك صائد وحوش ما يهدأ، ويمثّل غضب جماعة Venators of Saint Benedict. أرسله رؤساؤه من الفاتيكان بمهمة واضحة: يمحي الشر اللي بدأ يتحرك في نيويورك.",
+      "صدرت الشخصية يوم 5 فبراير 2026."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Venator?oldid=193144",
+    "overviewRevision": 193144,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 66,
+    "name": "Victor",
+    "loreEnglish": "A lot of people spend their whole lives wondering who they really are. For Victor, this existential question is made more complicated as he woke up on a mortuary table with no knowledge of his creator, why he was made, and whom he is made of.\n\nNow searching the five boroughs for answers, Victor is hoping to find someone who can identify any part of him.",
+    "wikiUrl": "https://deadlock.wiki/Victor",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/victor_bg.webp",
+    "portrait": "assets/66.webp",
+    "summaryAr": "فيكتور صحا على طاولة بمشرحة، ما يعرف من صنعه ولا ليه ولا ممن تكوّن. بحثه عن هويته حرفي، مو مجرد سؤال فلسفي.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 194494,
+    "wikiTitle": "Victor",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D Models",
+        "anchor": "3D_Models"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "ناس كثير يقضون عمرهم يسألون نفسهم: من أنا فعلًا؟ بالنسبة لفيكتور، السؤال أعقد؛ لأنه صحا على طاولة مشرحة، وما يعرف مين صنعه، وليه صنعه، ولا أجساد مين تكوّن منها.",
+      "الحين يبحث في أحياء نيويورك الخمسة عن أجوبة، ويتمنى يلقى أحد يقدر يتعرّف على أي جزء منه."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "فيكتور",
+    "headlineAr": "من أنا؟",
+    "gameplayAr": "يستفيد من تلقي الضرر ويحول ألمه لضرر حوله. يحتاج يوازن استنزاف صحته مع تجددها.",
+    "identityColor": "#658B6F",
+    "effect": "aura",
+    "poster": "assets/lore/66-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "فيكتور واقف على الحد بين الحياة والموت، وتعلّم يستغل الألم. يصعق نفسه بـJumpstart عشان يرفع الأدرينالين ويشغّل قلبه المتعطل، ويستقبل الضرر بذراعيه المختلفتين ويخزنه في Pain Battery عشان يذيق خصمه منه. اللي يقرب يعلق في Aura of Suffering، وحتى لو حسبته مات، يقدر يجمع نفسه ويرجع يعيش.",
+      "صحا فيكتور على طاولة مشرحة بلا أي ذكريات. كل اللي يبيه يعرف مين صنعه، ومن أصحاب الأجزاء اللي تركّب منها.",
+      "صدرت الشخصية يوم 29 أغسطس 2025."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Victor?oldid=194494",
+    "overviewRevision": 194494,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 67,
+    "name": "Paige",
+    "loreEnglish": "The daughter of a rare book dealer, Paige grew up in a loving home that prioritized kindness, magic, and storytelling.  But while Paige took naturally to her parents' values, her little brother Bryce did not.\n\nA rebellious teen, Bryce resented not only his family’s saccharine attitude, but also their refusal to let him dabble in magics that they deemed too dangerous.  Paige tried everything she could think of to keep him out of trouble, but like most teenagers, the more his big sister tried to tell him what was best for him, the more he turned away.\n\nPaige doesn't know what Bryce did to get kicked out of the house...just that she came home from the library to find her brother gone and her parents crying.\n\nDays turned to weeks, to months, to years.  Paige grew to become a talented bibliomancer, making a living as a storyteller reading at libraries across the five boroughs; and while her parents have remained silent about what happened with Bryce, Paige's obsession with finding him has only grown.  She will discover what happened to her brother... and no man or god is going to stand in her way.",
+    "wikiUrl": "https://deadlock.wiki/Paige",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/patience_bg.webp",
+    "portrait": "assets/67.webp",
+    "summaryAr": "بيج بنت تاجر كتب نادرة، وتربّت ببيت يهتم باللطف والسحر والحكايات. علاقتها بأخوها المتمرّد برايس جزء من خلفيتها.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 188756,
+    "wikiTitle": "Paige",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D models",
+        "anchor": "3D_models"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "بيج بنت بائع كتب نادرة، وكبرت في بيت مليان حب، يقدّر الطيبة والسحر والحكايات. هي أخذت قيم أهلها بسهولة، لكن أخوها الصغير برايس ما كان مثلها.",
+      "كان مراهقًا متمرّدًا، ومتضايقًا من لطف عائلته الزايد، ومن رفضهم يخلّونه يجرّب أنواع سحر يشوفونها خطيرة. بيج حاولت بكل طريقة تبعده عن المشاكل، لكن مثل كثير من المراهقين، كل ما حاولت أخته الكبيرة تنصحه، ابتعد عنها أكثر.",
+      "هي ما تعرف وش سوى عشان ينطرد من البيت. كل اللي تعرفه إنها رجعت من المكتبة ولقته رايح، وأهلها يبكون.",
+      "الأيام صارت أسابيع، ثم شهور، ثم سنين. بيج كبرت وصارت ساحرة كتب موهوبة، تشتغل حكّاءة تقرأ بالمكتبات في أحياء المدينة الخمسة. وأهلها للحين ساكتين عن اللي صار لبرايس، لكن إصرارها تلقاه ما زاد إلا قوة. بتعرف وش صار لأخوها، ولا بشر ولا إله بيوقف بطريقها."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "بيج",
+    "headlineAr": "حكاية أخوها ما انتهت.",
+    "gameplayAr": "تتحكم بالمناطق بالسحر والتنين، وتحمي الحليف بدرع وتدعم الفريق بموجة الفرسان.",
+    "identityColor": "#258F63",
+    "effect": "aura",
+    "poster": "assets/lore/67-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "بيج تخلّي أهل مانهاتن يعرفون قوة الكلمة المكتوبة. ترمي كتابًا وتستدعي Bookwyrm يحرق اللي يقرب، أو تثبت الأعداء بـCaptivating Read. حلفاؤها المرهقون يستقوون بـPlot Armor، وبـRallying Charge يتحول الخيال لحقيقة وتستدعي فرسانًا يندفعون عبر المدينة.",
+      "كبرت بيج في بيت مليان كتب ومحبة ولطف، لكنها كانت على خلاف مع أخيها الأصغر المتمرد برايس. انجذب للسحر الغيبي الخطير واختفى يومًا وهي بعيدة. الحين، بعدما صارت ساحرة كتب موهوبة، تدور إجابة عن اختفائه وما راح توقف لين تلقاها.",
+      "صدرت الشخصية يوم 25 أغسطس 2025."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Paige?oldid=188756",
+    "overviewRevision": 188756,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 69,
+    "name": "The Doorman",
+    "loreEnglish": "He's proper, he's polite, but the humble Doorman of The Baroness Hotel is more than meets the eye.<br><br>While he had only planned to experience life on this plane for a few weeks, The Doorman quickly discovered that the New York service industry was a great way to see the strange demands that please humans.",
+    "wikiUrl": "https://deadlock.wiki/The_Doorman",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/doorman_bg.webp",
+    "portrait": "assets/69.webp",
+    "summaryAr": "دورمان موظف مهذب بفندق البارونة، لكن حقيقته أكبر من شكله. كان ناوي يزور عالمنا أسابيع قليلة، قبل ما يتعلّق بتجربته فيه.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 188745,
+    "wikiTitle": "The Doorman",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "دورمان مهذّب، رسمي، ويعرف الأصول. لكن بوّاب فندق «البارونة» المتواضع يخفي أكثر بكثير من شكله.",
+      "هو أصلًا كان ناوي يجرّب الحياة في عالمنا لأسابيع قليلة بس. لكنه اكتشف بسرعة إن الشغل بخدمة الناس في نيويورك طريقة ممتازة يشوف فيها الطلبات الغريبة اللي تسعد البشر."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "دورمان",
+    "headlineAr": "تفضّل… الباب مفتوح.",
+    "gameplayAr": "يربط الأماكن بالأبواب ويسحب بالعربة ويرسل الخصم للفندق. يتميز بتغيير مكان وتوقيت القتال.",
+    "identityColor": "#B77528",
+    "effect": "aura",
+    "poster": "assets/lore/69-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "الدورمان شخصية مهذبة ولبقة بقوة أشبه بالإله، يصنع أبوابًا تربط شوارع المدينة ببعض ويرسل أعداءه لبُعد مخيف داخل فندقه المفضل. يصف نفسه بأنه إله في بداياته، وجاء يراقب البشر، ويمكن يزور بعض أصدقائه القدامى.",
+      "بواب فندق Baroness المتواضع أكثر بكثير من شكله. Call Bell يربك الأعداء القريبين، وLuggage Cart السريعة تطيحهم. ولو ضعت بشوارع مانهاتن، Doorway يفتح لك اختصارًا؛ أما الأعداء المميزون فيحصلون على رحلة ما تنسى إلى The Baroness Hotel.",
+      "هذا الكائن الكوني المعروف كان ناوي يزور عالمنا لبضعة أسابيع فقط. وبعد ما ملّ القتل والتعذيب العبثي، قرر يبقى بوابًا بسيطًا في قطاع الخدمات بنيويورك، ويواصل مراقبة سلوك البشر الغريب."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/The_Doorman?oldid=188745",
+    "overviewRevision": 188745,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 72,
+    "name": "Billy",
+    "loreEnglish": "Billy is a white hot ball of rage, furious at the very notion of...something.  Maybe it's the cops. Maybe it's magic regulations. Maybe it's the service at the gyro place downtown.  (Not the good one.  The other one.)<br><br>Don't ask him how he got the goat head.",
+    "wikiUrl": "https://deadlock.wiki/Billy",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/billy_bg.webp",
+    "portrait": "assets/72.webp",
+    "summaryAr": "بيلي كتلة غضب متحركة؛ حتى سبب غضبه مو واضح. الشرطة أو قوانين السحر أو مطعم سيئ، كلها ممكن تشعل مزاجه.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 194408,
+    "wikiTitle": "Billy",
+    "wikiSections": [
+      {
+        "name": "Innate",
+        "anchor": "Innate"
+      },
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "بيلي كتلة غضب مشتعلة، معصّب من مجرد فكرة… شيء ما. يمكن الشرطة، يمكن قوانين السحر، ويمكن الخدمة بمحل ساندويتشات الجايرو وسط المدينة. مو المحل الزين، الثاني.",
+      "ولا تسأله كيف صار عنده رأس ماعز."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "بيلي",
+    "headlineAr": "غضب برأس ماعز.",
+    "gameplayAr": "مقاتل ميلي يرفع الأعداء ويربطهم فيه، ويرجع ذخيرة مع ضربات الميلي.",
+    "identityColor": "#D4AD0E",
+    "effect": "aura",
+    "poster": "assets/lore/72-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "بيلي شخصية غاضبة وفوضوية، يحمل مضربًا كبيرًا مسمّرًا وله رأس ماعز بقرون. غضبه موجه لأي شيء وكل شيء، ويقاتل ضد السلطة، ويمكن من أجل تغيير إيجابي، لكنه دائمًا يدفع ضرائبه.",
+      "هو مقاتل خط أمامي مشتعل بالغضب وما يتراجع عن التحدي. Rising Ram يقربه من خصمه، وBashdown يضرب الأرض بموجة تصيب الأعداء. الهرب ما يفيد كثير مع Chain Gang اللي يربطهم ويسحبهم له؛ ورشفة من قنينته تخليه Blasted وتخلّي خصومه يتورطون أكثر.",
+      "صدرت الشخصية يوم 20 أغسطس 2025."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Billy?oldid=194408",
+    "overviewRevision": 194408,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 76,
+    "name": "Graves",
+    "loreEnglish": "The daughter of high-power defense attorneys, Darcy Graves grew up in a home where every conversation was a debate, argument, or negotiation. It was exhausting. But while her parents were often too busy meeting with clients or working on cases to bond with her, the dead were always there to listen.<br><br>Graves enjoyed her time in the cemetery.  It was a quiet place to calm her thoughts and talk through her problems...but one day her one-sided conversations started to change.<br><br>It began with a faint whisper.  A woman's voice that seemed to respond to Graves' complaints.  Intrigued, the teenager listened...and followed the voice's instructions until it guided her to a lead-lined box buried in Van Cortlandt Park.  But while most high school students would freak out if they were to unearth a severed lich hand, Graves was certainly not most teens.  The hand now free of its prison, the lich's voice grew stronger... It had spent years looking to find a student she could pass her knowledge to, and Graves was eager to learn.<br><br>Now a fledgling necromancer, Darcy balances not only her homework at Blackmore Academy...but the demands of graveyard denizens, each of whom have their own unfinished business that they seek her aid in resolving.",
+    "wikiUrl": "https://deadlock.wiki/Graves",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/necro_bg.webp",
+    "portrait": "assets/76.webp",
+    "summaryAr": "دارسي غريفز بنت محاميين دفاع نافذين. كبرت ببيت كل حديث فيه يتحوّل لنقاش أو تفاوض؛ شيء مرهق لطفلة تحاول تلقى مساحتها.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 192319,
+    "wikiTitle": "Graves",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "دارسي غريفز بنت محاميَي دفاع نافذين. كبرت في بيت كل سالفة فيه تتحوّل لنقاش أو جدال أو مفاوضة، وكان هالشي متعبًا. أهلها غالبًا مشغولين بالقضايا والعملاء، لكن الموتى كانوا دائمًا موجودين يسمعونها.",
+      "كانت تحب تقعد بالمقبرة، مكان هادي ترتّب فيه أفكارها وتحكي مشاكلها. لين يوم بدأت سوالفها اللي من طرف واحد تتغيّر.",
+      "بالبداية سمعت همسًا خفيفًا، صوت امرأة كأنه يرد على شكواها. فضولها خلاها تسمع وتنفّذ تعليمات الصوت، لين دلّها على صندوق مبطّن بالرصاص ومدفون بحديقة فان كورتلاندت. أغلب طلاب الثانوي بينهارون إذا طلعوا يد «ليتش» مقطوعة من الأرض، لكن غريفز مو مثلهم. يوم تحررت اليد، صار صوت الساحرة الميتة أقوى. كانت تدور من سنين على طالبة تورّثها معرفتها، ودارسي كانت متحمّسة تتعلّم.",
+      "الحين صارت مبتدئة في سحر الموتى، وتوازن بين واجبات أكاديمية بلاكمور وطلبات أهل المقابر؛ كل واحد عنده موضوع ما خلصه بالحياة ويبي مساعدتها يحلّه."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "غريفز",
+    "headlineAr": "الموتى عندهم سوالف.",
+    "gameplayAr": "يستدعي وحدات تهاجم معه ويقفل ممر بالأيدي، وسلاحه يسرق من قوة الخصم.",
+    "identityColor": "#D9F334",
+    "effect": "aura",
+    "poster": "assets/lore/76-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "غريفز تستدعي الموتى وتسحب جوهر الحياة في المعركة. تجمع بين الغيلان والرؤوس الميتة المتحركة والشقوق الروحية، وتسرق قوة الأعداء أحياءً وأمواتًا. ومن يوم نبشت يد ليتش مدفونة في Van Cortlandt Park، لقت أفضل معلّم لفن استحضار الموتى ممكن تتمناه.",
+      "الموتى كثرت طلباتهم، وغريفز عندها الجرأة تلبيها. يد الليتش المقطوعة صارت حليفًا قيّمًا تتعلق بواسطته بالأعداء وتسرق قوتهم. Jar of Dead يجمع بقايا الموتى ويرميها على الخصوم ليعطي أرواحهم فرصة أخيرة للانتقام؛ وGrasping Hands يشق الأرض فتطلع أيادٍ تمسك كواحل الأعداء. وإذا ما كفى كل هذا، Borrowed Decree يستدعي الموتى للقتال بجانبها."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Graves?oldid=192319",
+    "overviewRevision": 192319,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 77,
+    "name": "Apollo",
+    "loreEnglish": "A land of beauty, tradition and conflict; North Ixia is no stranger to brutal political violence. So when Apollo was told that it was for his own safety he was being sent to New York for school, he knew the situation was serious.<br><br>Adjusting to life at Blackmore Academy didn't come easy to Apollo. His school was supposed to be filled with The Cursed Apple's best and brightest but all he saw, with few exceptions, was a sea of aggressive mediocrity. Electing not to waste his time with frivolous things like parties and dances, he instead put his energy on the piste, where he rigorously trains as captain of the Blackmore fencing team.<br><br>However, at the end of the day Apollo does not fret too much on the tedium of life in New York. He knows that eventually the time will come when his father will call on him to come home and he will get to show that he is worthy of wielding his family's ancestral blade.",
+    "wikiUrl": "https://deadlock.wiki/Apollo",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/fencer_bg.webp",
+    "portrait": "assets/77.webp",
+    "summaryAr": "أبولو جاي من شمال إكسيا، أرض جميلة لكنها تعرف العنف السياسي. إرساله يدرس بنيويورك بحجة سلامته كان علامة إن الوضع جدي.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 197379,
+    "wikiTitle": "Apollo",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "شمال إكسيا أرض جمال وتقاليد وصراعات، والعنف السياسي القاسي مو غريب عليها. عشان كذا يوم قالوا لأبولو إنهم بيرسلونه يدرس بنيويورك حفاظًا على سلامته، عرف إن الوضع جدي.",
+      "التأقلم مع أكاديمية بلاكمور ما كان سهلًا. المفروض المدرسة تجمع أذكى وأفضل طلاب المدينة، لكنه، باستثناء قلة، ما شاف إلا ناسًا عاديين ومزعجين. بدل يضيّع وقته بالحفلات والرقص، ركّز على حلبة المبارزة، ويتدرّب بصرامة بصفته قائد فريق المدرسة.",
+      "لكن بالنهاية، أبولو ما يشيل هم ملل نيويورك كثير. يعرف إن يومًا بيجي وأبوه بيناديه يرجع، ووقتها بيثبت إنه يستاهل يحمل سيف أجداد عائلته."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "أبولو",
+    "headlineAr": "السيف ينتظر صاحبه.",
+    "gameplayAr": "مقاتل سيف يعتمد على التوقيت والصد والاندفاعات. ضبط نافذة الضربة يعطيه أفضل ضرر.",
+    "identityColor": "#FF3333",
+    "effect": "aura",
+    "poster": "assets/lore/77-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "أبولو مبارز سريع الحركة، يدخل على الأهداف المنعزلة بضربات دقيقة. هو أمير شاب من إكسيا، ويشارك بالطقس عشان يثبت مهارته ويشرّف اسم عائلته.",
+      "يبدأ اقترابه بـFlawless Advance، ويضبط توقيت ضرباته لزيادة الضرر. يصد الهجمات بحركة من سيفه ويرد بسرعة بـRiposte، ويستخدم Disengaging Sigil للقفز بعيدًا عن الفايت. وفي ضربته الأخيرة يلبس قناع المبارزة ويستحضر قوة إكسيا عبر Itani Lo Sahn.",
+      "جاء أمير إكسيا من أرض جمال وتقاليد وصراعات. العنف السياسي مو غريب هناك، لكن يوم أرسلوه لنيويورك لحمايته عرف إن الوضع خطير. الحين يتدرب كمبارز بارع في Blackmore Academy، ويعرف إنهم بيستدعونه يومًا لوطنه؛ ولما يرجع، بيثبت إنه يستحق حمل سيف عائلته الموروث.",
+      "صدرت الشخصية يوم 12 فبراير 2026."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Apollo?oldid=197379",
+    "overviewRevision": 197379,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 78,
+    "name": "Deadman Danny",
+    "loreEnglish": "\"Ladies and Gentlemen, I'm going to tell you a shocking secret: at Fairfax Industries we know nothing about safety. Now let me tell you something even MORE shocking... that's a good thing! Now in my tenure here I have been shot, stabbed, impaled, defenestrated, blown up, atomized, and decapitated-not once. not twice. not thrice. but quice. That's right, my head has been cut off enough times that I had to use a made up word to quantify it.<br><br>But I put myself through figurative and sometimes literal hell because it's not enough to THINK about how things go wrong, we need to KNOW how things go wrong.<br><br>Now the demonstration you are about to witness is extremely dangerous. So sit back. Put on your safety googles. And bear witness to the miracle of flight courtesy of Fairfax Industries, and the Chimera Mark 1.\"<br><br><span class=\"italics\">- This transcription of Danny's opening remarks at The Military Technology Expo has been provided by Fairfax Industries</span>",
+    "wikiUrl": "https://deadlock.wiki/Deadman_Danny",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/deadpack_bg.webp",
+    "portrait": "assets/78.webp",
+    "summaryAr": "ديدمان داني يتعامل مع إصاباته الخطيرة بروح استعراضية سوداء. خطابه باسم Fairfax Industries يقدّم الخطر وكأنه ميزة بدل مشكلة سلامة.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 194538,
+    "wikiTitle": "Deadman Danny",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D Model",
+        "anchor": "3D_Model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "«سيداتي وسادتي، بقول لكم سرًا صادمًا: إحنا في فيرفاكس إندستريز ما نعرف شيء عن السلامة. والحين الشي الأكثر صدمة… هذا شيء ممتاز! خلال شغلي هنا انطلقت علي رصاصات، وانطعنت، واخترقوا جسمي، ورموني من شباك، وفجّروني، وفتتوني لذرّات، وقطعوا راسي. مو مرة ولا مرتين ولا ثلاث؛ عدد خلّاني أخترع كلمة جديدة عشان أحسبه. إيه، انقطع راسي لهالدرجة.",
+      "لكن أتحمّل كل هالجحيم، المجازي وأحيانًا الحرفي، لأن التفكير بالأشياء اللي ممكن تخرب ما يكفي؛ لازم نعرف فعلًا كيف تخرب.",
+      "الحين العرض اللي بتشوفونه خطير جدًا. اجلسوا، والبسوا نظارات السلامة، وشوفوا معجزة الطيران المقدّمة لكم من فيرفاكس إندستريز و«كايميرا مارك 1».»",
+      "هذا نص كلمة داني الافتتاحية في معرض التكنولوجيا العسكرية، قدّمته شركة فيرفاكس إندستريز."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "ديدمان داني",
+    "headlineAr": "التجربة على حسابه.",
+    "gameplayAr": "يطير ويستخدم الحرارة والانفجارات، ويقدر يأخذ خصم معه للأعلى ثم يسقط فيه.",
+    "identityColor": "#CE8D2A",
+    "effect": "aura",
+    "poster": "assets/lore/78-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "ديدمان داني جريء وانفجاري، معه قاذف صواريخ وحقيبة طيران صاروخية وقدرات إضافية تفجّر خصومه. بحقيبة الصواريخ المثبتة فيه بشكل دائم، يتحمس لإبهار أي عميل محتمل لشركة Fairfax Industries.",
+      "تقدّم Fairfax موظف المبيعات الأثمن عندها: ديدمان داني. يطير فوق شوارع نيويورك بنظام Chimera Mk1، ويمطر الأعداء بـStrix Salvo ويعلّم عليهم لهجمات لاحقة. Jettison Fuel يطرد الحرارة من النظام ويغمر الأعداء القريبين بالنار، لكن عرضه الأهم هو Close the Deal: تجربة عملية متفجرة تقنع العملاء بكل اللي تقدمه Fairfax.",
+      "صدرت الشخصية يوم 13 أكتوبر 2026."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Deadman_Danny?oldid=194538",
+    "overviewRevision": 194538,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 79,
+    "name": "Rem",
+    "loreEnglish": "An accidental stowaway from the world of dreams, Rem has found himself stranded in the city that never sleeps.  Driven by his curious nature, Rem and his helpful friends have been seen wandering across the five boroughs in search of a way back home.<br><br>So if you ever find yourself dozing off while taking the Blue line home from work, maybe you've just had an encounter with one of the Cursed Apple's newest denizens.",
+    "wikiUrl": "https://deadlock.wiki/Rem",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/familiar_bg.webp",
+    "portrait": "assets/79.webp",
+    "summaryAr": "ريم وصل من عالم الأحلام بالخطأ وعلق بالمدينة اللي ما تنام. فضوله وأصدقاؤه يساعدونه يدور طريق يرجع فيه لعالمه.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 187309,
+    "wikiTitle": "Rem",
+    "wikiSections": [
+      {
+        "name": "Innate",
+        "anchor": "Innate"
+      },
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "ريم متسلّل وصل بالغلط من عالم الأحلام، ولقى نفسه عالقًا في المدينة اللي ما تنام. فضوله يقوده، ومعه أصدقاؤه المتعاونون، يتجوّلون في أحياء نيويورك الخمسة يدورون طريقة يرجعون فيها للبيت.",
+      "فإذا لقيت نفسك تغفو وأنت راجع من الدوام على الخط الأزرق، يمكن إنك توّك قابلت واحدًا من أحدث سكان المدينة."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "ريم",
+    "headlineAr": "يدوّر طريق البيت.",
+    "gameplayAr": "يدعم الحلفاء بالعلاج والمساعدين، ويرافق حليف ويعطّل الأعداء بالنوم.",
+    "identityColor": "#5383D1",
+    "effect": "drift",
+    "poster": "assets/lore/79-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "ريم وصل بالغلط من عالم الأحلام وعلق في المدينة اللي ما تنام. يحب يحل مشاكله بمعارك المخدات، فيرمي مخدته المفضلة ويدفع الخصم إذا قرب زيادة. أما أصدقاءه فيحبهم قريبين، يقفز لمساعدتهم وينام شوي على أكتافهم. Lil Helpers يستكشفون نيويورك بفضول ويشجعون حلفاءه؛ وإذا جاء Naptime ما عاد أحد يقدر يفتح عيونه.",
+      "ريم طفل نعسان من عالم الأحلام، علق هو ومساعدوه الصغار في نيويورك. يفتش أحياءها الخمسة عن طريق للبيت، ويبغى يستدعي الباترونز عشان يرجع لعائلته.",
+      "صدرت الشخصية يوم 26 يناير 2026."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Rem?oldid=187309",
+    "overviewRevision": 187309,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 80,
+    "name": "Silver",
+    "loreEnglish": "Lilah Silver is a mess.  She drinks too much, she smokes too much, and the less is said about her personal life the better.   But despite Silver's flaws she has managed to carve out a career as a successful bounty hunter, and while she would like to think that her successes are solely because she has incredible intuition, the fact that she's a werewolf doesn't hurt.",
+    "wikiUrl": "https://deadlock.wiki/Silver",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/werewolf_bg.webp",
+    "portrait": "assets/80.webp",
+    "summaryAr": "ليلا سيلفر صائدة جوائز ناجحة رغم فوضى حياتها وعاداتها السيئة. نجاحها بالشغل ما يعني إن حياتها الشخصية مرتبة.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 188767,
+    "wikiTitle": "Silver",
+    "wikiSections": [
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D Models",
+        "anchor": "3D_Models"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "ليلا سيلفر حياتها فوضى. تشرب بزيادة، وتدخّن بزيادة، وكل ما قلّ الكلام عن حياتها الشخصية كان أفضل. ومع هالعيوب قدرت تنجح كصيّادة مكافآت.",
+      "هي تحب تصدّق إن نجاحها كله بسبب حدسها الخارق، لكن كونها مستذئبة أكيد يساعد بعد."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "سيلفر",
+    "headlineAr": "حدس… ومخالب.",
+    "gameplayAr": "يمزج الرصاص وتعطيل الحركة مع تحول يغير سلاحه وقدراته. الضرر يجمع له تعطش الدم.",
+    "identityColor": "#BFBC9F",
+    "effect": "aura",
+    "poster": "assets/lore/80-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "سيلفر تصطاد المجرمين عشان تعيش، لكن اليوم تخطط مستذئبة نيويورك لاستدعاء إله. خبرتها كصائدة جوائز جهّزتها للطقس: تمسك العدو بـEntangling Bola، وتضربه بـBoot Kick، وتنهيه بـSlam Fire من بندقيتها. وفي النهاية Lycan Curse تفرض نفسها سواء رضت أو لا، والخصم القريب بيندم إذا تحولت.",
+      "ليلا سيلفر مستذئبة من أقدم ما تتذكر، وتؤكد إن حالتها تحت السيطرة. رغم نجاحها كصائدة جوائز، تعاني يوميًا من مشاكل الشرب والتدخين والمال وعلاقاتها، وتطلب مساعدة الباترون عشان تبدأ تعيش بشكل أفضل.",
+      "سيلفر تتميز بمجموعتين مختلفتين من القدرات: مجموعة لهيئتها البشرية والثانية لهيئة المستذئبة. تتبدل تلقائيًا لما يحوّلها Lycan Curse.",
+      "صدرت الشخصية يوم 2 فبراير 2026."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Silver?oldid=188767",
+    "overviewRevision": 188767,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 81,
+    "name": "Celeste",
+    "loreEnglish": "Even in a world of magic, some things are still rare and unusual. So what is a unicorn to do? Announce her presence to the world and potentially have poachers looking to saw off her horn? Or hide in plain sight at a Coney Island Side Show where most folk would assume her appearance was just part of an act?<br><br>Over the years \"The Dazzling Celeste\" has grown into one of the more popular attractions on Coney, and while the applause from a cheering audience is appreciated; what keeps her waking up in the morning is the found family she's made at work.<br><br>Keruba the Mermaid.<br><br>Blockhead Lenny.<br><br>Chickenwing.<br><br>Ted.<br><br>These were her people. So when she discovered that one of her own sold part of their soul in order to cover a gambling debt, Celeste knew it was time to step out of the shadows and do whatever it takes to get it back. Is revealing her power to The Patrons a risk? Yes. But that's tomorrow's problem... her family needs help today.",
+    "wikiUrl": "https://deadlock.wiki/Celeste",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/unicorn_bg.webp",
+    "portrait": "assets/81.webp",
+    "summaryAr": "حتى بعالم مليان سحر، اليونيكورن شيء نادر. سيليست قدام خيار بين كشف هويتها وتعريض نفسها للصيد، أو الاختباء وسط عروض كوني آيلاند.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 188743,
+    "wikiTitle": "Celeste",
+    "wikiSections": [
+      {
+        "name": "Innate",
+        "anchor": "Innate"
+      },
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "حتى في عالم مليان سحر، بعض الأشياء تظل نادرة وغريبة. فوش يسوي وحيد قرن؟ يعلن عن نفسه ويخلّي الصيادين يدورون طريقة يقصّون فيها قرنه؟ أو يختبئ قدّام الكل بعروض كوني آيلاند، والناس يحسبون شكله جزءًا من العرض؟",
+      "مع السنين صارت «سيليست المبهرة» من أشهر عروض كوني. تصفيق الجمهور يسعدها، لكن السبب الحقيقي اللي يخليها تقوم كل صباح هو العائلة اللي لقتها في شغلها.",
+      "كيروبا حورية البحر. ليني ذو الرأس الحجري. تشيكن وينغ. وتيد.",
+      "هذولا أهلها. ويوم اكتشفت إن واحدًا منهم باع جزءًا من روحه عشان يسدّد دَين قمار، عرفت إن وقت الاختباء انتهى، ولازم تسوي أي شيء عشان ترجّعها. هل كشف قوتها للباترونز مخاطرة؟ إيه. لكن هذي مشكلة بكرة… أهلها يحتاجونها اليوم."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "سيليست",
+    "headlineAr": "أهلها قبل السر.",
+    "gameplayAr": "تضغط بالضوء والسبيرت، وتحمي نفسها بدرع وتستفيد من تكرار إصابة اللاعبين.",
+    "identityColor": "#BBA9E1",
+    "effect": "aura",
+    "poster": "assets/lore/81-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "سيليست شخصية مبهرة تعطل الخصم، تطفو فوق المعركة وتلقي قدراتها باستعراض لامع. تشارك في الطقس لإنقاذ روح زميلها في السيرك، وتحاول تخفي هويتها الحقيقية كوحيدة قرن عن الصيادين.",
+      "نجمة Coney Island تبدأ عرضها بـLight Eater؛ تنفخ أمامها وهي تضيء بعصاها لتغطي الأعداء وتزيد الضرر عليهم. بعدها Dazzling Trick يحيطها بدرع ينفجر ويسكت القريبين إذا كسروه. لا تنشغل بطيرانها أو رقص Radiant Daggers، لأنها بتمطرك من فوق. أما Shining Wonder فهو ختام العرض اللي يبهر الحلفاء ويؤلم الأعداء.",
+      "القرن على رأسها مو قطعة ملصوقة؛ سيليست فعلًا وحيدة قرن. الناس يحسبون هالكائنات أسطورة، وهي تخفي حقيقتها خوفًا من قتلها لأجل قرنها. لكن لما خسر واحد من عائلتها المختارة في السيرك جزءًا من روحه بدين قمار، صارت مستعدة تكشف نفسها إذا كان هذا ينقذ أهلها."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Celeste?oldid=188743",
+    "overviewRevision": 188743,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 84,
+    "name": "Rat King",
+    "loreEnglish": "The cryptid ruler of the New York Warrens, The Rat King towers over his subjects in size, strength, and ambition. No longer content with hiding underground, the king has revealed his bold vision for a future where he and his subjects can walk the surface without fear of the pest control vans that roam the streets of New York (or as the rats call them: human death squads)<br><br>Step 1: Take control of Long Island<br>Step 2: Declare Long Island as the new sovereign nation of Ratannia<br>Step 3: Execute every human that refuses to leave this new rat utopia<br><br>But air tight as this plan is, the king of rats didn't want to take chances: and so he's decided to summon the patron to help hedge his bets.",
+    "wikiUrl": "https://deadlock.wiki/Rat_King",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/ratking_bg.webp",
+    "portrait": "assets/84.webp",
+    "summaryAr": "ملك الفيران حاكم غامض لشبكة جحور نيويورك، أكبر وأقوى وأكثر طموحًا من أتباعه. ما عاد يبي يكتفي بالاختباء تحت الأرض.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 192038,
+    "wikiTitle": "Rat King",
+    "wikiSections": [
+      {
+        "name": "Innate",
+        "anchor": "Innate"
+      },
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D model",
+        "anchor": "3D_model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "ملك الفئران هو الحاكم الغامض لجحور نيويورك، ويتفوّق على رعيّته بالحجم والقوة والطموح. الاختباء تحت الأرض ما عاد يكفيه؛ أعلن رؤيته لمستقبل يمشي فيه هو وشعبه فوق الأرض بدون خوف من سيارات مكافحة الآفات. أو مثل ما تسميها الفئران: فرق الموت البشرية.",
+      "خطته: أولًا يسيطر على لونغ آيلاند. ثانيًا يعلنها دولة مستقلة باسم «راتانيا». ثالثًا يعدم كل إنسان يرفض يطلع من مدينة الفئران الفاضلة الجديدة.",
+      "ومع إن الخطة، بنظره، ما فيها أي ثغرة، ما حب يترك شيء للحظ. عشان كذا قرّر يستدعي الباترون ويساعده يضمن النتيجة."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "ملك الفئران",
+    "headlineAr": "السطح من حقه.",
+    "gameplayAr": "يجمع ضرر القنابل والفئران مع درع وراية تدعم الفريق القريب.",
+    "identityColor": "#733033",
+    "effect": "aura",
+    "poster": "assets/lore/84-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "ملك الجرذان طلع من المجاري للشوارع عشان يثبت حكمه. Scrap Grenade ترتد على طول Broadway، وSwarm of Rats تعض كعوب الأعداء. يلبس Royal Pestments ويتحمّل النيران وهو يقود الهجوم، وراية Banner of Ratannia تلهم أتباعه وسط المعركة وتخلي خصومه يندمون على محاولة إسقاطه.",
+      "لويس، حاكم جحور نيويورك، عنده خطة يحول Long Island إلى جنة للجرذان. وعشان ما يترك شيئًا للحظ، يبغى يستدعي الباترونز ويضمن فرصته.",
+      "صدرت الشخصية يوم 2 أكتوبر 2026."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Rat_King?oldid=197668",
+    "overviewRevision": 197668,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 85,
+    "name": "Solomon",
+    "loreEnglish": "In a world that moves too fast, Solomon is content to stop and listen. Offering a friendly ear and good counsel, Solomon has found himself sitting across the chess table from tourists, criminals, and titans of industry.  But no matter his opponent, Solomon remains un-phased... because to him, chess is so much more than a game. It's an equalizer. A way for him to connect to people from all walks of life on an even playing field.",
+    "wikiUrl": "https://deadlock.wiki/Solomon",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes",
+    "retrievedAt": "2026-10-17T17:20:12.639Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/chessmaster_bg.webp",
+    "portrait": "assets/85.webp",
+    "summaryAr": "سولومون يحب يبطّئ ويسمع للناس وسط مدينة مستعجلة. يجلس على طاولة الشطرنج مع سياح ومجرمين وأصحاب نفوذ، ويعطيهم أذنه ونصيحته.",
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiRevision": 194506,
+    "wikiTitle": "Solomon",
+    "wikiSections": [
+      {
+        "name": "Innate",
+        "anchor": "Innate"
+      },
+      {
+        "name": "Weapon",
+        "anchor": "Weapon"
+      },
+      {
+        "name": "Abilities",
+        "anchor": "Abilities"
+      },
+      {
+        "name": "Street Brawl",
+        "anchor": "Street_Brawl"
+      },
+      {
+        "name": "Backstory",
+        "anchor": "Backstory"
+      },
+      {
+        "name": "Update history",
+        "anchor": "Update_history"
+      },
+      {
+        "name": "3D Model",
+        "anchor": "3D_Model"
+      },
+      {
+        "name": "Gallery",
+        "anchor": "Gallery"
+      },
+      {
+        "name": "Trivia",
+        "anchor": "Trivia"
+      },
+      {
+        "name": "References",
+        "anchor": "References"
+      },
+      {
+        "name": "Navigation",
+        "anchor": "Navigation"
+      }
+    ],
+    "storyAr": [
+      "بعالم يتحرك بسرعة زايدة، سولومون مرتاح إنه يوقف ويسمع. يعطي الناس أذنًا صاغية ونصيحة طيبة، وهذا خلّاه يجلس على طاولة الشطرنج قدّام سياح ومجرمين وكبار رجال الصناعة.",
+      "ومهما كان خصمه، يظل هاديًا. لأن الشطرنج بالنسبة له أكثر بكثير من لعبة؛ هو مساحة تساوي بين الناس، وطريقة يتواصل فيها مع شخص من أي طبقة على أرض واحدة."
+    ],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "nameAr": "سولومون",
+    "headlineAr": "على الطاولة، الكل سواسية.",
+    "gameplayAr": "يحرك قطع الشطرنج للتحكم بالمكان، ويحمي الحلفاء ويمسك الأعداء بخطوط الحركة.",
+    "identityColor": "#AA9E7E",
+    "effect": "aura",
+    "poster": "assets/lore/85-poster.webp",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "سولومون منطقي ويحب السيطرة، ويتعامل مع ساحة المعركة كأنها رقعة شطرنج. يحرّك الفيلة والأحصنة والقلاع حول الفايت قبل ما ينزل الملكة ويحسم بكش مات.",
+      "يبقى هادئًا قدام أي متحدٍ جديد، ولما تناديه الباترونز يشوف المدينة كرقعة كبيرة. Setup Bishop ينشر وحدات الضرر ويحرّكها بالشوارع، وKingside Knight يحمي الحلفاء ويساعد الانسحاب التكتيكي، وRook Battery يندفع بقوة ويوقف الخصوم. وأخيرًا Develop Queen يقفل عليهم المواجهة.",
+      "صدرت الشخصية يوم 9 أكتوبر 2026."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Solomon?oldid=194506",
+    "overviewRevision": 194506,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 86,
+    "name": "Violet",
+    "loreEnglish": "Violet immigrated to The Cursed Apple when she was 12, and while there was a certain amount of culture shock to adapting to New York, she quickly fell in love with the vibrance of the city.   Dedicating herself to the pursuit of the arts, Violet's passion lead her to successes far beyond most of her peers.<br><br>First, a full ride to art school.<br><br>Then in her junior year, inclusion in MOMA'S prestigious celebration of student artists: \"The Upstart Gallery\".<br><br>By any measure she's doing phenomenal for her age, however Violet has not been able shake her existential dread of dying a failure. She knows that commercial success as a fine artist isn't about being good enough. It's not even about being great. It's about being seen by the right person at the right time.  And so she has set her sights on The Ritual... not to embellish on her own talent, but just to have a chance to show the world what she can do.",
+    "wikiUrl": "https://deadlock.wiki/Violet",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes?language=english",
+    "retrievedAt": "2026-10-17T19:09:54.550Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/artist_bg.webp",
+    "portrait": "assets/86.webp",
+    "nameAr": "فايوليت",
+    "headlineAr": "موهبتها تستاهل تنشاف.",
+    "summaryAr": "فايوليت انتقلت لنيويورك وهي صغيرة، وموهبتها فتحت لها أبواب الفن. رغم نجاحها، تخاف إن العالم ما يشوف شغلها، وتبي فرصة توريهم وش تقدر تسوي.",
+    "storyAr": [
+      "فايوليت هاجرت لنيويورك وهي بعمر اثنتي عشرة سنة. التأقلم مع المدينة كان صدمة ثقافية شوي، لكنها بسرعة حبت حيويتها. كرّست نفسها للفن، وشغفها وصلها لنجاحات أبعد من أغلب اللي بعمرها.",
+      "بالبداية حصلت على منحة كاملة لدراسة الفن. وبعدها، بسنتها الثالثة، انضمّت إلى معرض «ذا أبستارت غاليري»، احتفال متحف الفن الحديث المرموق بأعمال طلاب الفن.",
+      "بأي مقياس، نجاحها ممتاز بالنسبة لعمرها. لكن ما قدرت تتخلّص من خوفها العميق إنها تموت وهي فاشلة. تعرف إن النجاح التجاري بالفن مو مجرد إن شغلك يكون جيدًا، ولا حتى عظيمًا؛ لازم الشخص المناسب يشوفه بالوقت المناسب.",
+      "عشان كذا حطّت عينها على الطقس. مو عشان تزيد موهبتها، لكن عشان تحصل فرصة تورّي العالم وش تقدر تسوي."
+    ],
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiTitle": "Violet",
+    "wikiSections": [],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "poster": "assets/lore/86-poster.webp",
+    "gameplayAr": "تتحكم بالحبر: توجّه طلقاتها، ترسم حواجز ومسارات، وتجمع رسومات الخصوم عشان تكسب إحصائيات دائمة.",
+    "identityColor": "#653cbc",
+    "effect": "aura",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "فايوليت فنانة خفيفة الحركة، تستخدم الرسم وموهبتها لتفرض إرادتها على الطقس. بالحبر والألوان تقدر تقوّي حلفاءها بضربة فرشاة وتربك خصومها بضربة ثانية.",
+      "بفرشاتها ودقتها، Living Ink يقوّي رصاصها ويحوّل الإلهام إلى شيء حقيقي. في Flow State تنساب ناحية الخطر لتضر العدو أو تبتعد للهروب، وStill Life يلتقط صورة الأعداء بنتيجة تصعقهم. أما Abstract Landscape فيحيطها ومن حولها بأكبر لوحاتها، ويترك المشاهدين عاجزين عن الكلام.",
+      "فايوليت طالبة فن موهوبة وصغيرة بالعمر، تستعد تواجه شكوكها بنفسها وتصنع اسمًا في عالم الفنون الجميلة التنافسي.",
+      "صدرت الشخصية يوم 16 أكتوبر 2026."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Violet?oldid=197665",
+    "overviewRevision": 197665,
+    "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": 88,
+    "name": "Baba",
+    "loreEnglish": "There are a few things most denizens of The Cursed Apple hope to experience at some point in their lives.<br><br>See a Broadway show.<br>Ice Skate at Rockefeller Center during Christmas season.<br>Get yelled at by the Central Park Pigeon Lady.<br><br>Because Baba is more than just an old woman that feeds spirit pigeons in the park... she's an institution. A force of nature woven into the very lore of New York City. Is it true that she's sat at the same bench every day for the past 50 years, rain or shine? Maybe. Is she REALLY the leader of The Soho Coven? Who's to say. One thing's for sure though... she's a New Yorker.  And she's not going to sit back and watch a bunch of tourists tear apart Manhattan in pursuit of power.",
+    "wikiUrl": "https://deadlock.wiki/Baba",
+    "source": "https://api.deadlock-api.com/v1/assets/heroes?language=english",
+    "retrievedAt": "2026-10-17T19:09:54.551Z",
+    "art": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/backgrounds/baba_bg.webp",
+    "portrait": "assets/88.webp",
+    "nameAr": "بابا",
+    "headlineAr": "المدينة تعرفها.",
+    "summaryAr": "بابا مو مجرد عجوز تطعّم حمام الأرواح بالحديقة؛ هي جزء من حكاية نيويورك. وما راح تتفرّج على ناس يخرّبون مدينتها عشان القوة.",
+    "storyAr": [
+      "فيه أشياء أغلب سكان نيويورك يتمنّون يجرّبونها ولو مرة بحياتهم: يشوفون عرضًا في برودواي، ويتزلّجون على الجليد عند مركز روكفلر بموسم الكريسماس… وتهاوشهم حرمة الحمام بسنترال بارك.",
+      "لأن بابا مو مجرد عجوز تطعّم حمام الأرواح بالحديقة؛ هي معلم من معالم المدينة، وقوة طبيعية صارت جزءًا من حكاية نيويورك نفسها. هل صحيح إنها جلست على نفس المقعد كل يوم خلال الخمسين سنة الماضية، شمس أو مطر؟ يمكن. وهل هي فعلًا زعيمة جماعة ساحرات سوهو؟ محد يجزم.",
+      "لكن الشي الأكيد إنها من أهل نيويورك. وما راح تقعد تتفرّج على مجموعة غرباء يمزّقون مانهاتن وهم يلاحقون القوة."
+    ],
+    "summaryStatus": "ملخص عربي من خلفية اللعبة",
+    "wikiTitle": "Baba",
+    "wikiSections": [],
+    "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
+    "poster": "assets/lore/88-poster.webp",
+    "gameplayAr": "تسرق سبيرت الخصم، تتحرك بمقعدها السحري، وتختار تأثير الشاي. والألتمت تجمع الأعداء تحت هجوم الحمام.",
+    "identityColor": "#895672",
+    "effect": "aura",
+    "storySourceLanguage": "en",
+    "storyTranslatedAt": "2026-10-17",
+    "overviewAr": [
+      "بابا ساحرة تلقي اللعنات وتسحب السبيرت، وتدخل الخط الأمامي على مقعدها طويل الأرجل. بين الشاي الحار والصوف الملعون وفتات الخبز، حضورها وضحكتها شيء لازم تحسب حسابه.",
+      "في المعركة ترمي Threadsap، بكرة خيط فوضوية تسرق سبيرت الأعداء وتقوّيها. رجلينها مو مثل أول، لكن مقعدها يحيى ويساعدها تركض وتقفز وتركل بقوة. وبوقت الشاي ممكن تنصبّ عليك Baba’s Brew؛ بعضها ألطف من بعض. وإذا انتهى الشاي، يجي دور The Birds.",
+      "السائح قد يشوفها عجوزًا عادية جالسة بالحديقة تشرب شاي وتكلم طيورها، لكن أهل نيويورك شاكّين من زمان إن وراءها شيء أكبر. سيدة حمام Central Park مستعدة تستخدم خبرة عمرها بالسحر عشان تحمي مانهاتن من السياح المزعجين اللي يبغون يستدعون الباترونز، وكل هذا من غير ما تترك مقعدها.",
+      "صدرت الشخصية يوم 6 أكتوبر 2026."
+    ],
+    "overviewSourceUrl": "https://deadlock.wiki/Baba?oldid=194480",
+    "overviewRevision": 194480,
+    "overviewTranslatedAt": "2026-10-18"
+  }
+]

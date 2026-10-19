@@ -1,0 +1,6 @@
+.brand.brand-art{display:inline-flex;align-items:center;flex-shrink:0;line-height:1;padding:0;min-width:0}
+.brand-art img{display:block;width:224px;height:auto;max-width:100%;object-fit:contain}
+header .brand-art{margin-inline-end:auto}
+footer .brand-art{margin-bottom:16px}
+.brand-art:focus-visible{outline:2px solid var(--gold);outline-offset:8px;border-radius:2px}
+@media(max-width:650px){.brand-art img{width:188px}header .brand-art{margin-inline-end:auto}footer .brand-art img{width:210px}}

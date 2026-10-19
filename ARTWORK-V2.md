@@ -1,0 +1,11 @@
+# Deadlock Arabia — character artwork v2
+
+Generated using the built-in ImageGen editing tool. The existing city artwork was the edit target; official in-game portrait assets of Infernus, Wraith, Seven and Haze were supplied as identity references. The resulting fan artwork replaces v1 in the local homepage. Original v1 is preserved.
+
+Saved original: assets/deadlock-arabia-hero-v2.png
+
+Website version: assets/deadlock-arabia-hero-v2.webp
+
+Final prompt:
+
+Edit target: Image 1, the existing Deadlock Arabia cinematic city hero artwork. Supporting character identity references: Image 2 is Infernus, Image 3 Wraith, Image 4 Seven, Image 5 Haze, all from Valve Deadlock. Replace the generic invented masked cowboy and generic shadow assassin with the actual recognizable Deadlock characters from the supplied references. PRIMARY FOREGROUND CHARACTER MUST BE INFERNUS: blue-gray face, clearly visible red round glasses, distinctive red fedora with black band, flame plume behind his head, red collared shirt, dark vest, tie and rolled sleeves as in reference. Do NOT dress him in the previous black gold-embroidered cowboy coat, do NOT cover his face with a mask, do NOT invent a new character. At left midground include Wraith, clearly recognizable in her white suit and broad white fedora with pink/purple band and her actual facial features, with floating playing cards. Further behind include Seven with his actual broad mechanical electrified hat, glowing face and dark mechanical armored outfit, plus Haze as a smaller shadowy silhouette with her characteristic glowing yellow eyes and ochre/teal outfit. Preserve the original city architecture, camera framing, elevated transit lines, wet street reflections, green soul wisps, antique gold and dark forest-green noir palette, distant patron statue, atmosphere and premium game-key-art quality. Keep all characters concentrated in left 60 percent, keeping right 40 percent dark and quiet for website Arabic copy. Characters should match the distinct stylized 3D painterly designs of the source character references, not realistic unrelated people. Cohesive cinematic illustration, not pasted portrait cards or collage. Widescreen 16:9. No words, no typography, no logo, no watermark. The intent is the same existing city composition with genuine recognizable Deadlock heroes replacing the invented figures.

@@ -1,0 +1,518 @@
+[
+  {
+    "id": 1,
+    "name": "Infernus",
+    "src": "assets/models/1.glb",
+    "source": "https://deadlock.wiki/File:Infernus.glb",
+    "revision": 161768,
+    "bytes": 565984,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Seven",
+    "src": "assets/models/2.glb",
+    "source": "https://deadlock.wiki/File:Seven.glb",
+    "revision": 187215,
+    "bytes": 673796,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Vindicta",
+    "src": "assets/models/3.glb",
+    "source": "https://deadlock.wiki/File:Vindicta.glb",
+    "revision": 194496,
+    "bytes": 850988,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lady Geist",
+    "src": "assets/models/4.glb",
+    "source": "https://deadlock.wiki/File:Lady_Geist.glb",
+    "revision": 181806,
+    "bytes": 976912,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Abrams",
+    "src": "assets/models/6.glb",
+    "source": "https://deadlock.wiki/File:Abrams.glb",
+    "revision": 197378,
+    "bytes": 1528680,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Wraith",
+    "src": "assets/models/7.glb",
+    "source": "https://deadlock.wiki/File:Wraith.glb",
+    "revision": 188764,
+    "bytes": 975520,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "McGinnis",
+    "src": "assets/models/8.glb",
+    "source": "https://deadlock.wiki/File:McGinnis.glb",
+    "revision": 188752,
+    "bytes": 1945164,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Paradox",
+    "src": "assets/models/10.glb",
+    "source": "https://deadlock.wiki/File:Paradox.glb",
+    "revision": 192230,
+    "bytes": 770484,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Dynamo",
+    "src": "assets/models/11.glb",
+    "source": "https://deadlock.wiki/File:Dynamo.glb",
+    "revision": 188747,
+    "bytes": 2085836,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Kelvin",
+    "src": "assets/models/12.glb",
+    "source": "https://deadlock.wiki/File:Kelvin.glb",
+    "revision": 188779,
+    "bytes": 1553892,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Haze",
+    "src": "assets/models/13.glb",
+    "source": "https://deadlock.wiki/File:Haze.glb",
+    "revision": 192321,
+    "bytes": 386116,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Holliday",
+    "src": "assets/models/14.glb",
+    "source": "https://deadlock.wiki/File:Holliday.glb",
+    "revision": 192323,
+    "bytes": 576064,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Bebop",
+    "src": "assets/models/15.glb",
+    "source": "https://deadlock.wiki/File:Bebop.glb",
+    "revision": 194476,
+    "bytes": 2017920,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Calico",
+    "src": "assets/models/16.glb",
+    "source": "https://deadlock.wiki/File:Calico.glb",
+    "revision": 194349,
+    "bytes": 539980,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Grey Talon",
+    "src": "assets/models/17.glb",
+    "source": "https://deadlock.wiki/File:Grey_Talon.glb",
+    "revision": 192320,
+    "bytes": 884788,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Mo & Krill",
+    "src": "assets/models/18.glb",
+    "source": "https://deadlock.wiki/File:Mo_%26_Krill.glb",
+    "revision": 188755,
+    "bytes": 824204,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Shiv",
+    "src": "assets/models/19.glb",
+    "source": "https://deadlock.wiki/File:Shiv.glb",
+    "revision": 192180,
+    "bytes": 1458764,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Ivy",
+    "src": "assets/models/20.glb",
+    "source": "https://deadlock.wiki/File:Ivy.glb",
+    "revision": 188991,
+    "bytes": 1033860,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Warden",
+    "src": "assets/models/25.glb",
+    "source": "https://deadlock.wiki/File:Warden.glb",
+    "revision": 162259,
+    "bytes": 553208,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Yamato",
+    "src": "assets/models/27.glb",
+    "source": "https://deadlock.wiki/File:Yamato.glb",
+    "revision": 188765,
+    "bytes": 586732,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Lash",
+    "src": "assets/models/31.glb",
+    "source": "https://deadlock.wiki/File:Lash.glb",
+    "revision": 192160,
+    "bytes": 583764,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Viscous",
+    "src": "assets/models/35.glb",
+    "source": "https://deadlock.wiki/File:Viscous.glb",
+    "revision": 194493,
+    "bytes": 227988,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Pocket",
+    "src": "assets/models/50.glb",
+    "source": "https://deadlock.wiki/File:Pocket.glb",
+    "revision": 194441,
+    "bytes": 494376,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Mirage",
+    "src": "assets/models/52.glb",
+    "source": "https://deadlock.wiki/File:Mirage.glb",
+    "revision": 189529,
+    "bytes": 972540,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Vyper",
+    "src": "assets/models/58.glb",
+    "source": "https://deadlock.wiki/File:Vyper.glb",
+    "revision": 197650,
+    "bytes": 621472,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Sinclair",
+    "src": "assets/models/60.glb",
+    "source": "https://deadlock.wiki/File:Sinclair.glb",
+    "revision": 184511,
+    "bytes": 258816,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Mina",
+    "src": "assets/models/63.glb",
+    "source": "https://deadlock.wiki/File:Mina.glb",
+    "revision": 188753,
+    "bytes": 851112,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Drifter",
+    "src": "assets/models/64.glb",
+    "source": "https://deadlock.wiki/File:Drifter.glb",
+    "revision": 189508,
+    "bytes": 518436,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Venator",
+    "src": "assets/models/65.glb",
+    "source": "https://deadlock.wiki/File:Venator.glb",
+    "revision": 193144,
+    "bytes": 1042352,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Victor",
+    "src": "assets/models/66.glb",
+    "source": "https://deadlock.wiki/File:Victor.glb",
+    "revision": 194494,
+    "bytes": 1880168,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Paige",
+    "src": "assets/models/67.glb",
+    "source": "https://deadlock.wiki/File:Paige.glb",
+    "revision": 188756,
+    "bytes": 666488,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "The Doorman",
+    "src": "assets/models/69.glb",
+    "source": "https://deadlock.wiki/File:The_Doorman.glb",
+    "revision": 188745,
+    "bytes": 737832,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Billy",
+    "src": "assets/models/72.glb",
+    "source": "https://deadlock.wiki/File:Billy.glb",
+    "revision": 194408,
+    "bytes": 841300,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Graves",
+    "src": "assets/models/76.glb",
+    "source": "https://deadlock.wiki/File:Graves.glb",
+    "revision": 192319,
+    "bytes": 1053760,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Apollo",
+    "src": "assets/models/77.glb",
+    "source": "https://deadlock.wiki/File:Apollo.glb",
+    "revision": 197379,
+    "bytes": 565856,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Deadman Danny",
+    "src": "assets/models/78.glb",
+    "source": "https://deadlock.wiki/File:Deadman_Danny.glb",
+    "revision": 194538,
+    "bytes": 1245452,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Rem",
+    "src": "assets/models/79.glb",
+    "source": "https://deadlock.wiki/File:Rem.glb",
+    "revision": 187309,
+    "bytes": 852656,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Silver",
+    "src": "assets/models/80.glb",
+    "source": "https://deadlock.wiki/File:Silver.glb",
+    "revision": 188767,
+    "bytes": 744724,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Celeste",
+    "src": "assets/models/81.glb",
+    "source": "https://deadlock.wiki/File:Celeste.glb",
+    "revision": 188743,
+    "bytes": 1084392,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Rat King",
+    "src": "assets/models/84.glb",
+    "source": "https://deadlock.wiki/File:Rat_King.glb",
+    "revision": 197668,
+    "bytes": 976868,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Solomon",
+    "src": "assets/models/85.glb",
+    "source": "https://deadlock.wiki/File:Solomon.glb",
+    "revision": 194506,
+    "bytes": 486832,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Violet",
+    "src": "assets/models/86.glb",
+    "source": "https://deadlock.wiki/File:Violet.glb",
+    "revision": 197665,
+    "bytes": 1619752,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Baba",
+    "src": "assets/models/88.glb",
+    "source": "https://deadlock.wiki/File:Baba.glb",
+    "revision": 194480,
+    "bytes": 605196,
+    "extensions": [
+      "EXT_texture_webp",
+      "KHR_draco_mesh_compression"
+    ]
+  }
+]

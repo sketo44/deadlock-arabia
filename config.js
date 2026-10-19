@@ -1,0 +1,2 @@
+// Public browser configuration. NEVER put a service_role/secret key here.
+window.DEADLOCK_CONFIG = { googleLoginEnabled: true, emailSignupLimited: true, supabaseUrl: 'https://trcwwhfhqmjmzkeygjqr.supabase.co', supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRyY3d3aGZocW1qbXprZXlnanFyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTIxNzM4NjQsImV4cCI6MjEwNzc0OTg2NH0.-o5FnP1eomr98bHd-SXbsKsD00LpzZTdqjo1WdCucDM' };

@@ -1,0 +1,1983 @@
+{
+  "version": 1,
+  "dataDate": "2026-10-16T19:29:23.723Z",
+  "description": "500 صيغ بحث؛ تتشارك الإجابات وليست 500 توصية مستقلة. إجابات الكاونتر المتخصصة تبدأ بلاش فقط.",
+  "questions": [
+    {
+      "q": "وش يسوي Extended Magazine",
+      "item": 1548066885
+    },
+    {
+      "q": "اشرح لي Extended Magazine",
+      "item": 1548066885
+    },
+    {
+      "q": "وش يسوي Monster Rounds",
+      "item": 1009965641
+    },
+    {
+      "q": "اشرح لي Monster Rounds",
+      "item": 1009965641
+    },
+    {
+      "q": "وش يسوي Cultist Sacrifice",
+      "item": 709540378
+    },
+    {
+      "q": "اشرح لي Cultist Sacrifice",
+      "item": 709540378
+    },
+    {
+      "q": "وش يسوي Tesla Bullets",
+      "item": 811521119
+    },
+    {
+      "q": "اشرح لي Tesla Bullets",
+      "item": 811521119
+    },
+    {
+      "q": "وش يسوي Capacitor",
+      "item": 710436191
+    },
+    {
+      "q": "اشرح لي Capacitor",
+      "item": 710436191
+    },
+    {
+      "q": "وش يسوي Hollow Point",
+      "item": 2678489038
+    },
+    {
+      "q": "اشرح لي Hollow Point",
+      "item": 2678489038
+    },
+    {
+      "q": "وش يسوي Opening Rounds",
+      "item": 2064029594
+    },
+    {
+      "q": "اشرح لي Opening Rounds",
+      "item": 2064029594
+    },
+    {
+      "q": "وش يسوي High-Velocity Rounds",
+      "item": 3077079169
+    },
+    {
+      "q": "اشرح لي High-Velocity Rounds",
+      "item": 3077079169
+    },
+    {
+      "q": "وش يسوي Melee Lifesteal",
+      "item": 1437614329
+    },
+    {
+      "q": "اشرح لي Melee Lifesteal",
+      "item": 1437614329
+    },
+    {
+      "q": "وش يسوي Rebuttal",
+      "item": 4204808176
+    },
+    {
+      "q": "اشرح لي Rebuttal",
+      "item": 4204808176
+    },
+    {
+      "q": "وش يسوي Counterspell",
+      "item": 1414025773
+    },
+    {
+      "q": "اشرح لي Counterspell",
+      "item": 1414025773
+    },
+    {
+      "q": "وش يسوي Weighted Shots",
+      "item": 3791587546
+    },
+    {
+      "q": "اشرح لي Weighted Shots",
+      "item": 3791587546
+    },
+    {
+      "q": "وش يسوي Close Quarters",
+      "item": 1342610602
+    },
+    {
+      "q": "اشرح لي Close Quarters",
+      "item": 1342610602
+    },
+    {
+      "q": "وش يسوي Long Range",
+      "item": 3331811235
+    },
+    {
+      "q": "اشرح لي Long Range",
+      "item": 3331811235
+    },
+    {
+      "q": "وش يسوي Slowing Bullets",
+      "item": 393974127
+    },
+    {
+      "q": "اشرح لي Slowing Bullets",
+      "item": 393974127
+    },
+    {
+      "q": "وش يسوي Inhibitor",
+      "item": 2037039379
+    },
+    {
+      "q": "اشرح لي Inhibitor",
+      "item": 2037039379
+    },
+    {
+      "q": "وش يسوي Spirit Shredder",
+      "item": 1144549437
+    },
+    {
+      "q": "اشرح لي Spirit Shredder",
+      "item": 1144549437
+    },
+    {
+      "q": "وش يسوي Heroic Aura",
+      "item": 2108215830
+    },
+    {
+      "q": "اشرح لي Heroic Aura",
+      "item": 2108215830
+    },
+    {
+      "q": "وش يسوي Silence Wave",
+      "item": 619484391
+    },
+    {
+      "q": "اشرح لي Silence Wave",
+      "item": 619484391
+    },
+    {
+      "q": "وش يسوي Silencer",
+      "item": 1113837674
+    },
+    {
+      "q": "اشرح لي Silencer",
+      "item": 1113837674
+    },
+    {
+      "q": "وش يسوي Berserker",
+      "item": 1414319208
+    },
+    {
+      "q": "اشرح لي Berserker",
+      "item": 1414319208
+    },
+    {
+      "q": "وش يسوي Frenzy",
+      "item": 339443430
+    },
+    {
+      "q": "اشرح لي Frenzy",
+      "item": 339443430
+    },
+    {
+      "q": "وش يسوي Siphon Bullets",
+      "item": 1282141666
+    },
+    {
+      "q": "اشرح لي Siphon Bullets",
+      "item": 1282141666
+    },
+    {
+      "q": "وش يسوي Headshot Booster",
+      "item": 2010028405
+    },
+    {
+      "q": "اشرح لي Headshot Booster",
+      "item": 2010028405
+    },
+    {
+      "q": "وش يسوي Weakening Headshot",
+      "item": 1770441818
+    },
+    {
+      "q": "اشرح لي Weakening Headshot",
+      "item": 1770441818
+    },
+    {
+      "q": "وش يسوي Sharpshooter",
+      "item": 2152872419
+    },
+    {
+      "q": "اشرح لي Sharpshooter",
+      "item": 2152872419
+    },
+    {
+      "q": "وش يسوي Headhunter",
+      "item": 4053935515
+    },
+    {
+      "q": "اشرح لي Headhunter",
+      "item": 4053935515
+    },
+    {
+      "q": "وش يسوي Spirit Rend",
+      "item": 4075861416
+    },
+    {
+      "q": "اشرح لي Spirit Rend",
+      "item": 4075861416
+    },
+    {
+      "q": "وش يسوي Crippling Headshot",
+      "item": 3884003354
+    },
+    {
+      "q": "اشرح لي Crippling Headshot",
+      "item": 3884003354
+    },
+    {
+      "q": "وش يسوي Mystic Shot",
+      "item": 395867183
+    },
+    {
+      "q": "اشرح لي Mystic Shot",
+      "item": 395867183
+    },
+    {
+      "q": "وش يسوي Lucky Shot",
+      "item": 1396247347
+    },
+    {
+      "q": "اشرح لي Lucky Shot",
+      "item": 1396247347
+    },
+    {
+      "q": "وش يسوي Point Blank",
+      "item": 2095565695
+    },
+    {
+      "q": "اشرح لي Point Blank",
+      "item": 2095565695
+    },
+    {
+      "q": "وش يسوي Toxic Bullets",
+      "item": 3696726732
+    },
+    {
+      "q": "اشرح لي Toxic Bullets",
+      "item": 3696726732
+    },
+    {
+      "q": "وش يسوي Ricochet",
+      "item": 2480592370
+    },
+    {
+      "q": "اشرح لي Ricochet",
+      "item": 2480592370
+    },
+    {
+      "q": "وش يسوي Extra Health",
+      "item": 3633614685
+    },
+    {
+      "q": "اشرح لي Extra Health",
+      "item": 3633614685
+    },
+    {
+      "q": "وش يسوي Bullet Lifesteal",
+      "item": 499683006
+    },
+    {
+      "q": "اشرح لي Bullet Lifesteal",
+      "item": 499683006
+    },
+    {
+      "q": "وش يسوي Debuff Reducer",
+      "item": 1047818222
+    },
+    {
+      "q": "اشرح لي Debuff Reducer",
+      "item": 1047818222
+    },
+    {
+      "q": "وش يسوي Dispel Magic",
+      "item": 3731635960
+    },
+    {
+      "q": "اشرح لي Dispel Magic",
+      "item": 3731635960
+    },
+    {
+      "q": "وش يسوي Spirit Resilience",
+      "item": 2163598980
+    },
+    {
+      "q": "اشرح لي Spirit Resilience",
+      "item": 2163598980
+    },
+    {
+      "q": "وش يسوي Bullet Resilience",
+      "item": 3140772621
+    },
+    {
+      "q": "اشرح لي Bullet Resilience",
+      "item": 3140772621
+    },
+    {
+      "q": "وش يسوي Metal Skin",
+      "item": 1378931225
+    },
+    {
+      "q": "اشرح لي Metal Skin",
+      "item": 1378931225
+    },
+    {
+      "q": "وش يسوي Healing Booster",
+      "item": 2566692615
+    },
+    {
+      "q": "اشرح لي Healing Booster",
+      "item": 2566692615
+    },
+    {
+      "q": "وش يسوي Fortitude",
+      "item": 3585132399
+    },
+    {
+      "q": "اشرح لي Fortitude",
+      "item": 3585132399
+    },
+    {
+      "q": "وش يسوي Leech",
+      "item": 865846625
+    },
+    {
+      "q": "اشرح لي Leech",
+      "item": 865846625
+    },
+    {
+      "q": "وش يسوي Sprint Boots",
+      "item": 3399065363
+    },
+    {
+      "q": "اشرح لي Sprint Boots",
+      "item": 3399065363
+    },
+    {
+      "q": "وش يسوي Trophy Collector",
+      "item": 3074274290
+    },
+    {
+      "q": "اشرح لي Trophy Collector",
+      "item": 3074274290
+    },
+    {
+      "q": "وش يسوي Enduring Speed",
+      "item": 2447176615
+    },
+    {
+      "q": "اشرح لي Enduring Speed",
+      "item": 2447176615
+    },
+    {
+      "q": "وش يسوي Stamina Mastery",
+      "item": 334300056
+    },
+    {
+      "q": "اشرح لي Stamina Mastery",
+      "item": 334300056
+    },
+    {
+      "q": "وش يسوي Rapid Rounds",
+      "item": 668299740
+    },
+    {
+      "q": "اشرح لي Rapid Rounds",
+      "item": 668299740
+    },
+    {
+      "q": "وش يسوي Extra Stamina",
+      "item": 4139877411
+    },
+    {
+      "q": "اشرح لي Extra Stamina",
+      "item": 4139877411
+    },
+    {
+      "q": "وش يسوي Hunter's Aura",
+      "item": 2481177645
+    },
+    {
+      "q": "اشرح لي Hunter's Aura",
+      "item": 2481177645
+    },
+    {
+      "q": "وش يسوي Grit",
+      "item": 1672893796
+    },
+    {
+      "q": "اشرح لي Grit",
+      "item": 1672893796
+    },
+    {
+      "q": "وش يسوي Weapon Shielding",
+      "item": 805079544
+    },
+    {
+      "q": "اشرح لي Weapon Shielding",
+      "item": 805079544
+    },
+    {
+      "q": "وش يسوي Spirit Shielding",
+      "item": 112198670
+    },
+    {
+      "q": "اشرح لي Spirit Shielding",
+      "item": 112198670
+    },
+    {
+      "q": "وش يسوي Battle Vest",
+      "item": 1235347618
+    },
+    {
+      "q": "اشرح لي Battle Vest",
+      "item": 1235347618
+    },
+    {
+      "q": "وش يسوي Enchanter's Emblem",
+      "item": 3970837787
+    },
+    {
+      "q": "اشرح لي Enchanter's Emblem",
+      "item": 3970837787
+    },
+    {
+      "q": "وش يسوي Extra Spirit",
+      "item": 968099481
+    },
+    {
+      "q": "اشرح لي Extra Spirit",
+      "item": 968099481
+    },
+    {
+      "q": "وش يسوي Mystic Regeneration",
+      "item": 1439347412
+    },
+    {
+      "q": "اشرح لي Mystic Regeneration",
+      "item": 1439347412
+    },
+    {
+      "q": "وش يسوي Improved Spirit",
+      "item": 7409189
+    },
+    {
+      "q": "اشرح لي Improved Spirit",
+      "item": 7409189
+    },
+    {
+      "q": "وش يسوي Spiritual Overflow",
+      "item": 2226497419
+    },
+    {
+      "q": "اشرح لي Spiritual Overflow",
+      "item": 2226497419
+    },
+    {
+      "q": "وش يسوي Return Fire",
+      "item": 3361075077
+    },
+    {
+      "q": "اشرح لي Return Fire",
+      "item": 3361075077
+    },
+    {
+      "q": "وش يسوي Greater Expansion",
+      "item": 1193964439
+    },
+    {
+      "q": "اشرح لي Greater Expansion",
+      "item": 1193964439
+    },
+    {
+      "q": "وش يسوي Mystic Expansion",
+      "item": 754480263
+    },
+    {
+      "q": "اشرح لي Mystic Expansion",
+      "item": 754480263
+    },
+    {
+      "q": "وش يسوي Extra Charge",
+      "item": 3776945997
+    },
+    {
+      "q": "اشرح لي Extra Charge",
+      "item": 3776945997
+    },
+    {
+      "q": "وش يسوي Spirit Lifesteal",
+      "item": 876563814
+    },
+    {
+      "q": "اشرح لي Spirit Lifesteal",
+      "item": 876563814
+    },
+    {
+      "q": "وش يسوي Bullet Resist Shredder",
+      "item": 2971868509
+    },
+    {
+      "q": "اشرح لي Bullet Resist Shredder",
+      "item": 2971868509
+    },
+    {
+      "q": "وش يسوي Mystic Reverb",
+      "item": 3577481646
+    },
+    {
+      "q": "اشرح لي Mystic Reverb",
+      "item": 3577481646
+    },
+    {
+      "q": "وش يسوي Mystic Burst",
+      "item": 1998374645
+    },
+    {
+      "q": "اشرح لي Mystic Burst",
+      "item": 1998374645
+    },
+    {
+      "q": "وش يسوي Tankbuster",
+      "item": 2121044373
+    },
+    {
+      "q": "اشرح لي Tankbuster",
+      "item": 2121044373
+    },
+    {
+      "q": "وش يسوي Mystic Vulnerability",
+      "item": 2081037738
+    },
+    {
+      "q": "اشرح لي Mystic Vulnerability",
+      "item": 2081037738
+    },
+    {
+      "q": "وش يسوي Healbane",
+      "item": 2603935618
+    },
+    {
+      "q": "اشرح لي Healbane",
+      "item": 2603935618
+    },
+    {
+      "q": "وش يسوي Mystic Slow",
+      "item": 1102081447
+    },
+    {
+      "q": "اشرح لي Mystic Slow",
+      "item": 1102081447
+    },
+    {
+      "q": "وش يسوي Escalating Exposure",
+      "item": 3005970438
+    },
+    {
+      "q": "اشرح لي Escalating Exposure",
+      "item": 3005970438
+    },
+    {
+      "q": "وش يسوي Rapid Recharge",
+      "item": 787198704
+    },
+    {
+      "q": "اشرح لي Rapid Recharge",
+      "item": 787198704
+    },
+    {
+      "q": "وش يسوي Compress Cooldown",
+      "item": 380806748
+    },
+    {
+      "q": "اشرح لي Compress Cooldown",
+      "item": 380806748
+    },
+    {
+      "q": "وش يسوي Superior Cooldown",
+      "item": 3261353684
+    },
+    {
+      "q": "اشرح لي Superior Cooldown",
+      "item": 3261353684
+    },
+    {
+      "q": "وش يسوي Transcendent Cooldown",
+      "item": 915014646
+    },
+    {
+      "q": "اشرح لي Transcendent Cooldown",
+      "item": 915014646
+    },
+    {
+      "q": "وش يسوي Slowing Hex",
+      "item": 1813726886
+    },
+    {
+      "q": "اشرح لي Slowing Hex",
+      "item": 1813726886
+    },
+    {
+      "q": "وش يسوي Spirit Sap",
+      "item": 1219329868
+    },
+    {
+      "q": "اشرح لي Spirit Sap",
+      "item": 1219329868
+    },
+    {
+      "q": "وش يسوي Focus Lens",
+      "item": 2142980412
+    },
+    {
+      "q": "اشرح لي Focus Lens",
+      "item": 2142980412
+    },
+    {
+      "q": "وش يسوي Rusted Barrel",
+      "item": 2922054143
+    },
+    {
+      "q": "اشرح لي Rusted Barrel",
+      "item": 2922054143
+    },
+    {
+      "q": "وش يسوي Disarming Hex",
+      "item": 2061878743
+    },
+    {
+      "q": "اشرح لي Disarming Hex",
+      "item": 2061878743
+    },
+    {
+      "q": "وش يسوي Rescue Beam",
+      "item": 1804594021
+    },
+    {
+      "q": "اشرح لي Rescue Beam",
+      "item": 1804594021
+    },
+    {
+      "q": "وش يسوي Decay",
+      "item": 3144988365
+    },
+    {
+      "q": "اشرح لي Decay",
+      "item": 3144988365
+    },
+    {
+      "q": "وش يسوي Scourge",
+      "item": 2417568017
+    },
+    {
+      "q": "اشرح لي Scourge",
+      "item": 2417568017
+    },
+    {
+      "q": "وش يسوي Knockdown",
+      "item": 1254091416
+    },
+    {
+      "q": "اشرح لي Knockdown",
+      "item": 1254091416
+    },
+    {
+      "q": "وش يسوي Phantom Strike",
+      "item": 1371725689
+    },
+    {
+      "q": "اشرح لي Phantom Strike",
+      "item": 1371725689
+    },
+    {
+      "q": "وش يسوي Warp Stone",
+      "item": 3270001687
+    },
+    {
+      "q": "اشرح لي Warp Stone",
+      "item": 3270001687
+    },
+    {
+      "q": "وش يسوي Vortex Web",
+      "item": 1152158042
+    },
+    {
+      "q": "اشرح لي Vortex Web",
+      "item": 1152158042
+    },
+    {
+      "q": "وش يسوي Refresher",
+      "item": 677738769
+    },
+    {
+      "q": "اشرح لي Refresher",
+      "item": 677738769
+    },
+    {
+      "q": "وش يسوي Echo Shard",
+      "item": 630839635
+    },
+    {
+      "q": "اشرح لي Echo Shard",
+      "item": 630839635
+    },
+    {
+      "q": "وش يسوي Torment Pulse",
+      "item": 395944548
+    },
+    {
+      "q": "اشرح لي Torment Pulse",
+      "item": 395944548
+    },
+    {
+      "q": "وش يسوي Cheat Death",
+      "item": 3361811174
+    },
+    {
+      "q": "اشرح لي Cheat Death",
+      "item": 3361811174
+    },
+    {
+      "q": "وش يسوي Shadow Weave",
+      "item": 1798666702
+    },
+    {
+      "q": "اشرح لي Shadow Weave",
+      "item": 1798666702
+    },
+    {
+      "q": "وش يسوي Majestic Leap",
+      "item": 600033864
+    },
+    {
+      "q": "اشرح لي Majestic Leap",
+      "item": 600033864
+    },
+    {
+      "q": "وش يسوي Healing Nova",
+      "item": 2956256701
+    },
+    {
+      "q": "اشرح لي Healing Nova",
+      "item": 2956256701
+    },
+    {
+      "q": "وش يسوي Restorative Locket",
+      "item": 2059712766
+    },
+    {
+      "q": "اشرح لي Restorative Locket",
+      "item": 2059712766
+    },
+    {
+      "q": "وش يسوي Healing Rite",
+      "item": 1710079648
+    },
+    {
+      "q": "اشرح لي Healing Rite",
+      "item": 1710079648
+    },
+    {
+      "q": "وش يسوي Infuser",
+      "item": 1797283378
+    },
+    {
+      "q": "اشرح لي Infuser",
+      "item": 1797283378
+    },
+    {
+      "q": "وش يسوي Guardian Ward",
+      "item": 857669956
+    },
+    {
+      "q": "اشرح لي Guardian Ward",
+      "item": 857669956
+    },
+    {
+      "q": "وش يسوي Divine Barrier",
+      "item": 1662311306
+    },
+    {
+      "q": "اشرح لي Divine Barrier",
+      "item": 1662311306
+    },
+    {
+      "q": "وش يسوي Alchemical Fire",
+      "item": 1932939246
+    },
+    {
+      "q": "اشرح لي Alchemical Fire",
+      "item": 1932939246
+    },
+    {
+      "q": "وش يسوي Blood Tribute",
+      "item": 989206714
+    },
+    {
+      "q": "اشرح لي Blood Tribute",
+      "item": 989206714
+    },
+    {
+      "q": "وش يسوي Fleetfoot",
+      "item": 3403085434
+    },
+    {
+      "q": "اشرح لي Fleetfoot",
+      "item": 3403085434
+    },
+    {
+      "q": "وش يسوي Kinetic Dash",
+      "item": 3977876567
+    },
+    {
+      "q": "اشرح لي Kinetic Dash",
+      "item": 3977876567
+    },
+    {
+      "q": "وش يسوي Arcane Surge",
+      "item": 1150006784
+    },
+    {
+      "q": "اشرح لي Arcane Surge",
+      "item": 1150006784
+    },
+    {
+      "q": "وش يسوي Unstoppable",
+      "item": 3357231760
+    },
+    {
+      "q": "اشرح لي Unstoppable",
+      "item": 3357231760
+    },
+    {
+      "q": "وش يسوي Colossus",
+      "item": 2407781327
+    },
+    {
+      "q": "اشرح لي Colossus",
+      "item": 2407781327
+    },
+    {
+      "q": "وش يسوي Cold Front",
+      "item": 1976391348
+    },
+    {
+      "q": "اشرح لي Cold Front",
+      "item": 1976391348
+    },
+    {
+      "q": "وش يسوي Arctic Blast",
+      "item": 3812615317
+    },
+    {
+      "q": "اشرح لي Arctic Blast",
+      "item": 3812615317
+    },
+    {
+      "q": "وش يسوي Ethereal Shift",
+      "item": 2533252781
+    },
+    {
+      "q": "اشرح لي Ethereal Shift",
+      "item": 2533252781
+    },
+    {
+      "q": "وش يسوي Cursed Relic",
+      "item": 2617435668
+    },
+    {
+      "q": "اشرح لي Cursed Relic",
+      "item": 2617435668
+    },
+    {
+      "q": "وش يسوي Duration Extender",
+      "item": 2951612397
+    },
+    {
+      "q": "اشرح لي Duration Extender",
+      "item": 2951612397
+    },
+    {
+      "q": "وش يسوي Superior Duration",
+      "item": 2717651715
+    },
+    {
+      "q": "اشرح لي Superior Duration",
+      "item": 2717651715
+    },
+    {
+      "q": "وش يسوي Glass Cannon",
+      "item": 365620721
+    },
+    {
+      "q": "اشرح لي Glass Cannon",
+      "item": 365620721
+    },
+    {
+      "q": "وش يسوي Fury Trance",
+      "item": 1409190604
+    },
+    {
+      "q": "اشرح لي Fury Trance",
+      "item": 1409190604
+    },
+    {
+      "q": "وش يسوي Vampiric Burst",
+      "item": 1055679805
+    },
+    {
+      "q": "اشرح لي Vampiric Burst",
+      "item": 1055679805
+    },
+    {
+      "q": "وش يسوي Lifestrike",
+      "item": 1252627263
+    },
+    {
+      "q": "اشرح لي Lifestrike",
+      "item": 1252627263
+    },
+    {
+      "q": "وش يسوي Spirit Strike",
+      "item": 465043967
+    },
+    {
+      "q": "اشرح لي Spirit Strike",
+      "item": 465043967
+    },
+    {
+      "q": "وش يسوي Spirit Snatch",
+      "item": 3190916303
+    },
+    {
+      "q": "اشرح لي Spirit Snatch",
+      "item": 3190916303
+    },
+    {
+      "q": "وش يسوي Melee Charge",
+      "item": 26002154
+    },
+    {
+      "q": "اشرح لي Melee Charge",
+      "item": 26002154
+    },
+    {
+      "q": "وش يسوي Crushing Fists",
+      "item": 800008313
+    },
+    {
+      "q": "اشرح لي Crushing Fists",
+      "item": 800008313
+    },
+    {
+      "q": "وش يسوي Diviner's Kevlar",
+      "item": 2820116164
+    },
+    {
+      "q": "اشرح لي Diviner's Kevlar",
+      "item": 2820116164
+    },
+    {
+      "q": "وش يسوي Radiant Regeneration",
+      "item": 2947183272
+    },
+    {
+      "q": "اشرح لي Radiant Regeneration",
+      "item": 2947183272
+    },
+    {
+      "q": "وش يسوي Boundless Spirit",
+      "item": 2519598785
+    },
+    {
+      "q": "اشرح لي Boundless Spirit",
+      "item": 2519598785
+    },
+    {
+      "q": "وش يسوي Burst Fire",
+      "item": 2739107182
+    },
+    {
+      "q": "اشرح لي Burst Fire",
+      "item": 2739107182
+    },
+    {
+      "q": "وش يسوي Extra Regen",
+      "item": 2829638276
+    },
+    {
+      "q": "اشرح لي Extra Regen",
+      "item": 2829638276
+    },
+    {
+      "q": "وش يسوي Surge of Power",
+      "item": 1292979587
+    },
+    {
+      "q": "اشرح لي Surge of Power",
+      "item": 1292979587
+    },
+    {
+      "q": "وش يسوي Suppressor",
+      "item": 1925087134
+    },
+    {
+      "q": "اشرح لي Suppressor",
+      "item": 1925087134
+    },
+    {
+      "q": "وش يسوي Quicksilver Reload",
+      "item": 84321454
+    },
+    {
+      "q": "اشرح لي Quicksilver Reload",
+      "item": 84321454
+    },
+    {
+      "q": "وش يسوي Mercurial Magnum",
+      "item": 3919289022
+    },
+    {
+      "q": "اشرح لي Mercurial Magnum",
+      "item": 3919289022
+    },
+    {
+      "q": "وش يسوي Intensifying Magazine",
+      "item": 2407033488
+    },
+    {
+      "q": "اشرح لي Intensifying Magazine",
+      "item": 2407033488
+    },
+    {
+      "q": "وش يسوي Escalating Resilience",
+      "item": 2463960640
+    },
+    {
+      "q": "اشرح لي Escalating Resilience",
+      "item": 2463960640
+    },
+    {
+      "q": "وش يسوي Swift Striker",
+      "item": 4104549924
+    },
+    {
+      "q": "اشرح لي Swift Striker",
+      "item": 4104549924
+    },
+    {
+      "q": "وش يسوي Veil Walker",
+      "item": 865958998
+    },
+    {
+      "q": "اشرح لي Veil Walker",
+      "item": 865958998
+    },
+    {
+      "q": "وش يسوي Reactive Barrier",
+      "item": 1644605047
+    },
+    {
+      "q": "اشرح لي Reactive Barrier",
+      "item": 1644605047
+    },
+    {
+      "q": "وش يسوي Indomitable",
+      "item": 951866250
+    },
+    {
+      "q": "اشرح لي Indomitable",
+      "item": 951866250
+    },
+    {
+      "q": "وش يسوي Restorative Shot",
+      "item": 3862866912
+    },
+    {
+      "q": "اشرح لي Restorative Shot",
+      "item": 3862866912
+    },
+    {
+      "q": "وش يسوي Titanic Magazine",
+      "item": 2356412290
+    },
+    {
+      "q": "اشرح لي Titanic Magazine",
+      "item": 2356412290
+    },
+    {
+      "q": "وش يسوي Split Shot",
+      "item": 3647584222
+    },
+    {
+      "q": "اشرح لي Split Shot",
+      "item": 3647584222
+    },
+    {
+      "q": "وش يسوي Active Reload",
+      "item": 381961617
+    },
+    {
+      "q": "اشرح لي Active Reload",
+      "item": 381961617
+    },
+    {
+      "q": "وش يسوي Magic Carpet",
+      "item": 2800629741
+    },
+    {
+      "q": "اشرح لي Magic Carpet",
+      "item": 2800629741
+    },
+    {
+      "q": "وش يسوي Spirit Burn",
+      "item": 343572757
+    },
+    {
+      "q": "اشرح لي Spirit Burn",
+      "item": 343572757
+    },
+    {
+      "q": "وش يسوي Lightning Scroll",
+      "item": 493591231
+    },
+    {
+      "q": "اشرح لي Lightning Scroll",
+      "item": 493591231
+    },
+    {
+      "q": "وش يسوي Witchmail",
+      "item": 3028234315
+    },
+    {
+      "q": "اشرح لي Witchmail",
+      "item": 3028234315
+    },
+    {
+      "q": "وش يسوي Healing Tempo",
+      "item": 1427630806
+    },
+    {
+      "q": "اشرح لي Healing Tempo",
+      "item": 1427630806
+    },
+    {
+      "q": "وش يسوي Armor Piercer",
+      "item": 673001892
+    },
+    {
+      "q": "اشرح لي Armor Piercer",
+      "item": 673001892
+    },
+    {
+      "q": "وش يسوي Plated Armor",
+      "item": 3491236900
+    },
+    {
+      "q": "اشرح لي Plated Armor",
+      "item": 3491236900
+    },
+    {
+      "q": "وش يسوي Spellbreaker",
+      "item": 1955841979
+    },
+    {
+      "q": "اشرح لي Spellbreaker",
+      "item": 1955841979
+    },
+    {
+      "q": "وش يسوي Juggernaut",
+      "item": 1250307611
+    },
+    {
+      "q": "اشرح لي Juggernaut",
+      "item": 1250307611
+    },
+    {
+      "q": "وش يسوي Spellslinger",
+      "item": 2221211450
+    },
+    {
+      "q": "اشرح لي Spellslinger",
+      "item": 2221211450
+    },
+    {
+      "q": "وش يسوي Stalker",
+      "item": 98582110
+    },
+    {
+      "q": "اشرح لي Stalker",
+      "item": 98582110
+    },
+    {
+      "q": "وش يسوي Express Shot",
+      "item": 690458959
+    },
+    {
+      "q": "اشرح لي Express Shot",
+      "item": 690458959
+    },
+    {
+      "q": "وش يسوي Ballistic Enchantment",
+      "item": 3294954488
+    },
+    {
+      "q": "اشرح لي Ballistic Enchantment",
+      "item": 3294954488
+    },
+    {
+      "q": "وش يسوي Recharging Rush",
+      "item": 1763073141
+    },
+    {
+      "q": "اشرح لي Recharging Rush",
+      "item": 1763073141
+    },
+    {
+      "q": "وش يسوي Golden Goose Egg",
+      "item": 2462046703
+    },
+    {
+      "q": "اشرح لي Golden Goose Egg",
+      "item": 2462046703
+    },
+    {
+      "q": "اشرح لي Infernus",
+      "hero": 1
+    },
+    {
+      "q": "وش دور Infernus",
+      "hero": 1
+    },
+    {
+      "q": "وش قدرات Infernus",
+      "hero": 1
+    },
+    {
+      "q": "كيف العب Infernus",
+      "hero": 1
+    },
+    {
+      "q": "اشرح لي Seven",
+      "hero": 2
+    },
+    {
+      "q": "وش دور Seven",
+      "hero": 2
+    },
+    {
+      "q": "وش قدرات Seven",
+      "hero": 2
+    },
+    {
+      "q": "كيف العب Seven",
+      "hero": 2
+    },
+    {
+      "q": "اشرح لي Vindicta",
+      "hero": 3
+    },
+    {
+      "q": "وش دور Vindicta",
+      "hero": 3
+    },
+    {
+      "q": "وش قدرات Vindicta",
+      "hero": 3
+    },
+    {
+      "q": "كيف العب Vindicta",
+      "hero": 3
+    },
+    {
+      "q": "اشرح لي Lady Geist",
+      "hero": 4
+    },
+    {
+      "q": "وش دور Lady Geist",
+      "hero": 4
+    },
+    {
+      "q": "وش قدرات Lady Geist",
+      "hero": 4
+    },
+    {
+      "q": "كيف العب Lady Geist",
+      "hero": 4
+    },
+    {
+      "q": "اشرح لي Abrams",
+      "hero": 6
+    },
+    {
+      "q": "وش دور Abrams",
+      "hero": 6
+    },
+    {
+      "q": "وش قدرات Abrams",
+      "hero": 6
+    },
+    {
+      "q": "كيف العب Abrams",
+      "hero": 6
+    },
+    {
+      "q": "اشرح لي Wraith",
+      "hero": 7
+    },
+    {
+      "q": "وش دور Wraith",
+      "hero": 7
+    },
+    {
+      "q": "وش قدرات Wraith",
+      "hero": 7
+    },
+    {
+      "q": "كيف العب Wraith",
+      "hero": 7
+    },
+    {
+      "q": "اشرح لي McGinnis",
+      "hero": 8
+    },
+    {
+      "q": "وش دور McGinnis",
+      "hero": 8
+    },
+    {
+      "q": "وش قدرات McGinnis",
+      "hero": 8
+    },
+    {
+      "q": "كيف العب McGinnis",
+      "hero": 8
+    },
+    {
+      "q": "اشرح لي Paradox",
+      "hero": 10
+    },
+    {
+      "q": "وش دور Paradox",
+      "hero": 10
+    },
+    {
+      "q": "وش قدرات Paradox",
+      "hero": 10
+    },
+    {
+      "q": "كيف العب Paradox",
+      "hero": 10
+    },
+    {
+      "q": "اشرح لي Dynamo",
+      "hero": 11
+    },
+    {
+      "q": "وش دور Dynamo",
+      "hero": 11
+    },
+    {
+      "q": "وش قدرات Dynamo",
+      "hero": 11
+    },
+    {
+      "q": "كيف العب Dynamo",
+      "hero": 11
+    },
+    {
+      "q": "اشرح لي Kelvin",
+      "hero": 12
+    },
+    {
+      "q": "وش دور Kelvin",
+      "hero": 12
+    },
+    {
+      "q": "وش قدرات Kelvin",
+      "hero": 12
+    },
+    {
+      "q": "كيف العب Kelvin",
+      "hero": 12
+    },
+    {
+      "q": "اشرح لي Haze",
+      "hero": 13
+    },
+    {
+      "q": "وش دور Haze",
+      "hero": 13
+    },
+    {
+      "q": "وش قدرات Haze",
+      "hero": 13
+    },
+    {
+      "q": "كيف العب Haze",
+      "hero": 13
+    },
+    {
+      "q": "اشرح لي Holliday",
+      "hero": 14
+    },
+    {
+      "q": "وش دور Holliday",
+      "hero": 14
+    },
+    {
+      "q": "وش قدرات Holliday",
+      "hero": 14
+    },
+    {
+      "q": "كيف العب Holliday",
+      "hero": 14
+    },
+    {
+      "q": "اشرح لي Bebop",
+      "hero": 15
+    },
+    {
+      "q": "وش دور Bebop",
+      "hero": 15
+    },
+    {
+      "q": "وش قدرات Bebop",
+      "hero": 15
+    },
+    {
+      "q": "كيف العب Bebop",
+      "hero": 15
+    },
+    {
+      "q": "اشرح لي Calico",
+      "hero": 16
+    },
+    {
+      "q": "وش دور Calico",
+      "hero": 16
+    },
+    {
+      "q": "وش قدرات Calico",
+      "hero": 16
+    },
+    {
+      "q": "كيف العب Calico",
+      "hero": 16
+    },
+    {
+      "q": "اشرح لي Grey Talon",
+      "hero": 17
+    },
+    {
+      "q": "وش دور Grey Talon",
+      "hero": 17
+    },
+    {
+      "q": "وش قدرات Grey Talon",
+      "hero": 17
+    },
+    {
+      "q": "كيف العب Grey Talon",
+      "hero": 17
+    },
+    {
+      "q": "اشرح لي Mo & Krill",
+      "hero": 18
+    },
+    {
+      "q": "وش دور Mo & Krill",
+      "hero": 18
+    },
+    {
+      "q": "وش قدرات Mo & Krill",
+      "hero": 18
+    },
+    {
+      "q": "كيف العب Mo & Krill",
+      "hero": 18
+    },
+    {
+      "q": "اشرح لي Shiv",
+      "hero": 19
+    },
+    {
+      "q": "وش دور Shiv",
+      "hero": 19
+    },
+    {
+      "q": "وش قدرات Shiv",
+      "hero": 19
+    },
+    {
+      "q": "كيف العب Shiv",
+      "hero": 19
+    },
+    {
+      "q": "اشرح لي Ivy",
+      "hero": 20
+    },
+    {
+      "q": "وش دور Ivy",
+      "hero": 20
+    },
+    {
+      "q": "وش قدرات Ivy",
+      "hero": 20
+    },
+    {
+      "q": "كيف العب Ivy",
+      "hero": 20
+    },
+    {
+      "q": "اشرح لي Warden",
+      "hero": 25
+    },
+    {
+      "q": "وش دور Warden",
+      "hero": 25
+    },
+    {
+      "q": "وش قدرات Warden",
+      "hero": 25
+    },
+    {
+      "q": "كيف العب Warden",
+      "hero": 25
+    },
+    {
+      "q": "اشرح لي Yamato",
+      "hero": 27
+    },
+    {
+      "q": "وش دور Yamato",
+      "hero": 27
+    },
+    {
+      "q": "وش قدرات Yamato",
+      "hero": 27
+    },
+    {
+      "q": "كيف العب Yamato",
+      "hero": 27
+    },
+    {
+      "q": "اشرح لي Lash",
+      "hero": 31
+    },
+    {
+      "q": "وش دور Lash",
+      "hero": 31
+    },
+    {
+      "q": "وش قدرات Lash",
+      "hero": 31
+    },
+    {
+      "q": "كيف العب Lash",
+      "hero": 31
+    },
+    {
+      "q": "اشرح لي Viscous",
+      "hero": 35
+    },
+    {
+      "q": "وش دور Viscous",
+      "hero": 35
+    },
+    {
+      "q": "وش قدرات Viscous",
+      "hero": 35
+    },
+    {
+      "q": "كيف العب Viscous",
+      "hero": 35
+    },
+    {
+      "q": "اشرح لي Pocket",
+      "hero": 50
+    },
+    {
+      "q": "وش دور Pocket",
+      "hero": 50
+    },
+    {
+      "q": "وش قدرات Pocket",
+      "hero": 50
+    },
+    {
+      "q": "كيف العب Pocket",
+      "hero": 50
+    },
+    {
+      "q": "اشرح لي Mirage",
+      "hero": 52
+    },
+    {
+      "q": "وش دور Mirage",
+      "hero": 52
+    },
+    {
+      "q": "وش قدرات Mirage",
+      "hero": 52
+    },
+    {
+      "q": "كيف العب Mirage",
+      "hero": 52
+    },
+    {
+      "q": "اشرح لي Vyper",
+      "hero": 58
+    },
+    {
+      "q": "وش دور Vyper",
+      "hero": 58
+    },
+    {
+      "q": "وش قدرات Vyper",
+      "hero": 58
+    },
+    {
+      "q": "كيف العب Vyper",
+      "hero": 58
+    },
+    {
+      "q": "اشرح لي Sinclair",
+      "hero": 60
+    },
+    {
+      "q": "وش دور Sinclair",
+      "hero": 60
+    },
+    {
+      "q": "وش قدرات Sinclair",
+      "hero": 60
+    },
+    {
+      "q": "كيف العب Sinclair",
+      "hero": 60
+    },
+    {
+      "q": "اشرح لي Mina",
+      "hero": 63
+    },
+    {
+      "q": "وش دور Mina",
+      "hero": 63
+    },
+    {
+      "q": "وش قدرات Mina",
+      "hero": 63
+    },
+    {
+      "q": "كيف العب Mina",
+      "hero": 63
+    },
+    {
+      "q": "اشرح لي Drifter",
+      "hero": 64
+    },
+    {
+      "q": "وش دور Drifter",
+      "hero": 64
+    },
+    {
+      "q": "وش قدرات Drifter",
+      "hero": 64
+    },
+    {
+      "q": "كيف العب Drifter",
+      "hero": 64
+    },
+    {
+      "q": "اشرح لي Venator",
+      "hero": 65
+    },
+    {
+      "q": "وش دور Venator",
+      "hero": 65
+    },
+    {
+      "q": "وش قدرات Venator",
+      "hero": 65
+    },
+    {
+      "q": "كيف العب Venator",
+      "hero": 65
+    },
+    {
+      "q": "اشرح لي Victor",
+      "hero": 66
+    },
+    {
+      "q": "وش دور Victor",
+      "hero": 66
+    },
+    {
+      "q": "وش قدرات Victor",
+      "hero": 66
+    },
+    {
+      "q": "كيف العب Victor",
+      "hero": 66
+    },
+    {
+      "q": "اشرح لي Paige",
+      "hero": 67
+    },
+    {
+      "q": "وش دور Paige",
+      "hero": 67
+    },
+    {
+      "q": "وش قدرات Paige",
+      "hero": 67
+    },
+    {
+      "q": "كيف العب Paige",
+      "hero": 67
+    },
+    {
+      "q": "اشرح لي The Doorman",
+      "hero": 69
+    },
+    {
+      "q": "وش دور The Doorman",
+      "hero": 69
+    },
+    {
+      "q": "وش قدرات The Doorman",
+      "hero": 69
+    },
+    {
+      "q": "كيف العب The Doorman",
+      "hero": 69
+    },
+    {
+      "q": "اشرح لي Billy",
+      "hero": 72
+    },
+    {
+      "q": "وش دور Billy",
+      "hero": 72
+    },
+    {
+      "q": "وش قدرات Billy",
+      "hero": 72
+    },
+    {
+      "q": "كيف العب Billy",
+      "hero": 72
+    },
+    {
+      "q": "اشرح لي Graves",
+      "hero": 76
+    },
+    {
+      "q": "وش دور Graves",
+      "hero": 76
+    },
+    {
+      "q": "وش قدرات Graves",
+      "hero": 76
+    },
+    {
+      "q": "كيف العب Graves",
+      "hero": 76
+    },
+    {
+      "q": "اشرح لي Apollo",
+      "hero": 77
+    },
+    {
+      "q": "وش دور Apollo",
+      "hero": 77
+    },
+    {
+      "q": "وش قدرات Apollo",
+      "hero": 77
+    },
+    {
+      "q": "كيف العب Apollo",
+      "hero": 77
+    },
+    {
+      "q": "اشرح لي Deadman Danny",
+      "hero": 78
+    },
+    {
+      "q": "وش دور Deadman Danny",
+      "hero": 78
+    },
+    {
+      "q": "وش قدرات Deadman Danny",
+      "hero": 78
+    },
+    {
+      "q": "كيف العب Deadman Danny",
+      "hero": 78
+    },
+    {
+      "q": "اشرح لي Rem",
+      "hero": 79
+    },
+    {
+      "q": "وش دور Rem",
+      "hero": 79
+    },
+    {
+      "q": "وش قدرات Rem",
+      "hero": 79
+    },
+    {
+      "q": "كيف العب Rem",
+      "hero": 79
+    },
+    {
+      "q": "اشرح لي Silver",
+      "hero": 80
+    },
+    {
+      "q": "وش دور Silver",
+      "hero": 80
+    },
+    {
+      "q": "وش قدرات Silver",
+      "hero": 80
+    },
+    {
+      "q": "كيف العب Silver",
+      "hero": 80
+    },
+    {
+      "q": "اشرح لي Celeste",
+      "hero": 81
+    },
+    {
+      "q": "وش دور Celeste",
+      "hero": 81
+    },
+    {
+      "q": "وش قدرات Celeste",
+      "hero": 81
+    },
+    {
+      "q": "كيف العب Celeste",
+      "hero": 81
+    },
+    {
+      "q": "اشرح لي Rat King",
+      "hero": 84
+    },
+    {
+      "q": "وش دور Rat King",
+      "hero": 84
+    },
+    {
+      "q": "وش قدرات Rat King",
+      "hero": 84
+    },
+    {
+      "q": "كيف العب Rat King",
+      "hero": 84
+    },
+    {
+      "q": "اشرح لي Solomon",
+      "hero": 85
+    },
+    {
+      "q": "وش دور Solomon",
+      "hero": 85
+    },
+    {
+      "q": "وش قدرات Solomon",
+      "hero": 85
+    },
+    {
+      "q": "كيف العب Solomon",
+      "hero": 85
+    },
+    {
+      "q": "كيف ارفع دمجي"
+    },
+    {
+      "q": "ممكن تشرح كيف ارفع دمجي"
+    },
+    {
+      "q": "ابي اعرف كيف ارفع دمجي"
+    },
+    {
+      "q": "علمني كيف ارفع دمجي"
+    },
+    {
+      "q": "ليش اموت بسرعه"
+    },
+    {
+      "q": "ممكن تشرح ليش اموت بسرعه"
+    },
+    {
+      "q": "ابي اعرف ليش اموت بسرعه"
+    },
+    {
+      "q": "علمني ليش اموت بسرعه"
+    },
+    {
+      "q": "وش الفرق بين السلاح والسبيرت"
+    },
+    {
+      "q": "ممكن تشرح وش الفرق بين السلاح والسبيرت"
+    },
+    {
+      "q": "ابي اعرف وش الفرق بين السلاح والسبيرت"
+    },
+    {
+      "q": "علمني وش الفرق بين السلاح والسبيرت"
+    },
+    {
+      "q": "كيف احسب السولز"
+    },
+    {
+      "q": "ممكن تشرح كيف احسب السولز"
+    },
+    {
+      "q": "ابي اعرف كيف احسب السولز"
+    },
+    {
+      "q": "علمني كيف احسب السولز"
+    },
+    {
+      "q": "كيف احفظ بيلدي"
+    },
+    {
+      "q": "ممكن تشرح كيف احفظ بيلدي"
+    },
+    {
+      "q": "ابي اعرف كيف احفظ بيلدي"
+    },
+    {
+      "q": "علمني كيف احفظ بيلدي"
+    },
+    {
+      "q": "وش يعني سايلنس"
+    },
+    {
+      "q": "ممكن تشرح وش يعني سايلنس"
+    },
+    {
+      "q": "ابي اعرف وش يعني سايلنس"
+    },
+    {
+      "q": "علمني وش يعني سايلنس"
+    }
+  ]
+}

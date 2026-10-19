@@ -1,0 +1,24 @@
+# Credentials and local service state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+*auth-token*.json
+.netlify/
+.vercel/
+private/
+node_modules/
+*.log
+
+# Personal player snapshots and generated local previews
+player-preview.html
+result.json
+*-local-profile.png
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
