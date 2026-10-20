@@ -308,9 +308,9 @@ body.theme-seven[data-hero-id="86"]>.wraith-page-backdrop{background:linear-grad
 body.theme-seven[data-hero-id="88"]{background-color:#101814}
 body.theme-seven[data-hero-id="88"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/baba-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
 
-/* Keep the complete illustration visible on phones and tablets. */
+/* Continuous artwork on phones and tablets. */
 @media(max-width:1100px){
- body.theme-seven[data-hero-id]>.wraith-page-backdrop{inset:0;background-size:100% auto;background-position:center top;background-color:#101814}
+ body.theme-seven[data-hero-id]>.wraith-page-backdrop{inset:0;background-size:cover;background-position:28% center;background-color:#101814}
  body.theme-seven[data-hero-id] .hero-community-primary{grid-template-columns:minmax(0,1fr);gap:24px}
  body.theme-seven[data-hero-id] .hero-community-primary>.wraith-permanent-heading{padding:0 0 16px}
  body.theme-seven[data-hero-id] .hero-community-primary>.hero-sections{grid-column:1;grid-row:2;position:static;margin:0;max-height:none;width:100%;min-width:0}
@@ -319,4 +319,8 @@ body.theme-seven[data-hero-id="88"]>.wraith-page-backdrop{background:linear-grad
  body.theme-seven[data-hero-id] .hero-community-primary .hero-sections button:last-child{grid-column:1/-1}
  body.theme-seven[data-hero-id] .hero-community-primary .hero-sections button[aria-selected="true"]{font-size:16px}
  body.theme-seven[data-hero-id] .hero-community-primary>.hero-section-panels{grid-column:1;grid-row:3;min-width:0;width:100%;min-height:0}
+}
+
+@media(max-width:1100px){
+body.theme-seven[data-hero-id]>.wraith-page-backdrop::after{content:"";position:absolute;inset:0 0 auto;height:56.25vw;max-height:100%;background:inherit;background-size:100% auto;background-position:center top;background-color:transparent;mask-image:linear-gradient(to bottom,#000 65%,transparent);pointer-events:none}
 }
