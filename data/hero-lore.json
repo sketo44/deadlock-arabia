@@ -3313,5 +3313,12 @@
     "overviewSourceUrl": "https://deadlock.wiki/Baba?oldid=194480",
     "overviewRevision": 194480,
     "overviewTranslatedAt": "2026-10-18"
+  },
+  {
+    "id": "nurse-harrow",
+    "name": "Nurse Harrow",
+    "nameAr": "نيرس هارو",
+    "portrait": "assets/lore/nurse-harrow-portrait.webp",
+    "upcoming": true
   }
 ]
