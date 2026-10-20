@@ -1,6 +1,6 @@
 import {guidePage,mountGuide} from './city-guide.js';
 import {modelPage,mountModel} from './hero-model.js';
-import {communityHome,mountLore} from './community-v2.js?v=hero-layout-63';
+import {communityHome,mountLore} from './community-v2.js?v=hero-layout-64';
 import {tournamentPage,mountTournaments} from './arena.js';
 import {shopOrder} from './shop-order.js';
 import {googleLoginUrl} from './google-login.js';

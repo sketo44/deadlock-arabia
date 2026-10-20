@@ -1,4 +1,4 @@
-import {mountExpandedLore} from './expanded-hero-lore.js?v=hero-layout-63';
+import {mountExpandedLore} from './expanded-hero-lore.js?v=hero-layout-64';
 import {modelPage,mountModel} from './hero-model.js?v=hero-layout-24';
 import {mountArRanking} from './hero-ar-ranking.js?v=hero-layout-36';
 export function mountHeroSections(host,r,escape){
@@ -7,7 +7,7 @@ export function mountHeroSections(host,r,escape){
  const overview=document.createElement('section');overview.className='hero-overview';overview.innerHTML=`<div><h2>نظرة عامة على <b dir="ltr">${escape(r.name)}</b></h2><p>${escape(r.gameplayAr)}</p><p>${escape(r.summaryAr)}</p></div><button type="button" class="hero-model-link" data-show-model><img src="${escape(r.portrait)}" alt=""><span><strong>شوف الشخصية من كل الجهات</strong><small>عرض 3D · لفّها بالماوس يمين ويسار</small></span></button>`;
  overview.querySelector('h2').remove();
  const overviewText=text=>String(text).split(/([A-Za-z][A-Za-z0-9’'&-]*(?: [A-Za-z0-9’'&-]+)*)/g).map((part,i)=>i%2?`<bdi class="hero-overview-term" dir="ltr">${escape(part)}</bdi>`:escape(part)).join('');
- const about=document.createElement('article');about.className='hero-about';about.innerHTML=`<h2>عن ${escape(r.nameAr)}</h2><div class="hero-about-reading">${r.overviewAr?.length?r.overviewAr.map(p=>`<p>${overviewText(p)}</p>`).join(''):'<p>نبذة الويكي غير متاحة لهذه الشخصية حاليًا.</p>'}</div><a href="${escape(r.overviewSourceUrl||r.wikiUrl)}" target="_blank" rel="noopener">النبذة الأصلية في Deadlock Wiki ↗</a><small>ترجمة عربية لقسم Overview في الويكي · <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a></small>`;
+ const about=document.createElement('article');about.className='hero-about';about.innerHTML=`<h2>عن ${escape(r.nameAr)}</h2><div class="hero-about-reading">${r.overviewAr?.length?r.overviewAr.map(p=>`<p>${overviewText(p)}</p>`).join(''):'<p>نبذة الويكي غير متاحة لهذه الشخصية حاليًا.</p>'}</div><small>ترجمة وتكييف عن <a href="${escape(r.overviewSourceUrl||r.wikiUrl)}" target="_blank" rel="noopener">Deadlock Wiki ومساهميه</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a></small>`;
  const model=document.createElement('section');model.className='hero-inline-model';let modelMounted=false;
  story.append(about);
  const specGroups=[{node:specs.querySelector('.seven-profile-info'),title:'إحصائيات الشخصية'},{node:specs.querySelector('.seven-ability-grid'),title:'القدرات وتفاصيلها'}];
