@@ -195,7 +195,7 @@ body.theme-seven[data-hero-id="72"]{background-color:#101b20}
 body.theme-seven[data-hero-id="72"]>.wraith-page-backdrop{background:linear-gradient(#10182040,#10182055),url('assets/lore/billy-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
 
 body.theme-seven[data-hero-id="3"]{background-color:#161923}
-body.theme-seven[data-hero-id="3"]>.wraith-page-backdrop{background:linear-gradient(#10142366,#10142388),url('assets/lore/vindicta-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
+body.theme-seven[data-hero-id="3"]>.wraith-page-backdrop{background:linear-gradient(#10142366,#10142388),url('assets/lore/vindicta-background-blurred-v2.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
 
 /* Blur is baked into the WebP assets; no full-screen live filter. */
 body.theme-seven>.wraith-page-backdrop{filter:none!important}
