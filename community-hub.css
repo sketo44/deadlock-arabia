@@ -183,7 +183,7 @@ body.theme-seven{overflow-x:clip}
 @media(max-width:600px){.theme-seven .hero-community-primary{width:calc(100% - 32px)}}
 
 body.theme-seven[data-hero-id="2"]{background-color:#18140c}
-body.theme-seven[data-hero-id="2"]>.wraith-page-backdrop{background:linear-gradient(#18140940,#18140960),url('assets/lore/seven-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
+body.theme-seven[data-hero-id="2"]>.wraith-page-backdrop{background:linear-gradient(#18140940,#18140960),url('assets/lore/seven-background-blurred-v5.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
 
 body.theme-seven[data-hero-id="64"]{background-color:#180c10}
 body.theme-seven[data-hero-id="64"]>.wraith-page-backdrop{background:linear-gradient(#18091022,#18091044),url('assets/lore/drifter-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
