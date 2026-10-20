@@ -186,7 +186,7 @@ body.theme-seven[data-hero-id="2"]{background-color:#18140c}
 body.theme-seven[data-hero-id="2"]>.wraith-page-backdrop{background:linear-gradient(#18140940,#18140960),url('assets/lore/seven-background-blurred-v5.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
 
 body.theme-seven[data-hero-id="64"]{background-color:#180c10}
-body.theme-seven[data-hero-id="64"]>.wraith-page-backdrop{background:linear-gradient(#18091022,#18091044),url('assets/lore/drifter-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
+body.theme-seven[data-hero-id="64"]>.wraith-page-backdrop{background:linear-gradient(#18091022,#18091044),url('assets/lore/drifter-background-blurred-v2.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
 
 body.theme-seven[data-hero-id="85"]{background-color:#101814}
 body.theme-seven[data-hero-id="85"]>.wraith-page-backdrop{background:linear-gradient(#10181433,#10181455),url('assets/lore/solomon-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
@@ -207,7 +207,7 @@ body.theme-seven[data-hero-id="4"]{background-color:#101814}
 body.theme-seven[data-hero-id="4"]>.wraith-page-backdrop{background:linear-gradient(#10181433,#10181466),url('assets/lore/lady-geist-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="6"]{background-color:#101814}
-body.theme-seven[data-hero-id="6"]>.wraith-page-backdrop{background:linear-gradient(#10181433,#10181466),url('assets/lore/abrams-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="6"]>.wraith-page-backdrop{background:linear-gradient(#10181433,#10181466),url('assets/lore/abrams-background-blurred-v2.webp?v=quality-2') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="8"]{background-color:#101814}
 body.theme-seven[data-hero-id="8"]>.wraith-page-backdrop{background:linear-gradient(#10181433,#10181466),url('assets/lore/mcginnis-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
@@ -270,7 +270,7 @@ body.theme-seven[data-hero-id="63"]{background-color:#101814}
 body.theme-seven[data-hero-id="63"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/mina-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="65"]{background-color:#101814}
-body.theme-seven[data-hero-id="65"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/venator-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="65"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/venator-background-blurred-v2.webp?v=quality-2') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="66"]{background-color:#101814}
 body.theme-seven[data-hero-id="66"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/victor-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
