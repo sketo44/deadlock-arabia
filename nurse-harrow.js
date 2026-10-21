@@ -1,5 +1,6 @@
+import {expandedLoreMarkup} from './expanded-hero-lore.js?v=hero-layout-107';
 import {nurseOverview,nurseStory,nurseAbilities} from './nurse-profile-data.js?v=106';
-import {mountHeroDrag} from './seven-experience.js?v=hero-layout-106';
+import {mountHeroDrag} from './seven-experience.js?v=hero-layout-107';
 export const nurseHarrow={id:'nurse-harrow',name:'Nurse Harrow',nameAr:'نيرس هارو',image:'assets/lore/nurse-harrow-official.webp',portrait:'assets/lore/nurse-harrow-official.webp',ar:'نيرس هارو · متاحة الآن · تعالج الحلفاء بالإبر وتستنزف الأعداء بالعلق وتطلق الرعب من حقيبتها.'};
 export function mountNurseHarrow(host,roster,escape){
  document.title='نيرس هارو · Nurse Harrow | Deadlock AR';
@@ -13,8 +14,18 @@ export function mountNurseHarrow(host,roster,escape){
  const heading=host.querySelector('.wraith-permanent-heading');
  heading.querySelector('span').textContent='نيرس هارو';
  heading.querySelector('h1').innerHTML='<img class="hero-name-wordmark" src="assets/hero-wordmarks/87.svg" alt="Nurse Harrow" width="500" height="170">';
+ const overview=host.querySelector('#nurse-panel-0');
+ overview.className='hero-overview';
+ overview.innerHTML='<div><p>تجمع نيرس هارو بين مساندة فريقها واستنزاف الخصم. تستخدم العلق لتقوية فوائدها وتجديد إبر العلاج، وتمنح حلفاءها دفعة بالأبخرة قبل فتح حقيبتها لإخافة الأعداء. تستفيد من التمركز قرب الفريق ومتابعة الحليف بالعلاج بعد الأبخرة.</p><p>تعمل في جناح ماربل هيل لعلاج الاستحواذ الخارق للطبيعة. أسلوبها صارم وعلاجها مخيف، لكنها تحمل آلام مرضاها داخل حقيبتها وتسعى لتجاوز حدودها وعلاج المدينة.</p></div>';
+ const story=host.querySelector('#nurse-panel-1');
+ const source=document.createElement('div');source.innerHTML=nurseStory;
+ const sections=[];let section;
+ [...source.children].forEach(node=>{if(/^H[23]$/.test(node.tagName)){section={title:node.textContent,paragraphs:[]};sections.push(section)}else if(node.tagName==='P'){section.paragraphs.push(node.textContent)}});
+ story.className='seven-story';
+ story.innerHTML='<div class="seven-story-heading"><span>حكاية نيرس هارو</span><h2>علاج قاسٍ ونتائج لا تُنكر</h2><p>القصة الكاملة من خلفية الشخصية.</p></div><div class="seven-story-reading"><div class="seven-story-body">'+sections.slice(0,2).flatMap(s=>s.paragraphs).map(p=>'<p>'+escape(p)+'</p>').join('')+'</div></div><section class="expanded-hero-lore">'+expandedLoreMarkup({heading:'وراء الحقيبة: حكاية نيرس هارو',subtitle:'عملها في ماربل هيل، دوافعها في الطقس، وعلاقاتها بالشخصيات.',sections,source:'https://deadlock.wiki/Nurse_Harrow/Lore',revision:203109},escape)+'</section>';
+ story.querySelector('.expanded-lore-source')?.remove();
  const buttons=[...host.querySelectorAll('[role=tab]')];function select(index,focus=false){buttons.forEach((b,i)=>{b.setAttribute('aria-selected',String(i===index));b.tabIndex=i===index?0:-1;host.querySelector('#nurse-panel-'+i).hidden=i!==index});if(focus)buttons[index].focus()}
- host.querySelector('.nurse-abilities-link').addEventListener('click',()=>select(2,true));
+
  buttons.forEach((b,i)=>b.addEventListener('click',()=>select(i)));
  host.querySelector('[role=tablist]').addEventListener('keydown',e=>{let i=buttons.indexOf(document.activeElement);if(e.key==='ArrowLeft')i=(i+1)%buttons.length;else if(e.key==='ArrowRight')i=(i+buttons.length-1)%buttons.length;else if(e.key==='Home')i=0;else if(e.key==='End')i=buttons.length-1;else return;e.preventDefault();select(i,true)});
  const strip=document.createElement('nav');strip.className='hero-card-picker';strip.setAttribute('aria-label','اختيار الشخصية');strip.innerHTML=roster.map(h=>`<a class="hero-mini-card ${h.id==='nurse-harrow'?'selected':''}" href="#hero/${h.id}"><img src="${escape(h.portrait)}" alt="" width="56" height="64" loading="lazy"><span dir="ltr">${escape(h.name)}</span></a>`).join('');const layout=document.createElement('div');layout.className='hero-community-layout';const primary=document.createElement('div');primary.className='hero-community-primary';while(host.firstChild)primary.append(host.firstChild);layout.append(primary,strip);host.append(layout);mountHeroDrag(strip);requestAnimationFrame(()=>{const selected=strip.querySelector(".selected");if(host.isConnected&&selected)strip.scrollLeft=selected.offsetLeft-strip.offsetLeft-(strip.clientWidth-selected.clientWidth)/2});
