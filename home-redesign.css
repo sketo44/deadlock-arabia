@@ -71,3 +71,10 @@ body.home-city{background-color:#101719}
 
 .home-roster-actions{display:flex;align-items:center;gap:18px}.home-roster-actions>a,.home-roster-actions>button{font-size:12px;color:#e2c78f;min-height:44px;white-space:nowrap}.home-roster-actions>button{padding:8px 0}.home-roster-actions>a{display:inline-flex;align-items:center}.home-character{border:1px solid #b7bda326}.home-character>img{object-position:center top}
 @media(max-width:650px){.home-roster-actions{flex-direction:column;gap:0;align-items:flex-end}.home-roster-actions>a,.home-roster-actions>button{font-size:10px;min-height:32px}.home-section-heading{align-items:center}}
+
+/* One continuous row: the next character enters from the right. */
+.home-character-window{overflow:hidden;width:100%}
+.home-city .home-character-grid{display:flex;direction:ltr;overflow:visible;gap:14px;padding-bottom:0;scroll-snap-type:none;width:100%;will-change:transform}
+.home-city .home-character-grid>.home-character{flex:0 0 calc((100% - 70px)/6);min-width:0;direction:rtl;scroll-snap-align:none}
+@media(max-width:1100px){.home-city .home-character-grid{gap:16px}.home-city .home-character-grid>.home-character{flex-basis:calc((100% - 32px)/3)}}
+@media(max-width:650px){.home-city .home-character-grid{gap:12px}.home-city .home-character-grid>.home-character{flex-basis:60%}}

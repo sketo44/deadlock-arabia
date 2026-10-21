@@ -1,0 +1,266 @@
+[
+  {
+    "id": "nurse-harrow",
+    "name": "Nurse Harrow",
+    "nameAr": "نيرس هارو",
+    "image": "assets/home/roster-nurse-harrow.webp"
+  },
+  {
+    "id": 86,
+    "name": "Violet",
+    "nameAr": "فايوليت",
+    "image": "assets/home/roster-86.webp"
+  },
+  {
+    "id": 78,
+    "name": "Deadman Danny",
+    "nameAr": "ديدمان داني",
+    "image": "assets/home/roster-78.webp"
+  },
+  {
+    "id": 85,
+    "name": "Solomon",
+    "nameAr": "سولومون",
+    "image": "assets/home/roster-85.webp"
+  },
+  {
+    "id": 88,
+    "name": "Baba",
+    "nameAr": "بابا",
+    "image": "assets/home/roster-88.webp"
+  },
+  {
+    "id": 84,
+    "name": "Rat King",
+    "nameAr": "ملك الفئران",
+    "image": "assets/home/roster-84.webp"
+  },
+  {
+    "id": 1,
+    "name": "Infernus",
+    "nameAr": "إنفرنوس",
+    "image": "assets/home/roster-1.webp"
+  },
+  {
+    "id": 2,
+    "name": "Seven",
+    "nameAr": "سيفن",
+    "image": "assets/home/roster-2.webp"
+  },
+  {
+    "id": 3,
+    "name": "Vindicta",
+    "nameAr": "فينديكتا",
+    "image": "assets/home/roster-3.webp"
+  },
+  {
+    "id": 4,
+    "name": "Lady Geist",
+    "nameAr": "ليدي غايست",
+    "image": "assets/home/roster-4.webp"
+  },
+  {
+    "id": 6,
+    "name": "Abrams",
+    "nameAr": "أبرامز",
+    "image": "assets/home/roster-6.webp"
+  },
+  {
+    "id": 7,
+    "name": "Wraith",
+    "nameAr": "رايث",
+    "image": "assets/home/roster-7.webp"
+  },
+  {
+    "id": 8,
+    "name": "McGinnis",
+    "nameAr": "مكغينيس",
+    "image": "assets/home/roster-8.webp"
+  },
+  {
+    "id": 10,
+    "name": "Paradox",
+    "nameAr": "بارادوكس",
+    "image": "assets/home/roster-10.webp"
+  },
+  {
+    "id": 11,
+    "name": "Dynamo",
+    "nameAr": "داينمو",
+    "image": "assets/home/roster-11.webp"
+  },
+  {
+    "id": 12,
+    "name": "Kelvin",
+    "nameAr": "كيلفن",
+    "image": "assets/home/roster-12.webp"
+  },
+  {
+    "id": 13,
+    "name": "Haze",
+    "nameAr": "هيز",
+    "image": "assets/home/roster-13.webp"
+  },
+  {
+    "id": 14,
+    "name": "Holliday",
+    "nameAr": "هوليداي",
+    "image": "assets/home/roster-14.webp"
+  },
+  {
+    "id": 15,
+    "name": "Bebop",
+    "nameAr": "بيبوب",
+    "image": "assets/home/roster-15.webp"
+  },
+  {
+    "id": 16,
+    "name": "Calico",
+    "nameAr": "كاليكو",
+    "image": "assets/home/roster-16.webp"
+  },
+  {
+    "id": 17,
+    "name": "Grey Talon",
+    "nameAr": "غراي تالون",
+    "image": "assets/home/roster-17.webp"
+  },
+  {
+    "id": 18,
+    "name": "Mo & Krill",
+    "nameAr": "مو وكريل",
+    "image": "assets/home/roster-18.webp"
+  },
+  {
+    "id": 19,
+    "name": "Shiv",
+    "nameAr": "شيف",
+    "image": "assets/home/roster-19.webp"
+  },
+  {
+    "id": 20,
+    "name": "Ivy",
+    "nameAr": "آيفي",
+    "image": "assets/home/roster-20.webp"
+  },
+  {
+    "id": 25,
+    "name": "Warden",
+    "nameAr": "واردن",
+    "image": "assets/home/roster-25.webp"
+  },
+  {
+    "id": 27,
+    "name": "Yamato",
+    "nameAr": "ياماتو",
+    "image": "assets/home/roster-27.webp"
+  },
+  {
+    "id": 31,
+    "name": "Lash",
+    "nameAr": "لاش",
+    "image": "assets/home/roster-31.webp"
+  },
+  {
+    "id": 35,
+    "name": "Viscous",
+    "nameAr": "فيسكوس",
+    "image": "assets/home/roster-35.webp"
+  },
+  {
+    "id": 50,
+    "name": "Pocket",
+    "nameAr": "بوكيت",
+    "image": "assets/home/roster-50.webp"
+  },
+  {
+    "id": 52,
+    "name": "Mirage",
+    "nameAr": "ميراج",
+    "image": "assets/home/roster-52.webp"
+  },
+  {
+    "id": 58,
+    "name": "Vyper",
+    "nameAr": "فايبر",
+    "image": "assets/home/roster-58.webp"
+  },
+  {
+    "id": 60,
+    "name": "Sinclair",
+    "nameAr": "سينكلير",
+    "image": "assets/home/roster-60.webp"
+  },
+  {
+    "id": 63,
+    "name": "Mina",
+    "nameAr": "مينا",
+    "image": "assets/home/roster-63.webp"
+  },
+  {
+    "id": 64,
+    "name": "Drifter",
+    "nameAr": "دريفتر",
+    "image": "assets/home/roster-64.webp"
+  },
+  {
+    "id": 65,
+    "name": "Venator",
+    "nameAr": "فيناتور",
+    "image": "assets/home/roster-65.webp"
+  },
+  {
+    "id": 66,
+    "name": "Victor",
+    "nameAr": "فيكتور",
+    "image": "assets/home/roster-66.webp"
+  },
+  {
+    "id": 67,
+    "name": "Paige",
+    "nameAr": "بيج",
+    "image": "assets/home/roster-67.webp"
+  },
+  {
+    "id": 69,
+    "name": "The Doorman",
+    "nameAr": "دورمان",
+    "image": "assets/home/roster-69.webp"
+  },
+  {
+    "id": 72,
+    "name": "Billy",
+    "nameAr": "بيلي",
+    "image": "assets/home/roster-72.webp"
+  },
+  {
+    "id": 76,
+    "name": "Graves",
+    "nameAr": "غريفز",
+    "image": "assets/home/roster-76.webp"
+  },
+  {
+    "id": 77,
+    "name": "Apollo",
+    "nameAr": "أبولو",
+    "image": "assets/home/roster-77.webp"
+  },
+  {
+    "id": 79,
+    "name": "Rem",
+    "nameAr": "ريم",
+    "image": "assets/home/roster-79.webp"
+  },
+  {
+    "id": 80,
+    "name": "Silver",
+    "nameAr": "سيلفر",
+    "image": "assets/home/roster-80.webp"
+  },
+  {
+    "id": 81,
+    "name": "Celeste",
+    "nameAr": "سيليست",
+    "image": "assets/home/roster-81.webp"
+  }
+]

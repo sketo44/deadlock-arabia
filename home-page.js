@@ -12,37 +12,43 @@ export function communityHome(data){
  <nav class="home-doorways" aria-label="مداخل الموقع">
  ${[['#heroes','الشخصيات',`${count} شخصية وقصصها وقدراتها`],['#items','الأيتمات','افهم تأثير كل قطعة'],['#community','مجتمع اللاعبين','البيلدات وترتيب اللاعبين'],['#tournaments','البطولات','الفرق وغرف المنافسة']].map(([href,title,sub])=>`<a href="${href}"><span><strong>${title}</strong><small>${sub}</small></span>${arrow}</a>`).join('')}
  </nav>
- <section class="home-arrivals" aria-labelledby="home-arrivals-title"><div class="home-section-heading"><div><p>وجوه جديدة، وأساليب مختلفة</p><h2 id="home-arrivals-title">تعرّف على آخر الواصلين.</h2></div><div class="home-roster-actions"><button type="button" data-roster-pause aria-pressed="false">إيقاف التبديل</button><a href="#heroes">كل الشخصيات ${arrow}</a></div></div><div class="home-character-grid">${recent.map(([id,ar,en],i)=>`<a class="home-character" href="#hero/${id}"><img src="${id===85?'assets/home/85-framed.webp':'assets/home/'+id+'.webp'}" alt="${esc(ar)}" width="420" height="510" loading="lazy"><div>${i===0?'<small>الأحدث</small>':''}<h3 dir="ltr">${en}</h3><p>${ar}</p></div></a>`).join('')}</div></section>
+ <section class="home-arrivals" aria-labelledby="home-arrivals-title"><div class="home-section-heading"><div><p>كل شخصية لها أسلوبها</p><h2 id="home-arrivals-title">اكتشف شخصيات المدينة.</h2></div><div class="home-roster-actions"><button type="button" data-roster-pause aria-pressed="false">إيقاف التبديل</button><a href="#heroes">كل الشخصيات ${arrow}</a></div></div><div class="home-character-window"><div class="home-character-grid">${recent.map(([id,ar,en],i)=>`<a class="home-character" href="#hero/${id}"><img src="${id===85?'assets/home/85-framed.webp':'assets/home/'+id+'.webp'}" alt="${esc(ar)}" width="420" height="510" loading="lazy"><div>${i===0?'<small>الأحدث</small>':''}<h3 dir="ltr">${en}</h3><p>${ar}</p></div></a>`).join('')}</div></div></section>
  <section class="home-learn" aria-labelledby="home-learn-title"><div class="home-learn-intro"><p>المعرفة تفرق داخل القيم</p><h2 id="home-learn-title">افهم المدينة.<br>والعبها بطريقتك.</h2><p>من الفارم والحركة إلى اختيار الأيتم المناسب. ادخل على اللي تحتاجه، وخذ الشرح بالعربي.</p><a class="home-text-link" href="#guide/start">افتح دليل البداية ${arrow}</a></div><div class="home-learning-links">${[['guide/map','الماب واللينات','اعرف الطرق ومواقع الأهداف.','assets/guide/Map_colored.png'],['guide/farm','الفارم والسولز','كيف تجمع، ومتى تركز على الفارم.','assets/guide/Fairfax_crates.png'],['guide/movement','الحركة والتنقّل','الحبال والمراوح وطرق الوصول.','assets/guide/Riding_zipline.png']].map(([route,title,sub,img])=>`<a href="#${route}"><img src="${img}" alt="" width="70" height="70" loading="lazy"><span><h3>${title}</h3><p>${sub}</p></span>${arrow}</a>`).join('')}<a href="assistant.html"><span class="home-help-mark" aria-hidden="true">؟</span><span><h3>عندك سؤال عن اللعبة؟</h3><p>اسأل المساعد بالعربي · تجريبي</p></span>${arrow}</a></div></section>
  <section class="home-community" aria-labelledby="home-community-title"><div><p>مكانك بين اللاعبين</p><h2 id="home-community-title">القيم أحلى مع مجتمعك.</h2><p>شارك بيلدك، تعرّف على اللاعبين، أو جهّز فريقك للمنافسة.</p><div class="home-actions"><a class="home-button" href="#community">ادخل المجتمع ${arrow}</a><a class="home-button home-button-secondary" href="#tournaments">ساحة البطولات</a></div></div><img src="assets/arena-city-full.jpg" alt="شوارع مدينة ديدلوك" loading="lazy" width="740" height="500"></section>
  </div>`;
 }
 
 let stopRotation=()=>{};
-export function mountHome(){
+export async function mountHome(){
  stopRotation();
- const grid=document.querySelector('.home-character-grid');
- if(!grid)return;
- const cards=[...grid.querySelectorAll('.home-character')];
- const toggle=document.querySelector('[data-roster-pause]');
- const reduced=matchMedia('(prefers-reduced-motion:reduce)');
- let paused=reduced.matches,offset=0;
- const source=id=>id===85?'assets/home/85-framed.webp':`assets/home/${id}.webp`;
- recent.forEach(([id])=>{const image=new Image();image.src=source(id)});
+ const track=document.querySelector('.home-character-grid');
+ if(!track)return;
+ const response=await fetch('data/home-roster.json?v=1');
+ if(!response.ok||!track.isConnected)return;
+ const roster=await response.json();
+ if(!track.isConnected)return;
+ track.innerHTML=roster.map(h=>`<a class="home-character" href="#hero/${h.id}"><img src="${esc(h.image)}" alt="${esc(h.nameAr)}" width="420" height="510" loading="lazy"><div>${h.id==='nurse-harrow'?'<small>الأحدث</small>':''}<h3 dir="ltr">${esc(h.name)}</h3><p>${esc(h.nameAr)}</p></div></a>`).join('');
+ const reduced=matchMedia('(prefers-reduced-motion:reduce)'),toggle=document.querySelector('[data-roster-pause]');
+ let paused=reduced.matches,busy=false,animation;
  const label=()=>{toggle.textContent=paused?'تشغيل التبديل':'إيقاف التبديل';toggle.setAttribute('aria-pressed',String(paused))};
- label();
- toggle.addEventListener('click',()=>{paused=!paused;label()});
- const timer=setInterval(()=>{
-  if(!grid.isConnected){clearInterval(timer);return}
-  if(paused||document.hidden||grid.matches(':hover')||grid.contains(document.activeElement))return;
-  offset=(offset+1)%recent.length;
-  cards.forEach((card,index)=>{
-   const [id,ar,en]=recent[(index+offset)%recent.length];
-   card.href=`#hero/${id}`;
-   const image=card.querySelector('img');image.src=source(id);image.alt=ar;
-   card.querySelector('div').innerHTML=`${id==='nurse-harrow'?'<small>الأحدث</small>':''}<h3 dir="ltr">${esc(en)}</h3><p>${esc(ar)}</p>`;
-   if(!reduced.matches)image.animate([{opacity:.4},{opacity:1}],{duration:320,easing:'ease-out'});
-  });
- },5000);
- stopRotation=()=>clearInterval(timer);
+ label();toggle.addEventListener('click',()=>{paused=!paused;label()});
+ const advance=async()=>{
+  if(!track.isConnected){stopRotation();return}
+  if(busy||paused||document.hidden||track.matches(':hover')||track.contains(document.activeElement))return;
+  busy=true;
+  const first=track.firstElementChild;
+  const step=first.getBoundingClientRect().width+parseFloat(getComputedStyle(track).columnGap);
+  const incoming=track.children[Math.min(roster.length-1,Math.ceil(track.clientWidth/step))]?.querySelector('img');
+  if(incoming)incoming.loading='eager';
+  try{
+   if(!reduced.matches){animation=track.animate([{transform:'translateX(0)'},{transform:`translateX(-${step}px)`}],{duration:650,easing:'cubic-bezier(.22,.68,.2,1)',fill:'forwards'});await animation.finished}
+   if(track.isConnected)track.append(first);
+  }catch{}finally{animation?.cancel();busy=false}
+ };
+ const timer=setInterval(advance,10000);
+ const cleanup=()=>{clearInterval(timer);animation?.cancel();window.removeEventListener('hashchange',leave)};
+ const leave=()=>{if(!track.isConnected)cleanup()};
+ window.addEventListener('hashchange',leave);
+ stopRotation=cleanup;
 }
+
