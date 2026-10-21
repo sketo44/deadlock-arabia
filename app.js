@@ -1,7 +1,7 @@
-import {nurseHarrow} from './nurse-harrow.js?v=hero-layout-74';
+import {nurseHarrow} from './nurse-harrow.js?v=hero-layout-75';
 import {guidePage,mountGuide} from './city-guide.js';
 import {modelPage,mountModel} from './hero-model.js';
-import {communityHome,mountLore} from './community-v2.js?v=hero-layout-74';
+import {communityHome,mountLore} from './community-v2.js?v=hero-layout-75';
 import {tournamentPage,mountTournaments} from './arena.js';
 import {shopOrder} from './shop-order.js';
 import {googleLoginUrl} from './google-login.js';
@@ -26,7 +26,7 @@ async function request(url,opts={}){let r=await fetch(url,{...opts,signal:AbortS
 async function api(path,method='GET',body,auth=false){if(!configured())throw Error('النشر العام مو مفعّل حاليًا. تقدر تحفظ بيلدك وتشارك رابطه.');if(auth&&session?.expires_at<Date.now()/1000){try{const d=await api('/auth/v1/token?grant_type=refresh_token','POST',{refresh_token:session.refresh_token});session={...d,expires_at:Date.now()/1000+d.expires_in};write('dla-session',session)}catch{session=null;write('dla-session',null);throw Error('انتهت الجلسة؛ سجّل الدخول مجددًا')}}return request(cfg.supabaseUrl+path,{method,headers:{apikey:cfg.supabaseAnonKey,'Content-Type':'application/json',Authorization:'Bearer '+(auth?session?.access_token:cfg.supabaseAnonKey),Prefer:'return=representation'},...(body?{body:JSON.stringify(body)}:{})})}
 function heading(title,sub){return `<div class="page-title"><span class="eyebrow">DEADLOCK ARABIA / دليل المدينة</span><h1>${title}</h1><p class="muted">${sub}</p></div>`}
 function image(o,cls=''){return `<img class="${cls}" src="${esc(o.image)}" alt="${esc(o.name)}" loading="lazy" onerror="this.onerror=null;this.src='icon.svg'">`}
-function heroCard(h){return `<a class="hero-card" href="#hero/${h.id}">${image(h)}<div class="caption"><small>${h.id===nurseHarrow.id?'قادمة':(roles[h.role]||'شخصية')+' · '+'◆'.repeat(h.complexity||1)}</small><h3 dir="ltr">${esc(h.name)}</h3><p class="hero-summary">${esc(h.ar||"اكتشف قدراتها واختر أسلوبك بالمواجهة.")}</p><span class="hero-link">القدرات وأسلوب اللعب ←</span></div></a>`}
+function heroCard(h){return `<a class="hero-card" href="#hero/${h.id}">${image(h)}<div class="caption"><small>${h.id===nurseHarrow.id?'متاحة الآن':(roles[h.role]||'شخصية')+' · '+'◆'.repeat(h.complexity||1)}</small><h3 dir="ltr">${esc(h.name)}</h3><p class="hero-summary">${esc(h.ar||"اكتشف قدراتها واختر أسلوبك بالمواجهة.")}</p><span class="hero-link">القدرات وأسلوب اللعب ←</span></div></a>`}
 function itemName(i){return reviewedItem(i)?.[0]||i.name}
 function itemDescription(i){return reviewedItem(i)?.[1]||i.ar||'الشرح العربي تحت المراجعة.'}
 function properties(i){return `<div class="properties">${Object.entries(i.properties||{}).filter(([k,p])=>p.value!==undefined&&p.value!==null&&p.value!==''&&Number.parseFloat(p.value)!==-1&&Number.parseFloat(p.value)!==0).map(([k,p])=>`<div class="property"><span>${esc(i.type==='ability'?(upgradeNames[k]||arLabel(p.label)):arLabel(p.label))}</span><b>${esc(formatStat(p.value,p.unit))}</b></div>`).join('')}</div>`}

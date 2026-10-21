@@ -3319,6 +3319,7 @@
     "name": "Nurse Harrow",
     "nameAr": "نيرس هارو",
     "portrait": "assets/lore/nurse-harrow-portrait.webp",
-    "upcoming": true
+    "upcoming": false,
+    "releaseDate": "2026-10-20"
   }
 ]

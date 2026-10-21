@@ -1,0 +1,469 @@
+{
+  "reviewedAt": "2026-10-21",
+  "releasedAt": "2026-10-20",
+  "gameHeroId": 87,
+  "route": "nurse-harrow",
+  "sources": [
+    "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=1422450&count=5&maxlength=0",
+    "https://api.deadlock-api.com/v1/assets/heroes?language=english",
+    "https://api.deadlock-api.com/v1/assets/items?language=english",
+    "https://deadlock.wiki/Nurse_Harrow/Lore"
+  ],
+  "startingStats": {
+    "max_move_speed": {
+      "value": 6.8,
+      "display_stat_name": "EMaxMoveSpeed"
+    },
+    "sprint_speed": {
+      "value": 2.5,
+      "display_stat_name": "ESprintSpeed"
+    },
+    "crouch_speed": {
+      "value": 4.75,
+      "display_stat_name": "ECrouchSpeed"
+    },
+    "move_acceleration": {
+      "value": 4,
+      "display_stat_name": "EMoveAcceleration"
+    },
+    "light_melee_damage": {
+      "value": 50,
+      "display_stat_name": "ELightMeleeDamage"
+    },
+    "heavy_melee_damage": {
+      "value": 116,
+      "display_stat_name": "EHeavyMeleeDamage"
+    },
+    "max_health": {
+      "value": 730,
+      "display_stat_name": "EMaxHealth"
+    },
+    "weapon_power": {
+      "value": 0,
+      "display_stat_name": "EWeaponPower"
+    },
+    "reload_speed": {
+      "value": 1,
+      "display_stat_name": "EReloadSpeed"
+    },
+    "weapon_power_scale": {
+      "value": 1,
+      "display_stat_name": "EWeaponPowerScale"
+    },
+    "proc_build_up_rate_scale": {
+      "value": 1,
+      "display_stat_name": "EProcBuildUpRateScale"
+    },
+    "stamina": {
+      "value": 3,
+      "display_stat_name": "EStamina"
+    },
+    "base_health_regen": {
+      "value": 0,
+      "display_stat_name": "EBaseHealthRegen"
+    },
+    "stamina_regen_per_second": {
+      "value": 0.222222,
+      "display_stat_name": "EStaminaRegenPerSecond"
+    },
+    "ability_resource_max": {
+      "value": 0,
+      "display_stat_name": "EAbilityResourceMax"
+    },
+    "ability_resource_regen_per_second": {
+      "value": 0,
+      "display_stat_name": "EAbilityResourceRegenPerSecond"
+    },
+    "crit_damage_received_scale": {
+      "value": 1,
+      "display_stat_name": "ECritDamageReceivedScale"
+    },
+    "tech_duration": {
+      "value": 1,
+      "display_stat_name": "ETechDuration"
+    },
+    "tech_range": {
+      "value": 1,
+      "display_stat_name": "ETechRange"
+    },
+    "ground_dash_distance_in_meters": {
+      "value": 10,
+      "display_stat_name": "EGroundDashDistanceInMeters"
+    },
+    "ground_dash_duration": {
+      "value": 0.68,
+      "display_stat_name": "EGroundDashDuration"
+    },
+    "air_dash_distance_in_meters": {
+      "value": 8,
+      "display_stat_name": "EAirDashDistanceInMeters"
+    },
+    "air_dash_duration": {
+      "value": 0.47,
+      "display_stat_name": "EAirDashDuration"
+    },
+    "ooc_health_regen": {
+      "value": 0,
+      "display_stat_name": "EOOCHealthRegen"
+    }
+  },
+  "abilities": [
+    {
+      "id": 267712790,
+      "name": "Leech Therapy",
+      "description": {
+        "desc": "Throw a jar of leeches that attach to enemies, dealing <svg width=\"128\" height=\"128\" viewBox=\"0 0 128 128\" fill=\"white\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M53.7875 20.0238C48.6533 13.3022 40.8042 9 32.0027 9C16.5345 9 4 22.2789 4 38.6558C4 38.7707 4.00052 38.8854 4.00155 39H91.8416L94.7229 33.1618C97.2906 27.9591 104.71 27.9591 107.277 33.1618L110.159 39H115.998C115.999 38.8854 116 38.7707 116 38.6558C116 22.2789 103.466 9 87.9973 9C79.1958 9 71.3467 13.3022 66.2125 20.0238C65.7565 20.6214 65.336 21.1783 64.9462 21.6946C62.4734 24.9699 61.2367 26.6078 59.9993 26.6084C58.7614 26.609 57.5227 24.9711 55.0449 21.6946C54.6545 21.1783 54.2333 20.6214 53.7766 20.0238H53.7875Z\" fill=\"white\"/>\n<path d=\"M79.7015 79L79.5588 79.8323C78.7516 84.5386 82.6742 88.3253 86.9508 88.0132C86.8571 88.1111 86.7634 88.209 86.6696 88.3069C78.1991 97.1552 69.4174 106.328 62.6218 116.742C61.1111 119.051 58.8889 119.051 57.3782 116.742C50.5788 106.325 41.7966 97.1509 33.3264 88.303C30.3317 85.1748 27.3761 82.0873 24.5608 79H79.7015Z\" fill=\"white\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M101.901 35.5496C101.512 34.8168 100.488 34.8168 100.099 35.5497L93.0406 48.845C92.8929 49.123 92.6315 49.3183 92.3283 49.3766L77.8385 52.1641C77.0398 52.3178 76.7233 53.3185 77.2815 53.9252L87.4091 64.9295C87.6209 65.1597 87.7208 65.4756 87.6812 65.7898L85.7842 80.8078C85.6796 81.6357 86.5083 82.2542 87.2424 81.8963L100.56 75.402C100.838 75.2662 101.162 75.2662 101.44 75.402L114.758 81.8963C115.492 82.2542 116.32 81.6357 116.216 80.8078L114.319 65.7898C114.279 65.4756 114.379 65.1597 114.591 64.9295L124.718 53.9252C125.277 53.3185 124.96 52.3178 124.161 52.1641L109.672 49.3766C109.369 49.3183 109.107 49.123 108.959 48.845L101.901 35.5496ZM100.036 43.0789C100.366 42.1579 101.634 42.1579 101.964 43.0789L105.019 51.6179C105.01 51.6983 105.017 51.7822 105.041 51.8662L107.687 61.1634C107.817 61.6217 108.371 61.7807 108.714 61.4584L111.336 58.9947C111.498 58.8428 111.571 58.6153 111.528 58.3944L110.687 53.9877H117.422C118.389 53.9877 118.82 55.2373 118.067 55.8622L110.702 61.9792C110.601 61.9949 110.502 62.0365 110.413 62.1066L102.948 68.0247C102.581 68.3164 102.638 68.9036 103.055 69.1143L106.244 70.7259C106.44 70.8252 106.673 70.8121 106.858 70.6913L110.254 68.4723L112.085 75.0776C112.35 76.0329 111.299 76.8003 110.508 76.2296L101.591 69.8003C101.471 69.7136 101.337 69.6563 101.199 69.6285L95.0376 65.3393C94.6474 65.0677 94.116 65.3179 94.0614 65.7987L93.6534 69.3978C93.6281 69.6213 93.718 69.8423 93.8907 69.9808L96.868 72.3692L91.5448 76.2279C90.7554 76.8001 89.7037 76.0372 89.9645 75.0816L92.6557 65.2197C92.6717 65.1902 92.6845 65.1581 92.6935 65.1237L95.058 56.0862C95.1347 55.7934 94.8946 55.5156 94.6024 55.5592L90.6768 56.1448C90.5236 56.1678 90.3959 56.2773 90.3466 56.428L89.0988 60.2424L83.9931 56.1163C83.2355 55.5041 83.6428 54.2537 84.6065 54.2331L94.8405 54.0152C94.8711 54.0191 94.9023 54.0206 94.934 54.0198L103.141 53.8011C103.588 53.7892 103.88 53.3157 103.7 52.8958L102.212 49.4285C102.111 49.1944 101.886 49.0435 101.637 49.0435H97.9024L100.036 43.0789Z\" fill=\"white\"/>\n<path d=\"M67 57C68.1046 57 69 57.8954 69 59C69 60.1046 68.1046 61 67 61H7C5.89543 61 5 60.1046 5 59C5 57.8954 5.89543 57 7 57H67Z\" fill=\"white\"/>\n</svg>\n<span class=\"inline-attribute-label SpiritDPS\">spirit damage over time</span> and <span class=\"highlight\">eating away at the duration of enemy buffs</span>.",
+        "t1_desc": "Leeches drain stamina and restore it to you on pickup",
+        "t2_desc": "-10s Cooldown<br>+4 Spirit Power Per Leech",
+        "t3_desc": "+1m Radius<br>+0.3 Spirit Scaling<br>+8 Max Leech Stacks"
+      },
+      "properties": {
+        "AbilityCooldown": "30",
+        "AbilityDuration": "5",
+        "AbilityCastRange": "0",
+        "AbilityUnitTargetLimit": "1",
+        "AbilityCastDelay": "0.1",
+        "AbilityChannelTime": "0",
+        "AbilityPostCastDuration": "0.2",
+        "AbilityCharges": "0",
+        "AbilityCooldownBetweenCharge": "0",
+        "ChannelMoveSpeed": "5m",
+        "AbilityResourceCost": "0",
+        "TechPower": "0",
+        "WeaponPower": "0",
+        "Radius": "6.5m",
+        "DPS": 23,
+        "BurstDamage": 0,
+        "TickRate": "0.38",
+        "LeechEatTickRate": "0.38",
+        "LeechEatDurationPerSecond": "0.65",
+        "LeechStaminaDrain": "0",
+        "LeechMoveSpeed": "2m",
+        "LeechGroundLifetime": "180",
+        "LeechCrawlRadius": "8m",
+        "LeechCrawlRadiusExitGap": "5m",
+        "LeechCount": "4",
+        "LeechHuntLifetime": "9",
+        "LeechLungeSpeed": "15m",
+        "LeechLeapDuration": "0.4",
+        "LeechLeapArcHeight": "0.5m",
+        "LeechHuntCrawlSpeed": "3m",
+        "LeechHuntSearchRadiusPercent": "150",
+        "LeechHuntSearchInterval": "0.2",
+        "LeechHuntLifetimeVariance": "0.55",
+        "LeechHuntMaxDrop": "3m",
+        "LeechSpawnSpreadPercent": "58",
+        "LeechSpawnSpreadMinPercent": "73",
+        "LeechSpawnAngleJitter": "0.32",
+        "HealPercentOfLeechDamage": "100",
+        "LeechPurgeBuffs": "0",
+        "RegenPerLeechPickup": "0.6",
+        "FireRatePerLeechPickup": "5",
+        "SpiritPowerPerLeechStack": "0",
+        "LeechStacksKeptOnDeathPercent": "50",
+        "MaxLeechBonusStacks": "10",
+        "StacksLostOnDeathPercent": "25"
+      },
+      "upgrades": [
+        {
+          "property_upgrades": [
+            {
+              "name": "LeechStaminaDrain",
+              "bonus": "0.3"
+            }
+          ]
+        },
+        {
+          "property_upgrades": [
+            {
+              "name": "AbilityCooldown",
+              "bonus": "-10"
+            },
+            {
+              "name": "SpiritPowerPerLeechStack",
+              "bonus": "4"
+            }
+          ]
+        },
+        {
+          "property_upgrades": [
+            {
+              "name": "MaxLeechBonusStacks",
+              "bonus": "8"
+            },
+            {
+              "name": "DPS",
+              "bonus": "0.3",
+              "scale_stat_filter": "ETechPower",
+              "upgrade_type": "EAddToScale"
+            },
+            {
+              "name": "Radius",
+              "bonus": "1m"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3621314027,
+      "name": "Wretched Vapors",
+      "description": {
+        "desc": "Crack open a vial to release an ethereal vapor onto yourself or an ally that causes a rush, then a crash.<br><br><span class=\"diminish\">Specter Rush:</span> While it lasts, increases the speed of all actions and temporarily <span class=\"highlight\">numbs all incoming damage</span> creating looming specters.<br><br><span class=\"diminish\">Specter Crash:</span> When the vapors wear off, all actions are slower and any remaining specters <span class=\"highlight\">deal their delayed damage plus extra damage</span>.<br><br><span class=\"small_diminish\">Incoming healing will prioritize removing specters first, preventing them from dealing damage.</span>",
+        "t1_desc": "-15s Cooldown<br>+7m Cast Range",
+        "t2_desc": "+1s Duration<br>+20% Healing Effectiveness",
+        "t3_desc": "+15% Rush Speed<br>Dispels non-ult debuffs"
+      },
+      "properties": {
+        "AbilityCooldown": "40",
+        "AbilityDuration": "4",
+        "AbilityCastRange": "13m",
+        "AbilityUnitTargetLimit": "1",
+        "AbilityCastDelay": "0.2",
+        "AbilityChannelTime": "0",
+        "AbilityPostCastDuration": "0",
+        "AbilityCharges": "0",
+        "AbilityCooldownBetweenCharge": "-1.0",
+        "ChannelMoveSpeed": "-1",
+        "AbilityResourceCost": "0",
+        "TechPower": "0",
+        "WeaponPower": "0",
+        "DamageSpiritThresholdPercent": "6",
+        "DeferredDamagePercent": "100",
+        "DeferredDamageBonusPercent": "30",
+        "RushTimeScaleBonusPercent": "25",
+        "CrashDuration": "4",
+        "CrashTimeScalePenaltyPercent": "20",
+        "DispelDebuffs": "0",
+        "HealingEffectivenessPercent": "0",
+        "HealAmpRegenPercent": "0"
+      },
+      "upgrades": [
+        {
+          "property_upgrades": [
+            {
+              "name": "AbilityCooldown",
+              "bonus": "-15"
+            },
+            {
+              "name": "AbilityCastRange",
+              "bonus": "7m"
+            }
+          ]
+        },
+        {
+          "property_upgrades": [
+            {
+              "name": "AbilityDuration",
+              "bonus": "1"
+            },
+            {
+              "name": "HealingEffectivenessPercent",
+              "bonus": "20"
+            },
+            {
+              "name": "HealAmpRegenPercent",
+              "bonus": "20"
+            }
+          ]
+        },
+        {
+          "property_upgrades": [
+            {
+              "name": "RushTimeScaleBonusPercent",
+              "bonus": "15"
+            },
+            {
+              "name": "DispelDebuffs",
+              "bonus": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 683490631,
+      "name": "Healing Needles",
+      "description": {
+        "desc": "Load your weapon with a full clip of syringes that <svg width=\"128\" height=\"128\" viewBox=\"0 0 128 128\" fill=\"#0F9\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M92.0059 9C107.475 9.00022 120 22.237 120 38.6592C120 68.2957 85.5894 87.6846 66.6162 116.752C65.1163 119.062 62.8837 119.062 61.3838 116.752C42.4106 87.6846 8.00022 68.2957 8 38.6592C8 22.2808 20.5245 9.00022 35.9941 9C40.2312 9.02587 44.4049 10.0351 48.1855 11.9482C49.3884 12.5569 50.5406 13.2524 51.6343 14.0271C52.9137 14.9332 52.473 16.8509 51.0109 17.4168C37.5479 22.6271 28 35.6977 28 51C28 70.8823 44.1177 87 64 87C83.8823 87 100 70.8823 100 51C100 35.6974 90.4516 22.6267 76.9882 17.4167C75.5261 16.8509 75.0854 14.9333 76.3648 14.0273C77.4588 13.2526 78.6113 12.557 79.8145 11.9482C83.5951 10.0351 87.7688 9.02587 92.0059 9Z\" fill=\"#0F9\"/>\n<path d=\"M69 46H84V56H69V71H59V56H44V46H59V31H69V46Z\" fill=\"#0F9\"/>\n</svg>\n<span class=\"inline-attribute-label Heal\" style=\"color: #0F9;\">heal</span> allies. <span class=\"highlight\">Dealing damage</span> recovers charges, and each leech you have collected slowly restores them.<br><br>Reloading spends a charge for a fresh clip.<br><br><span class=\"small_diminish\">Unused syringes are refunded as a partial charge. Recast to put them away.</span>",
+        "t1_desc": "+1 Max Charge",
+        "t2_desc": "+20 Heal Per Shot<br>Shots restore 0.6 stamina",
+        "t3_desc": "+0.4 Spirit Scaling<br>Shots extend non-ultimate buff durations by 6%, up to their max duration"
+      },
+      "properties": {
+        "AbilityCooldown": "0",
+        "AbilityDuration": "0",
+        "AbilityCastRange": "0",
+        "AbilityUnitTargetLimit": "1",
+        "AbilityCastDelay": "0.1",
+        "AbilityChannelTime": "0",
+        "AbilityPostCastDuration": "0",
+        "AbilityCharges": "1",
+        "AbilityCooldownBetweenCharge": "-1.0",
+        "ChannelMoveSpeed": "-1",
+        "AbilityResourceCost": "0",
+        "TechPower": "0",
+        "WeaponPower": "0",
+        "AbilityChargesConditionally": "1",
+        "AbilityChargesInitial": "1",
+        "ChargePercentPerBulletHit": "1.26",
+        "ChargePercentPerHeadshot": "2.52",
+        "ChargePercentPerLightMelee": "7.56",
+        "ChargePercentPerHeavyMelee": "15.12",
+        "ChargePercentPerAbilityHit": "1.26",
+        "ChargeHitCooldown": "0.15",
+        "NonHeroChargeScalePercent": "35",
+        "ChargePercentPerSecondPerLeech": "0.15",
+        "ChargeGenPctScale": "100",
+        "SwapInDelay": "1.3",
+        "SwapEndDelay": "1.8",
+        "BuffDuration": "0",
+        "BuffExtendMaxDurationPercent": "200",
+        "BuffExtendPercentPerShot": "0",
+        "HealRegen": "25",
+        "HeadshotHealBonusPercent": "15",
+        "SecondaryShotHealPercent": "50",
+        "BuildUpPerShot": "0",
+        "BuildUpDuration": "5",
+        "StaminaRestorePerHit": "0.0",
+        "HealMaxHealthPercentPerShot": "0"
+      },
+      "upgrades": [
+        {
+          "property_upgrades": [
+            {
+              "name": "AbilityCharges",
+              "bonus": "1"
+            }
+          ]
+        },
+        {
+          "property_upgrades": [
+            {
+              "name": "StaminaRestorePerHit",
+              "bonus": "0.6"
+            },
+            {
+              "name": "HealRegen",
+              "bonus": "20"
+            }
+          ]
+        },
+        {
+          "property_upgrades": [
+            {
+              "name": "HealRegen",
+              "bonus": "0.4",
+              "scale_stat_filter": "ETechPower",
+              "upgrade_type": "EAddToScale"
+            },
+            {
+              "name": "BuffExtendPercentPerShot",
+              "bonus": "6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3427093887,
+      "name": "Lurking Terrors",
+      "description": {
+        "desc": "Open your bag and reveal the horrors you carry inside, dealing <svg width=\"128\" height=\"128\" viewBox=\"0 0 128 128\" fill=\"white\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M53.7875 20.0238C48.6533 13.3022 40.8042 9 32.0027 9C16.5345 9 4 22.2789 4 38.6558C4 38.7707 4.00052 38.8854 4.00155 39H91.8416L94.7229 33.1618C97.2906 27.9591 104.71 27.9591 107.277 33.1618L110.159 39H115.998C115.999 38.8854 116 38.7707 116 38.6558C116 22.2789 103.466 9 87.9973 9C79.1958 9 71.3467 13.3022 66.2125 20.0238C65.7565 20.6214 65.336 21.1783 64.9462 21.6946C62.4734 24.9699 61.2367 26.6078 59.9993 26.6084C58.7614 26.609 57.5227 24.9711 55.0449 21.6946C54.6545 21.1783 54.2333 20.6214 53.7766 20.0238H53.7875Z\" fill=\"white\"/>\n<path d=\"M79.7015 79L79.5588 79.8323C78.7516 84.5386 82.6742 88.3253 86.9508 88.0132C86.8571 88.1111 86.7634 88.209 86.6696 88.3069C78.1991 97.1552 69.4174 106.328 62.6218 116.742C61.1111 119.051 58.8889 119.051 57.3782 116.742C50.5788 106.325 41.7966 97.1509 33.3264 88.303C30.3317 85.1748 27.3761 82.0873 24.5608 79H79.7015Z\" fill=\"white\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M101.901 35.5496C101.512 34.8168 100.488 34.8168 100.099 35.5497L93.0406 48.845C92.8929 49.123 92.6315 49.3183 92.3283 49.3766L77.8385 52.1641C77.0398 52.3178 76.7233 53.3185 77.2815 53.9252L87.4091 64.9295C87.6209 65.1597 87.7208 65.4756 87.6812 65.7898L85.7842 80.8078C85.6796 81.6357 86.5083 82.2542 87.2424 81.8963L100.56 75.402C100.838 75.2662 101.162 75.2662 101.44 75.402L114.758 81.8963C115.492 82.2542 116.32 81.6357 116.216 80.8078L114.319 65.7898C114.279 65.4756 114.379 65.1597 114.591 64.9295L124.718 53.9252C125.277 53.3185 124.96 52.3178 124.161 52.1641L109.672 49.3766C109.369 49.3183 109.107 49.123 108.959 48.845L101.901 35.5496ZM100.036 43.0789C100.366 42.1579 101.634 42.1579 101.964 43.0789L105.019 51.6179C105.01 51.6983 105.017 51.7822 105.041 51.8662L107.687 61.1634C107.817 61.6217 108.371 61.7807 108.714 61.4584L111.336 58.9947C111.498 58.8428 111.571 58.6153 111.528 58.3944L110.687 53.9877H117.422C118.389 53.9877 118.82 55.2373 118.067 55.8622L110.702 61.9792C110.601 61.9949 110.502 62.0365 110.413 62.1066L102.948 68.0247C102.581 68.3164 102.638 68.9036 103.055 69.1143L106.244 70.7259C106.44 70.8252 106.673 70.8121 106.858 70.6913L110.254 68.4723L112.085 75.0776C112.35 76.0329 111.299 76.8003 110.508 76.2296L101.591 69.8003C101.471 69.7136 101.337 69.6563 101.199 69.6285L95.0376 65.3393C94.6474 65.0677 94.116 65.3179 94.0614 65.7987L93.6534 69.3978C93.6281 69.6213 93.718 69.8423 93.8907 69.9808L96.868 72.3692L91.5448 76.2279C90.7554 76.8001 89.7037 76.0372 89.9645 75.0816L92.6557 65.2197C92.6717 65.1902 92.6845 65.1581 92.6935 65.1237L95.058 56.0862C95.1347 55.7934 94.8946 55.5156 94.6024 55.5592L90.6768 56.1448C90.5236 56.1678 90.3959 56.2773 90.3466 56.428L89.0988 60.2424L83.9931 56.1163C83.2355 55.5041 83.6428 54.2537 84.6065 54.2331L94.8405 54.0152C94.8711 54.0191 94.9023 54.0206 94.934 54.0198L103.141 53.8011C103.588 53.7892 103.88 53.3157 103.7 52.8958L102.212 49.4285C102.111 49.1944 101.886 49.0435 101.637 49.0435H97.9024L100.036 43.0789Z\" fill=\"white\"/>\n<path d=\"M67 57C68.1046 57 69 57.8954 69 59C69 60.1046 68.1046 61 67 61H7C5.89543 61 5 60.1046 5 59C5 57.8954 5.89543 57 7 57H67Z\" fill=\"white\"/>\n</svg>\n<span class=\"inline-attribute-label SpiritDPS\">spirit damage over time</span> to enemies in front of you. Enemies <span class=\"highlight\">looking at you</span> build up terror and <span class=\"highlight\">cannot use stamina or movement abilities</span>. At max terror, they <span class=\"highlight\">flee in fear away from you</span>.<br><br>Each leech you have collected adds <span class=\"highlight\">fear duration</span>.<br><span class=\"diminish\"><br>Enemies facing away from you take 50% damage unless feared.</span>",
+        "t2_desc": "-20% Move Speed and Fire Rate<br>+30 DPS",
+        "t3_desc": "+3.0s Channel Time<br>+0.5 Spirit Scaling<br>Immune to damage while channeling"
+      },
+      "properties": {
+        "AbilityCooldown": 200,
+        "AbilityDuration": "0",
+        "AbilityCastRange": "35m",
+        "AbilityUnitTargetLimit": "1",
+        "AbilityCastDelay": "1.3",
+        "AbilityChannelTime": "7.0",
+        "AbilityPostCastDuration": "0",
+        "AbilityCharges": "0",
+        "AbilityCooldownBetweenCharge": "-1.0",
+        "ChannelMoveSpeed": "3.5m",
+        "AbilityResourceCost": "0",
+        "TechPower": "0",
+        "WeaponPower": "0",
+        "ConeAngle": "180",
+        "ExtraSweepConeAngle": "40",
+        "ExtraSweepOffsetBehindCaster": "40",
+        "ExtraSweepRange": "4m",
+        "TickRate": "0.15",
+        "BuildupTickRate": "0.075",
+        "DPS": "60",
+        "FacingAwayDamagePercent": "50",
+        "DebuffDuration": "2.2",
+        "BuildupTime": "1.3",
+        "BuildupDecayTime": "10.0",
+        "BuildupLookAngle": "80",
+        "BuildupLookAngleFull": "55",
+        "LookBuildupScalePercent": "35",
+        "GazeLingerDuration": "0.3",
+        "ImmunityDuration": "0",
+        "FearMoveSpeedBonus": "0m",
+        "FallSpeedMax": "1",
+        "AirDrag": "3",
+        "AirControlAccelPercent": "-50",
+        "LaunchHeight": "7.8m",
+        "CameraTurnRateMax": "15",
+        "TargetMantleAttemptInterval": "0.5",
+        "FearDurationPerLeechStack": "0.1",
+        "SlowPercent": "30",
+        "ChannelDamageImmune": "0",
+        "FireRateSlow": "30",
+        "SlowLingerDuration": "0.5",
+        "VolScaleMin": "0.35",
+        "VolScaleMax": "1.0",
+        "PitchScaleMin": "1.0",
+        "PitchScaleMax": "1.3"
+      },
+      "upgrades": [
+        {
+          "property_upgrades": [
+            {
+              "name": "AbilityCooldown",
+              "bonus": "-50"
+            }
+          ]
+        },
+        {
+          "property_upgrades": [
+            {
+              "name": "SlowPercent",
+              "bonus": "20"
+            },
+            {
+              "name": "FireRateSlow",
+              "bonus": "20"
+            },
+            {
+              "name": "DPS",
+              "bonus": "30"
+            }
+          ]
+        },
+        {
+          "property_upgrades": [
+            {
+              "name": "ChannelDamageImmune",
+              "bonus": "1"
+            },
+            {
+              "name": "AbilityChannelTime",
+              "bonus": "3.0"
+            },
+            {
+              "name": "DPS",
+              "bonus": "0.5",
+              "scale_stat_filter": "ETechPower",
+              "upgrade_type": "EAddToScale"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

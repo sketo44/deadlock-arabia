@@ -334,3 +334,5 @@ body.theme-seven[data-hero-id="7"]>.wraith-page-backdrop{background:linear-gradi
 @media(min-width:1101px){
  body.theme-seven[data-hero-id]>.wraith-page-backdrop{inset:80px 0 0;background-position:center top}
 }
+
+.theme-seven[data-hero-id="nurse-harrow"] .nurse-reading h3{color:#f4efdf;font-size:clamp(19px,2.4vw,25px);margin-top:30px;line-height:1.6}
