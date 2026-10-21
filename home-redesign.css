@@ -78,3 +78,5 @@ body.home-city{background-color:#101719}
 .home-city .home-character-grid>.home-character{flex:0 0 calc((100% - 70px)/6);min-width:0;direction:rtl;scroll-snap-align:none}
 @media(max-width:1100px){.home-city .home-character-grid{gap:16px}.home-city .home-character-grid>.home-character{flex-basis:calc((100% - 32px)/3)}}
 @media(max-width:650px){.home-city .home-character-grid{gap:12px}.home-city .home-character-grid>.home-character{flex-basis:60%}}
+
+.home-city .home-arrivals .home-section-heading{display:block;text-align:center;background:transparent;border:0;box-shadow:none;padding:16px 0;margin-bottom:26px}
