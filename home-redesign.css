@@ -51,3 +51,12 @@ body.home-city{--text:#f1e8d3;--muted:#bac4bf;--gold:#d8ba7a;--accent:#d8ba7a;ba
 
 .home-city .site-brand-readable{color:#fff3d5}.home-city .site-brand-readable b{color:#d2dcad}.home-city>header .site-brand-new{filter:drop-shadow(0 0 1px #f2e6bd) drop-shadow(0 0 2px #f2e6bd80)}
 @media(max-width:650px){.home-opening:after{background:linear-gradient(to bottom,transparent 160px,#111b2299 240px,#111b22 340px)}}
+
+/* Generated city atmosphere behind the homepage. */
+body.home-city{background:linear-gradient(#10171955,#10171988),url('assets/home/city-backdrop-v1.webp') center center/cover no-repeat fixed}
+.home-city>header{background:#101719bb;backdrop-filter:blur(10px)}
+.home-city .home-learn{background:#101719c9;padding-inline:28px}
+.home-city .home-section-heading{padding:16px 18px;background:#101719b8}
+@media(max-width:650px){.home-city .home-learn{padding-inline:18px}.home-city .home-section-heading{padding:12px}}
+
+body.home-city{background-color:#101719}
