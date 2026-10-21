@@ -1,5 +1,5 @@
 
-import {mountHeroSections} from './hero-sections.js?v=hero-layout-107';
+import {mountHeroSections} from './hero-sections.js?v=hero-layout-108';
 export function mountSeven(host,r,escape,roster){
  const bakedBackground=[1,2,3,4,6,7,8,10,11,12,13,14,15,16,17,18,19,20,25,27,31,35,50,52,58,60,63,64,65,66,67,69,72,76,77,78,79,80,81,84,85,86,88].includes(Number(r.id));
  const blankImage='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22/%3E';
@@ -39,7 +39,7 @@ export function mountSeven(host,r,escape,roster){
  const strip=host.querySelector('.hero-card-picker'),selected=strip.querySelector('.selected');layout.append(strip);mountHeroDrag(strip);requestAnimationFrame(()=>{if(host.isConnected)strip.scrollLeft=selected.offsetLeft-strip.offsetLeft-(strip.clientWidth-selected.clientWidth)/2});
 }
 
-function mountAbilityIcons(host){
+export function mountAbilityIcons(host){
  const cards=[...host.querySelectorAll(':scope > .ability')];
  const rail=document.createElement('div');rail.className='seven-ability-icons';rail.setAttribute('role','group');rail.setAttribute('aria-label','قدرات الشخصية — اختَر صورة القدرة');
  const hint=document.createElement('p');hint.className='seven-ability-hint';hint.textContent='اضغط على صورة القدرة عشان تشوف شرحها وترقياتها.';
