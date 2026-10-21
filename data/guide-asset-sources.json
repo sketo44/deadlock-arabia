@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-10-18",
+  "retrieved": "2026-10-21",
   "viewerVersion": "4.4.0",
   "images": [
     {
@@ -53,6 +53,71 @@
     {
       "file": "assets/guide/Tough_Crate.png",
       "source": "https://deadlock.wiki/File:Tough_Crate.png"
+    },
+    {
+      "file": "assets/guide/lesson-map-colored.webp",
+      "source": "https://deadlock.wiki/File:Map_colored.png",
+      "derivedFrom": "assets/guide/Map_colored.png"
+    },
+    {
+      "file": "assets/guide/lesson-ground-orb.webp",
+      "source": "https://deadlock.wiki/File:Ground_orb.png",
+      "derivedFrom": "assets/guide/Ground orb.png"
+    },
+    {
+      "file": "assets/guide/lesson-soul-orbs-spawn.webp",
+      "source": "https://deadlock.wiki/File:Soul_orbs_spawn.png",
+      "derivedFrom": "assets/guide/Soul orbs spawn.png"
+    },
+    {
+      "file": "assets/guide/lesson-unsecured-souls-hud.webp",
+      "source": "https://deadlock.wiki/File:Unsecured_Souls_HUD.png",
+      "derivedFrom": "assets/guide/Unsecured Souls HUD.png"
+    },
+    {
+      "file": "assets/guide/lesson-sinner-s-sacrifice-machine.webp",
+      "source": "https://deadlock.wiki/File:Sinner%27s_Sacrifice_machine.png",
+      "derivedFrom": "assets/guide/Sinner's Sacrifice machine.png"
+    },
+    {
+      "file": "assets/guide/lesson-teleporter-underground.webp",
+      "source": "https://deadlock.wiki/File:Teleporter_underground.png",
+      "derivedFrom": "assets/guide/Teleporter_underground.png"
+    },
+    {
+      "file": "assets/guide/lesson-riding-zipline.webp",
+      "source": "https://deadlock.wiki/File:Riding_zipline.png",
+      "derivedFrom": "assets/guide/Riding_zipline.png"
+    },
+    {
+      "file": "assets/guide/lesson-jump-pad.webp",
+      "source": "https://deadlock.wiki/File:Jump_pad.png",
+      "derivedFrom": "assets/guide/Jump_pad.png"
+    },
+    {
+      "file": "assets/guide/lesson-screenshot-from-2024-10-08-18-29-30.webp",
+      "source": "https://deadlock.wiki/File:Screenshot_from_2024-10-08_18-29-30.png",
+      "derivedFrom": "assets/guide/Screenshot from 2024-10-08 18-29-30.png"
+    },
+    {
+      "file": "assets/guide/lesson-steam-vent-secret-shop.webp",
+      "source": "https://deadlock.wiki/File:Steam_vent_secret_shop.jpg",
+      "derivedFrom": "assets/guide/Steam vent secret shop.jpg"
+    },
+    {
+      "file": "assets/guide/lesson-unstable-rift.webp",
+      "source": "https://deadlock.wiki/File:Unstable_Rift.png",
+      "derivedFrom": "assets/guide/Unstable_Rift.png"
+    },
+    {
+      "file": "assets/guide/lesson-soul-urn-render.webp",
+      "source": "https://deadlock.wiki/File:Soul_Urn_Render.png",
+      "derivedFrom": "assets/guide/Soul_Urn_Render.png"
+    },
+    {
+      "file": "assets/guide/lesson-rejuvenator-crystal.webp",
+      "source": "https://deadlock.wiki/File:Rejuvenator_crystal.png",
+      "derivedFrom": "assets/guide/Rejuvenator crystal.png"
     }
   ]
 }
