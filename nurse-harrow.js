@@ -1,6 +1,6 @@
-import {expandedLoreMarkup} from './expanded-hero-lore.js?v=hero-layout-109';
+import {expandedLoreMarkup} from './expanded-hero-lore.js?v=hero-layout-110';
 import {nurseOverview,nurseStory,nurseAbilities} from './nurse-profile-data.js?v=106';
-import {mountHeroDrag,mountAbilityIcons} from './seven-experience.js?v=hero-layout-109';
+import {mountHeroDrag,mountAbilityIcons} from './seven-experience.js?v=hero-layout-110';
 export const nurseHarrow={id:'nurse-harrow',name:'Nurse Harrow',nameAr:'نيرس هارو',image:'assets/lore/nurse-harrow-official.webp',portrait:'assets/lore/nurse-harrow-official.webp',ar:'نيرس هارو · متاحة الآن · تعالج الحلفاء بالإبر وتستنزف الأعداء بالعلق وتطلق الرعب من حقيبتها.'};
 export function mountNurseHarrow(host,roster,escape){
  document.title='نيرس هارو · Nurse Harrow | Deadlock AR';
