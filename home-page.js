@@ -45,7 +45,7 @@ export async function mountHome(){
    if(track.isConnected)track.append(first);
   }catch{}finally{animation?.cancel();busy=false}
  };
- const timer=setInterval(advance,10000);
+ const timer=setInterval(advance,5000);
  const cleanup=()=>{clearInterval(timer);animation?.cancel();window.removeEventListener('hashchange',leave)};
  const leave=()=>{if(!track.isConnected)cleanup()};
  window.addEventListener('hashchange',leave);
