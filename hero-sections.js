@@ -1,4 +1,4 @@
-import {mountExpandedLore} from './expanded-hero-lore.js?v=hero-layout-105';
+import {mountExpandedLore} from './expanded-hero-lore.js?v=hero-layout-106';
 import {modelPage,mountModel} from './hero-model.js?v=hero-layout-24';
 import {mountArRanking} from './hero-ar-ranking.js?v=hero-layout-36';
 export function mountHeroSections(host,r,escape){

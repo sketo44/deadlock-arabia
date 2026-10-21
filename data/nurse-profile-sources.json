@@ -1,0 +1,46 @@
+{
+  "reviewedAt": "2026-10-21",
+  "heroId": 87,
+  "sources": [
+    {
+      "url": "https://deadlock.wiki/Nurse_Harrow",
+      "revision": 203110
+    },
+    {
+      "url": "https://deadlock.wiki/Nurse_Harrow/Lore",
+      "revision": 203109
+    },
+    {
+      "url": "https://api.deadlock-api.com/v1/assets/heroes",
+      "kind": "release game assets",
+      "localSnapshot": "nurse-heroes.json"
+    },
+    {
+      "url": "https://api.deadlock-api.com/v1/assets/items",
+      "kind": "release ability properties and upgrades",
+      "localSnapshot": "nurse-items.json"
+    }
+  ],
+  "icons": [
+    {
+      "name": "Leech Therapy",
+      "file": "outputs/deadlock-arabia/assets/abilities/ability_nurse_leech_therapy.png",
+      "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nurse/leech.png"
+    },
+    {
+      "name": "Lurking Terrors",
+      "file": "outputs/deadlock-arabia/assets/abilities/ability_nurse_fear.png",
+      "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nurse/medicine_bag.png"
+    },
+    {
+      "name": "Healing Needles",
+      "file": "outputs/deadlock-arabia/assets/abilities/ability_nurse_healing_needles.png",
+      "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nurse/needle.png"
+    },
+    {
+      "name": "Wretched Vapors",
+      "file": "outputs/deadlock-arabia/assets/abilities/ability_nurse_adrenaline_rush.png",
+      "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/abilities/nurse/nurse_vapors.png"
+    }
+  ]
+}
