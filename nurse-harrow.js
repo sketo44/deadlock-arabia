@@ -1,5 +1,5 @@
-import {mountHeroDrag} from './seven-experience.js?v=hero-layout-104';
-export const nurseHarrow={id:'nurse-harrow',name:'Nurse Harrow',nameAr:'نيرس هارو',image:'assets/lore/nurse-harrow-portrait.webp',portrait:'assets/lore/nurse-harrow-portrait.webp',ar:'نيرس هارو · متاحة الآن · تعالج الحلفاء بالإبر وتستنزف الأعداء بالعلق وتطلق الرعب من حقيبتها.'};
+import {mountHeroDrag} from './seven-experience.js?v=hero-layout-105';
+export const nurseHarrow={id:'nurse-harrow',name:'Nurse Harrow',nameAr:'نيرس هارو',image:'assets/lore/nurse-harrow-official.webp',portrait:'assets/lore/nurse-harrow-official.webp',ar:'نيرس هارو · متاحة الآن · تعالج الحلفاء بالإبر وتستنزف الأعداء بالعلق وتطلق الرعب من حقيبتها.'};
 export function mountNurseHarrow(host,roster,escape){
  document.title='نيرس هارو · Nurse Harrow | Deadlock AR';
  document.body.dataset.heroId='nurse-harrow';
