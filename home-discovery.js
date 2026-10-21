@@ -47,7 +47,7 @@ export function recommendHeroes(answers){
 }
 export function homeDailyNoteMarkup(){
  const tip=dailyTip();
- return `<aside class="daily-game-tip daily-tip-note" aria-labelledby="daily-tip-title"><h2 id="daily-tip-title">معلومة للقيم</h2><div data-daily-tip><span class="daily-tip-category">${esc(tip.category)}</span><p>${esc(tip.text)}</p><a href="#${tip.route}">اعرف أكثر</a></div><small>تتجدد يوميًا بتوقيت السعودية</small></aside>`;
+ return `<aside class="daily-game-tip daily-tip-note" aria-labelledby="daily-tip-title"><h2 id="daily-tip-title">نصيحة اليوم</h2><div data-daily-tip><p>${esc(tip.text)}</p><a href="#${tip.route}">اعرف أكثر</a></div></aside>`;
 }
 export function homeDiscoveryMarkup(){
  return `<section class="home-discovery" aria-label="اختيار الشخصية"><section class="playstyle-quiz" aria-labelledby="playstyle-title"><h2 id="playstyle-title">مين يناسب لعبك؟</h2><p class="quiz-intro">3 أسئلة تقرّبك من شخصيتك.</p><div data-playstyle-quiz></div></section></section>`;
@@ -74,7 +74,7 @@ export function mountHomeDiscovery(){
  const timer=setInterval(()=>{
   if(!tipHost.isConnected){clearInterval(timer);return}
   const tip=dailyTip();if(tip.day===tipDay)return;tipDay=tip.day;
-  tipHost.innerHTML=`<span class="daily-tip-category">${esc(tip.category)}</span><p>${esc(tip.text)}</p><a href="#${tip.route}">اعرف أكثر</a>`;
+  tipHost.innerHTML=`<p>${esc(tip.text)}</p><a href="#${tip.route}">اعرف أكثر</a>`;
  },60000);
  const leave=()=>{if(!host.isConnected){clearInterval(timer);removeEventListener('hashchange',leave);removeEventListener('popstate',leave)}};
  addEventListener('hashchange',leave);addEventListener('popstate',leave);
