@@ -1,4 +1,4 @@
-import {homeDiscoveryMarkup,homeDailyNoteMarkup,mountHomeDiscovery} from './home-discovery.js?v=3';
+import {homeDiscoveryMarkup,homeDailyNoteMarkup,mountHomeDiscovery} from './home-discovery.js?v=4';
 const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const arrow='<span aria-hidden="true"></span>';
 const recent=[['nurse-harrow','نيرس هارو','Nurse Harrow'],[86,'فايلت','Violet'],[78,'ديدمان داني','Deadman Danny'],[85,'سولومون','Solomon'],[88,'بابا','Baba'],[84,'رات كينغ','Rat King']];

@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {dailyTip,saudiDayKey,quizQuestions,recommendHeroes} from '../home-discovery.js';
+import {dailyTip,dailyTips,saudiDayKey,quizQuestions,recommendHeroes} from '../home-discovery.js';
 import {playstyles} from '../home-playstyles.js';
 
 test('Daily advice stays fixed all Saudi day and rolls at Riyadh midnight',()=>{
@@ -10,6 +10,24 @@ test('Daily advice stays fixed all Saudi day and rolls at Riyadh midnight',()=>{
  assert.equal(saudiDayKey(after),'2026-10-22');
  assert.deepEqual(dailyTip(before),dailyTip(new Date('2026-10-21T03:00:00Z')));
  assert.notEqual(dailyTip(before).text,dailyTip(after).text);
+});
+test('Reviewed tip library exceeds 100 distinct tips and completes a cycle without repeats',()=>{
+ const audit=JSON.parse(fs.readFileSync(new URL('../data/daily-tips-reviewed.json',import.meta.url)));
+ const guide=JSON.parse(fs.readFileSync(new URL('../data/game-guide.json',import.meta.url)));
+ const roster=JSON.parse(fs.readFileSync(new URL('../data/home-roster.json',import.meta.url)));
+ assert.ok(dailyTips.length>100);
+ assert.equal(new Set(dailyTips.map(t=>t[1])).size,dailyTips.length);
+ assert.equal(audit.count,dailyTips.length);
+ assert.ok(audit.tips.every(t=>t.sources.length&&t.reviewedAt));
+ for(const [category,text,route] of dailyTips){
+  assert.ok(category&&text.length>=40&&text.length<=260);
+  assert.ok(['heroes','items','planner'].includes(route)||guide.topics.some(t=>route==='guide/'+t.id)||roster.some(h=>route==='hero/'+h.id),route);
+ }
+ assert.equal(new Set(dailyTips.filter(t=>t[0]==='الشخصيات').map(t=>t[2])).size,44);
+ const start=Date.parse('2026-10-21T12:00:00Z');
+ const cycle=Array.from({length:dailyTips.length},(_,n)=>dailyTip(new Date(start+n*86400000)).text);
+ assert.equal(new Set(cycle).size,dailyTips.length);
+ assert.equal(dailyTip(new Date(start+dailyTips.length*86400000)).text,cycle[0]);
 });
 test('Every questionnaire combination returns three distinct real heroes with reasons',()=>{
  const roster=JSON.parse(fs.readFileSync(new URL('../data/home-roster.json',import.meta.url)));

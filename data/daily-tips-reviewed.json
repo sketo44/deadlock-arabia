@@ -1,0 +1,1829 @@
+{
+  "reviewedAt": "2026-10-21",
+  "count": 124,
+  "note": "Original Arabic tactical advice. Mechanics cross-checked against the site guide and current game asset descriptions; avoids volatile numeric balance claims.",
+  "tips": [
+    {
+      "id": "tip-001",
+      "category": "الفارم",
+      "route": "guide/farm",
+      "text": "بعد دفع موجتك، خذ كامب قريب وارجع للين؛ لا تحوّل اللفة الصغيرة إلى موجتين ضايعات.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Souls",
+        "https://deadlock.wiki/Crate",
+        "https://deadlock.wiki/Buff_Container",
+        "https://deadlock.wiki/Sinner%27s_Sacrifice"
+      ]
+    },
+    {
+      "id": "tip-002",
+      "category": "الحركة",
+      "route": "guide/movement",
+      "text": "قبل ما تدخل، اعرف وين بتطلع. حبل أو زاوية قريبة قد تكون أهم من طريق المطاردة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Teleporter",
+        "https://deadlock.wiki/Zipline",
+        "https://deadlock.wiki/Jump_Pad",
+        "https://deadlock.wiki/Rope",
+        "https://deadlock.wiki/Steam_Vent"
+      ]
+    },
+    {
+      "id": "tip-003",
+      "category": "الشخصيات",
+      "route": "hero/1",
+      "text": "مع إنفرنوس، راقب استمرار الضغط على الخصم وحالة Afterburn قبل ما تستخدم Flame Dash لمطاردة عميقة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 1,
+      "abilityNames": [
+        "Napalm",
+        "Flame Dash",
+        "Afterburn",
+        "Concussive Combustion"
+      ]
+    },
+    {
+      "id": "tip-004",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "قبل الفايت، عدّ الموجودين معك والظاهرين من الخصوم. لا تتعامل مع مواجهة ناقصة كأنها متكافئة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-005",
+      "category": "الأهداف",
+      "route": "guide/objectives",
+      "text": "بعد فايت فزتوه، اختاروا هدفًا قريبًا بدل ما يروح كل لاعب يطارد خصمًا بجهة مختلفة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Unstable_Rift",
+        "https://deadlock.wiki/Soul_Urn",
+        "https://deadlock.wiki/Midboss"
+      ]
+    },
+    {
+      "id": "tip-006",
+      "category": "الشخصيات",
+      "route": "hero/2",
+      "text": "مع سيفن، اختَر موضع Storm Cloud قبل التفعيل؛ زاوية مكشوفة بلا دعم قد تعطي الخصم فرصة لإيقافك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 2,
+      "abilityNames": [
+        "Lightning Ball",
+        "Static Charge",
+        "Power Surge",
+        "Storm Cloud"
+      ]
+    },
+    {
+      "id": "tip-007",
+      "category": "الأيتمات",
+      "route": "items",
+      "text": "اقرأ تأثير الأيتم قبل شرائه؛ بعض القطع تحل مشكلة في مواجهتك أكثر من زيادة ضرر إضافية.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/items?language=english"
+      ]
+    },
+    {
+      "id": "tip-008",
+      "category": "التعاون",
+      "route": "guide/map",
+      "text": "بالنداءات، استخدم لون اللين بدل يمين ويسار؛ اتجاه زميلك قد يكون عكس اتجاهك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Street_Brawl"
+      ]
+    },
+    {
+      "id": "tip-009",
+      "category": "الشخصيات",
+      "route": "hero/3",
+      "text": "مع فينديكتا، اختَر زاوية طيران تسمح لك بالتصويب ومعك غطاء قريب عند انتهاء Flight.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 3,
+      "abilityNames": [
+        "Stake",
+        "Flight",
+        "Crow Familiar",
+        "Assassinate"
+      ]
+    },
+    {
+      "id": "tip-010",
+      "category": "الفارم",
+      "route": "guide/farm",
+      "text": "راقب الأورب الهوائية بعد موت الكريبات؛ تأكيدها أو إنكار أورب الخصم جزء من اقتصاد اللين.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Souls",
+        "https://deadlock.wiki/Crate",
+        "https://deadlock.wiki/Buff_Container",
+        "https://deadlock.wiki/Sinner%27s_Sacrifice"
+      ]
+    },
+    {
+      "id": "tip-011",
+      "category": "الحركة",
+      "route": "guide/movement",
+      "text": "لا تصرف كل التحمل على الوصول للخصم؛ احتفظ بخيار لتفادي ضربة أو الانسحاب.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Teleporter",
+        "https://deadlock.wiki/Zipline",
+        "https://deadlock.wiki/Jump_Pad",
+        "https://deadlock.wiki/Rope",
+        "https://deadlock.wiki/Steam_Vent"
+      ]
+    },
+    {
+      "id": "tip-012",
+      "category": "الشخصيات",
+      "route": "hero/4",
+      "text": "مع ليدي غايست، راقب صحتك وأنت تستخدم القدرات اللي تستهلك منها؛ خطتك لازم تشمل البقاء بعد الضربة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 4,
+      "abilityNames": [
+        "Essence Bomb",
+        "Life Drain",
+        "Malice",
+        "Soul Exchange"
+      ]
+    },
+    {
+      "id": "tip-013",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "تمرّن على الباري ضد الميلي الثقيل في التدريب؛ تعرف على حركة الشحن بدل الضغط عليه بعشوائية.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-014",
+      "category": "الأهداف",
+      "route": "guide/map",
+      "text": "الفوز يحتاج تدمير الباترون. إذا عندكم ضغط آمن على القاعدة، لا تتركوه لمجرد ظهور كيل بعيد.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Street_Brawl"
+      ]
+    },
+    {
+      "id": "tip-015",
+      "category": "الشخصيات",
+      "route": "hero/6",
+      "text": "مع أبرامز، ابحث عن جدار مناسب قبل Shoulder Charge بدل دفع الهدف إلى مساحة يقدر يهرب منها.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 6,
+      "abilityNames": [
+        "Siphon Life",
+        "Shoulder Charge",
+        "Infernal Resilience",
+        "Seismic Impact"
+      ]
+    },
+    {
+      "id": "tip-016",
+      "category": "الأيتمات",
+      "route": "items",
+      "text": "إذا اشتريت أيتمًا نشطًا، تأكد من زرّه وجرّبه في التدريب. فائدته تعتمد على استخدامه وقت الحاجة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/items?language=english"
+      ]
+    },
+    {
+      "id": "tip-017",
+      "category": "الشخصيات",
+      "route": "hero/7",
+      "text": "مع رايث، نسّق Telekinesis مع وقت تقدر تركز فيه إطلاقك على الهدف، بدل تفعيله وأنت تعيد التلقيم.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 7,
+      "abilityNames": [
+        "Card Trick",
+        "Project Mind",
+        "Full Auto",
+        "Telekinesis"
+      ]
+    },
+    {
+      "id": "tip-018",
+      "category": "التعاون",
+      "route": "guide/map",
+      "text": "إذا اختفى خصم لينك، بلّغ فريقك قبل ما يظهر في لين ثاني؛ المعلومة المبكرة تعطيهم وقت يرجعون.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Street_Brawl"
+      ]
+    },
+    {
+      "id": "tip-019",
+      "category": "الفارم",
+      "route": "guide/farm",
+      "text": "إذا أورب الخصم في خط نار مكشوف، حاول تنكرها من غطاء بدل ما تتقدم وتخسر صحتك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Souls",
+        "https://deadlock.wiki/Crate",
+        "https://deadlock.wiki/Buff_Container",
+        "https://deadlock.wiki/Sinner%27s_Sacrifice"
+      ]
+    },
+    {
+      "id": "tip-020",
+      "category": "الشخصيات",
+      "route": "hero/8",
+      "text": "مع مكغينيس، جهّز الأبراج في زاوية تخدم القتال، وافحص مواقع حلفائك قبل إغلاق الممر بالجدار.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 8,
+      "abilityNames": [
+        "Mini Turret",
+        "Medicinal Specter",
+        "Spectral Wall",
+        "Heavy Barrage"
+      ]
+    },
+    {
+      "id": "tip-021",
+      "category": "الحركة",
+      "route": "guide/movement",
+      "text": "قبل ركوب الزيبلاين تحت ضغط، اكسر خط نظر الخصم. الخط ما يعطيك حصانة من نيرانه.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Teleporter",
+        "https://deadlock.wiki/Zipline",
+        "https://deadlock.wiki/Jump_Pad",
+        "https://deadlock.wiki/Rope",
+        "https://deadlock.wiki/Steam_Vent"
+      ]
+    },
+    {
+      "id": "tip-022",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "إذا الخصم ينتظر الباري، لا تكرر الميلي الثقيل من نفس المسافة وبنفس التوقيت.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-023",
+      "category": "الشخصيات",
+      "route": "hero/10",
+      "text": "مع بارادوكس، قيّم المكان اللي بتنتقل له عند Paradoxical Swap؛ إصابة الخصم ما تعني أن موضعك الجديد آمن.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 10,
+      "abilityNames": [
+        "Pulse Grenade",
+        "Time Wall",
+        "Kinetic Carbine",
+        "Paradoxical Swap"
+      ]
+    },
+    {
+      "id": "tip-024",
+      "category": "الأهداف",
+      "route": "guide/objectives",
+      "text": "قبل بدء الميد بوس، افحصوا أماكن الخصوم والموجات؛ انخفاض صحته ما يمنع الفريق الثاني من المنافسة على المكافأة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Unstable_Rift",
+        "https://deadlock.wiki/Soul_Urn",
+        "https://deadlock.wiki/Midboss"
+      ]
+    },
+    {
+      "id": "tip-025",
+      "category": "الأيتمات",
+      "route": "items",
+      "text": "إذا تحتاج مفعولًا فورًا، راجع ما تعطيه القطعة الآن قبل الادخار الطويل لترقية غالية.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/items?language=english"
+      ]
+    },
+    {
+      "id": "tip-026",
+      "category": "الشخصيات",
+      "route": "hero/11",
+      "text": "مع داينمو، حدّد كيف بيوصل فريقك لضرر Singularity قبل الدخول؛ جمع الخصوم يحتاج متابعة من الحلفاء.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 11,
+      "abilityNames": [
+        "Kinetic Pulse",
+        "Quantum Entanglement",
+        "Rejuvenating Aurora",
+        "Singularity"
+      ]
+    },
+    {
+      "id": "tip-027",
+      "category": "التعاون",
+      "route": "guide/start",
+      "text": "قل لفريقك إذا قدرتك النهائية مو جاهزة قبل ما يبدأون دخولًا يعتمد عليها.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-028",
+      "category": "الفارم",
+      "route": "guide/farm",
+      "text": "اكسر الصناديق اللي تمر عليها في طريقك، بدل ما تغيّر مسارك كامل عشان صندوق بعيد.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Souls",
+        "https://deadlock.wiki/Crate",
+        "https://deadlock.wiki/Buff_Container",
+        "https://deadlock.wiki/Sinner%27s_Sacrifice"
+      ]
+    },
+    {
+      "id": "tip-029",
+      "category": "الشخصيات",
+      "route": "hero/12",
+      "text": "مع كلفن، افحص مين داخل القبة ومين خارجها قبل Frozen Shelter؛ تغيير مساحة القتال ممكن يعزل حليفك أيضًا.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 12,
+      "abilityNames": [
+        "Frost Grenade",
+        "Ice Path",
+        "Arctic Beam",
+        "Frozen Shelter"
+      ]
+    },
+    {
+      "id": "tip-030",
+      "category": "الحركة",
+      "route": "guide/movement",
+      "text": "جرّب اتجاه الـJump Pad خارج القتال، عشان تعرف وين بتنزل قبل تستخدمه هروبًا.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Teleporter",
+        "https://deadlock.wiki/Zipline",
+        "https://deadlock.wiki/Jump_Pad",
+        "https://deadlock.wiki/Rope",
+        "https://deadlock.wiki/Steam_Vent"
+      ]
+    },
+    {
+      "id": "tip-031",
+      "category": "الشخصيات",
+      "route": "hero/13",
+      "text": "مع هيز، نسّق توقيت متابعة Sleep Dagger مع فريقك حتى يكون الضرر جاهزًا لحظة الاستفادة من النوم.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 13,
+      "abilityNames": [
+        "Sleep Dagger",
+        "Smoke Bomb",
+        "Fixation",
+        "Bullet Dance"
+      ]
+    },
+    {
+      "id": "tip-032",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "لا تدخل بمخزن شبه فارغ إذا عندك فرصة تلقيم آمنة قبل المواجهة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-033",
+      "category": "الأهداف",
+      "route": "guide/objectives",
+      "text": "عند الميد بوس، وزّعوا الانتباه بين الهدف والمداخل؛ ترك كل الزوايا بدون مراقبة يسهّل دخول الخصم.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Unstable_Rift",
+        "https://deadlock.wiki/Soul_Urn",
+        "https://deadlock.wiki/Midboss"
+      ]
+    },
+    {
+      "id": "tip-034",
+      "category": "الشخصيات",
+      "route": "hero/14",
+      "text": "مع هوليدي، تمرّن على مسار Bounce Pad والبرميل معًا، بدل تجربة الزاوية لأول مرة في فايت مهم.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 14,
+      "abilityNames": [
+        "Powder Keg",
+        "Bounce Pad",
+        "Crackshot",
+        "Spirit Lasso"
+      ]
+    },
+    {
+      "id": "tip-035",
+      "category": "الأيتمات",
+      "route": "items",
+      "text": "لا تشتري مقاومة لمجرد أنها دفاعية؛ افحص نوع الضرر اللي فعليًا ينقص صحتك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/items?language=english"
+      ]
+    },
+    {
+      "id": "tip-036",
+      "category": "التعاون",
+      "route": "guide/start",
+      "text": "إذا بتنسحب، وضّح القرار بسرعة؛ تأخر الإشارة قد يخلي حليفك يدخل وهو يتوقع دعمك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-037",
+      "category": "الشخصيات",
+      "route": "hero/15",
+      "text": "مع بيبوب، اسأل نفسك وين بينتهي الهدف بعد الخطاف؛ اسحبه لمكان يقدر فريقك يعاقبه فيه.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 15,
+      "abilityNames": [
+        "Exploding Uppercut",
+        "Sticky Bomb",
+        "Grapple Arm",
+        "Hyper Beam"
+      ]
+    },
+    {
+      "id": "tip-038",
+      "category": "الفارم",
+      "route": "guide/farm",
+      "text": "حاويات البف تختلف عن الصناديق. إذا سقط منها تعزيز، خذه ولا تتركه على الأرض.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Souls",
+        "https://deadlock.wiki/Crate",
+        "https://deadlock.wiki/Buff_Container",
+        "https://deadlock.wiki/Sinner%27s_Sacrifice"
+      ]
+    },
+    {
+      "id": "tip-039",
+      "category": "الحركة",
+      "route": "guide/movement",
+      "text": "الحبال تعطيك ارتفاعًا، لكنها قد توصلك لخصم ينتظرك؛ افحص السطح قبل ما تكمل الصعود.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Teleporter",
+        "https://deadlock.wiki/Zipline",
+        "https://deadlock.wiki/Jump_Pad",
+        "https://deadlock.wiki/Rope",
+        "https://deadlock.wiki/Steam_Vent"
+      ]
+    },
+    {
+      "id": "tip-040",
+      "category": "الشخصيات",
+      "route": "hero/16",
+      "text": "مع كاليكو، حدّد توقيت الرجعة إلى الظلال قبل الدخول، عشان ما تبقى قريبة من الخصم بعد انتهاء فرصتك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 16,
+      "abilityNames": [
+        "Gloom Bombs",
+        "Leaping Slash",
+        "Ava",
+        "Return to Shadows"
+      ]
+    },
+    {
+      "id": "tip-041",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "تعلم مسافة سلاحك في التدريب؛ الإصابة من بعيد ما تعني أن ضررك مثل الضرر من المدى المناسب.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-042",
+      "category": "الأهداف",
+      "route": "guide/objectives",
+      "text": "لا تجمعوا الفريق كله بنفس نقطة الريفت؛ خلوا أحدًا يراقب الممرات ويمنع اقتراب الخصم.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Unstable_Rift",
+        "https://deadlock.wiki/Soul_Urn",
+        "https://deadlock.wiki/Midboss"
+      ]
+    },
+    {
+      "id": "tip-043",
+      "category": "الشخصيات",
+      "route": "hero/17",
+      "text": "مع غراي تالون، حط Spirit Snare في مدخل تتوقع مرور الخصم منه بدل رميه بمساحة بعيدة عن الحركة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 17,
+      "abilityNames": [
+        "Charged Shot",
+        "Rain of Arrows",
+        "Spirit Snare",
+        "Guided Owl"
+      ]
+    },
+    {
+      "id": "tip-044",
+      "category": "الأيتمات",
+      "route": "items",
+      "text": "إذا الأيتم يحتاج شرطًا لتفعيله، اختَر قطعة تقدر تحقق شرطها بأسلوب لعبك الحالي.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/items?language=english"
+      ]
+    },
+    {
+      "id": "tip-045",
+      "category": "التعاون",
+      "route": "guide/start",
+      "text": "إذا تجمعتم لإنقاذ حليف، شيّكوا العدد والمسافة أولًا؛ الوصول المتأخر قد يحوّل خسارة واحدة لخسارتين.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-046",
+      "category": "الشخصيات",
+      "route": "hero/18",
+      "text": "مع مو وكريل، اختَر هدف Combo اللي يقدر فريقك يوصل له؛ الإمساك بعيدًا عن الحلفاء قد يضيع الفرصة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 18,
+      "abilityNames": [
+        "Scorn",
+        "Burrow",
+        "Sand Blast",
+        "Combo"
+      ]
+    },
+    {
+      "id": "tip-047",
+      "category": "الفارم",
+      "route": "guide/farm",
+      "text": "راقب سولزك المعرّضة للسقوط قبل الدخول العميق؛ الموت قد يعطي الخصم جزءًا من الموارد اللي جمعتها.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Souls",
+        "https://deadlock.wiki/Crate",
+        "https://deadlock.wiki/Buff_Container",
+        "https://deadlock.wiki/Sinner%27s_Sacrifice"
+      ]
+    },
+    {
+      "id": "tip-048",
+      "category": "الشخصيات",
+      "route": "hero/19",
+      "text": "مع شيف، انتبه لحالة صحة الهدف قبل قرار استخدام Killing Blow، ولا تعتمد على شكل شريط الدم من زاوية بعيدة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 19,
+      "abilityNames": [
+        "Serrated Knives",
+        "Slice and Dice",
+        "Bloodletting",
+        "Killing Blow"
+      ]
+    },
+    {
+      "id": "tip-049",
+      "category": "الحركة",
+      "route": "guide/movement",
+      "text": "احفظ أزواج أبواب التيليبورت بالتدريب؛ معرفة جهة خروجك تمنع روتيشن يوديك للمكان الغلط.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Teleporter",
+        "https://deadlock.wiki/Zipline",
+        "https://deadlock.wiki/Jump_Pad",
+        "https://deadlock.wiki/Rope",
+        "https://deadlock.wiki/Steam_Vent"
+      ]
+    },
+    {
+      "id": "tip-050",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "إذا قدرة تعطيل الخصم لسه جاهزة، لا تبني دخولك كله على افتراض أنك بتتحرك بحرية.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-051",
+      "category": "الشخصيات",
+      "route": "hero/20",
+      "text": "مع آيفي، راقب مكان الحليف اللي تدعمه بالربط، واتفقوا على وجهة Air Drop قبل تغيير مكان القتال.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 20,
+      "abilityNames": [
+        "Entangling Thorns",
+        "Kudzu Connection",
+        "Stone Form",
+        "Air Drop"
+      ]
+    },
+    {
+      "id": "tip-052",
+      "category": "الأهداف",
+      "route": "guide/objectives",
+      "text": "تابع علامة الريفت وإعلان ظهوره بالماب بدل الاعتماد على توقيت محفوظ قد يتغير مع التحديثات.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Unstable_Rift",
+        "https://deadlock.wiki/Soul_Urn",
+        "https://deadlock.wiki/Midboss"
+      ]
+    },
+    {
+      "id": "tip-053",
+      "category": "الأيتمات",
+      "route": "items",
+      "text": "إذا بيلدك يركز على السبيرت، اقرأ ارتباط كل قدرة به؛ مو كل جزء من القدرة يتقوّى بنفس الطريقة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/items?language=english"
+      ]
+    },
+    {
+      "id": "tip-054",
+      "category": "الشخصيات",
+      "route": "hero/25",
+      "text": "مع ووردن، استخدم مساحة القتال لتضييق هروب هدف Binding Word بدل توقع أن الخصم بيوقف داخل المنطقة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 25,
+      "abilityNames": [
+        "Alchemical Flask",
+        "Willpower",
+        "Binding Word",
+        "Last Stand"
+      ]
+    },
+    {
+      "id": "tip-055",
+      "category": "التعاون",
+      "route": "guide/objectives",
+      "text": "قبل حمل الأرن، اتفق مع لاعب يفتح لك الطريق وآخر يراقب جهة التسليم إذا الفريق يقدر.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Unstable_Rift",
+        "https://deadlock.wiki/Soul_Urn",
+        "https://deadlock.wiki/Midboss"
+      ]
+    },
+    {
+      "id": "tip-056",
+      "category": "الفارم",
+      "route": "guide/farm",
+      "text": "ماكينة Sinner’s Sacrifice تأخذ من صحتك. افحص دمك ومكان الخصم قبل ما تبدأ تضربها.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Souls",
+        "https://deadlock.wiki/Crate",
+        "https://deadlock.wiki/Buff_Container",
+        "https://deadlock.wiki/Sinner%27s_Sacrifice"
+      ]
+    },
+    {
+      "id": "tip-057",
+      "category": "الشخصيات",
+      "route": "hero/27",
+      "text": "مع ياماتو، اربط دخولك بخطة متابعة Shadow Transformation؛ التحول ما يغني عن اختيار وقت ومسافة مناسبة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 27,
+      "abilityNames": [
+        "Power Slash",
+        "Flying Slash",
+        "Crimson Slash",
+        "Shadow Transformation"
+      ]
+    },
+    {
+      "id": "tip-058",
+      "category": "الحركة",
+      "route": "guide/movement",
+      "text": "البخار مو نفس منصة القفز؛ لا تدخل Steam Vent وأنت متوقع أنه بيقذفك للأعلى.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Teleporter",
+        "https://deadlock.wiki/Zipline",
+        "https://deadlock.wiki/Jump_Pad",
+        "https://deadlock.wiki/Rope",
+        "https://deadlock.wiki/Steam_Vent"
+      ]
+    },
+    {
+      "id": "tip-059",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "بعد ما يخطئ الخصم قدرة مهمة، قيّم فرصة التقدم قبل ما ترجع له القدرة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-060",
+      "category": "الشخصيات",
+      "route": "hero/31",
+      "text": "مع لاش، شوف موضع الحلفاء قبل Death Slam، وارم الخصوم باتجاه يفتح متابعة لفريقك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 31,
+      "abilityNames": [
+        "Ground Strike",
+        "Grapple",
+        "Flog",
+        "Death Slam"
+      ]
+    },
+    {
+      "id": "tip-061",
+      "category": "الأهداف",
+      "route": "guide/objectives",
+      "text": "ادفعوا اللين القريب قبل منازعة الريفت إذا الوضع يسمح؛ الموجة تضيف ضغطًا أثناء انشغال الفريقين.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Unstable_Rift",
+        "https://deadlock.wiki/Soul_Urn",
+        "https://deadlock.wiki/Midboss"
+      ]
+    },
+    {
+      "id": "tip-062",
+      "category": "الشخصيات",
+      "route": "hero/35",
+      "text": "مع فيسكوس، تنبّه لوضع حليفك قبل The Cube؛ نسّق الإنقاذ حتى ما تقطع عليه فرصة كان يقدر يكملها.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 35,
+      "abilityNames": [
+        "Splatter",
+        "The Cube",
+        "Puddle Punch",
+        "Goo Ball"
+      ]
+    },
+    {
+      "id": "tip-063",
+      "category": "الأيتمات",
+      "route": "items",
+      "text": "زيادة سعة المخزن وزيادة سرعة التلقيم تحل مشكلتين مختلفتين؛ حدّد وين يتوقف ضررك أولًا.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/items?language=english"
+      ]
+    },
+    {
+      "id": "tip-064",
+      "category": "التعاون",
+      "route": "guide/start",
+      "text": "لا تصرفوا كل قدرات التعطيل في اللحظة نفسها إذا تقدرون تتتابعون عليها وتطيلون فرصة الفريق.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-065",
+      "category": "الشخصيات",
+      "route": "hero/50",
+      "text": "مع بوكيت، تمرّن على توقيت العباءة والشنطة كمسار دخول وخروج، مو مجرد مصدر ضرر داخل الكومبو.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 50,
+      "abilityNames": [
+        "Barrage",
+        "Flying Cloak",
+        "Enchanter's Satchel",
+        "Affliction"
+      ]
+    },
+    {
+      "id": "tip-066",
+      "category": "الفارم",
+      "route": "guide/jungle",
+      "text": "تنظيف الكامب بالكامل مهم؛ ترك آخر وحش حي يؤخر بداية عداد رجوع الكامب.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Haunt"
+      ]
+    },
+    {
+      "id": "tip-067",
+      "category": "الحركة",
+      "route": "guide/movement",
+      "text": "الاختباء بالبخار مو أمان مطلق. إطلاق النار أو دخول خصم معك ممكن يكشف مكانك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Teleporter",
+        "https://deadlock.wiki/Zipline",
+        "https://deadlock.wiki/Jump_Pad",
+        "https://deadlock.wiki/Rope",
+        "https://deadlock.wiki/Steam_Vent"
+      ]
+    },
+    {
+      "id": "tip-068",
+      "category": "الشخصيات",
+      "route": "hero/52",
+      "text": "مع ميراج، افحص أمان نقطة Traveler قبل الانتقال؛ الوصول السريع ما يضمن أن الموقع مناسب للمواجهة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 52,
+      "abilityNames": [
+        "Fire Scarabs",
+        "Dust Devil",
+        "Djinn's Mark",
+        "Traveler"
+      ]
+    },
+    {
+      "id": "tip-069",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "إذا حليفك عطّل هدفًا، ركّز معه بدل توزيع الضرر بين عدة خصوم بدون إسقاط أحد.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-070",
+      "category": "الأهداف",
+      "route": "guide/objectives",
+      "text": "حامل الأرن ما يقدر يستخدم الزيبلاين أو التيليبورت؛ خططوا للتوصيل عبر مسار يقدر يمشيه فعلًا.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Unstable_Rift",
+        "https://deadlock.wiki/Soul_Urn",
+        "https://deadlock.wiki/Midboss"
+      ]
+    },
+    {
+      "id": "tip-071",
+      "category": "الشخصيات",
+      "route": "hero/58",
+      "text": "مع فايبر، راقب وجهة السلايد قبل استخدامه قرب الحواف والممرات؛ الحركة السريعة تحتاج نهاية آمنة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 58,
+      "abilityNames": [
+        "Screwjab Dagger",
+        "Lethal Venom",
+        "Slither",
+        "Petrifying Bola"
+      ]
+    },
+    {
+      "id": "tip-072",
+      "category": "الأيتمات",
+      "route": "items",
+      "text": "قبل مواجهة مهمة، راجع تبريد الأيتمات النشطة مع تبريد قدراتك، مو واحدًا منها فقط.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/items?language=english"
+      ]
+    },
+    {
+      "id": "tip-073",
+      "category": "التعاون",
+      "route": "guide/map",
+      "text": "راقب اللين البعيد أثناء تجمع فريقك؛ بلّغ عن موجة أو خصم يضغط الهدف بدل ملاحظة الوضع بعد سقوطه.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Street_Brawl"
+      ]
+    },
+    {
+      "id": "tip-074",
+      "category": "الشخصيات",
+      "route": "hero/60",
+      "text": "مع سينكلير، تعرّف على ألتمت الخصم اللي تبي تنسخه قبل استعماله؛ النسخة الجديدة قد تحتاج مدى وتوقيت مختلفين.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 60,
+      "abilityNames": [
+        "Vexing Bolt",
+        "Spectral Assistant",
+        "Rabbit Hex",
+        "Audience Participation"
+      ]
+    },
+    {
+      "id": "tip-075",
+      "category": "الفارم",
+      "route": "guide/jungle",
+      "text": "اختَر مستوى كامب تقدر تخلصه بسرعة. إذا يستهلك صحتك ووقتك، ارجع له بعد ما تقوى.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Haunt"
+      ]
+    },
+    {
+      "id": "tip-076",
+      "category": "الحركة",
+      "route": "guide/map",
+      "text": "استخدم الأدوار والأسطح لتغيير زاوية التصويب، بدل الوقوف بنفس الممر المكشوف طوال المواجهة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Street_Brawl"
+      ]
+    },
+    {
+      "id": "tip-077",
+      "category": "الشخصيات",
+      "route": "hero/63",
+      "text": "مع مينا، لا تستخدم انتقالك للهجوم بدون حساب الرجعة؛ تحديد نقطة الانسحاب يساعدك تكمل الضغط بدل خسارة موقعك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 63,
+      "abilityNames": [
+        "Rake",
+        "Sanguine Retreat",
+        "Love Bites",
+        "Nox Nostra"
+      ]
+    },
+    {
+      "id": "tip-078",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "إذا ما تقدر توصل للهدف الخلفي بأمان، ساعد بإبعاد المقاتل اللي يضغط حليفك أولًا.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-079",
+      "category": "الشخصيات",
+      "route": "hero/64",
+      "text": "مع دريفتر، استعمل معلومة موقع الهدف قبل المطاردة، ولا تعزل نفسك عن فريقك لمجرد ظهور فرصة تعقّب.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 64,
+      "abilityNames": [
+        "Rend",
+        "Stalker's Mark",
+        "Bloodscent",
+        "Eternal Night"
+      ]
+    },
+    {
+      "id": "tip-080",
+      "category": "الأهداف",
+      "route": "guide/objectives",
+      "text": "حامل الأرن ما يقدر يسوي باري؛ لا تتركوه وحده إذا فيه خصم قريب يعتمد على الميلي.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Unstable_Rift",
+        "https://deadlock.wiki/Soul_Urn",
+        "https://deadlock.wiki/Midboss"
+      ]
+    },
+    {
+      "id": "tip-081",
+      "category": "الأيتمات",
+      "route": "items",
+      "text": "إذا تبغى تختبر قطعة جديدة، جرّبها على نفس الهدف وفي نفس الظروف حتى تلاحظ الفرق بوضوح.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/items?language=english"
+      ]
+    },
+    {
+      "id": "tip-082",
+      "category": "الشخصيات",
+      "route": "hero/65",
+      "text": "مع فيناتور، حط الفخ في مسار الهروب المتوقع، وخل سلاحك وقدراتك جاهزة للاستفادة إذا مر الخصم عليه.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 65,
+      "abilityNames": [
+        "Consecrating Grenade",
+        "Gutshot",
+        "Hex-Lined Snap Trap",
+        "Ira Domini"
+      ]
+    },
+    {
+      "id": "tip-083",
+      "category": "الفارم",
+      "route": "guide/jungle",
+      "text": "راقب هجمات وحوش الجنقل وتحرك عنها؛ الوقوف وأخذ كل الضربات يخلي الفارم أغلى على صحتك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Haunt"
+      ]
+    },
+    {
+      "id": "tip-084",
+      "category": "الحركة",
+      "route": "guide/movement",
+      "text": "الطريق الأقصر عبر نفق قد يكون الأخطر إذا الخصوم مختفين؛ لف من طريق عندك عنه معلومة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Teleporter",
+        "https://deadlock.wiki/Zipline",
+        "https://deadlock.wiki/Jump_Pad",
+        "https://deadlock.wiki/Rope",
+        "https://deadlock.wiki/Steam_Vent"
+      ]
+    },
+    {
+      "id": "tip-085",
+      "category": "الشخصيات",
+      "route": "hero/66",
+      "text": "مع فيكتور، راقب استنزاف صحتك وتجددها أثناء الضغط؛ تحمل الضرر يحتاج خطة للخروج إذا انقطع دعم الفريق.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 66,
+      "abilityNames": [
+        "Pain Battery",
+        "Jumpstart",
+        "Aura of Suffering",
+        "Shocking Reanimation"
+      ]
+    },
+    {
+      "id": "tip-086",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "لا تطارد هدفًا ضعيفًا حول زاوية عمياء بدون معلومة؛ قد يكون باقي فريقه ينتظرك خلفها.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-087",
+      "category": "الأهداف",
+      "route": "guide/objectives",
+      "text": "وصول الأرن مو نهاية المهمة؛ أمّنوا مكان التسليم وأورب المكافأة بدل الانصراف مبكرًا.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Unstable_Rift",
+        "https://deadlock.wiki/Soul_Urn",
+        "https://deadlock.wiki/Midboss"
+      ]
+    },
+    {
+      "id": "tip-088",
+      "category": "الشخصيات",
+      "route": "hero/67",
+      "text": "مع بيج، راقب الحليف اللي داخل المواجهة عند اختيار هدف Plot Armor، بدل استخدام الدرع على لاعب بعيد عن الخطر.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 67,
+      "abilityNames": [
+        "Bookwyrm",
+        "Plot Armor",
+        "Captivating Read",
+        "Rallying Charge"
+      ]
+    },
+    {
+      "id": "tip-089",
+      "category": "الأيتمات",
+      "route": "planner",
+      "text": "رتّب أولوية مشترياتك حسب المشكلة الحالية: البقاء، الوصول للخصم، أو إكمال الضرر.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/items?language=english"
+      ]
+    },
+    {
+      "id": "tip-090",
+      "category": "الفارم",
+      "route": "guide/jungle",
+      "text": "علامات الكامبات على الميني ماب تبيّن مستواها؛ افحص العلامة قبل تدخل غرفة ما تعرفها.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Haunt"
+      ]
+    },
+    {
+      "id": "tip-091",
+      "category": "الشخصيات",
+      "route": "hero/69",
+      "text": "مع دورمان، اتفق مع فريقك على وجهة الأبواب؛ الممر المفيد هو اللي يعرف الحلفاء وين يطلعهم.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 69,
+      "abilityNames": [
+        "Call Bell",
+        "Doorway",
+        "Luggage Cart",
+        "Hotel Guest"
+      ]
+    },
+    {
+      "id": "tip-092",
+      "category": "الحركة",
+      "route": "guide/movement",
+      "text": "زخم النزول من الزيبلاين يساعدك تكمل الحركة؛ جرّب نقطة النزول في التدريب بدل القفز عشوائيًا.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Teleporter",
+        "https://deadlock.wiki/Zipline",
+        "https://deadlock.wiki/Jump_Pad",
+        "https://deadlock.wiki/Rope",
+        "https://deadlock.wiki/Steam_Vent"
+      ]
+    },
+    {
+      "id": "tip-093",
+      "category": "الشخصيات",
+      "route": "hero/72",
+      "text": "مع بيلي، جهّز مسافة الدخول قبل Chain Gang؛ ربط الخصم يفيد أكثر إذا تقدر تتابعه أنت وفريقك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 72,
+      "abilityNames": [
+        "Bashdown",
+        "Rising Ram",
+        "Blasted",
+        "Chain Gang"
+      ]
+    },
+    {
+      "id": "tip-094",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "إذا دخلت المواجهة متأخرًا وخسر فريقك أكثر من لاعب، فكّر بالانسحاب بدل الدخول واحدًا وراء واحد.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-095",
+      "category": "الأهداف",
+      "route": "guide/objectives",
+      "text": "إذا الخصم اختفى وأنتم متجمعين لهدف جانبي، خلوا عينًا على اللين اللي يدخل لقاعدتكم.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Unstable_Rift",
+        "https://deadlock.wiki/Soul_Urn",
+        "https://deadlock.wiki/Midboss"
+      ]
+    },
+    {
+      "id": "tip-096",
+      "category": "الشخصيات",
+      "route": "hero/76",
+      "text": "مع غريفز، استخدم Grasping Hands لتضييق مسار يتحرك فيه الخصم، وخلي استدعاءاتك تستفيد من نفس مساحة القتال.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 76,
+      "abilityNames": [
+        "Jar of Dead",
+        "Grasping Hands",
+        "Essence Theft",
+        "Borrowed Decree"
+      ]
+    },
+    {
+      "id": "tip-097",
+      "category": "الأيتمات",
+      "route": "planner",
+      "text": "لا تعامل البيلد كقائمة إلزامية؛ ارجع لشرح القطعة إذا تغيّر الخصم اللي تحتاج تتعامل معه.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/items?language=english"
+      ]
+    },
+    {
+      "id": "tip-098",
+      "category": "الفارم",
+      "route": "guide/jungle",
+      "text": "إذا تبغى مورد من جهة الخصم، شوف من ظاهر بالماب أولًا وحدد طريق خروج قبل ما تبدأ.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Haunt"
+      ]
+    },
+    {
+      "id": "tip-099",
+      "category": "الشخصيات",
+      "route": "hero/77",
+      "text": "مع أبولو، تدرّب على توقيت Riposte بدل الضغط عليها مع كل دخول؛ أسلوب الشخصية يستفيد من قراءة ضربة الخصم.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 77,
+      "abilityNames": [
+        "Disengaging Sigil",
+        "Riposte",
+        "Flawless Advance",
+        "Itani Lo Sahn"
+      ]
+    },
+    {
+      "id": "tip-100",
+      "category": "الحركة",
+      "route": "guide/map",
+      "text": "إذا لازم تقطع شارعًا مكشوفًا، حدّد الغطاء اللي بتوصل له قبل ما تبدأ العبور.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Street_Brawl"
+      ]
+    },
+    {
+      "id": "tip-101",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "احتفظ بغطاء قريب وقت إطلاق النار؛ خطوة جانبية للغطاء قد تكون أسرع من محاولة تحمل الضرر.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-102",
+      "category": "الشخصيات",
+      "route": "hero/78",
+      "text": "مع ديدمان داني، حدّد مكان الهبوط قبل استخدام الحركة الجوية قرب الخصم؛ الوصول للأعلى يحتاج خطة نزول أيضًا.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 78,
+      "abilityNames": [
+        "Strix Salvo",
+        "Chimera Mk1",
+        "Jettison Fuel",
+        "Close The Deal"
+      ]
+    },
+    {
+      "id": "tip-103",
+      "category": "الأهداف",
+      "route": "guide/objectives",
+      "text": "إذا انتصرتوا بالمنطقة وما تقدرون تكملون الهدف بأمان، خذوا الموارد المتاحة وارجعوا قبل وصول تعزيزات الخصم.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Unstable_Rift",
+        "https://deadlock.wiki/Soul_Urn",
+        "https://deadlock.wiki/Midboss"
+      ]
+    },
+    {
+      "id": "tip-104",
+      "category": "الأيتمات",
+      "route": "items",
+      "text": "إذا قطعة مخصّصة لتعزيز قدرة معيّنة، راجع اختيار القدرة قبل إكمال عملية الشراء أو التعيين.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/items?language=english"
+      ]
+    },
+    {
+      "id": "tip-105",
+      "category": "الشخصيات",
+      "route": "hero/79",
+      "text": "مع ريم، اختَر حليف Tag Along حسب مكان المواجهة واحتياج الفريق، بدل مرافقة لاعب بعيد عن الأحداث دائمًا.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 79,
+      "abilityNames": [
+        "Pillow Toss",
+        "Tag Along",
+        "Lil Helpers",
+        "Naptime"
+      ]
+    },
+    {
+      "id": "tip-106",
+      "category": "الفارم",
+      "route": "guide/farm",
+      "text": "إذا موجة كبيرة واصلة لهدفك، احسب وش بتخسره قبل ما تتركها وتروح لكامب جانبي.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Souls",
+        "https://deadlock.wiki/Crate",
+        "https://deadlock.wiki/Buff_Container",
+        "https://deadlock.wiki/Sinner%27s_Sacrifice"
+      ]
+    },
+    {
+      "id": "tip-107",
+      "category": "الحركة",
+      "route": "guide/map",
+      "text": "غيّر زاويتك بعد ما يحدد الخصم مكانك؛ البقاء خلف نفس الغطاء يسهّل عليه تجهيز قدرته عليك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Street_Brawl"
+      ]
+    },
+    {
+      "id": "tip-108",
+      "category": "الشخصيات",
+      "route": "hero/80",
+      "text": "مع سيلفر، تعلّم تسلسل قدرات الشكلين في التدريب؛ التحول يغيّر أدواتك، فلا تدخل وأنت تتوقع نفس السلاح والقدرات.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 80,
+      "abilityNames": [
+        "Slam Fire",
+        "Boot Kick",
+        "Entangling Bola",
+        "Lycan Curse"
+      ]
+    },
+    {
+      "id": "tip-109",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "إذا استُخدمت عليك قدرة حركة أو سحب، راجع مكان وقوفك بالنسبة للحواف والجدران في المواجهة التالية.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-110",
+      "category": "الشخصيات",
+      "route": "hero/81",
+      "text": "مع سيليست، راقب جاهزية الدرع ومكان الغطاء قبل استمرار الضغط؛ تكرار الإصابة يكون أفضل وأنت قادر على البقاء بالمواجهة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 81,
+      "abilityNames": [
+        "Light Eater",
+        "Dazzling Trick",
+        "Radiant Daggers",
+        "Shining Wonder"
+      ]
+    },
+    {
+      "id": "tip-111",
+      "category": "الفارم",
+      "route": "guide/farm",
+      "text": "مو لازم تستخدم كل قدراتك على موجة آمنة؛ خل قدرة جاهزة إذا كان فيه خطر روتيشن عليك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Souls",
+        "https://deadlock.wiki/Crate",
+        "https://deadlock.wiki/Buff_Container",
+        "https://deadlock.wiki/Sinner%27s_Sacrifice"
+      ]
+    },
+    {
+      "id": "tip-112",
+      "category": "الحركة",
+      "route": "guide/movement",
+      "text": "في التدريب، كرر مسارًا واحدًا بين لينين حتى تحفظه، ثم أضف له مداخل ومخارج بديلة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Teleporter",
+        "https://deadlock.wiki/Zipline",
+        "https://deadlock.wiki/Jump_Pad",
+        "https://deadlock.wiki/Rope",
+        "https://deadlock.wiki/Steam_Vent"
+      ]
+    },
+    {
+      "id": "tip-113",
+      "category": "الشخصيات",
+      "route": "hero/84",
+      "text": "مع رات كينغ، اختَر موضع الراية قريبًا من مساحة يقدر فريقك يقاتل فيها، بدل وضعها وراء مواجهة تتحرك بعيدًا.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 84,
+      "abilityNames": [
+        "Scrap Grenade",
+        "Rat Swarm",
+        "Royal Pestments",
+        "Rule, Ratannia!"
+      ]
+    },
+    {
+      "id": "tip-114",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "في تبادل الضرر باللين، انتبه للكريبات والأورب أيضًا؛ ضغط اللاعب ما يعوّض كل الموارد اللي تتركها.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-115",
+      "category": "الفارم",
+      "route": "guide/farm",
+      "text": "آخر ضربة ميلي على الكريب تؤمّن الجزء الهوائي من سولزه، لكن لا تقرّب إذا الخصم يقدر يعاقبك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Souls",
+        "https://deadlock.wiki/Crate",
+        "https://deadlock.wiki/Buff_Container",
+        "https://deadlock.wiki/Sinner%27s_Sacrifice"
+      ]
+    },
+    {
+      "id": "tip-116",
+      "category": "الشخصيات",
+      "route": "hero/85",
+      "text": "مع سولومون، رتّب قطعك حول ممرات القتال المتوقعة؛ تغيير موضع الخصم قد يجعل ترتيبًا قديمًا أقل فائدة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 85,
+      "abilityNames": [
+        "Setup Bishop",
+        "Kingside Knight",
+        "Rook Battery",
+        "Develop Queen"
+      ]
+    },
+    {
+      "id": "tip-117",
+      "category": "الحركة",
+      "route": "guide/map",
+      "text": "إذا رجعت بصحة قليلة، خذ زاوية تقطع التصويب قبل النظر للمتجر أو الماب لفترة طويلة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Street_Brawl"
+      ]
+    },
+    {
+      "id": "tip-118",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "إذا خطتك تحتاج قدرة هروب، تأكد أنها جاهزة قبل دخولك، وحدد وين بتستخدمها.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-119",
+      "category": "الشخصيات",
+      "route": "hero/86",
+      "text": "مع فايلت، افهم مسار Flow State في التدريب قبل استخدامه تحت الضغط، عشان تختار بين الدخول وتغيير موضعك.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 86,
+      "abilityNames": [
+        "Living Ink",
+        "Flow State",
+        "Still Life",
+        "Abstract Landscape"
+      ]
+    },
+    {
+      "id": "tip-120",
+      "category": "الفارم",
+      "route": "guide/jungle",
+      "text": "الجنقل يعطي موارد، لكنه ما يحمي هدفك. إذا موجتك منهارة، راجع قرار الاستمرار بالكامبات.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Haunt"
+      ]
+    },
+    {
+      "id": "tip-121",
+      "category": "الحركة",
+      "route": "guide/movement",
+      "text": "الاندفاع لقدّام مو الحل الوحيد؛ الحركة للجانب قد تبقيك قريبًا من الغطاء وأبعد عن خط الضربة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/Teleporter",
+        "https://deadlock.wiki/Zipline",
+        "https://deadlock.wiki/Jump_Pad",
+        "https://deadlock.wiki/Rope",
+        "https://deadlock.wiki/Steam_Vent"
+      ]
+    },
+    {
+      "id": "tip-122",
+      "category": "الشخصيات",
+      "route": "hero/88",
+      "text": "مع بابا، اقرأ تأثير الشاي اللي تختاره وجهّز استخدامه للموقف؛ اختيار التأثير جزء من قرارك قبل المواجهة.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 88,
+      "abilityNames": [
+        "Threadsap",
+        "Granny Long Legs",
+        "Baba's Brew",
+        "Feed The Birds"
+      ]
+    },
+    {
+      "id": "tip-123",
+      "category": "القتال",
+      "route": "guide/start",
+      "text": "بعد الموت، راجع سببًا واحدًا واضحًا: زاوية مكشوفة، تحمل منتهٍ، أو قدرة مهمة صرفتها بدري.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://deadlock.wiki/The_Cursed_Apple",
+        "https://deadlock.wiki/Haunt",
+        "https://deadlock.wiki/Souls"
+      ]
+    },
+    {
+      "id": "tip-124",
+      "category": "الشخصيات",
+      "route": "hero/nurse-harrow",
+      "text": "مع نيرس هارو، العلاج أثناء Wretched Vapors يساعد على إزالة أطياف الضرر المؤجل قبل أن تؤذي الحليف.",
+      "reviewedAt": "2026-10-21",
+      "kind": "editorial-gameplay-advice",
+      "sources": [
+        "https://api.deadlock-api.com/v1/assets/heroes?language=english"
+      ],
+      "gameHeroId": 87,
+      "abilityNames": [
+        "Leech Therapy",
+        "Wretched Vapors",
+        "Healing Needles",
+        "Lurking Terrors"
+      ]
+    }
+  ]
+}
