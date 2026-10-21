@@ -3,7 +3,7 @@ export function mountNurseHarrow(host,roster,escape){
  document.title='نيرس هارو · Nurse Harrow | Deadlock AR';
  document.body.dataset.heroId='nurse-harrow';
  if(!document.querySelector('.wraith-page-backdrop')){const bg=document.createElement('div');bg.className='wraith-page-backdrop';bg.setAttribute('aria-hidden','true');document.body.prepend(bg)}
- host.classList.add('seven-lore','seven-experience','hero-community-primary');
+ host.classList.add('seven-lore','seven-experience');
  const labels=['نظرة عامة','القصة','القدرات والإحصائيات','عرض الشخصية 3D','تصنيف اللاعبين DEAD LOCK AR'];
  const panels=[
  "<h2>نيرس هارو · متاحة الآن</h2><p>صدرت يوم 20 أكتوبر 2026، وهي آخر شخصيات تحديث City Never Sleeps. ممرضة صارمة تجمع بين مساندة الفريق واستنزاف الخصوم وإخافتهم.</p><p>تجمع العلق من الأعداء لتقوية علاجها، وتستخدم سلاح الحقن Code Blue. أبخرتها تمنح دفعة قوية وتؤجل الضرر، لكنها تتبعها مرحلة تباطؤ وضرر مؤجل؛ العلاج أثناء الدفعة يساعد على التخلص من هذا العبء.</p><small>آخر مراجعة: 21 أكتوبر 2026 · بيانات إصدار الشخصية</small>",
@@ -29,5 +29,5 @@ export function mountNurseHarrow(host,roster,escape){
  host.querySelector('.nurse-abilities-link').addEventListener('click',()=>select(2,true));
  buttons.forEach((b,i)=>b.addEventListener('click',()=>select(i)));
  host.querySelector('[role=tablist]').addEventListener('keydown',e=>{let i=buttons.indexOf(document.activeElement);if(e.key==='ArrowLeft')i=(i+1)%buttons.length;else if(e.key==='ArrowRight')i=(i+buttons.length-1)%buttons.length;else if(e.key==='Home')i=0;else if(e.key==='End')i=buttons.length-1;else return;e.preventDefault();select(i,true)});
- const strip=document.createElement('nav');strip.className='hero-card-picker';strip.setAttribute('aria-label','اختيار الشخصية');strip.innerHTML=roster.map(h=>`<a class="hero-mini-card ${h.id==='nurse-harrow'?'selected':''}" href="#hero/${h.id}"><img src="${escape(h.portrait)}" alt="" width="56" height="64" loading="lazy"><span dir="ltr">${escape(h.name)}</span></a>`).join('');host.after(strip);
+ const strip=document.createElement('nav');strip.className='hero-card-picker';strip.setAttribute('aria-label','اختيار الشخصية');strip.innerHTML=roster.map(h=>`<a class="hero-mini-card ${h.id==='nurse-harrow'?'selected':''}" href="#hero/${h.id}"><img src="${escape(h.portrait)}" alt="" width="56" height="64" loading="lazy"><span dir="ltr">${escape(h.name)}</span></a>`).join('');const layout=document.createElement('div');layout.className='hero-community-layout';const primary=document.createElement('div');primary.className='hero-community-primary';while(host.firstChild)primary.append(host.firstChild);layout.append(primary,strip);host.append(layout);
 }
