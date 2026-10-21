@@ -13,7 +13,20 @@ export function mountNurseHarrow(host,roster,escape){
  "<h2>تصنيف لاعبي نيرس هارو</h2><p>لا توجد بيانات تصنيف موثقة مضافة لهذه الشخصية حاليًا.</p>"
 ];
  host.innerHTML=`<header class="wraith-permanent-heading"><span>نيرس هارو · متاحة الآن</span><h1 class="wraith-panel-title" dir="ltr">Nurse Harrow</h1></header><nav class="hero-sections" aria-label="أقسام ملف الشخصية"><div class="hero-section-tabs" role="tablist">${labels.map((label,i)=>`<button type="button" role="tab" id="nurse-tab-${i}" aria-controls="nurse-panel-${i}" aria-selected="${i===0}" tabindex="${i===0?0:-1}">${label}</button>`).join('')}</div></nav><div class="hero-section-panels">${panels.map((text,i)=>`<section id="nurse-panel-${i}" role="tabpanel" aria-labelledby="nurse-tab-${i}" ${i?'hidden':''} class="hero-overview nurse-reading">${text}</section>`).join('')}</div>`;
+ const heading=host.querySelector('.wraith-permanent-heading');
+ heading.querySelector('span').textContent='نيرس هارو';
+ heading.querySelector('h1').innerHTML='<img class="hero-name-wordmark" src="assets/hero-wordmarks/87.svg" alt="Nurse Harrow" width="500" height="170">';
+ host.querySelector('#nurse-panel-0').innerHTML='<p class="nurse-intro">تعالج فريقها بالإبر، وتستنزف الخصم بالعلق، وتفتح حقيبتها لما يحين وقت الرعب.</p><div class="nurse-overview-copy"><p>نيرس هارو ممرضة صارمة تجمع بين مساندة الحلفاء وإرباك الأعداء. تجمع العلق لتقوية علاجها، وتبدّل سلاح الحقن <bdi dir="ltr">Code Blue</bdi> إلى إبر تعالج فريقها.</p><p>قوتها في التوقيت: الأبخرة تعطي دفعة وتؤجل الضرر، لكن بعدها يجي التباطؤ والضرر المؤجل. العلاج أثناء الدفعة يساعدك تتخلص من هذا العبء.</p></div><button type="button" class="nurse-abilities-link">تعرّف على قدراتها</button>';
+ const abilities=host.querySelector('#nurse-panel-2');
+ abilities.querySelector('h2').textContent='الإحصائيات والقدرات';
+ [...abilities.querySelectorAll('h3')].filter(h=>/^\d/.test(h.textContent)).forEach((title,i)=>{
+  const fold=document.createElement('details');fold.className='nurse-ability';fold.open=i===0;
+  const summary=document.createElement('summary');summary.append(title.cloneNode(true));fold.append(summary);
+  let next=title.nextElementSibling;while(next&&next.tagName==='P'){const after=next.nextElementSibling;fold.append(next);next=after}
+  title.replaceWith(fold);
+ });
  const buttons=[...host.querySelectorAll('[role=tab]')];function select(index,focus=false){buttons.forEach((b,i)=>{b.setAttribute('aria-selected',String(i===index));b.tabIndex=i===index?0:-1;host.querySelector('#nurse-panel-'+i).hidden=i!==index});if(focus)buttons[index].focus()}
+ host.querySelector('.nurse-abilities-link').addEventListener('click',()=>select(2,true));
  buttons.forEach((b,i)=>b.addEventListener('click',()=>select(i)));
  host.querySelector('[role=tablist]').addEventListener('keydown',e=>{let i=buttons.indexOf(document.activeElement);if(e.key==='ArrowLeft')i=(i+1)%buttons.length;else if(e.key==='ArrowRight')i=(i+buttons.length-1)%buttons.length;else if(e.key==='Home')i=0;else if(e.key==='End')i=buttons.length-1;else return;e.preventDefault();select(i,true)});
  const strip=document.createElement('nav');strip.className='hero-card-picker';strip.setAttribute('aria-label','اختيار الشخصية');strip.innerHTML=roster.map(h=>`<a class="hero-mini-card ${h.id==='nurse-harrow'?'selected':''}" href="#hero/${h.id}"><img src="${escape(h.portrait)}" alt="" width="56" height="64" loading="lazy"><span dir="ltr">${escape(h.name)}</span></a>`).join('');host.append(strip);
