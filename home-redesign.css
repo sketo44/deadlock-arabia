@@ -60,3 +60,11 @@ body.home-city{background:linear-gradient(#10171955,#10171988),url('assets/home/
 @media(max-width:650px){.home-city .home-learn{padding-inline:18px}.home-city .home-section-heading{padding:12px}}
 
 body.home-city{background-color:#101719}
+
+/* Open text entry points match the homepage actions. */
+.home-city .home-release,.home-city .home-doorways,.home-city .home-doorways>a{background:transparent;border:0;box-shadow:none;backdrop-filter:none}
+.home-city .home-release>span>strong,.home-city .home-doorways strong{font-weight:900;color:#fff1ce;text-shadow:0 2px 5px #000b}
+.home-city .home-release small,.home-city .home-release span span,.home-city .home-doorways small{color:#e3e9e4;text-shadow:0 2px 5px #000b}
+.home-city .home-release,.home-city .home-doorways>a{transition:transform .18s ease}
+@media(hover:hover) and (pointer:fine){.home-city .home-release:hover,.home-city .home-doorways>a:hover{background:transparent;transform:translateY(-3px)}}
+@media(prefers-reduced-motion:reduce){.home-city .home-release,.home-city .home-doorways>a{transition:none;transform:none}}
