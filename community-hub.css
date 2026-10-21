@@ -330,9 +330,9 @@ body.theme-seven[data-hero-id="nurse-harrow"]>.wraith-page-backdrop{background-i
 
 body.theme-seven[data-hero-id="7"]>.wraith-page-backdrop{background:linear-gradient(#160d2440,#160d2466),url('assets/lore/approved-7-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
-/* Keep the top of character artwork below the desktop navigation. */
+/* Keep artwork flush with the viewport and preserve its top edge. */
 @media(min-width:1101px){
- body.theme-seven[data-hero-id]>.wraith-page-backdrop{inset:80px 0 0;background-position:center top}
+ body.theme-seven[data-hero-id]>.wraith-page-backdrop{inset:0;background-position:center top}
 }
 
 .theme-seven[data-hero-id="nurse-harrow"] .nurse-reading h3{color:#f4efdf;font-size:clamp(19px,2.4vw,25px);margin-top:30px;line-height:1.6}
