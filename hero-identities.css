@@ -19,3 +19,4 @@ body.theme-seven main:before{display:none}
 /* Wraith character background; other hero pages retain their own backdrop. */
 body.theme-seven[data-hero-id="7"]{background-image:linear-gradient(90deg,#120e1b33,#120e1b55 48%,#120e1b99),url('assets/lore/wraith-game-background-v1.png');background-position:center;background-size:cover;background-attachment:fixed}
 .theme-seven .seven-stage:after{background:linear-gradient(0deg,#10191d33,transparent 35%);pointer-events:none}
+body.theme-seven>footer{display:none!important}
