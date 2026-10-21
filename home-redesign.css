@@ -84,3 +84,40 @@ body.home-city{background-color:#101719}
 .home-city .home-character>div{inset-inline:14px;bottom:22px;text-align:center;display:flex;justify-content:center}.home-city .home-character h3{width:100%;margin:0;text-align:center}.home-city .home-character .home-name-logo{display:block;position:static;width:100%;max-width:210px;height:70px;object-fit:contain;object-position:center;margin:0 auto;filter:brightness(0) invert(1) drop-shadow(0 2px 4px #0009)}
 
 .home-city .home-character .home-name-logo{width:84%;max-width:176px;height:58px}
+
+/* Bring the roster into the first desktop view and show three mobile cards. */
+.home-city .home-arrivals{padding-top:22px}
+.home-city .home-arrivals .home-section-heading{padding:10px 0;margin-bottom:16px}
+@media(min-width:1101px){
+ .home-city main{padding-top:8px}
+ .home-city .home-opening{min-height:380px}
+ .home-city .home-opening-copy{padding:24px 42px 20px;max-width:650px}
+ .home-city .home-opening-copy .home-signature{display:none}
+ .home-city .home-opening h1{font-size:40px;line-height:1.25;margin-bottom:12px}
+ .home-city .home-opening-copy>p:not(.home-signature){font-size:14px;line-height:1.8}
+ .home-city .home-opening .home-actions{margin-top:12px}
+ .home-city .home-opening .home-button{min-height:44px;padding:8px 18px}
+ .home-city .home-newcomer{margin-top:10px}
+ .home-city .home-doorways>a{padding-block:14px}
+ .home-city .home-character-grid>.home-character{min-height:clamp(210px,26vh,280px)}
+}
+@media(max-width:1100px) and (min-width:651px){.home-city .home-opening{min-height:450px}.home-city .home-opening-copy{padding-top:32px;padding-bottom:105px}.home-city .home-opening h1{font-size:38px}}
+@media(max-width:650px){
+ .home-city .home-character-grid{gap:8px}
+ .home-city .home-character-grid>.home-character{flex-basis:calc((100% - 16px)/3);min-height:clamp(140px,44vw,215px)}
+ .home-city .home-character>div{inset-inline:5px;bottom:10px}
+ .home-city .home-character .home-name-logo{width:94%;height:36px}
+ .home-city .home-opening{padding-top:190px}
+ .home-city .home-opening-art{height:270px}
+ .home-city .home-opening:after{background:linear-gradient(to bottom,transparent 100px,#111b2299 180px,#111b22 265px)}
+ .home-city .home-opening-copy{padding-inline:18px;padding-bottom:12px}
+ .home-city .home-opening-copy .home-signature{display:none}
+ .home-city .home-opening h1{font-size:30px;line-height:1.4;margin-bottom:10px}
+ .home-city .home-opening-copy>p:not(.home-signature){font-size:12px}
+ .home-city .home-opening .home-actions{margin-top:12px}
+ .home-city .home-newcomer{margin-top:10px}
+ .home-city .home-release{margin-bottom:12px;margin-inline:12px;padding:8px}
+ .home-city .home-doorways>a{min-height:70px;padding-block:12px}
+}
+
+@media(min-width:1101px){.home-city .home-opening{min-height:330px}.home-city .home-arrivals{padding-top:16px}.home-city .home-arrivals .home-section-heading{padding-block:6px;margin-bottom:12px}}
