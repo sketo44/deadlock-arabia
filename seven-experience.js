@@ -1,5 +1,5 @@
 
-import {mountHeroSections} from './hero-sections.js?v=hero-layout-103';
+import {mountHeroSections} from './hero-sections.js?v=hero-layout-104';
 export function mountSeven(host,r,escape,roster){
  const bakedBackground=[1,2,3,4,6,7,8,10,11,12,13,14,15,16,17,18,19,20,25,27,31,35,50,52,58,60,63,64,65,66,67,69,72,76,77,78,79,80,81,84,85,86,88].includes(Number(r.id));
  const blankImage='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22/%3E';
@@ -48,7 +48,7 @@ function mountAbilityIcons(host){
  rail.addEventListener('keydown',event=>{const index=buttons.indexOf(document.activeElement);if(index<0)return;let next;if(event.key==='ArrowRight')next=(index+1)%buttons.length;if(event.key==='ArrowLeft')next=(index+buttons.length-1)%buttons.length;if(event.key==='Home')next=0;if(event.key==='End')next=buttons.length-1;if(next!==undefined){event.preventDefault();buttons[next].focus()}});
 }
 
-function mountHeroDrag(strip){
+export function mountHeroDrag(strip){
  let drag=null,suppressClick=false;
  strip.addEventListener('dragstart',event=>event.preventDefault());
  strip.addEventListener('pointerdown',event=>{if(event.pointerType!=='mouse'||event.button!==0)return;suppressClick=false;drag={id:event.pointerId,x:event.clientX,scroll:strip.scrollLeft,moved:false}});
