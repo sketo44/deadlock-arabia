@@ -329,3 +329,8 @@ body.theme-seven[data-hero-id="nurse-harrow"]>.wraith-page-backdrop{background-i
 .nurse-reading{display:block;line-height:2.1;direction:rtl}.nurse-reading[hidden]{display:none}.nurse-reading h2{font-size:clamp(23px,4vw,34px);line-height:1.6}.nurse-reading small{display:block;margin-top:24px;color:#c9bea1}.theme-seven[data-hero-id="nurse-harrow"] .wraith-panel-title{font-family:Georgia,serif;font-size:clamp(40px,8vw,100px);color:#f4efdf}
 
 body.theme-seven[data-hero-id="7"]>.wraith-page-backdrop{background:linear-gradient(#160d2440,#160d2466),url('assets/lore/approved-7-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
+
+/* Keep the top of character artwork below the desktop navigation. */
+@media(min-width:1101px){
+ body.theme-seven[data-hero-id]>.wraith-page-backdrop{inset:80px 0 0;background-position:center top}
+}
