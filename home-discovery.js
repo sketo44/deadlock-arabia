@@ -1,7 +1,7 @@
 import {playstyles} from './home-playstyles.js?v=1';
 const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-export {dailyTips} from './daily-tips.js?v=1';
-import {dailyTips} from './daily-tips.js?v=1';
+export {dailyTips} from './daily-tips.js?v=2';
+import {dailyTips} from './daily-tips.js?v=2';
 export function saudiDayKey(date=new Date()){
  const parts=new Intl.DateTimeFormat('en-US',{timeZone:'Asia/Riyadh',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(date);
  const get=type=>parts.find(p=>p.type===type).value;

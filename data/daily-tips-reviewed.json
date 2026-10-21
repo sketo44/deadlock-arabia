@@ -53,7 +53,7 @@
     {
       "id": "tip-004",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "قبل الفايت، عدّ الموجودين معك والظاهرين من الخصوم. لا تتعامل مع مواجهة ناقصة كأنها متكافئة.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -185,7 +185,7 @@
     {
       "id": "tip-013",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "تمرّن على الباري ضد الميلي الثقيل في التدريب؛ تعرف على حركة الشحن بدل الضغط عليه بعشوائية.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -316,7 +316,7 @@
     {
       "id": "tip-022",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "إذا الخصم ينتظر الباري، لا تكرر الميلي الثقيل من نفس المسافة وبنفس التوقيت.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -467,7 +467,7 @@
     {
       "id": "tip-032",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "لا تدخل بمخزن شبه فارغ إذا عندك فرصة تلقيم آمنة قبل المواجهة.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -600,7 +600,7 @@
     {
       "id": "tip-041",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "تعلم مسافة سلاحك في التدريب؛ الإصابة من بعيد ما تعني أن ضررك مثل الضرر من المدى المناسب.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -733,7 +733,7 @@
     {
       "id": "tip-050",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "إذا قدرة تعطيل الخصم لسه جاهزة، لا تبني دخولك كله على افتراض أنك بتتحرك بحرية.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -866,7 +866,7 @@
     {
       "id": "tip-059",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "بعد ما يخطئ الخصم قدرة مهمة، قيّم فرصة التقدم قبل ما ترجع له القدرة.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -1014,7 +1014,7 @@
     {
       "id": "tip-069",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "إذا حليفك عطّل هدفًا، ركّز معه بدل توزيع الضرر بين عدة خصوم بدون إسقاط أحد.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -1140,7 +1140,7 @@
     {
       "id": "tip-078",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "إذا ما تقدر توصل للهدف الخلفي بأمان، ساعد بإبعاد المقاتل اللي يضغط حليفك أولًا.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -1257,7 +1257,7 @@
     {
       "id": "tip-086",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "لا تطارد هدفًا ضعيفًا حول زاوية عمياء بدون معلومة؛ قد يكون باقي فريقه ينتظرك خلفها.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -1374,7 +1374,7 @@
     {
       "id": "tip-094",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "إذا دخلت المواجهة متأخرًا وخسر فريقك أكثر من لاعب، فكّر بالانسحاب بدل الدخول واحدًا وراء واحد.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -1470,7 +1470,7 @@
     {
       "id": "tip-101",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "احتفظ بغطاء قريب وقت إطلاق النار؛ خطوة جانبية للغطاء قد تكون أسرع من محاولة تحمل الضرر.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -1587,7 +1587,7 @@
     {
       "id": "tip-109",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "إذا استُخدمت عليك قدرة حركة أو سحب، راجع مكان وقوفك بالنسبة للحواف والجدران في المواجهة التالية.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -1665,7 +1665,7 @@
     {
       "id": "tip-114",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "في تبادل الضرر باللين، انتبه للكريبات والأورب أيضًا؛ ضغط اللاعب ما يعوّض كل الموارد اللي تتركها.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -1722,7 +1722,7 @@
     {
       "id": "tip-118",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "إذا خطتك تحتاج قدرة هروب، تأكد أنها جاهزة قبل دخولك، وحدد وين بتستخدمها.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
@@ -1797,7 +1797,7 @@
     {
       "id": "tip-123",
       "category": "القتال",
-      "route": "guide/start",
+      "route": "guide/combat",
       "text": "بعد الموت، راجع سببًا واحدًا واضحًا: زاوية مكشوفة، تحمل منتهٍ، أو قدرة مهمة صرفتها بدري.",
       "reviewedAt": "2026-10-21",
       "kind": "editorial-gameplay-advice",
