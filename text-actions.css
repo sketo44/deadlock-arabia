@@ -1,0 +1,29 @@
+@layer text-actions {
+/* Text-only actions retain their original touch targets and keyboard focus. */
+button,a.button,a.outline,a.home-button,
+button:hover,a.button:hover,a.outline:hover,a.home-button:hover,
+button:active,a.button:active,a.outline:active,a.home-button:active{
+ background:transparent!important;
+ background-image:none!important;
+ border-color:transparent!important;
+ box-shadow:none!important;
+ color:inherit!important;
+ text-shadow:0 1px 3px #0002;
+}
+button,a.button,a.outline,a.home-button{font-weight:800}
+button:not(:disabled):hover,a.button:hover,a.outline:hover,a.home-button:hover{
+ text-decoration:underline;
+ text-underline-offset:7px;
+}
+button[aria-selected="true"],button[aria-pressed="true"],button.chosen,button.selected{
+ text-decoration:underline;
+ text-decoration-thickness:2px;
+ text-underline-offset:8px;
+}
+.home-city .home-button{color:#fff1ce!important;text-shadow:0 2px 5px #000b}
+button:focus-visible,a.button:focus-visible,a.outline:focus-visible,a.home-button:focus-visible{
+ outline:2px solid currentColor!important;
+ outline-offset:3px;
+}
+
+}

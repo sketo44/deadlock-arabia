@@ -1,7 +1,7 @@
-import {mountNurseHarrow} from './nurse-harrow.js?v=hero-layout-79';
+import {mountNurseHarrow} from './nurse-harrow.js?v=hero-layout-80';
 import {streamMarkup} from './tournament-streams.js';
 import {homeGuideTiles} from './city-guide.js';
-import {mountSeven} from './seven-experience.js?v=hero-layout-79';
+import {mountSeven} from './seven-experience.js?v=hero-layout-80';
 const escape=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export {communityHome} from './home-page.js?v=home-redesign-1';
 let loreCache;
