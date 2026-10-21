@@ -29,5 +29,5 @@ export function mountNurseHarrow(host,roster,escape){
  host.querySelector('.nurse-abilities-link').addEventListener('click',()=>select(2,true));
  buttons.forEach((b,i)=>b.addEventListener('click',()=>select(i)));
  host.querySelector('[role=tablist]').addEventListener('keydown',e=>{let i=buttons.indexOf(document.activeElement);if(e.key==='ArrowLeft')i=(i+1)%buttons.length;else if(e.key==='ArrowRight')i=(i+buttons.length-1)%buttons.length;else if(e.key==='Home')i=0;else if(e.key==='End')i=buttons.length-1;else return;e.preventDefault();select(i,true)});
- const strip=document.createElement('nav');strip.className='hero-card-picker';strip.setAttribute('aria-label','اختيار الشخصية');strip.innerHTML=roster.map(h=>`<a class="hero-mini-card ${h.id==='nurse-harrow'?'selected':''}" href="#hero/${h.id}"><img src="${escape(h.portrait)}" alt="" width="56" height="64" loading="lazy"><span dir="ltr">${escape(h.name)}</span></a>`).join('');host.append(strip);
+ const strip=document.createElement('nav');strip.className='hero-card-picker';strip.setAttribute('aria-label','اختيار الشخصية');strip.innerHTML=roster.map(h=>`<a class="hero-mini-card ${h.id==='nurse-harrow'?'selected':''}" href="#hero/${h.id}"><img src="${escape(h.portrait)}" alt="" width="56" height="64" loading="lazy"><span dir="ltr">${escape(h.name)}</span></a>`).join('');host.after(strip);
 }
