@@ -27,3 +27,8 @@ button:focus-visible,a.button:focus-visible,a.outline:focus-visible,a.home-butto
 }
 
 }
+
+/* A light lift makes text actions respond to the pointer. */
+button,a.button,a.outline,a.home-button,.home-newcomer,.home-text-link,.home-section-heading>a{font-weight:900!important;transition:transform .18s ease,color .18s ease!important}
+@media(hover:hover) and (pointer:fine){button:not(:disabled):hover,a.button:hover,a.outline:hover,a.home-button:hover,.home-newcomer:hover,.home-text-link:hover,.home-section-heading>a:hover{transform:translateY(-3px);text-decoration:none}}
+@media(prefers-reduced-motion:reduce){button,a.button,a.outline,a.home-button,.home-newcomer,.home-text-link,.home-section-heading>a{transition:none!important;transform:none!important}}
