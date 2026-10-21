@@ -83,7 +83,7 @@ body.theme-seven:is([data-hero-id="nurse-harrow"],[data-hero-id="79"],[data-hero
 .seven-story>.hero-about{grid-column:1/-1;width:100%;box-sizing:border-box;margin-top:32px;padding-top:32px;border-top:1px solid var(--hero-border,#4e6568)}
 
 body.theme-seven[data-hero-id="11"]{background-color:#17150f}
-body.theme-seven[data-hero-id="11"]>.wraith-page-backdrop{background:linear-gradient(#18140d29,#18140d40),url('assets/lore/dynamo-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
+body.theme-seven[data-hero-id="11"]>.wraith-page-backdrop{background:linear-gradient(#18140d29,#18140d40),url('assets/lore/approved-11-blurred.webp?v=approved-1') center/cover no-repeat;filter:blur(6px)}
 /* A clean transparent model viewer over the character page. */
 .hero-inline-model .ar-model-stage{background:transparent;border:0;box-shadow:none}
 .hero-inline-model .ar-model-stage:after{display:none}
@@ -189,10 +189,10 @@ body.theme-seven[data-hero-id="64"]{background-color:#180c10}
 body.theme-seven[data-hero-id="64"]>.wraith-page-backdrop{background:linear-gradient(#18091022,#18091044),url('assets/lore/drifter-background-blurred-v2.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
 
 body.theme-seven[data-hero-id="85"]{background-color:#101814}
-body.theme-seven[data-hero-id="85"]>.wraith-page-backdrop{background:linear-gradient(#10181433,#10181455),url('assets/lore/solomon-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
+body.theme-seven[data-hero-id="85"]>.wraith-page-backdrop{background:linear-gradient(#10181433,#10181455),url('assets/lore/approved-85-blurred.webp?v=approved-1') center/cover no-repeat;filter:blur(6px)}
 
 body.theme-seven[data-hero-id="72"]{background-color:#101b20}
-body.theme-seven[data-hero-id="72"]>.wraith-page-backdrop{background:linear-gradient(#10182040,#10182055),url('assets/lore/billy-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
+body.theme-seven[data-hero-id="72"]>.wraith-page-backdrop{background:linear-gradient(#10182040,#10182055),url('assets/lore/approved-72-blurred.webp?v=approved-1') center/cover no-repeat;filter:blur(6px)}
 
 body.theme-seven[data-hero-id="3"]{background-color:#161923}
 body.theme-seven[data-hero-id="3"]>.wraith-page-backdrop{background:linear-gradient(#10142366,#10142388),url('assets/lore/vindicta-background-blurred-v2.webp?v=quality-2') center/cover no-repeat;filter:blur(6px)}
@@ -201,112 +201,112 @@ body.theme-seven[data-hero-id="3"]>.wraith-page-backdrop{background:linear-gradi
 body.theme-seven>.wraith-page-backdrop{filter:none!important}
 
 body.theme-seven[data-hero-id="1"]{background-color:#101814}
-body.theme-seven[data-hero-id="1"]>.wraith-page-backdrop{background:linear-gradient(#10181433,#10181466),url('assets/lore/infernus-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="1"]>.wraith-page-backdrop{background:linear-gradient(#10181433,#10181466),url('assets/lore/approved-1-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="4"]{background-color:#101814}
-body.theme-seven[data-hero-id="4"]>.wraith-page-backdrop{background:linear-gradient(#10181433,#10181466),url('assets/lore/lady-geist-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="4"]>.wraith-page-backdrop{background:linear-gradient(#10181433,#10181466),url('assets/lore/approved-4-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="6"]{background-color:#101814}
 body.theme-seven[data-hero-id="6"]>.wraith-page-backdrop{background:linear-gradient(#10181433,#10181466),url('assets/lore/abrams-background-blurred-v2.webp?v=quality-2') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="8"]{background-color:#101814}
-body.theme-seven[data-hero-id="8"]>.wraith-page-backdrop{background:linear-gradient(#10181433,#10181466),url('assets/lore/mcginnis-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="8"]>.wraith-page-backdrop{background:linear-gradient(#10181433,#10181466),url('assets/lore/approved-8-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="10"]{background-color:#101814}
-body.theme-seven[data-hero-id="10"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181488),url('assets/lore/apollo-paradox-user-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="10"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181488),url('assets/lore/approved-10-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="12"]{background-color:#101814}
-body.theme-seven[data-hero-id="12"]>.wraith-page-backdrop{background:linear-gradient(#09152188,#091521bb),url('assets/lore/kelvin-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="12"]>.wraith-page-backdrop{background:linear-gradient(#09152188,#091521bb),url('assets/lore/approved-12-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="13"]{background-color:#101814}
-body.theme-seven[data-hero-id="13"]>.wraith-page-backdrop{background:linear-gradient(#10181455,#10181488),url('assets/lore/haze-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="13"]>.wraith-page-backdrop{background:linear-gradient(#10181455,#10181488),url('assets/lore/approved-13-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="14"]{background-color:#101814}
-body.theme-seven[data-hero-id="14"]>.wraith-page-backdrop{background:linear-gradient(#10181455,#10181488),url('assets/lore/holliday-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="14"]>.wraith-page-backdrop{background:linear-gradient(#10181455,#10181488),url('assets/lore/approved-14-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="15"]{background-color:#101814}
-body.theme-seven[data-hero-id="15"]>.wraith-page-backdrop{background:linear-gradient(#10181455,#10181488),url('assets/lore/bebop-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="15"]>.wraith-page-backdrop{background:linear-gradient(#10181455,#10181488),url('assets/lore/approved-15-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="16"]{background-color:#101814}
-body.theme-seven[data-hero-id="16"]>.wraith-page-backdrop{background:linear-gradient(#10181455,#10181488),url('assets/lore/calico-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="16"]>.wraith-page-backdrop{background:linear-gradient(#10181455,#10181488),url('assets/lore/approved-16-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="17"]{background-color:#101814}
-body.theme-seven[data-hero-id="17"]>.wraith-page-backdrop{background:linear-gradient(#10181455,#10181488),url('assets/lore/grey-talon-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="17"]>.wraith-page-backdrop{background:linear-gradient(#10181455,#10181488),url('assets/lore/approved-17-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="18"]{background-color:#101814}
-body.theme-seven[data-hero-id="18"]>.wraith-page-backdrop{background:linear-gradient(#10181455,#10181488),url('assets/lore/mo-krill-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="18"]>.wraith-page-backdrop{background:linear-gradient(#10181455,#10181488),url('assets/lore/approved-18-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="19"]{background-color:#101814}
-body.theme-seven[data-hero-id="19"]>.wraith-page-backdrop{background:linear-gradient(#10181455,#10181488),url('assets/lore/shiv-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="19"]>.wraith-page-backdrop{background:linear-gradient(#10181455,#10181488),url('assets/lore/approved-19-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="20"]{background-color:#101814}
-body.theme-seven[data-hero-id="20"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/ivy-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="20"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/approved-20-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="25"]{background-color:#10121a}
-body.theme-seven[data-hero-id="25"]>.wraith-page-backdrop{background:linear-gradient(#10121a55,#10121a88),url('assets/lore/warden-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="25"]>.wraith-page-backdrop{background:linear-gradient(#10121a55,#10121a88),url('assets/lore/approved-25-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="27"]{background-color:#101814}
-body.theme-seven[data-hero-id="27"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/yamato-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="27"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/approved-27-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="31"]{background-color:#101814}
-body.theme-seven[data-hero-id="31"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/lash-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="31"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/approved-31-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="35"]{background-color:#101814}
-body.theme-seven[data-hero-id="35"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/viscous-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="35"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/approved-35-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="50"]{background-color:#101814}
-body.theme-seven[data-hero-id="50"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/pocket-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="50"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/approved-50-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="52"]{background-color:#101814}
-body.theme-seven[data-hero-id="52"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/mirage-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="52"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/approved-52-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="58"]{background-color:#101814}
-body.theme-seven[data-hero-id="58"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/vyper-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="58"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/approved-58-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="60"]{background-color:#101814}
-body.theme-seven[data-hero-id="60"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/sinclair-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="60"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/approved-60-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="63"]{background-color:#101814}
-body.theme-seven[data-hero-id="63"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/mina-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="63"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/approved-63-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="65"]{background-color:#101814}
 body.theme-seven[data-hero-id="65"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/venator-background-blurred-v2.webp?v=quality-2') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="66"]{background-color:#101814}
-body.theme-seven[data-hero-id="66"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/victor-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="66"]>.wraith-page-backdrop{background:linear-gradient(#10181466,#10181499),url('assets/lore/approved-66-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="67"]{background-color:#101814}
-body.theme-seven[data-hero-id="67"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/paige-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="67"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/approved-67-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="69"]{background-color:#101814}
-body.theme-seven[data-hero-id="69"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/the-doorman-user-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="69"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/approved-69-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="76"]{background-color:#101814}
-body.theme-seven[data-hero-id="76"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/graves-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="76"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/approved-76-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="77"]{background-color:#101814}
-body.theme-seven[data-hero-id="77"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/apollo-paradox-user-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="77"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/approved-77-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="78"]{background-color:#101814}
-body.theme-seven[data-hero-id="78"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/deadman-danny-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="78"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/approved-78-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="79"]{background-color:#101814}
-body.theme-seven[data-hero-id="79"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/rem-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="79"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/approved-79-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="80"]{background-color:#101814}
-body.theme-seven[data-hero-id="80"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/silver-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="80"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/approved-80-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="81"]{background-color:#101814}
-body.theme-seven[data-hero-id="81"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/celeste-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="81"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/approved-81-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="84"]{background-color:#101814}
-body.theme-seven[data-hero-id="84"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/rat-king-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="84"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/approved-84-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="86"]{background-color:#101814}
-body.theme-seven[data-hero-id="86"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/violet-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="86"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/approved-86-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 body.theme-seven[data-hero-id="88"]{background-color:#101814}
-body.theme-seven[data-hero-id="88"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/baba-background-blurred.webp?v=quality-2') center/cover no-repeat;filter:none}
+body.theme-seven[data-hero-id="88"]>.wraith-page-backdrop{background:linear-gradient(#10181477,#101814aa),url('assets/lore/approved-88-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
 
 /* Continuous artwork on phones and tablets. */
 @media(max-width:1100px){
@@ -325,5 +325,7 @@ body.theme-seven[data-hero-id="88"]>.wraith-page-backdrop{background:linear-grad
 body.theme-seven[data-hero-id]>.wraith-page-backdrop::after{content:"";position:absolute;inset:0 0 auto;height:56.25vw;max-height:100%;background:inherit;background-size:100% auto;background-position:center top;background-color:transparent;mask-image:linear-gradient(to bottom,#000 65%,transparent);pointer-events:none}
 }
 
-body.theme-seven[data-hero-id="nurse-harrow"]>.wraith-page-backdrop{background-image:linear-gradient(#10181477,#101814aa),url('assets/lore/nurse-harrow-background-blurred.webp');background-size:cover;background-position:28% center;filter:none}
+body.theme-seven[data-hero-id="nurse-harrow"]>.wraith-page-backdrop{background-image:linear-gradient(#10181477,#101814aa),url('assets/lore/approved-nurse-harrow-blurred.webp?v=approved-1');background-size:cover;background-position:28% center;filter:none}
 .nurse-reading{display:block;line-height:2.1;direction:rtl}.nurse-reading[hidden]{display:none}.nurse-reading h2{font-size:clamp(23px,4vw,34px);line-height:1.6}.nurse-reading small{display:block;margin-top:24px;color:#c9bea1}.theme-seven[data-hero-id="nurse-harrow"] .wraith-panel-title{font-family:Georgia,serif;font-size:clamp(40px,8vw,100px);color:#f4efdf}
+
+body.theme-seven[data-hero-id="7"]>.wraith-page-backdrop{background:linear-gradient(#160d2440,#160d2466),url('assets/lore/approved-7-blurred.webp?v=approved-1') center/cover no-repeat;filter:none}
