@@ -1,4 +1,4 @@
-import {homeDiscoveryMarkup,mountHomeDiscovery} from './home-discovery.js?v=1';
+import {homeDiscoveryMarkup,homeDailyNoteMarkup,mountHomeDiscovery} from './home-discovery.js?v=2';
 const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const arrow='<span aria-hidden="true"></span>';
 const recent=[['nurse-harrow','نيرس هارو','Nurse Harrow'],[86,'فايلت','Violet'],[78,'ديدمان داني','Deadman Danny'],[85,'سولومون','Solomon'],[88,'بابا','Baba'],[84,'رات كينغ','Rat King']];
@@ -15,9 +15,10 @@ export function communityHome(data){
  ${[['#heroes','الشخصيات',`${count} شخصية وقصصها وقدراتها`],['#items','الأيتمات','افهم تأثير كل قطعة'],['#community','مجتمع اللاعبين','البيلدات وترتيب اللاعبين'],['#tournaments','البطولات','الفرق وغرف المنافسة']].map(([href,title,sub])=>`<a href="${href}"><span><strong>${title}</strong><small>${sub}</small></span>${arrow}</a>`).join('')}
  </nav>
  <section class="home-arrivals" aria-labelledby="home-arrivals-title"><div class="home-section-heading"><h2 id="home-arrivals-title">اكتشف شخصيات المدينة</h2></div><div class="home-character-window"><div class="home-character-grid">${recent.map(([id,ar,en],i)=>`<a class="home-character" href="#hero/${id}"><img src="${id===85?'assets/home/85-framed.webp':'assets/home/'+id+'.webp'}" alt="" width="420" height="510" loading="lazy"><div>${gameName(id,en)}</div></a>`).join('')}</div></div></section>
- ${homeDiscoveryMarkup()}
+ <div class="home-lower-layout">${homeDailyNoteMarkup()}<div class="home-lower-content">${homeDiscoveryMarkup()}
  <section class="home-learn" aria-labelledby="home-learn-title"><div class="home-learn-intro"><p>المعرفة تفرق داخل القيم</p><h2 id="home-learn-title">افهم المدينة.<br>والعبها بطريقتك.</h2><p>من الفارم والحركة إلى اختيار الأيتم المناسب. ادخل على اللي تحتاجه، وخذ الشرح بالعربي.</p><a class="home-text-link" href="#guide/start">افتح دليل البداية ${arrow}</a></div><div class="home-learning-links">${[['guide/map','الماب واللينات','اعرف الطرق ومواقع الأهداف.','assets/guide/Map_colored.png'],['guide/farm','الفارم والسولز','كيف تجمع، ومتى تركز على الفارم.','assets/guide/Fairfax_crates.png'],['guide/movement','الحركة والتنقّل','الحبال والمراوح وطرق الوصول.','assets/guide/Riding_zipline.png']].map(([route,title,sub,img])=>`<a href="#${route}"><img src="${img}" alt="" width="70" height="70" loading="lazy"><span><h3>${title}</h3><p>${sub}</p></span>${arrow}</a>`).join('')}<a href="assistant.html"><span class="home-help-mark" aria-hidden="true">؟</span><span><h3>عندك سؤال عن اللعبة؟</h3><p>اسأل المساعد بالعربي · تجريبي</p></span>${arrow}</a></div></section>
  <section class="home-community" aria-labelledby="home-community-title"><div><p>مكانك بين اللاعبين</p><h2 id="home-community-title">القيم أحلى مع مجتمعك.</h2><p>شارك بيلدك، تعرّف على اللاعبين، أو جهّز فريقك للمنافسة.</p><div class="home-actions"><a class="home-button" href="#community">ادخل المجتمع ${arrow}</a><a class="home-button home-button-secondary" href="#tournaments">ساحة البطولات</a></div></div><img src="assets/arena-city-full.jpg" alt="شوارع مدينة ديدلوك" loading="lazy" width="740" height="500"></section>
+ </div></div>
  </div>`;
 }
 

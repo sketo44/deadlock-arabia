@@ -45,9 +45,12 @@ export function recommendHeroes(answers){
   return {...hero,score:(styleMatch?8:0)+(rangeMatch?4:0)+(learningMatch?2:0),index};
  }).sort((a,b)=>b.score-a.score||a.index-b.index).slice(0,3);
 }
-export function homeDiscoveryMarkup(){
+export function homeDailyNoteMarkup(){
  const tip=dailyTip();
- return `<section class="home-discovery" aria-label="معلومة اليوم واختيار الشخصية"><aside class="daily-game-tip" aria-labelledby="daily-tip-title"><p class="discovery-kicker">كل يوم، شيء يفيدك</p><h2 id="daily-tip-title">معلومة للقيم</h2><div data-daily-tip><span class="daily-tip-category">${esc(tip.category)}</span><p>${esc(tip.text)}</p><a href="#${tip.route}">اعرف أكثر</a></div><small>تتجدد يوميًا بتوقيت السعودية</small></aside><section class="playstyle-quiz" aria-labelledby="playstyle-title"><p class="discovery-kicker">خلّنا نعرف أسلوبك</p><h2 id="playstyle-title">مين يناسب لعبك؟</h2><p class="quiz-intro">جاوب على 3 أسئلة، وخذ شخصيات تقرب لأسلوبك.</p><div data-playstyle-quiz></div></section></section>`;
+ return `<aside class="daily-game-tip daily-tip-note" aria-labelledby="daily-tip-title"><h2 id="daily-tip-title">معلومة للقيم</h2><div data-daily-tip><span class="daily-tip-category">${esc(tip.category)}</span><p>${esc(tip.text)}</p><a href="#${tip.route}">اعرف أكثر</a></div><small>تتجدد يوميًا بتوقيت السعودية</small></aside>`;
+}
+export function homeDiscoveryMarkup(){
+ return `<section class="home-discovery" aria-label="اختيار الشخصية"><section class="playstyle-quiz" aria-labelledby="playstyle-title"><h2 id="playstyle-title">مين يناسب لعبك؟</h2><p class="quiz-intro">3 أسئلة تقرّبك من شخصيتك.</p><div data-playstyle-quiz></div></section></section>`;
 }
 export function mountHomeDiscovery(){
  const host=document.querySelector('[data-playstyle-quiz]'),tipHost=document.querySelector('[data-daily-tip]');
