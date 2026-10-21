@@ -68,3 +68,6 @@ body.home-city{background-color:#101719}
 .home-city .home-release,.home-city .home-doorways>a{transition:transform .18s ease}
 @media(hover:hover) and (pointer:fine){.home-city .home-release:hover,.home-city .home-doorways>a:hover{background:transparent;transform:translateY(-3px)}}
 @media(prefers-reduced-motion:reduce){.home-city .home-release,.home-city .home-doorways>a{transition:none;transform:none}}
+
+.home-roster-actions{display:flex;align-items:center;gap:18px}.home-roster-actions>a,.home-roster-actions>button{font-size:12px;color:#e2c78f;min-height:44px;white-space:nowrap}.home-roster-actions>button{padding:8px 0}.home-roster-actions>a{display:inline-flex;align-items:center}.home-character{border:1px solid #b7bda326}.home-character>img{object-position:center top}
+@media(max-width:650px){.home-roster-actions{flex-direction:column;gap:0;align-items:flex-end}.home-roster-actions>a,.home-roster-actions>button{font-size:10px;min-height:32px}.home-section-heading{align-items:center}}
