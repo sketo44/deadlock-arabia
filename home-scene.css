@@ -235,3 +235,12 @@ body.home-city .home-scene-root .welcome-identity{display:flex;flex-direction:co
 /* Lift only the center identity and headline, keeping the card grid fixed. */
 body.home-city .home-scene-root .welcome{transform:translateY(-38px)}body.home-city .home-scene-root .welcome-identity img{width:154px;height:154px}body.home-city .home-scene-root .welcome-identity{margin-bottom:13px;gap:5px}
 @media(max-width:1000px){body.home-city .home-scene-root .welcome{transform:translateY(-18px)}body.home-city .home-scene-root .welcome-identity img{width:124px;height:124px}}
+/* Branded collectible reverse, using the site's original emblem. */
+body.home-city .flip-back{isolation:isolate;position:absolute;background:radial-gradient(ellipse at 50% 48%,#a38d5133 0%,transparent 58%),repeating-conic-gradient(from 12deg at 50% 48%,#cdbb8108 0deg 2deg,transparent 2deg 16deg),linear-gradient(145deg,#252b28,#121a24 65%,#1c2423);border:1px solid #d7c29599;box-shadow:inset 0 0 0 7px #141b20,inset 0 0 0 8px #b7a27366,inset 0 0 38px #0007}
+body.home-city .flip-back:before{content:"";position:absolute;inset:18px;z-index:-1;pointer-events:none;background:url('assets/home-scene/emblem.png') center 54%/82% auto no-repeat;opacity:.2;filter:sepia(.45) brightness(1.7)}
+body.home-city .flip-back:after{content:"DEADLOCK AR";position:absolute;bottom:22px;left:20px;right:20px;text-align:center;font:700 15px Georgia,serif;letter-spacing:4px;color:#d4c29488;pointer-events:none;z-index:-1}
+body.home-city .flip-back-head{border-color:#cbb98955;background:linear-gradient(90deg,transparent,#17202588);border-radius:8px}
+body.home-city .flip-options a,body.home-city .flip-options button{background:#111b23c9;border-color:#c9b47e66;backdrop-filter:blur(5px);box-shadow:inset 0 1px #f8e1ac0b}
+body.home-city .flip-options a:hover{background:#2c352deb;border-color:#eddaa1}
+body.home-city .flip-return{background:#182220b8;border-color:#cbb98977;border-radius:10px}
+body.home-city .flip-community .flip-back:before{background-size:48% auto;opacity:.16}body.home-city .flip-community .flip-back:after{bottom:10px;font-size:11px;letter-spacing:3px}
