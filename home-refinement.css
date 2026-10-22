@@ -30,3 +30,6 @@ body.home-city .home-scene-root .door{height:430px}
 @media(min-width:2000px){body.home-city .home-scene-root .door{height:470px}}
 @media(min-width:701px) and (max-width:1249px){body.home-city .home-scene-root .door{height:395px}}
 @media(max-width:700px){body.home-city .home-scene-root .door{height:355px}}
+/* Social rail uses the empty side space; narrow screens retain a compact row. */
+@media(min-width:1250px){body.home-city .home-scene-root .socials{position:absolute;top:230px;left:44px;right:auto;transform:none;flex-direction:column;align-items:stretch;gap:13px}body.home-city .home-scene-root .socials .social{justify-content:center}}
+@media(min-width:701px) and (max-width:1249px){body.home-city .home-scene-root .socials{position:absolute;top:215px;left:15px;right:auto;transform:none;flex-direction:column;gap:10px}body.home-city .home-scene-root .socials .social{min-width:44px;width:44px;padding:10px;justify-content:center}body.home-city .home-scene-root .socials .social span{display:none}}
