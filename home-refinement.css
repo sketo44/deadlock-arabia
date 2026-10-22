@@ -25,3 +25,8 @@ body.home-city #door-dialog .directory-link:hover{background:#ffffff10;border-co
 body.home-city .home-scene-root :is(a,button):focus-visible{outline:2px solid #f0d6a3;outline-offset:4px}
 @media(prefers-reduced-transparency:reduce){body.home-city .home-scene-root .socials .social{background:#252c3d;backdrop-filter:none}}
 @media(prefers-contrast:more){body.home-city .home-scene-root .door,body.home-city #door-dialog .directory-link{border-color:#f0dfbc!important}body.home-city .home-scene-root .door-detail{color:#fff}}
+/* Taller gateway cards keep the home scene visually full. */
+body.home-city .home-scene-root .door{height:430px}
+@media(min-width:2000px){body.home-city .home-scene-root .door{height:470px}}
+@media(min-width:701px) and (max-width:1249px){body.home-city .home-scene-root .door{height:395px}}
+@media(max-width:700px){body.home-city .home-scene-root .door{height:355px}}
