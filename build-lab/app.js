@@ -1,3 +1,4 @@
+import {validateBuildText} from '../build-moderation.js?v=123';
 import {computeHero} from './stats.js';
 import {shopOrder} from '../shop-order.js';
 import {label as arLabel} from '../localization.js';
@@ -21,3 +22,7 @@ document.addEventListener('pointerover',e=>{if(e.pointerType==='touch')return;co
 document.addEventListener('pointermove',e=>{if(e.pointerType==='touch')return;const tile=e.target.closest('.tile');if(tile&&(tip.hidden||tile!==activeTip))showTip(tile)});
 
 function reportHeight(){if(parent!==window)parent.postMessage({kind:'build-height',height:Math.ceil(document.querySelector('main').getBoundingClientRect().bottom+scrollY+28)},location.origin)}new ResizeObserver(reportHeight).observe(document.body);window.addEventListener('load',reportHeight);reportHeight();
+
+const publishStatus=document.querySelector('#publish-status');let publishing=false;try{const draft=JSON.parse(localStorage.getItem('dla-publish-draft')||'null');if(draft){document.querySelector('#publish-title').value=draft.title||'';document.querySelector('#publish-notes').value=draft.notes||''}}catch{}
+function savePublishDraft(){try{localStorage.setItem('dla-publish-draft',JSON.stringify({title:document.querySelector('#publish-title').value,notes:document.querySelector('#publish-notes').value}))}catch{}}
+document.querySelector('#save-build-draft').onclick=()=>{savePublishDraft();publishStatus.textContent='حفظنا الاسم والوصف على جهازك.'};document.querySelector('#open-community-builds').onclick=()=>{parent.postMessage({kind:'build-browse',heroId:hero.id},location.origin)};document.querySelector('#publish-build-form').onsubmit=e=>{e.preventDefault();if(publishing)return;try{const text=validateBuildText(document.querySelector('#publish-title').value,document.querySelector('#publish-notes').value);if(!ids.length)throw Error('أضف أيتمًا واحدًا على الأقل قبل النشر.');savePublishDraft();publishing=true;e.target.querySelector('[type=submit]').disabled=true;publishStatus.textContent='جارٍ التحقق والنشر…';parent.postMessage({kind:'build-publish',payload:{...text,heroId:hero.id,itemIds:ids.map(k=>shop.by.get(k).id),plannerState:location.hash.slice(1)}},location.origin)}catch(err){publishStatus.textContent=err.message}};window.addEventListener('message',e=>{if(e.origin!==location.origin||e.source!==parent||e.data?.kind!=='build-publish-result')return;publishing=false;document.querySelector('#publish-build-form [type=submit]').disabled=false;publishStatus.textContent=e.data.message});
