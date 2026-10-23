@@ -1,3 +1,4 @@
+import drafts from '../netlify/functions/draft-rooms.mjs';
 import community from '../netlify/functions/arab-community.mjs';
 import rooms from '../netlify/functions/game-rooms.mjs';
 import tournaments from '../netlify/functions/tournaments.mjs';
@@ -8,7 +9,7 @@ import {randomBytes,createHash} from 'node:crypto';
 const hash=v=>createHash('sha256').update(v).digest('hex');
 const SITE='https://sketo44.github.io/deadlock-arabia/';
 const ORIGIN=new URL(SITE).origin;
-const routes={'arab-community':community,'game-rooms':rooms,tournaments,'patch-translations':patches};
+const routes={'arab-community':community,'game-rooms':rooms,tournaments,'draft-rooms':drafts,'patch-translations':patches};
 const challengeHash=v=>createHash('sha256').update(v).digest('base64url');
 function redirect(route,params){const url=new URL(SITE);url.hash=route;for(const[k,v]of Object.entries(params))url.searchParams.set(k,v);return new Response(null,{status:302,headers:{Location:url.href,'Cache-Control':'no-store','Referrer-Policy':'no-referrer'}})}
 async function auth(path,body){const r=await fetch(process.env.SUPABASE_URL+'/auth/v1/'+path,{method:'POST',headers:{apikey:process.env.SUPABASE_SERVICE_ROLE_KEY,Authorization:'Bearer '+process.env.SUPABASE_SERVICE_ROLE_KEY,'Content-Type':'application/json'},body:JSON.stringify(body),signal:AbortSignal.timeout(12000)});if(!r.ok)throw Error('Account exchange failed');return r.json()}
