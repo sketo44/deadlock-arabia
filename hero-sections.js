@@ -1,6 +1,6 @@
 import {mountExpandedLore} from './expanded-hero-lore.js?v=hero-layout-119';
 import {modelPage,mountModel} from './hero-model.js?v=hero-layout-24';
-import {mountArRanking} from './hero-ar-ranking.js?v=hero-layout-36';
+import {mountArRanking} from './hero-ar-ranking.js?v=ranking-129';
 export function mountHeroSections(host,r,escape){
  const stage=host.querySelector('.seven-stage'),specs=host.querySelector('.seven-specs-slot'),story=host.querySelector('.seven-story');
  const nav=document.createElement('nav');nav.className='hero-sections';nav.setAttribute('aria-label','أقسام ملف الشخصية');const tabs=document.createElement('div');tabs.className='hero-section-tabs';tabs.setAttribute('role','tablist');tabs.setAttribute('aria-label','معلومات الشخصية');nav.append(tabs);

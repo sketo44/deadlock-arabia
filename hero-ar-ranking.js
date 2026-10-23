@@ -1,6 +1,6 @@
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export async function mountArRanking(host,hero){
- host.innerHTML='<h2>تصنيف اللاعبين DEAD LOCK AR</h2><p class="ar-ranking-note">توب 100 · '+esc(hero.nameAr)+' · المسجلون في المجتمع فقط · الترتيب بنسبة الفوز، بحد أدنى 30 مباراة.</p><div class="ar-ranking-results" aria-live="polite">جارٍ جلب اللاعبين…</div>';
+ host.innerHTML='<h2>تصنيف اللاعبين DEAD LOCK AR</h2><p class="ar-ranking-note">توب 100 · '+esc(hero.nameAr)+' · المسجلون في المجتمع فقط · الترتيب بنسبة الفوز، من 11 قيم وفوق · تشمل أقيامك السابقة قبل التسجيل بالموقع.</p><div class="ar-ranking-results" aria-live="polite">جارٍ جلب اللاعبين…</div>';
  const results=host.querySelector('.ar-ranking-results');
  try{
   const demo=['127.0.0.1','localhost','[::1]'].includes(location.hostname)&&new URLSearchParams(location.search).get('ranking-demo')==='1';

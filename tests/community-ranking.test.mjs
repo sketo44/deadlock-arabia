@@ -9,8 +9,8 @@ test('Hero ranking distinguishes win rate from matches, filters membership and a
  try{global.fetch=async url=>Response.json(url.includes('arab_members')?members:stats);
  assert.deepEqual((await heroBoard(3)).map(x=>x.account_id),['2','1']);
  assert.deepEqual((await heroBoard(3,{metric:'matches',limit:2})).map(x=>x.account_id),['1','2']);
- assert.deepEqual((await heroBoard(3,{metric:'matches',limit:10})).map(x=>x.account_id),['1','2','3']);
- const response=await handler(new Request('https://site.test/.netlify/functions/arab-community?op=heroes&hero=3&metric=matches&limit=10'));const data=await response.json();assert.equal(data.minimumMatches,1);assert.equal(data.scope,'registered-community');assert.equal(data.members[0].matches,500);
+ assert.deepEqual((await heroBoard(3,{metric:'matches',limit:10})).map(x=>x.account_id),['1','2']);
+ const response=await handler(new Request('https://site.test/.netlify/functions/arab-community?op=heroes&hero=3&metric=matches&limit=10'));const data=await response.json();assert.equal(data.minimumMatches,11);assert.equal(data.scope,'registered-community');assert.equal(data.members[0].matches,500);
  for(const query of ['metric=bad','limit=0','limit=101','limit=10.5'])assert.equal((await handler(new Request('https://site.test/.netlify/functions/arab-community?op=heroes&hero=3&'+query))).status,400);
  }finally{global.fetch=originalFetch;keys.forEach((k,i)=>old[i]===undefined?delete process.env[k]:process.env[k]=old[i])}
 });
