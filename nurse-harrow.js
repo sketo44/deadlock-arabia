@@ -1,8 +1,10 @@
+import {sortedHeroes} from './hero-order.js?v=136';
 import {expandedLoreMarkup} from './expanded-hero-lore.js?v=hero-layout-119';
 import {nurseOverview,nurseStory,nurseAbilities} from './nurse-profile-data.js?v=106';
-import {mountHeroDrag,mountAbilityIcons} from './seven-experience.js?v=ranking-129';
+import {mountHeroDrag,mountAbilityIcons} from './seven-experience.js?v=heroes-136';
 export const nurseHarrow={id:'nurse-harrow',name:'Nurse Harrow',nameAr:'نيرس هارو',image:'assets/lore/nurse-harrow-official.webp',portrait:'assets/lore/nurse-harrow-official.webp',ar:'نيرس هارو · متاحة الآن · تعالج الحلفاء بالإبر وتستنزف الأعداء بالعلق وتطلق الرعب من حقيبتها.'};
 export function mountNurseHarrow(host,roster,escape){
+ roster=sortedHeroes(roster);
  document.title='نيرس هارو · Nurse Harrow | Deadlock AR';
  document.body.dataset.heroId='nurse-harrow';
  if(!document.querySelector('.wraith-page-backdrop')){const bg=document.createElement('div');bg.className='wraith-page-backdrop';bg.setAttribute('aria-hidden','true');document.body.prepend(bg)}

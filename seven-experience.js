@@ -1,6 +1,8 @@
+import {sortedHeroes} from './hero-order.js?v=136';
 
 import {mountHeroSections} from './hero-sections.js?v=ranking-129';
 export function mountSeven(host,r,escape,roster){
+ roster=sortedHeroes(roster);
  const bakedBackground=[1,2,3,4,6,7,8,10,11,12,13,14,15,16,17,18,19,20,25,27,31,35,50,52,58,60,63,64,65,66,67,69,72,76,77,78,79,80,81,84,85,86,88].includes(Number(r.id));
  const blankImage='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22/%3E';
  const current=roster.findIndex(h=>h.id===r.id),previous=roster[(current-1+roster.length)%roster.length],next=roster[(current+1)%roster.length];
