@@ -90,3 +90,14 @@ body .library-intro{color:#c6d1dd!important}body .assistant-shell .source-note h
 body :is(.empty,.ar-empty){background:#1e2d3f;color:#dce4ed;border:1px solid #bda57755;border-radius:14px}body :is(.loading,.board-loading){color:#c9d4e2}body .community-rank-row:first-child{background:#2b3c50}body .community-rank-row small{color:#c6d1dd}body .community-rank-row>strong{color:#e9ce99}body .news-card .news-body,body .news-card .news-body :is(p,li){color:#d3deea}body .news-card .news-source{color:#ead1a0}body .news-card :is(.news-kind,.news-meta,.news-meta>span){color:#c8d4e1}body .player-hero-stats span{color:#c4d0df}
 body[data-page=community] .card :is(h2,h3,p),body .community-player-name,body .room-card-title h3,body .room-dialog h2{min-width:0;overflow-wrap:anywhere}
 @media(max-width:360px){body>header .site-brand-readable{font-size:16px!important;letter-spacing:0}body>header .site-brand-new,body>header .unified-brand img{width:30px!important;height:30px!important;max-width:30px}body>header .brand-art{gap:6px}body>header .site-account{font-size:11px}body>header .site-account svg{width:15px;height:15px}}
+
+/* Empty, loading and error messages share one readable surface in every theme. */
+body main :is(.ar-empty,.empty,.notice,.room-empty),body:not(.home-city):not(.theme-seven) main :is(.ar-empty,.empty,.notice,.room-empty){background:#1e2d3f!important;color:#dce4ed!important;border:1px solid #bda57755!important;border-radius:14px;line-height:1.9}
+body main :is(.ar-empty,.empty,.notice,.room-empty) :is(h1,h2,h3,h4,strong,b){color:#f1dfb8!important}
+body main :is(.ar-empty,.empty,.notice,.room-empty) :is(p,small,span,.muted){color:#dce4ed!important}
+body main :is(.ar-empty,.empty,.notice,.room-empty) a{color:#f1d49b;text-decoration:underline;text-underline-offset:4px}
+body main :is(.ar-empty,.empty,.notice,.room-empty){overflow-wrap:anywhere}
+
+body #load-hero-model{background:#1e2d3f;color:#f1dfb8}body #load-hero-model small{color:#dce4ed}
+
+@media(max-width:600px){body .community-filter{display:grid;grid-template-columns:minmax(0,1fr);gap:16px}body .community-filter label{width:100%;min-width:0}body .community-filter select{min-width:0;width:100%}body .community-filter>a{min-height:44px;display:flex;align-items:center}}
