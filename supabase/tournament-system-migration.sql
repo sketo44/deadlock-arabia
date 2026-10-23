@@ -61,6 +61,7 @@ declare t public.community_tournaments; valid_count integer;
 begin
  select * into t from public.community_tournaments where id=p_id for update;
  if not found or t.bracket is distinct from p_expected then return jsonb_build_object('ok',false,'error','تغيّر الجدول. حدّث الصفحة وأعد المحاولة');end if;
+ if t.status='cancelled' then return jsonb_build_object('ok',false,'error','البطولة ملغاة؛ لا يمكن تعديل المواجهات أو النتائج');end if;
  if t.bracket is null then
   if t.status not in('registration','ongoing') or (t.status='registration' and (t.registration_closes_at is null or t.registration_closes_at>now())) then return jsonb_build_object('ok',false,'error','أغلق التسجيل قبل تثبيت القرعة');end if;
   select count(*) into valid_count from public.tournament_registrations where tournament_id=p_id and review_status='approved';

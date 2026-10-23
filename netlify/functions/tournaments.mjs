@@ -51,7 +51,7 @@ export default async function handler(request){
    const member=(await db('arab_members?steam_id=eq.'+body.steamId+'&select=steam_id'))[0];if(!member)return json({error:'يلزم أن يوثّق الحساب بالموقع أولًا'},400);
    await db('tournament_moderators?on_conflict=steam_id',{method:'POST',body:JSON.stringify({steam_id:body.steamId,enabled:body.enabled,role:'moderator'})});return json({ok:true});
   }
-  if(['save','review','generate','arrange','result','close'].includes(op)&&!admin)return json({error:'إدارة البطولة للمشرف فقط'},403);
+  if(['save','review','generate','arrange','result','close','cancel'].includes(op)&&!admin)return json({error:'إدارة البطولة للمشرف فقط'},403);
   if(op==='save'){
    const {id,title,description='',starts_at,status='draft',max_teams=16,rules='',stream_url='',registration_opens_at,registration_closes_at,discord_url='',require_discord=true,best_of=1,final_best_of=3}=body;
    let stream,discord='';try{stream=normalizeStreamUrl(stream_url);if(discord_url){const d=new URL(discord_url);if(d.protocol!=='https:'||!['discord.gg','discord.com'].includes(d.hostname)||d.username||d.password)throw Error();discord=d.href}}catch{return json({error:'راجع رابط البث أو دسكورد'},400)}
@@ -60,6 +60,10 @@ export default async function handler(request){
    const result=await db('rpc/save_cup_settings',{method:'POST',body:JSON.stringify({p_data:{id,title:title.trim(),description,starts_at:new Date(start).toISOString(),status,format:'6v6',max_teams,rules,stream_url:stream,registration_opens_at:new Date(open).toISOString(),registration_closes_at:new Date(close).toISOString(),discord_url:discord,require_discord,best_of,final_best_of,updated_by:user.steamId}})});return result?.ok?json(result):json({error:result?.error||'تعذّر الحفظ'},409);
   }
   if(!validId(body.tournamentId))return json({error:'بطولة غير صحيحة'},400);
+  if(op==='cancel'){
+   const rows=await db('community_tournaments?id=eq.'+body.tournamentId+'&select=id,status',{method:'PATCH',body:JSON.stringify({status:'cancelled',updated_by:user.steamId,updated_at:new Date().toISOString()})});
+   return rows?.length?json({ok:true,status:'cancelled'}):json({error:'البطولة غير موجودة'},404);
+  }
   if(op==='close'){await db('community_tournaments?id=eq.'+body.tournamentId+'&bracket=is.null&status=eq.registration',{method:'PATCH',body:JSON.stringify({status:'ongoing',updated_by:user.steamId,updated_at:new Date().toISOString()})});return json({ok:true})}
   if(op==='join'){
    const teamName=String(body.teamName||'').trim(),roster=body.roster;
