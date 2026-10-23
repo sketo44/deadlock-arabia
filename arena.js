@@ -1,4 +1,4 @@
-import {tournamentPage as championshipPage,mountTournaments as mountChampionships} from './tournament-center.js?v=131';
+import {tournamentPage as championshipPage,mountTournaments as mountChampionships} from './tournament-center.js?v=132';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let selected='rooms',stop=()=>{};try{if(sessionStorage.getItem('dla-arena-tab')==='tournaments')selected='tournaments'}catch{}
 const icon='<svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><path d="M9 12h30v24H9zM16 7v10M32 7v10M9 23h30M20 23v13M28 23v13" stroke="currentColor" stroke-width="1.5"/></svg>';
