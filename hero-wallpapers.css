@@ -1,0 +1,47 @@
+/* User supplied character wallpapers, shared by desktop and mobile. */
+body.theme-seven[data-hero-id="1"]{--character-wallpaper:url("assets/hero-wallpapers/1.webp")}
+body.theme-seven[data-hero-id="2"]{--character-wallpaper:url("assets/hero-wallpapers/2.webp")}
+body.theme-seven[data-hero-id="3"]{--character-wallpaper:url("assets/hero-wallpapers/3.webp")}
+body.theme-seven[data-hero-id="4"]{--character-wallpaper:url("assets/hero-wallpapers/4.webp")}
+body.theme-seven[data-hero-id="6"]{--character-wallpaper:url("assets/hero-wallpapers/6.webp")}
+body.theme-seven[data-hero-id="7"]{--character-wallpaper:url("assets/hero-wallpapers/7.webp")}
+body.theme-seven[data-hero-id="8"]{--character-wallpaper:url("assets/hero-wallpapers/8.webp")}
+body.theme-seven[data-hero-id="10"]{--character-wallpaper:url("assets/hero-wallpapers/10.webp")}
+body.theme-seven[data-hero-id="11"]{--character-wallpaper:url("assets/hero-wallpapers/11.webp")}
+body.theme-seven[data-hero-id="12"]{--character-wallpaper:url("assets/hero-wallpapers/12.webp")}
+body.theme-seven[data-hero-id="13"]{--character-wallpaper:url("assets/hero-wallpapers/13.webp")}
+body.theme-seven[data-hero-id="14"]{--character-wallpaper:url("assets/hero-wallpapers/14.webp")}
+body.theme-seven[data-hero-id="15"]{--character-wallpaper:url("assets/hero-wallpapers/15.webp")}
+body.theme-seven[data-hero-id="16"]{--character-wallpaper:url("assets/hero-wallpapers/16.webp")}
+body.theme-seven[data-hero-id="17"]{--character-wallpaper:url("assets/hero-wallpapers/17.webp")}
+body.theme-seven[data-hero-id="18"]{--character-wallpaper:url("assets/hero-wallpapers/18.webp")}
+body.theme-seven[data-hero-id="19"]{--character-wallpaper:url("assets/hero-wallpapers/19.webp")}
+body.theme-seven[data-hero-id="20"]{--character-wallpaper:url("assets/hero-wallpapers/20.webp")}
+body.theme-seven[data-hero-id="25"]{--character-wallpaper:url("assets/hero-wallpapers/25.webp")}
+body.theme-seven[data-hero-id="27"]{--character-wallpaper:url("assets/hero-wallpapers/27.webp")}
+body.theme-seven[data-hero-id="31"]{--character-wallpaper:url("assets/hero-wallpapers/31.webp")}
+body.theme-seven[data-hero-id="35"]{--character-wallpaper:url("assets/hero-wallpapers/35.webp")}
+body.theme-seven[data-hero-id="50"]{--character-wallpaper:url("assets/hero-wallpapers/50.webp")}
+body.theme-seven[data-hero-id="52"]{--character-wallpaper:url("assets/hero-wallpapers/52.webp")}
+body.theme-seven[data-hero-id="58"]{--character-wallpaper:url("assets/hero-wallpapers/58.webp")}
+body.theme-seven[data-hero-id="60"]{--character-wallpaper:url("assets/hero-wallpapers/60.webp")}
+body.theme-seven[data-hero-id="63"]{--character-wallpaper:url("assets/hero-wallpapers/63.webp")}
+body.theme-seven[data-hero-id="64"]{--character-wallpaper:url("assets/hero-wallpapers/64.webp")}
+body.theme-seven[data-hero-id="65"]{--character-wallpaper:url("assets/hero-wallpapers/65.webp")}
+body.theme-seven[data-hero-id="66"]{--character-wallpaper:url("assets/hero-wallpapers/66.webp")}
+body.theme-seven[data-hero-id="67"]{--character-wallpaper:url("assets/hero-wallpapers/67.webp")}
+body.theme-seven[data-hero-id="69"]{--character-wallpaper:url("assets/hero-wallpapers/69.webp")}
+body.theme-seven[data-hero-id="72"]{--character-wallpaper:url("assets/hero-wallpapers/72.webp")}
+body.theme-seven[data-hero-id="76"]{--character-wallpaper:url("assets/hero-wallpapers/76.webp")}
+body.theme-seven[data-hero-id="77"]{--character-wallpaper:url("assets/hero-wallpapers/77.webp")}
+body.theme-seven[data-hero-id="78"]{--character-wallpaper:url("assets/hero-wallpapers/78.webp")}
+body.theme-seven[data-hero-id="79"]{--character-wallpaper:url("assets/hero-wallpapers/79.webp")}
+body.theme-seven[data-hero-id="80"]{--character-wallpaper:url("assets/hero-wallpapers/80.webp")}
+body.theme-seven[data-hero-id="81"]{--character-wallpaper:url("assets/hero-wallpapers/81.webp")}
+body.theme-seven[data-hero-id="84"]{--character-wallpaper:url("assets/hero-wallpapers/84.webp")}
+body.theme-seven[data-hero-id="85"]{--character-wallpaper:url("assets/hero-wallpapers/85.webp")}
+body.theme-seven[data-hero-id="86"]{--character-wallpaper:url("assets/hero-wallpapers/86.webp")}
+body.theme-seven[data-hero-id="88"]{--character-wallpaper:url("assets/hero-wallpapers/88.webp")}
+body.theme-seven[data-hero-id="nurse-harrow"]{--character-wallpaper:url("assets/hero-wallpapers/nurse-harrow.webp")}
+body.theme-seven[data-hero-id]{background-image:none!important;background-color:#10191d}body.theme-seven[data-hero-id]>.wraith-page-backdrop{display:block!important;position:fixed;inset:-8px!important;z-index:0;pointer-events:none;background-image:linear-gradient(#0c172d66,#0c172d99),var(--character-wallpaper)!important;background-size:cover!important;background-position:center top!important;background-repeat:no-repeat;filter:blur(2px)!important}body.theme-seven[data-hero-id]>.wraith-page-backdrop::after{display:none!important}.theme-seven main:before{background:none!important}
+@media(max-width:700px){body.theme-seven[data-hero-id]>.wraith-page-backdrop{background-position:25% top!important}}

@@ -1,0 +1,269 @@
+{
+  "source": "Deadlock-44-Wallpapers.zip",
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Infernus",
+      "source": "Infernus.png",
+      "image": "assets/hero-wallpapers/1.webp"
+    },
+    {
+      "id": 2,
+      "name": "Seven",
+      "source": "Seven.png",
+      "image": "assets/hero-wallpapers/2.webp"
+    },
+    {
+      "id": 3,
+      "name": "Vindicta",
+      "source": "Vindicta.png",
+      "image": "assets/hero-wallpapers/3.webp"
+    },
+    {
+      "id": 4,
+      "name": "Lady Geist",
+      "source": "Lady_Geist.png",
+      "image": "assets/hero-wallpapers/4.webp"
+    },
+    {
+      "id": 6,
+      "name": "Abrams",
+      "source": "Abrams.png",
+      "image": "assets/hero-wallpapers/6.webp"
+    },
+    {
+      "id": 7,
+      "name": "Wraith",
+      "source": "Wraith.png",
+      "image": "assets/hero-wallpapers/7.webp"
+    },
+    {
+      "id": 8,
+      "name": "McGinnis",
+      "source": "McGinnis.png",
+      "image": "assets/hero-wallpapers/8.webp"
+    },
+    {
+      "id": 10,
+      "name": "Paradox",
+      "source": "Paradox.png",
+      "image": "assets/hero-wallpapers/10.webp"
+    },
+    {
+      "id": 11,
+      "name": "Dynamo",
+      "source": "Dynamo.png",
+      "image": "assets/hero-wallpapers/11.webp"
+    },
+    {
+      "id": 12,
+      "name": "Kelvin",
+      "source": "Kelvin.png",
+      "image": "assets/hero-wallpapers/12.webp"
+    },
+    {
+      "id": 13,
+      "name": "Haze",
+      "source": "Haze.png",
+      "image": "assets/hero-wallpapers/13.webp"
+    },
+    {
+      "id": 14,
+      "name": "Holliday",
+      "source": "Holliday.png",
+      "image": "assets/hero-wallpapers/14.webp"
+    },
+    {
+      "id": 15,
+      "name": "Bebop",
+      "source": "Bebop.png",
+      "image": "assets/hero-wallpapers/15.webp"
+    },
+    {
+      "id": 16,
+      "name": "Calico",
+      "source": "Calico.png",
+      "image": "assets/hero-wallpapers/16.webp"
+    },
+    {
+      "id": 17,
+      "name": "Grey Talon",
+      "source": "Grey_Talon.png",
+      "image": "assets/hero-wallpapers/17.webp"
+    },
+    {
+      "id": 18,
+      "name": "Mo & Krill",
+      "source": "Mo_%26_Krill.png",
+      "image": "assets/hero-wallpapers/18.webp"
+    },
+    {
+      "id": 19,
+      "name": "Shiv",
+      "source": "Shiv.png",
+      "image": "assets/hero-wallpapers/19.webp"
+    },
+    {
+      "id": 20,
+      "name": "Ivy",
+      "source": "Ivy.png",
+      "image": "assets/hero-wallpapers/20.webp"
+    },
+    {
+      "id": 25,
+      "name": "Warden",
+      "source": "Warden.png",
+      "image": "assets/hero-wallpapers/25.webp"
+    },
+    {
+      "id": 27,
+      "name": "Yamato",
+      "source": "Yamato.png",
+      "image": "assets/hero-wallpapers/27.webp"
+    },
+    {
+      "id": 31,
+      "name": "Lash",
+      "source": "Lash.png",
+      "image": "assets/hero-wallpapers/31.webp"
+    },
+    {
+      "id": 35,
+      "name": "Viscous",
+      "source": "Viscous.png",
+      "image": "assets/hero-wallpapers/35.webp"
+    },
+    {
+      "id": 50,
+      "name": "Pocket",
+      "source": "Pocket.png",
+      "image": "assets/hero-wallpapers/50.webp"
+    },
+    {
+      "id": 52,
+      "name": "Mirage",
+      "source": "Mirage.png",
+      "image": "assets/hero-wallpapers/52.webp"
+    },
+    {
+      "id": 58,
+      "name": "Vyper",
+      "source": "Vyper.png",
+      "image": "assets/hero-wallpapers/58.webp"
+    },
+    {
+      "id": 60,
+      "name": "Sinclair",
+      "source": "Sinclair.png",
+      "image": "assets/hero-wallpapers/60.webp"
+    },
+    {
+      "id": 63,
+      "name": "Mina",
+      "source": "Mina.png",
+      "image": "assets/hero-wallpapers/63.webp"
+    },
+    {
+      "id": 64,
+      "name": "Drifter",
+      "source": "Drifter.png",
+      "image": "assets/hero-wallpapers/64.webp"
+    },
+    {
+      "id": 65,
+      "name": "Venator",
+      "source": "Venator.png",
+      "image": "assets/hero-wallpapers/65.webp"
+    },
+    {
+      "id": 66,
+      "name": "Victor",
+      "source": "Victor.png",
+      "image": "assets/hero-wallpapers/66.webp"
+    },
+    {
+      "id": 67,
+      "name": "Paige",
+      "source": "Paige.png",
+      "image": "assets/hero-wallpapers/67.webp"
+    },
+    {
+      "id": 69,
+      "name": "The Doorman",
+      "source": "The_Doorman.png",
+      "image": "assets/hero-wallpapers/69.webp"
+    },
+    {
+      "id": 72,
+      "name": "Billy",
+      "source": "Billy.png",
+      "image": "assets/hero-wallpapers/72.webp"
+    },
+    {
+      "id": 76,
+      "name": "Graves",
+      "source": "Graves.png",
+      "image": "assets/hero-wallpapers/76.webp"
+    },
+    {
+      "id": 77,
+      "name": "Apollo",
+      "source": "Apollo.png",
+      "image": "assets/hero-wallpapers/77.webp"
+    },
+    {
+      "id": 78,
+      "name": "Deadman Danny",
+      "source": "Deadman_Danny.png",
+      "image": "assets/hero-wallpapers/78.webp"
+    },
+    {
+      "id": 79,
+      "name": "Rem",
+      "source": "Rem.png",
+      "image": "assets/hero-wallpapers/79.webp"
+    },
+    {
+      "id": 80,
+      "name": "Silver",
+      "source": "Silver.png",
+      "image": "assets/hero-wallpapers/80.webp"
+    },
+    {
+      "id": 81,
+      "name": "Celeste",
+      "source": "Celeste.png",
+      "image": "assets/hero-wallpapers/81.webp"
+    },
+    {
+      "id": 84,
+      "name": "Rat King",
+      "source": "Rat_King.png",
+      "image": "assets/hero-wallpapers/84.webp"
+    },
+    {
+      "id": 85,
+      "name": "Solomon",
+      "source": "Solomon.png",
+      "image": "assets/hero-wallpapers/85.webp"
+    },
+    {
+      "id": 86,
+      "name": "Violet",
+      "source": "Violet.png",
+      "image": "assets/hero-wallpapers/86.webp"
+    },
+    {
+      "id": 88,
+      "name": "Baba",
+      "source": "Baba.png",
+      "image": "assets/hero-wallpapers/88.webp"
+    },
+    {
+      "id": "nurse-harrow",
+      "name": "Nurse Harrow",
+      "source": "Nurse_Harrow.png",
+      "image": "assets/hero-wallpapers/nurse-harrow.webp"
+    }
+  ]
+}
