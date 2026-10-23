@@ -32,3 +32,5 @@ begin
 end $$;
 drop trigger if exists validate_build_trigger on public.builds;
 create trigger validate_build_trigger before insert on public.builds for each row execute function public.validate_build();
+
+grant select,insert,update,delete on public.builds to service_role;

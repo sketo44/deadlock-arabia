@@ -1,3 +1,4 @@
+import {randomBytes} from 'node:crypto';
 import {publicSteamProfile} from './_shared/steam-profile.mjs';
 import {db,json} from './_shared/store.mjs';
 import {ready,verify,readCookie,sameOrigin} from './_shared/steam.mjs';
@@ -9,9 +10,9 @@ export default async function handler(request){
   const user=verify(readCookie(request,'steam'),'steam');
   if(request.method==='GET'&&op==='list'){
    await db('rpc/room_action',{method:'POST',body:JSON.stringify({p_op:'expire'})});
-   const rooms=await db('game_rooms?select=id,name,map_id,leader_id,status,created_at,filled_at,expires_at,closed_at&status=neq.closed&order=created_at.desc&limit=100');
+   const rooms=await db('game_rooms?select=id,name,map_id,leader_id,visibility,access_code,status,created_at,filled_at,expires_at,closed_at&status=neq.closed&order=created_at.desc&limit=100');
    const players=rooms.length?await db('game_room_players?room_id=in.('+rooms.map(r=>r.id).join(',')+')&select=room_id,steam_id,display_name,joined_at&order=joined_at.asc&limit=1200'):[];
-   return json({configured:true,signedIn:!!user,serverTime:new Date().toISOString(),rooms:rooms.map(({leader_id,...r})=>({...r,isLeader:leader_id===user?.steamId,players:players.filter(p=>p.room_id===r.id).map(p=>({name:p.display_name,isSelf:p.steam_id===user?.steamId,isLeader:p.steam_id===leader_id})),joined:players.some(p=>p.room_id===r.id&&p.steam_id===user?.steamId)}))});
+   return json({configured:true,signedIn:!!user,serverTime:new Date().toISOString(),rooms:rooms.map(({leader_id,access_code,...r})=>({...r,...(leader_id===user?.steamId&&r.visibility==='private'?{accessCode:access_code}:{}),isLeader:leader_id===user?.steamId,players:players.filter(p=>p.room_id===r.id).map(p=>({name:p.display_name,isSelf:p.steam_id===user?.steamId,isLeader:p.steam_id===leader_id})),joined:players.some(p=>p.room_id===r.id&&p.steam_id===user?.steamId)}))});
   }
   if(request.method!=='POST')return json({error:'Method not allowed'},405);
   if(!sameOrigin(request))return json({error:'Origin rejected'},403);
@@ -21,9 +22,11 @@ export default async function handler(request){
   let body;try{const text=await request.text();if(text.length>2048)return json({error:'الطلب أكبر من المسموح'},413);body=JSON.parse(text)}catch{return json({error:'طلب غير صحيح'},400)}
   if(op==='create'&&(typeof body.name!=='string'||!body.name.trim()||body.name.length>60||body.mapId!=='cursed-apple'))return json({error:'اكتب اسم الغرفة واختر الماب'},400);
   if(op!=='create'&&!roomId(body.roomId))return json({error:'غرفة غير صحيحة'},400);
+  if(op==='create'&&body.visibility!==undefined&&!['public','private'].includes(body.visibility))return json({error:'اختر عام أو خاص'},400);
+  if(op==='join'&&body.code!==undefined&&(typeof body.code!=='string'||body.code.length>64))return json({error:'كود غير صحيح'},400);
   const member=op==='create'||op==='join'?(await db('arab_members?steam_id=eq.'+user.steamId+'&select=display_name&limit=1'))[0]:null;
   let roomName=member?.display_name||'لاعب Steam';if((op==='create'||op==='join')&&(!member?.display_name||/^لاعب /.test(roomName))){try{roomName=(await publicSteamProfile(user.steamId)).display_name}catch{}}
-  const result=await db('rpc/room_action',{method:'POST',body:JSON.stringify({p_op:op,p_steam_id:user.steamId,p_room_id:body.roomId||null,p_name:op==='create'?body.name:null,p_map:op==='create'?body.mapId:null,p_display_name:roomName})});
+  const result=await db('rpc/room_action',{method:'POST',body:JSON.stringify({p_op:op,p_steam_id:user.steamId,p_room_id:body.roomId||null,p_name:op==='create'?body.name:null,p_map:op==='create'?body.mapId:null,p_display_name:roomName,p_visibility:op==='create'?(body.visibility||'public'):null,p_access_code:op==='create'?(body.visibility==='private'?randomBytes(12).toString('hex').toUpperCase():null):(op==='join'?String(body.code||'').trim().toUpperCase():null)})});
   return result?.ok?json(result):json({error:result?.error||'تعذّر إكمال الطلب'},409);
  }catch{return json({error:'تعذّر تحميل الغرف. جرّب مرة ثانية.'},503)}
 }
