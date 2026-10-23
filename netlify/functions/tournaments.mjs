@@ -61,8 +61,8 @@ export default async function handler(request){
   }
   if(!validId(body.tournamentId))return json({error:'بطولة غير صحيحة'},400);
   if(op==='cancel'){
-   const rows=await db('community_tournaments?id=eq.'+body.tournamentId+'&select=id,status',{method:'PATCH',body:JSON.stringify({status:'cancelled',updated_by:user.steamId,updated_at:new Date().toISOString()})});
-   return rows?.length?json({ok:true,status:'cancelled'}):json({error:'البطولة غير موجودة'},404);
+   const rows=await db('community_tournaments?id=eq.'+body.tournamentId+'&select=id',{method:'DELETE'});
+   return rows?.length?json({ok:true,deleted:true}):json({error:'البطولة غير موجودة'},404);
   }
   if(op==='close'){await db('community_tournaments?id=eq.'+body.tournamentId+'&bracket=is.null&status=eq.registration',{method:'PATCH',body:JSON.stringify({status:'ongoing',updated_by:user.steamId,updated_at:new Date().toISOString()})});return json({ok:true})}
   if(op==='join'){
