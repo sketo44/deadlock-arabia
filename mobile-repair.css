@@ -101,3 +101,6 @@ body main :is(.ar-empty,.empty,.notice,.room-empty){overflow-wrap:anywhere}
 body #load-hero-model{background:#1e2d3f;color:#f1dfb8}body #load-hero-model small{color:#dce4ed}
 
 @media(max-width:600px){body .community-filter{display:grid;grid-template-columns:minmax(0,1fr);gap:16px}body .community-filter label{width:100%;min-width:0}body .community-filter select{min-width:0;width:100%}body .community-filter>a{min-height:44px;display:flex;align-items:center}}
+
+/* Keep the main navigation collapsed on desktop as on mobile. */
+@media(min-width:1101px){body>header .nav-toggle{display:inline-flex;align-items:center;justify-content:center;margin-inline-start:auto}body>header nav.site-navigation{display:none;width:100%;flex:1 0 100%;order:4;margin:0;padding-top:12px;border-top:1px solid #bda57755}body>header nav.site-navigation[data-open=true]{display:flex;flex-wrap:wrap;justify-content:center;gap:12px 24px}}
