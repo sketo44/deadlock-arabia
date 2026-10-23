@@ -64,7 +64,6 @@
     "gameplayAr": "يحرق الخصم مع الوقت ويكمل عليه بسرعة حركته. مناسب إذا تحب ضغط مستمر وتطارد اللي يهرب.",
     "identityColor": "#C93C26",
     "effect": "embers",
-    "poster": "assets/lore/01-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -142,7 +141,6 @@
       "ويضحك وهو يفكّر باللي بيسوّيه أول ما يوصل نيويورك."
     ],
     "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
-    "poster": "assets/lore/02-poster.webp",
     "nameAr": "سيفن",
     "headlineAr": "الموت ما وقّفه.",
     "gameplayAr": "ضرر كهرباء يصيب أكثر من هدف. يقدر يسيطر على منطقة كاملة إذا اختار وقت ومكان الألتمت صح.",
@@ -223,7 +221,6 @@
     "gameplayAr": "سنايبر من بعيد، تطير عشان تختار زاوية وتخلص على الخصم المصاب. انتبه للقتال القريب.",
     "identityColor": "#A2C7E5",
     "effect": "aura",
-    "poster": "assets/lore/03-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -305,7 +302,6 @@
     "gameplayAr": "تدفع من صحتها عشان تضرب بقوة، وتسحب صحة أو تبدلها وقت الخطر. تحتاج توازن بين الهجوم والمحافظة على صحتك.",
     "identityColor": "#218440",
     "effect": "aura",
-    "poster": "assets/lore/04-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -382,7 +378,6 @@
     "gameplayAr": "مقاتل قريب يعيش على العلاج والميلي. يدخل بالكتف ويحب يحشر خصمه عند جدار.",
     "identityColor": "#2092AE",
     "effect": "aura",
-    "poster": "assets/lore/06-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -457,7 +452,6 @@
     "gameplayAr": "رصاص سريع وأوراق وقدرة انتقال. ترفع الخصم عشان تفتح لك فرصة تركز عليه.",
     "identityColor": "#944D78",
     "effect": "aura",
-    "poster": "assets/lore/07-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -533,7 +527,6 @@
     "gameplayAr": "تبني أبراج وتعالج فريقها وتقفل الطريق بجدار. قوية إذا جهزت مكان القتال.",
     "identityColor": "#23549D",
     "effect": "aura",
-    "poster": "assets/lore/08-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -618,7 +611,6 @@
     "gameplayAr": "تتحكم بتوقيت المواجهة وتبدل مكانها مع خصم. تحتاج تصويب وتنسيق مع الفريق.",
     "identityColor": "#983952",
     "effect": "aura",
-    "poster": "assets/lore/10-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -694,7 +686,6 @@
     "gameplayAr": "يدعم الفريق بالعلاج والانتقال، ويجمع الأعداء بألتمت قوي إذا أخذ زاوية مناسبة.",
     "identityColor": "#D0B945",
     "effect": "aura",
-    "poster": "assets/lore/11-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -773,7 +764,6 @@
     "gameplayAr": "يعالج ويبطّئ ويبني مسار جليد. القبة تقدر تقلب مواجهة لك أو تحبس فريقك إذا استخدمتها بوقت غلط.",
     "identityColor": "#74ABBC",
     "effect": "aura",
-    "poster": "assets/lore/12-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -849,7 +839,6 @@
     "gameplayAr": "تتحرك بالتخفي وتنوّم هدفها، وضرر رصاصها يزيد مع الاستمرار على نفس الخصم.",
     "identityColor": "#AC6133",
     "effect": "aura",
-    "poster": "assets/lore/13-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -930,7 +919,6 @@
     "gameplayAr": "تلعب بالبراميل ومنصات القفز والهيدشوت، وتسحب هدف بالحبل عشان تفتح مواجهة.",
     "identityColor": "#A35A1B",
     "effect": "aura",
-    "poster": "assets/lore/14-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -1011,7 +999,6 @@
     "gameplayAr": "يسحب الخصم بخطاف ويلصق قنبلة. يقدر ينقذ حليف بالسحب أو يفتح كيل على عدو.",
     "identityColor": "#9F4734",
     "effect": "aura",
-    "poster": "assets/lore/15-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -1088,7 +1075,6 @@
     "gameplayAr": "تدخل بسرعة وتضرب من قريب ثم ترجع للظلال. تستفيد من توقيت الدخول والخروج.",
     "identityColor": "#572798",
     "effect": "aura",
-    "poster": "assets/lore/16-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -1168,7 +1154,6 @@
     "gameplayAr": "يضغط من بعيد بالطلقات المشحونة ويستخدم الفخاخ والطيران لفتح زاوية آمنة.",
     "identityColor": "#5EB083",
     "effect": "aura",
-    "poster": "assets/lore/17-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -1253,7 +1238,6 @@
     "gameplayAr": "يدخل من تحت الأرض ويعطّل الخصم من قريب. الألتمت يمسك هدف لفريقك.",
     "identityColor": "#C58428",
     "effect": "aura",
-    "poster": "assets/lore/18-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -1329,7 +1313,6 @@
     "gameplayAr": "ينزّف الأعداء ويتعامل مع الضرر المؤجل، وينفذ الخصم إذا نزلت صحته تحت الحد.",
     "identityColor": "#E52A68",
     "effect": "aura",
-    "poster": "assets/lore/19-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -1415,7 +1398,6 @@
     "gameplayAr": "تدعم حليف بالربط والعلاج، وتعطّل الأعداء بالشوك والتحجر وتتحرك بالفريق جوًا.",
     "identityColor": "#9D8CA9",
     "effect": "aura",
-    "poster": "assets/lore/20-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -1492,7 +1474,6 @@
     "gameplayAr": "يطارد ويضيّق خيارات الهروب. إذا الخصم ما خرج من منطقة اللعنة ينمسك، والألتمت يعالجه من الضرر.",
     "identityColor": "#4D68A3",
     "effect": "aura",
-    "poster": "assets/lore/25-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -1570,7 +1551,6 @@
     "gameplayAr": "مقاتلة قريب تدخل بالسيف وتتعالج، وتستغل التحول لتمديد القتال.",
     "identityColor": "#625789",
     "effect": "aura",
-    "poster": "assets/lore/27-poster.webp",
     "storySourceLanguage": "ja",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -1649,7 +1629,6 @@
     "gameplayAr": "قوة من الارتفاع والحركة. يدخل من فوق ويجمع الأعداء ويرميهم بمكان يخدم فريقه.",
     "identityColor": "#4174BB",
     "effect": "aura",
-    "poster": "assets/lore/31-poster-v3.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -1729,7 +1708,6 @@
     "gameplayAr": "يتحكم بالمكان باللزج والقبضات، وينقذ نفسه أو حليف بالمكعب ويتحول لكرة للمواجهة.",
     "identityColor": "#319826",
     "effect": "drift",
-    "poster": "assets/lore/35-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -1806,7 +1784,6 @@
     "gameplayAr": "يضر مجموعة ويعيد تموضعه بالعباءة والشنطة. يحتاج يدخل ويطلع بتوقيت مضبوط.",
     "identityColor": "#858617",
     "effect": "aura",
-    "poster": "assets/lore/50-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -1882,7 +1859,6 @@
     "gameplayAr": "يضغط بالخنافس والعلامات، ويتنقل بالخريطة لدعم فريقه إذا ما انقطع انتقاله.",
     "identityColor": "#6A2E68",
     "effect": "drift",
-    "poster": "assets/lore/52-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -1959,7 +1935,6 @@
     "gameplayAr": "يركز على السم والسلايد وتعطيل الحركة، ويستفيد من الخصم اللي نقصت صحته.",
     "identityColor": "#A7AD00",
     "effect": "aura",
-    "poster": "assets/lore/58-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -2038,7 +2013,6 @@
     "gameplayAr": "يلعب بالمساعد وتغيير المكان، ويقدر ينسخ ألتمت عدو عشان يصنع فرصة جديدة.",
     "identityColor": "#6B6B6B",
     "effect": "aura",
-    "poster": "assets/lore/60-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -2119,7 +2093,6 @@
     "gameplayAr": "تضغط بضرر السبيرت والعضّات وتتفادى الاستهداف بالانتقال، ثم تفتح على أكثر من خصم بالخفافيش.",
     "identityColor": "#A9171E",
     "effect": "aura",
-    "poster": "assets/lore/63-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -2196,7 +2169,6 @@
     "gameplayAr": "يطارد الهدف النازف ويظهر خلفه، ويعزل الأعداء بالظلام عشان يضغط عليهم.",
     "identityColor": "#9D2C2B",
     "effect": "aura",
-    "poster": "assets/lore/64-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -2272,7 +2244,6 @@
     "gameplayAr": "يعتمد على القنابل والفخ والشوتقن، ويجهز القوس لإنهاء الخصم بصحة قليلة.",
     "identityColor": "#BD3599",
     "effect": "aura",
-    "poster": "assets/lore/65-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -2349,7 +2320,6 @@
     "gameplayAr": "يستفيد من تلقي الضرر ويحول ألمه لضرر حوله. يحتاج يوازن استنزاف صحته مع تجددها.",
     "identityColor": "#658B6F",
     "effect": "aura",
-    "poster": "assets/lore/66-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -2428,7 +2398,6 @@
     "gameplayAr": "تتحكم بالمناطق بالسحر والتنين، وتحمي الحليف بدرع وتدعم الفريق بموجة الفرسان.",
     "identityColor": "#258F63",
     "effect": "aura",
-    "poster": "assets/lore/67-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -2505,7 +2474,6 @@
     "gameplayAr": "يربط الأماكن بالأبواب ويسحب بالعربة ويرسل الخصم للفندق. يتميز بتغيير مكان وتوقيت القتال.",
     "identityColor": "#B77528",
     "effect": "aura",
-    "poster": "assets/lore/69-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -2586,7 +2554,6 @@
     "gameplayAr": "مقاتل ميلي يرفع الأعداء ويربطهم فيه، ويرجع ذخيرة مع ضربات الميلي.",
     "identityColor": "#D4AD0E",
     "effect": "aura",
-    "poster": "assets/lore/72-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -2665,7 +2632,6 @@
     "gameplayAr": "يستدعي وحدات تهاجم معه ويقفل ممر بالأيدي، وسلاحه يسرق من قوة الخصم.",
     "identityColor": "#D9F334",
     "effect": "aura",
-    "poster": "assets/lore/76-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -2742,7 +2708,6 @@
     "gameplayAr": "مقاتل سيف يعتمد على التوقيت والصد والاندفاعات. ضبط نافذة الضربة يعطيه أفضل ضرر.",
     "identityColor": "#FF3333",
     "effect": "aura",
-    "poster": "assets/lore/77-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -2822,7 +2787,6 @@
     "gameplayAr": "يطير ويستخدم الحرارة والانفجارات، ويقدر يأخذ خصم معه للأعلى ثم يسقط فيه.",
     "identityColor": "#CE8D2A",
     "effect": "aura",
-    "poster": "assets/lore/78-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -2903,7 +2867,6 @@
     "gameplayAr": "يدعم الحلفاء بالعلاج والمساعدين، ويرافق حليف ويعطّل الأعداء بالنوم.",
     "identityColor": "#5383D1",
     "effect": "drift",
-    "poster": "assets/lore/79-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -2980,7 +2943,6 @@
     "gameplayAr": "يمزج الرصاص وتعطيل الحركة مع تحول يغير سلاحه وقدراته. الضرر يجمع له تعطش الدم.",
     "identityColor": "#BFBC9F",
     "effect": "aura",
-    "poster": "assets/lore/80-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -3064,7 +3026,6 @@
     "gameplayAr": "تضغط بالضوء والسبيرت، وتحمي نفسها بدرع وتستفيد من تكرار إصابة اللاعبين.",
     "identityColor": "#BBA9E1",
     "effect": "aura",
-    "poster": "assets/lore/81-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -3146,7 +3107,6 @@
     "gameplayAr": "يجمع ضرر القنابل والفئران مع درع وراية تدعم الفريق القريب.",
     "identityColor": "#733033",
     "effect": "aura",
-    "poster": "assets/lore/84-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -3227,7 +3187,6 @@
     "gameplayAr": "يحرك قطع الشطرنج للتحكم بالمكان، ويحمي الحلفاء ويمسك الأعداء بخطوط الحركة.",
     "identityColor": "#AA9E7E",
     "effect": "aura",
-    "poster": "assets/lore/85-poster.webp",
     "storySourceLanguage": "en",
     "storyTranslatedAt": "2026-10-17",
     "overviewAr": [
@@ -3261,7 +3220,6 @@
     "wikiTitle": "Violet",
     "wikiSections": [],
     "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
-    "poster": "assets/lore/86-poster.webp",
     "gameplayAr": "تتحكم بالحبر: توجّه طلقاتها، ترسم حواجز ومسارات، وتجمع رسومات الخصوم عشان تكسب إحصائيات دائمة.",
     "identityColor": "#653cbc",
     "effect": "aura",
@@ -3298,7 +3256,6 @@
     "wikiTitle": "Baba",
     "wikiSections": [],
     "storyStatus": "تعريب كامل لخلفية الشخصية داخل اللعبة",
-    "poster": "assets/lore/88-poster.webp",
     "gameplayAr": "تسرق سبيرت الخصم، تتحرك بمقعدها السحري، وتختار تأثير الشاي. والألتمت تجمع الأعداء تحت هجوم الحمام.",
     "identityColor": "#895672",
     "effect": "aura",
