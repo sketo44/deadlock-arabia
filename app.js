@@ -7,7 +7,7 @@ import {nurseHarrow} from './nurse-harrow.js?v=heroes-136';
 import {guidePage,mountGuide} from './city-guide.js?v=player-guide-5';
 import {modelPage,mountModel} from './hero-model.js';
 import {communityHome,mountHome,mountLore} from './community-v2.js?v=draft-140';
-import {tournamentPage,mountTournaments} from './arena.js?v=draft-141';
+import {tournamentPage,mountTournaments} from './arena.js?v=draft-142';
 import {shopOrder} from './shop-order.js';
 import {googleLoginUrl} from './google-login.js';
 import {setAbilityStage,removeAbilityStep,moveAbilityStep,formatStat} from './planner-logic.js';
