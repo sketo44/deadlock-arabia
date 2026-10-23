@@ -6,7 +6,7 @@ import {restorePageUrl,rememberPageUrl} from './navigation-state.js?v=hero-layou
 import {nurseHarrow} from './nurse-harrow.js?v=heroes-136';
 import {guidePage,mountGuide} from './city-guide.js?v=player-guide-5';
 import {modelPage,mountModel} from './hero-model.js';
-import {communityHome,mountHome,mountLore} from './community-v2.js?v=heroes-136';
+import {communityHome,mountHome,mountLore} from './community-v2.js?v=community-menu-139';
 import {tournamentPage,mountTournaments} from './arena.js?v=tournaments-135';
 import {shopOrder} from './shop-order.js';
 import {googleLoginUrl} from './google-login.js';
