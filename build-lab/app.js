@@ -1,6 +1,7 @@
-import {mountBuildGroups} from './groups.js?v=146';
-import {packBuildDocument,documentItems} from '../build-document.js?v=146';
-import {gameBuildCode} from '../game-build-code.js?v=146';
+import {mountHeroPicker} from './hero-picker.js?v=147';
+import {mountBuildGroups} from './groups.js?v=147';
+import {packBuildDocument,documentItems} from '../build-document.js?v=147';
+import {gameBuildCode} from '../game-build-code.js?v=147';
 import {validateBuildText} from '../build-moderation.js?v=123';
 import {computeHero} from './stats.js';
 import {shopOrder} from '../shop-order.js';
@@ -46,3 +47,5 @@ document.querySelector('#copy-game-build-code').onclick=async()=>{try{await navi
 for(const input of ['publish-title','publish-notes'])document.getElementById(input).addEventListener('input',()=>{gameOutput.hidden=true;gameCode.value='';gameStatus.textContent=''})
 
 documentEditor=mountBuildGroups({hero,items,getLoadout:()=>ids.map(k=>shop.by.get(k).id),initial:state.get('b'),onModeChange:()=>render(),onChange:()=>{try{sync()}catch(e){document.querySelector('.groups-message').textContent=e.message}}});try{render()}catch{}
+
+mountHeroPicker(document.querySelector('#hero'),heroes);
