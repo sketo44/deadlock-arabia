@@ -1,0 +1,92 @@
+/* Readable dark surfaces for pages that still inherited the earlier paper theme. */
+html{color-scheme:dark}
+body .leaderboard-card,body .community-rank-row,body .player-totals>div,body .player-hero-stats article{background:#202d3d;color:#f0e5d0;border:1px solid #bda57755;border-radius:14px}
+body .leaderboard-card :is(.muted,.badge,.leaderboard-meta,.leaderboard-meta span),body .leader-source,body .community-board-note{color:#c6d1dd}
+body .leader-row{color:#e9e3d5;border-color:#99aabb33}
+body .leader-row:nth-child(odd){background:#29384a}
+body .leader-row:nth-child(even){background:#1c2939}
+body .leader-table-head{background:#152333!important;color:#e6d1a8}
+body .leader-name,body .leader-name a{color:#f0e5d0}
+body .leaderboard-card .notice,body .leaderboard-card .empty{background:#1c2939!important;color:#d3dde7!important}
+body .board-switch a{color:#e4d8bf;background:#213045;border-color:#bda57755}
+body .board-switch a.selected{color:#f4dba8;background:#354459;border-color:#d8bf8a}
+body .region-tabs button{color:#e8dfcd}
+body .library-intro,body .library-controls label,body .library-controls label>span,body .library-summary,body .library-pagination,body .library-explainer p,body #input-hint{color:#c6d1dd}
+body .library-stat,body .library-entry,body .lash-preview{background:#202d3d;color:#e9e4d9;border:1px solid #bda57755;border-radius:14px}
+body .library-stat :is(b,strong){color:#f0d8aa}
+body .library-stat span,body .library-entry summary small,body .library-entry .entry-meta,body .library-meta,body .library-meta a{color:#c1cddd}
+body .library-entry summary{color:#f2dfbc}
+body .library-entry .library-answer{background:#1b2939!important;padding:16px;border-color:#bda57755}
+body .library-answer p,body .library-answer li{color:#d8e1eb}
+body .library-badge,body .library-badge.snapshot{color:#e5cc9d;border-color:#a8936b}
+body .library-badge.pending{color:#f1bda7;border-color:#b38877}
+body .library-disclaimer{color:#c2cedd!important}
+body .library-original{background:#142131;color:#ccd9e6;border-radius:8px}
+body .answer-links,body .answer-links a{color:#ead2a3}
+body .model-heading,body .model-selector,body .model-credit{color:#cbd6e3}
+body .model-heading h1{color:#f0dcb5}
+
+@media(max-width:1100px){
+ body:not(.home-city)>header{display:grid;grid-template-columns:minmax(0,1fr) auto auto;align-items:center;gap:12px;padding:14px max(16px,env(safe-area-inset-right)) 14px max(16px,env(safe-area-inset-left));min-height:76px}
+ body>header .brand-art{grid-column:1;grid-row:1;min-width:0;gap:8px}
+ body>header .nav-toggle{grid-column:2;grid-row:1;margin:0;min-height:44px;min-width:44px;padding:8px 4px;font-size:13px;justify-content:center}
+ body>header .site-account{grid-column:3;grid-row:1;min-height:44px;display:inline-flex;align-items:center;gap:6px;margin:0;padding:6px 0;font-size:13px}
+ body>header nav.site-navigation{grid-column:1/-1;grid-row:2;min-width:0;width:100%;margin:0;box-sizing:border-box;border-color:#bda57755}
+ body>header nav.site-navigation[data-open=true]{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;padding:12px 0 0;background:#172434!important;max-height:65dvh;overflow-y:auto;overscroll-behavior:contain}
+ body>header nav.site-navigation a{display:flex;align-items:center;justify-content:center;min-width:0;min-height:48px;box-sizing:border-box;margin:0;padding:10px 8px;background:#25364a!important;color:#f0e3cc!important;border:1px solid #c5b08444;border-radius:10px;text-align:center;font-size:14px;line-height:1.6;text-decoration:none;overflow-wrap:anywhere}
+ body>header nav.site-navigation a[aria-current=page]{color:#ffe1a6!important;background:#34455b!important;border-color:#dec38c;text-decoration:underline;text-underline-offset:6px}
+ body>header nav.site-navigation a:last-child:nth-child(odd){grid-column:1/-1}
+ body>header nav.site-navigation a:focus-visible{outline-offset:-4px}
+}
+@media(max-width:600px){
+ body>header .site-brand-new,body>header .unified-brand img{width:40px!important;height:40px!important;max-width:40px}
+ body>header .site-brand-readable{font-size:20px!important;letter-spacing:.5px}
+ body>header .unified-brand>span{font-size:18px}
+ body>header .unified-brand small{font-size:8px;margin-top:4px}
+ body:not(.home-city)>header{gap:8px}
+ body .leaderboard-card{padding:16px 12px}
+ body .leaderboard-meta{font-size:12px;line-height:1.8;gap:10px}
+ body .leaderboard-meta .badge{font-size:12px}
+ body .leaderboard-toolbar{flex-wrap:wrap;gap:8px}
+ body .leaderboard-toolbar input{flex:1;min-width:160px;width:100%}
+ body .leader-row{gap:10px;padding:12px 8px}
+ body .leader-name{overflow-wrap:anywhere;min-width:0}
+ body .board-switch{gap:8px}
+ body .board-switch a{font-size:13px;min-height:48px;padding:10px 8px;display:flex;align-items:center;justify-content:center;text-align:center}
+ body .library-stats{gap:10px}
+ body .library-stat{padding:16px 12px}
+ body .library-stat b{font-size:28px}
+ body .library-entry{padding:16px 12px}
+ body .library-entry summary{font-size:16px;line-height:1.8;gap:8px}
+ body .library-answer p,body .library-explainer p{font-size:15px;line-height:2}
+ body .library-entry .library-answer{padding:14px 12px}
+ body .library-controls :is(input,select){font-size:16px}
+ body .library-meta{gap:10px;font-size:12px}
+ body .library-pagination{gap:8px;flex-wrap:wrap}
+ body.theme-seven .hero-overview{background:#111e2de8;border:1px solid #bda57744;border-radius:14px;padding:18px 16px;margin-inline:12px}
+ body.theme-seven .hero-overview p{font-size:16px;line-height:2;color:#edf0f1}
+ body.theme-seven .hero-section-tabs{gap:8px}
+ body.theme-seven .hero-section-tabs button{min-height:48px;line-height:1.7;font-size:14px;padding:10px 8px}
+ body .model-controls{flex-wrap:wrap}
+ body .model-controls button{min-height:48px;flex:1;white-space:nowrap;padding:10px 14px}
+ body .model-brand{right:16px;top:18px;gap:8px}
+ body .model-brand b{font-size:20px}
+ body .guide-topics a{min-height:44px;display:inline-flex;align-items:center;font-size:13px;line-height:1.7}
+ body .auth{margin-block:22px}
+ body .auth form .actions{gap:10px;flex-wrap:wrap}
+ body .auth form .actions button{flex:1;min-width:100px;min-height:48px}
+ body .source-note h2,body .library-explainer h2{color:#f0dcb5}
+ body .library-intro{font-size:16px;line-height:1.9}
+}
+@media(max-width:360px){
+ body>header .site-brand-readable{font-size:18px!important}
+ body>header .site-brand-new,body>header .unified-brand img{width:34px!important;height:34px!important;max-width:34px}
+ body>header .site-account{font-size:12px;gap:4px}
+ body>header .nav-toggle{font-size:12px}
+ body>header .unified-brand>span{font-size:16px}
+}
+body .library-intro{color:#c6d1dd!important}body .assistant-shell .source-note h2,body .library-explainer h2{color:#f0dcb5}body .model-heading p,body .model-selector label{color:#cbd6e3}
+@media(max-width:600px){body #leader-search{font-size:16px}body .leader-table-head{font-size:12px;min-height:44px}body .leader-row{grid-template-columns:32px minmax(0,1fr) 110px}body .leader-name{font-size:14px;line-height:1.7}body .leader-heroes a{width:34px;height:44px}body .player-totals span,body .player-hero-stats span{font-size:12px;line-height:1.8}body .leader-source{font-size:13px}body .site-footer-latest p{font-size:13px;line-height:1.9}}
+body :is(.empty,.ar-empty){background:#1e2d3f;color:#dce4ed;border:1px solid #bda57755;border-radius:14px}body :is(.loading,.board-loading){color:#c9d4e2}body .community-rank-row:first-child{background:#2b3c50}body .community-rank-row small{color:#c6d1dd}body .community-rank-row>strong{color:#e9ce99}body .news-card .news-body,body .news-card .news-body :is(p,li){color:#d3deea}body .news-card .news-source{color:#ead1a0}body .news-card :is(.news-kind,.news-meta,.news-meta>span){color:#c8d4e1}body .player-hero-stats span{color:#c4d0df}
+body[data-page=community] .card :is(h2,h3,p),body .community-player-name,body .room-card-title h3,body .room-dialog h2{min-width:0;overflow-wrap:anywhere}
+@media(max-width:360px){body>header .site-brand-readable{font-size:16px!important;letter-spacing:0}body>header .site-brand-new,body>header .unified-brand img{width:30px!important;height:30px!important;max-width:30px}body>header .brand-art{gap:6px}body>header .site-account{font-size:11px}body>header .site-account svg{width:15px;height:15px}}

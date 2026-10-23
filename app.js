@@ -1,6 +1,6 @@
 import {steamLogin} from './backend-client.js?v=database-126';
 import {validateBuildText} from './build-moderation.js?v=123';
-import {plannerLab,mountPlannerLab} from './planner-lab.js?v=123';
+import {plannerLab,mountPlannerLab} from './planner-lab.js?v=127';
 import {restorePageUrl,rememberPageUrl} from './navigation-state.js?v=hero-layout-119';
 import {nurseHarrow} from './nurse-harrow.js?v=hero-layout-119';
 import {guidePage,mountGuide} from './city-guide.js?v=player-guide-5';
