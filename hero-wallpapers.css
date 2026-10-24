@@ -45,3 +45,6 @@ body.theme-seven[data-hero-id="88"]{--character-wallpaper:url("assets/hero-wallp
 body.theme-seven[data-hero-id="nurse-harrow"]{--character-wallpaper:url("assets/hero-wallpapers/nurse-harrow.webp")}
 body.theme-seven[data-hero-id]{background-image:none!important;background-color:#10191d}body.theme-seven[data-hero-id]>.wraith-page-backdrop{display:block!important;position:fixed;inset:-8px!important;z-index:0;pointer-events:none;background-image:linear-gradient(#0c172d66,#0c172d99),var(--character-wallpaper)!important;background-size:cover!important;background-position:center top!important;background-repeat:no-repeat;filter:blur(2px)!important}body.theme-seven[data-hero-id]>.wraith-page-backdrop::after{display:none!important}.theme-seven main:before{background:none!important}
 @media(max-width:700px){body.theme-seven[data-hero-id]>.wraith-page-backdrop{background-position:25% top!important}}
+
+/* Transparent Arabic title art supplied by the site owner. */
+body.theme-seven .hero-name-wordmark.is-arabic{display:block;width:min(620px,86vw)!important;height:auto!important;max-height:210px!important;object-fit:contain;margin-inline:auto}body.theme-seven .wraith-permanent-heading>span,.theme-seven .seven-class{display:none!important}@media(max-width:700px){body.theme-seven .hero-name-wordmark.is-arabic{width:86vw!important;max-height:145px!important}}
