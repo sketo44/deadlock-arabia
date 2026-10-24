@@ -1,0 +1,666 @@
+{
+  "source": "https://deadlock.vlviewer.com/",
+  "version": "cns-harrow",
+  "clips": [
+    {
+      "file": "assets/hero-select-audio/6/1.mp3",
+      "original": "atlas/atlas_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/ea/eafafd573471f9539ffe10cd4b24c79c9875bfd619a64d8d346a73aaf99c6110.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/6/2.mp3",
+      "original": "atlas/atlas_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/f5/f55f76e602018247f2e16f42356c6233a433cfac2f696bb6d03bb9e258aeb317.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/6/3.mp3",
+      "original": "atlas/atlas_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/03/037995111839c697fda33debfdde0e1d26df58fe0edde9db756637a96c5d2369.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/77/1.mp3",
+      "original": "fencer/fencer_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/b7/b739d7c6337499651e39519218c1788e801268990700af3c9222ab8878314d29.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/77/2.mp3",
+      "original": "fencer/fencer_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/63/63bd2a9127f3863069558f020bb3a526352828ff527265419938a8507dd33396.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/77/3.mp3",
+      "original": "fencer/fencer_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/b1/b18fa9b9545934123cce9cff3e0d259484eaf56289844fc4bfb18adb71a8446d.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/88/1.mp3",
+      "original": "baba/baba_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/48/48151eed21b016d8b17e7198d5631b743c0903f852fcdd855b2ca2355f491e56.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/88/2.mp3",
+      "original": "baba/baba_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/9f/9f8d13277d1f7c281bba1e1f4df4ab79f9bed14f23dc45ac8655608609c86538.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/88/3.mp3",
+      "original": "baba/baba_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/b7/b7b1cd0036144f573819fb4d22cbc85784235645e96463be9841d4deb20229be.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/15/1.mp3",
+      "original": "bebop/bebop_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/7f/7fb58bfc6fb3dbda3b879d860971009f8cba0f9e78d8af7366e319cbea8ceea4.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/15/2.mp3",
+      "original": "bebop/bebop_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/df/df6e04e8f2e2033304b1ea2e3421274ce7cd11a1a2576201bb106476ea136689.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/15/3.mp3",
+      "original": "bebop/bebop_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/62/6220a84e1a09a73f135d03e90fb142a202ee898cdc8764fe7eee5d64036e336c.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/72/1.mp3",
+      "original": "punkgoat/punkgoat_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/31/3170e66ba6fb87b8522a2adb015a9d6c6b5c20e8fe055ea7a8bac847b4f63b1e.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/72/2.mp3",
+      "original": "punkgoat/punkgoat_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/ca/caf1e0c6e1ac2b2a79a0c73bc80fc049432901cddc098911bd46989a332f2471.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/72/3.mp3",
+      "original": "punkgoat/punkgoat_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/86/8646d235aa8e75fe0230976447a9cef41e6bceed30d6a92c4652a3a5af5a0e31.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/16/1.mp3",
+      "original": "nano/nano_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/73/73d5fba667a0efece9459c07146c59751ad3def8ef8cc1b49785845731d32902.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/16/2.mp3",
+      "original": "nano/nano_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/26/2633b689cdb9ac33a610f671d026c1fd9442ef3885fbeda8a49f57c0e55fa7e2.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/16/3.mp3",
+      "original": "nano/nano_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/52/527c39ec867cb6481fb5dd37925d358715d1ef02ac65277eefa580b2f810e089.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/81/1.mp3",
+      "original": "unicorn/unicorn_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/b9/b90ad255f527d4e2130975edcbf5bd69f0ee3fc4a1dc6ac64f6116f60a0d22df.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/81/2.mp3",
+      "original": "unicorn/unicorn_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/2f/2f6b98f5be206b6e38883336f544231755d34a5cf96a07370dbc91da21d1cd97.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/81/3.mp3",
+      "original": "unicorn/unicorn_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/a6/a694874e69faa2c830942904a2748bd4e06b0b0fe6b8a19401950ce397a0c040.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/78/1.mp3",
+      "original": "deadpack/deadpack_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/8f/8f6f56abf7b08b274dd20611e0df7e3128daf7afc92da57c8a6f1c317e3e492b.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/78/2.mp3",
+      "original": "deadpack/deadpack_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/96/969a6a543eff54f50bf12c3128ddbef14b825d78f218059bf947c1540a8f294f.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/78/3.mp3",
+      "original": "deadpack/deadpack_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/2d/2d302616680c636a71fc7d15628ca4b9cf6f4949f8796e658c925978783eef78.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/64/1.mp3",
+      "original": "drifter/drifter_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/be/bea2c744bda224f94918e836c035927d435e9b96e85cd8e94e3d374b20463ba5.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/64/2.mp3",
+      "original": "drifter/drifter_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/47/47cf0f1436cee7cb793c54dd36d71b8c1bcb7c9640b1c8b33e52bb67df9b1848.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/64/3.mp3",
+      "original": "drifter/drifter_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/bc/bc05987422bfdb85f632dc237247a4b7516f822dc4081154e1ca199c08c78273.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/11/1.mp3",
+      "original": "dynamo/dynamo_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/ba/ba087913f94ab0a94aa857132ac30ac9a5a2f699ab109c8c1042f2b543aa55b5.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/11/2.mp3",
+      "original": "dynamo/dynamo_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/98/98b9099062c90bddfb698ce4136e5ce97a5d99a6087ed2ac261dc6256d0693bf.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/11/3.mp3",
+      "original": "dynamo/dynamo_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/e6/e683b11eddcdb293349b8a11b9a927697857609c274963b83253b99b963023d6.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/76/1.mp3",
+      "original": "necro/necro_select_01_alt_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/98/981d0ca31406e69c4be9e1eefec4fe6cee5520f43cf9ba9f090ee2107073f101.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/76/2.mp3",
+      "original": "necro/necro_select_02_alt_05.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/51/51dc09d73d1d5254ad87826fab5a7e1ccbf2bed8cb358a9736b3f030ba6e03db.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/76/3.mp3",
+      "original": "necro/necro_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/04/0425a8b65979684d0e16486d49114d7297a31610e2674b50bcf0439f43017e51.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/17/1.mp3",
+      "original": "orion/orion_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/b4/b4cf826a6502813d75a0a609ab461a429991173851b7bfb12d0a80f216cd0c83.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/17/2.mp3",
+      "original": "orion/orion_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/fa/fa867e02d3663d554226cd0fc923b84ee63577e047d112897dd9ff7bed6c2f7d.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/17/3.mp3",
+      "original": "orion/orion_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/68/6887ecd95246f36dcfb25f954bc027c0a200893a6a2d99369d209e6899ac9b51.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/13/1.mp3",
+      "original": "haze/haze_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/38/38d20082a70fc03f9afd94795fbeca4385033e37e0a9a8306c3285e07cb7bbd4.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/13/2.mp3",
+      "original": "haze/haze_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/65/6512039f516c6749d0369a60f81d5f8ca7101609d0312ebd031cfb3477b810a0.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/13/3.mp3",
+      "original": "haze/haze_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/a7/a73f552b4791752629402103ba0f7e1a666ce44a6be61d55454c13ae560f8677.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/14/1.mp3",
+      "original": "astro/astro_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/bb/bbf3b54d660c94f2d53fe0a429713222d3588f32fe49e71eb931b3c4c8f5fcf1.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/14/2.mp3",
+      "original": "astro/astro_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/06/06ca20b0213944a2d011e0ac734bff663327ad06ccf720132f617522656f2d01.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/14/3.mp3",
+      "original": "astro/astro_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/fa/faa1fd9dc896ccbadec4645bc9bbb93ce4d5b99a6e933d59141136a36414bb1d.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/1/1.mp3",
+      "original": "inferno/inferno_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/b2/b24d49a6cdc60a42e3347ff3198473b7e7086bc50493592c21a13cbe0f671f5b.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/1/2.mp3",
+      "original": "inferno/inferno_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/9e/9e779e578f8efbca5dde58909f9b077cfc987d5b94b330b857cfeea2655975d4.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/1/3.mp3",
+      "original": "inferno/inferno_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/da/dae14d316df8731157318083255e12e868892756de8971313ace4257606ea2d5.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/20/1.mp3",
+      "original": "tengu/tengu_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/13/13253d46927489793c291ada701491ffd57fba7c9345c3fdb3eaa14295f36d4b.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/20/2.mp3",
+      "original": "tengu/tengu_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/32/329a298bfbba82762695921c506fd30b0d08bb6a121b9261df35fb3387397c15.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/20/3.mp3",
+      "original": "tengu/tengu_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/23/236d7addce37facdb338aed243cae4211be29598929f841e84e4f261f8a6dcf4.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/12/1.mp3",
+      "original": "kelvin/kelvin_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/03/03b969cc649a6452a1cf54e81449252e82f159720c9dda1ec87418728bc3d0ca.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/12/2.mp3",
+      "original": "kelvin/kelvin_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/56/565d5fdd8eb9a42d4ca1c58a5367545181acf6760c75d368e8189b7c23ff0a53.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/12/3.mp3",
+      "original": "kelvin/kelvin_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/f8/f84d034c3cd015216b3a6bf91f43778c16524c3814b41d68773a8a6ee32da3a7.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/4/1.mp3",
+      "original": "ghost/ghost_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/cd/cd1540719b1a49d4b4b9e8f92fb1ca4ac8022d6dac98c4b914c93da9433c5e05.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/4/2.mp3",
+      "original": "ghost/ghost_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/47/474ce54cbe53cbada7bba671fe974d1beba535b92a35ed06816343dcf3137ef7.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/4/3.mp3",
+      "original": "ghost/ghost_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/b6/b61e9aff60f0b981a84f1419b0e0cbb5354ae76cc1b6ad5364e479bd1efe99b8.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/31/1.mp3",
+      "original": "lash/lash_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/65/656ef677b535b3f17ddafd5566c5e8bd6bd914e322a94853e28ef3c89ef429b9.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/31/2.mp3",
+      "original": "lash/lash_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/92/929cd951303d5b0e988a348caf62dcafc2bd2e6dcc9ba3f7eb3173b45f3e18ed.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/31/3.mp3",
+      "original": "lash/lash_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/3e/3e9718340b413b26fc3bca865939a79cbb96fa13b1076399774f52639ba9d0f6.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/8/1.mp3",
+      "original": "forge/forge_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/82/82e21e03ff2c8aa2968920950ed5a503f78e818a9a7b0298d74d05bd75ae11d0.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/8/2.mp3",
+      "original": "forge/forge_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/d3/d3f3815b98ab037292ac3257b4530b4f4df4ac4dbdabb00321b56d6c8a3013f3.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/8/3.mp3",
+      "original": "forge/forge_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/d2/d2e4b6f47a06e7b40eb38a33a538cdcf869c0da7f1e4d5c61233a6e880176aa7.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/63/1.mp3",
+      "original": "vampirebat/vampirebat_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/29/29091115b235194421d37ddd008471615539249fb2629c1160c42d035b4eef08.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/63/2.mp3",
+      "original": "vampirebat/vampirebat_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/2e/2ef00dcc86953eaa4fa69a4c551262294e25d811b6404f04044e8a6ee9d0e151.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/63/3.mp3",
+      "original": "vampirebat/vampirebat_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/b8/b8f491c9f1c18bf8d484c6048a116991b92464ef6bc0a30960ba629cccd9edde.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/52/1.mp3",
+      "original": "mirage/mirage_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/3a/3ab68fddd60fa8b1dfc78d846824ee6ad0613550147508802c27677afdfefb50.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/52/2.mp3",
+      "original": "mirage/mirage_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/5e/5eac581f3e6e36c7620a7b15b980fa93360ef43465ff510d271d445b2f0b3ae6.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/52/3.mp3",
+      "original": "mirage/mirage_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/56/569de2806b2937062089513074892e9eaaf15faf9bae2858bc4797b441501279.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/18/1.mp3",
+      "original": "krill/krill_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/a7/a773c7bb91d63e2258f3e11033a1ac951dbf1b9b07f3d53e6d08364bef0a3e34.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/18/2.mp3",
+      "original": "krill/krill_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/a0/a0871849a2caa0fdb991332f157d698b9522a0de7b7e2b0fbbcee0de1f010ebd.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/18/3.mp3",
+      "original": "krill/krill_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/ac/ac4aeb1ed42201349377237398a747832effe72dafcd82a7ee1b9f6383c18b97.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/nurse-harrow/1.mp3",
+      "original": "nurse/nurse_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/78/78b4064afdf066e43f30a90119642ee083d22efb8559fb8b4b01c875b6c1c82a.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/nurse-harrow/2.mp3",
+      "original": "nurse/nurse_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/08/081ce284358c5e8f5ce7c75b47a7e33871834c9b531e8e8b82174b00f3596b93.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/nurse-harrow/3.mp3",
+      "original": "nurse/nurse_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/d2/d26d75b9a29d95b316a6a38bd0aa5a43fab143beb4daeaacbdce0f5f2e4ddeb0.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/67/1.mp3",
+      "original": "bookworm/bookworm_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/6e/6ef296e52a111f0769f88bcbbf588131b205935ef5f063c8a3210a4733cfcc6c.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/67/2.mp3",
+      "original": "bookworm/bookworm_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/fa/fa18bd77e3c529dd5b1b07c76af89a79902a9875dc26d4e46786a7eafb5c4d36.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/67/3.mp3",
+      "original": "bookworm/bookworm_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/17/176cab1e036f27f64448e0ec83ff48e5abf12bf54be8b82d07301b292800eb5e.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/10/1.mp3",
+      "original": "chrono/chrono_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/34/345ac1380df8c830d6b53408c3494de880720f86bc3feeec7522d8d9aae28946.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/10/2.mp3",
+      "original": "chrono/chrono_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/b2/b2849419d893907e430dca0024e8254770daa0814646622a18fbb1804af3a564.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/10/3.mp3",
+      "original": "chrono/chrono_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/ec/ecefac0bfee204608ba3516195625dc2e1429d738ef8c09d176b02f3e0b80752.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/50/1.mp3",
+      "original": "synth/synth_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/1d/1dd84a56c70ac4a710c5a2495b29dd611d96bfa25e90f5574d80f16af88ad294.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/50/2.mp3",
+      "original": "synth/synth_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/88/8858e5b883d2d21837a35f463f2a1358bdd3f1d042b6701e56e30f69be80edf7.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/50/3.mp3",
+      "original": "synth/synth_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/9d/9d96418a3f3080feed8b1abc40e0df75cc8d6106f4d14539be9ef58481d1b069.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/84/1.mp3",
+      "original": "ratking/ratking_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/4f/4f166ffec1d5fcf39d7901120ec5c9c253f8c18fb664f3378613ec8ce92e3ddf.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/84/2.mp3",
+      "original": "ratking/ratking_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/4e/4e30592ed2dfa9c8450d825ef95b5a4b9afedf443eb7d36dee65ad1132022e05.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/84/3.mp3",
+      "original": "ratking/ratking_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/0a/0a414807989ef295097ebd910547ffa2eb5c96fdd553ea09d97911e50fa1ed45.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/79/1.mp3",
+      "original": "familiar/familiar_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/9e/9ea30fdfc69a02ef64cd15f54ccc9734249130c3a34b5291cf5be5ff4cb9c672.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/79/2.mp3",
+      "original": "familiar/familiar_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/3f/3f9034c9757a88cc15ba71a01b59bea3c7ab8310c599c6dd3a0f8d8e6cc2b685.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/79/3.mp3",
+      "original": "familiar/familiar_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/25/25475face42232c04771514f1b5f6a05d739ac8265d7dd381ac7aca6acb3f10c.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/2/1.mp3",
+      "original": "gigawatt/gigawatt_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/77/774b77d9cf436baa2481b0cb5fb321bae4e6ffb7c97ce53b0052d76a8878ce2b.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/2/2.mp3",
+      "original": "gigawatt/gigawatt_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/ff/ffae2e82e0541b28426048c1d161f36e8ecbd7464fac39250518bad5dfc86d2d.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/2/3.mp3",
+      "original": "gigawatt/gigawatt_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/58/5814173960cf24a221627d2429d6a20423f4a7f8b7d76fd5ab48a04bb31e2192.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/19/1.mp3",
+      "original": "shiv/shiv_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/e4/e467f6723281b62db0de407694a04dfeace35b61b6f0beb42c83e17ef9d13b50.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/19/2.mp3",
+      "original": "shiv/shiv_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/6f/6ff50573cab966976b8168786838c89cf1fb1f41c4aa2af5ef105da7ccae9ec6.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/19/3.mp3",
+      "original": "shiv/shiv_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/f4/f4f8644aaad5143b32670b63fd923b896b99459cbf32d14a6774228f13d59f3b.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/80/1.mp3",
+      "original": "werewolf/werewolf_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/c1/c1135c271b05b98e6920b6780aba7ef184462bf4b9061133d8c48bdcba0a084c.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/80/2.mp3",
+      "original": "werewolf/werewolf_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/dc/dc2974296a31fb25dd17fee6ee7a5999b82590a533fee1d6aa2ec390e65c1e44.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/80/3.mp3",
+      "original": "werewolf/werewolf_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/9e/9eb875025ba5358b174e04a11cd27ca95dfbc5b6562fcc5711442c3d37f967fd.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/60/1.mp3",
+      "original": "magician/magician_hs_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/2b/2b2eb2d07a2d3961db49192d7c2e8805524d79e313271f259740acb21708372a.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/60/2.mp3",
+      "original": "magician/magician_hs_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/b2/b2f138685304ad128beb65915b39cfbf68e04ffde1491f2cf0b377b09a65504c.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/60/3.mp3",
+      "original": "magician/magician_hs_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/38/38833996b98c6901d376d2a2d0b6a35e674e2e3190fa4d1f9068d2f3605dca5a.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/85/1.mp3",
+      "original": "chessmaster/chessmaster_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/a6/a601ee735473750a285c30e36710b08dcb996ad2823748c05547692edae6b553.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/85/2.mp3",
+      "original": "chessmaster/chessmaster_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/47/47a36f8ca762c4d6a498dbf63b25da7356c22ee8a79b597404c339d3ff525684.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/85/3.mp3",
+      "original": "chessmaster/chessmaster_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/6a/6aaf46f9118f554e73faf081e66552ec260194ff053f221cb3fa2900c37056b9.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/69/1.mp3",
+      "original": "doorman/doorman_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/42/420ffa0db092116e3c4f6d8d0e8f8450eb5b623e058c3ccb0fc57064bfa4692d.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/69/2.mp3",
+      "original": "doorman/doorman_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/24/245ee9dd6b6477f682b6e49719918f36c8861bc5ce5a73ee264ef3bb944098f8.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/69/3.mp3",
+      "original": "doorman/doorman_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/52/527f1f841bfbe7ad20ba95b5a56ec3c16bbd64d98c106b66a44189e9e199fc6f.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/65/1.mp3",
+      "original": "priest/priest_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/e7/e7dfacc57ad9467e89a86bf74fcfc7bf9ab5c5f8fe6f776c0b6626858410a83e.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/65/2.mp3",
+      "original": "priest/priest_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/75/75edeeb68f9f73bd181e0e0583af4d1dd5f3268b2158eb73374f21f14dc90756.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/65/3.mp3",
+      "original": "priest/priest_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/5c/5c30fa60f91e8f761e00be2fd256782e0d260d9b18e82540a5a82ee77b260fcf.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/66/1.mp3",
+      "original": "frank/frank_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/27/2749de1086877d2356024f17c479413bbd88d5b613f48237da94a33d05dfd41d.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/66/2.mp3",
+      "original": "frank/frank_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/b2/b2403aebb6dc734b4150a4acecd47ac0ad900c65ee3e9e5dd0e9888ef0c717bb.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/66/3.mp3",
+      "original": "frank/frank_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/e2/e28474366374e74a177e91470d744a8e9eea5bfd1ace41c1c56826867eb9ca43.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/3/1.mp3",
+      "original": "hornet/hornet_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/73/730731cba6dca5983562ba7987caaba0406617b2782b1ddeb25391a640174a54.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/3/2.mp3",
+      "original": "hornet/hornet_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/59/59211d6a71909c97ad9ef9060eaf4db09de39d9ea51ddaff49e765c83a340c21.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/3/3.mp3",
+      "original": "hornet/hornet_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/a9/a9ebb87ca0f22c4d82f8b2d29a2320a27f77b9d20b8b70deb0977ad5de153662.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/86/1.mp3",
+      "original": "artist/artist_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/47/47f5216d2aa36caa816494b4f951714066b3f8cf5f78dc1366ca1f5b4429cb44.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/86/2.mp3",
+      "original": "artist/artist_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/29/29dcc2374cc68d6ad11e3270645040cb0fa9d3c696845d7055e420ef5bf1ea5b.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/86/3.mp3",
+      "original": "artist/artist_select_04.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/91/91444dd95bde36fba76e7a59d4ec7c7f478604f5957d36ba972b6c00061fe0c9.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/35/1.mp3",
+      "original": "viscous/viscous_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/c6/c695140fc98ea5de90770f6a10b9e103020c10283d40121d694b3816b791a3a4.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/35/2.mp3",
+      "original": "viscous/viscous_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/79/799d562943b41ff045ebc6759e6973c7a5f46d4ffaeda71836d4a379caab0267.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/35/3.mp3",
+      "original": "viscous/viscous_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/5c/5c075505ce5a13981a635546175045aaf481da9a0b0f1b5ca20afbbaf1791b1d.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/58/1.mp3",
+      "original": "viper/viper_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/95/95f5ed984861a0a767a3d90a5fcd8480361fb8c5bb3308e5b4e35271accd1d29.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/58/2.mp3",
+      "original": "viper/viper_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/86/8651de07c8e06c098d5fc5b95b29a011ece3b8df04306a2bb4839bfebb5b24c0.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/58/3.mp3",
+      "original": "viper/viper_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/4e/4e8bfad86295f77324e2f5870f077573de217088573e08fa70db6a9ae6c1bd54.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/25/1.mp3",
+      "original": "warden/warden_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/16/16615abe69bba80d35c7211e440d8475a6f7b2800e054d687832dd7f513a9962.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/25/2.mp3",
+      "original": "warden/warden_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/f3/f309c64e8c1d00939a2c3cea551dd10a02c8b12066d009f511c1af1baa208046.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/25/3.mp3",
+      "original": "warden/warden_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/84/84318b149a75fb22d13be8d95e29852b84a33d09eb3507f87d0bec449ec55b68.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/7/1.mp3",
+      "original": "wraith/wraith_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/56/56cdf87e9ed452903c7ffc0a21b16facb20f832a1ac915b2cf37e78fb1ab0204.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/7/2.mp3",
+      "original": "wraith/wraith_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/5c/5c4a01fbcbe1afe46cf1fcba46731701ebb4480b7a8d868cbc4ac73b98da2a8b.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/7/3.mp3",
+      "original": "wraith/wraith_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/7b/7b94cbfcf0863b91e17ec92c755be1e2f0a760563ac9fbc3e6b63702db37749f.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/27/1.mp3",
+      "original": "yamato/yamato_select_01.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/0c/0cb02c9d970d660f885de3db0a195190fbdc9c737dd9a465650c03588d23599c.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/27/2.mp3",
+      "original": "yamato/yamato_select_02.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/78/78d6469dd4342a0d08a11ada5b1e8bce5bbf81b070be278549c0e672496f01d2.mp3"
+    },
+    {
+      "file": "assets/hero-select-audio/27/3.mp3",
+      "original": "yamato/yamato_select_03.mp3",
+      "url": "https://cdn.vlviewer.com/deadlock/audio/sha256/9a/9aafa2f99215c5ed7368595a886387dd5895daaccd98c1e1cc73af4d81bdcf4b.mp3"
+    }
+  ]
+}
