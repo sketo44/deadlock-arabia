@@ -1,4 +1,4 @@
-import {draftPage,mountDraft} from './draft-room.js?v=voices-162';
+import {draftPage,mountDraft} from './draft-room.js?v=custom-163';
 import {tournamentPage as championshipPage,mountTournaments as mountChampionships} from './tournament-center.js?v=owners-155';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let selected='rooms',stop=()=>{};try{if(['tournaments','draft'].includes(sessionStorage.getItem('dla-arena-tab')))selected=sessionStorage.getItem('dla-arena-tab')}catch{}
