@@ -2,6 +2,7 @@
 const config=window.DEADLOCK_CONFIG||{},endpoint=config.communityApiUrl;
 const originalFetch=window.fetch.bind(window);
 const token=()=>{try{return JSON.parse(localStorage.getItem('dla-steam-session'))||''}catch{return ''}};
+try{const link=new URL(location.href).searchParams.get('discord_link');if(/^[a-f0-9]{48}$/.test(link||''))sessionStorage.setItem('dla-discord-link',link)}catch{}
 export async function steamLogin(next='community'){
  if(!endpoint)throw Error('الربط غير جاهز');
  const bytes=crypto.getRandomValues(new Uint8Array(32));
@@ -37,6 +38,7 @@ if(endpoint){
    const response=await originalFetch(target.href,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({code,verifier}),signal:AbortSignal.timeout(15000)});
    const result=await response.json();if(!response.ok)throw Error(result.error||'تعذّر الدخول');
    localStorage.setItem('dla-steam-session',JSON.stringify(result.steamToken));
+   const discordLink=sessionStorage.getItem('dla-discord-link');if(/^[a-f0-9]{48}$/.test(discordLink||'')){const back=new URL(location.href);back.searchParams.set('discord_link',discordLink);back.hash='account';history.replaceState(null,'',back.href);}
    localStorage.setItem('dla-session',JSON.stringify({...result.session,expires_at:Date.now()/1000+result.session.expires_in}));
   }catch(e){sessionStorage.setItem('dla-auth-error',e.message);location.hash='account';}
  }
