@@ -1,4 +1,4 @@
-import {playHeroSelection,addVoiceControl,stopHeroVoice} from './hero-voices.js?v=161';
+import {playHeroSelection,addVoiceControl,stopHeroVoice} from './hero-voices.js?v=162';
 import {draftResultBlob} from './draft-image.js?v=142';
 import {draftHeroes} from './draft-heroes.js?v=140';
 import {draftSeat,draftClock} from './draft-core.js?v=140';

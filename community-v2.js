@@ -1,4 +1,4 @@
-import {mountHeroVoice} from './hero-voices.js?v=161';
+import {mountHeroVoice} from './hero-voices.js?v=162';
 import {mountNurseHarrow} from './nurse-harrow.js?v=names-159';
 import {streamMarkup} from './tournament-streams.js';
 import {homeGuideTiles} from './city-guide.js';
