@@ -8,7 +8,7 @@ import {restorePageUrl,rememberPageUrl} from './navigation-state.js?v=hero-layou
 import {nurseHarrow} from './nurse-harrow.js?v=heroes-136';
 import {guidePage,mountGuide} from './city-guide.js?v=player-guide-5';
 import {modelPage,mountModel} from './hero-model.js';
-import {communityHome,mountHome,mountLore} from './community-v2.js?v=names-150';
+import {communityHome,mountHome,mountLore} from './community-v2.js?v=tournament-image-151';
 import {tournamentPage,mountTournaments} from './arena.js?v=draft-143';
 import {shopOrder} from './shop-order.js';
 import {googleLoginUrl} from './google-login.js';
