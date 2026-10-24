@@ -107,3 +107,6 @@ body #load-hero-model{background:#1e2d3f;color:#f1dfb8}body #load-hero-model sma
 
 /* Let the page background show through the shared header. */
 body:not(.home-city)>header{background:transparent!important;border-bottom:0!important;box-shadow:none!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
+
+/* Closed navigation must stay hidden, including standalone assistant pages. */
+body>header nav.site-navigation[hidden]{display:none!important}
