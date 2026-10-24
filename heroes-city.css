@@ -2,3 +2,5 @@ body.heroes-city{background:#151a27;color:#f2e7cf;isolation:isolate}body.heroes-
 body.heroes-city{background:linear-gradient(180deg,#111827ac,#111827ec),url('assets/home-scene/city.webp') center top/cover fixed}body.heroes-city:before{display:none}body.heroes-city>header .compact span,body.heroes-city>header .compact svg{color:#eee0bd}
 /* Keep alphabetical card order left to right, while Arabic captions retain RTL. */
 body.heroes-city #hero-list{direction:ltr}body.heroes-city #hero-list .hero-card{direction:rtl}
+/* Navy replaces the legacy olive backing beneath transparent hero portraits. */
+body.heroes-city #hero-list .hero-card,body.heroes-city #hero-list .hero-card>img{background-color:#192838}
