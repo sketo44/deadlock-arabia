@@ -249,3 +249,7 @@ body.home-city .flip-community .flip-back:before{background-size:48% auto;opacit
 .community-cast img{object-position:78% center}.community-cast img:nth-child(2){object-position:82% center}.community-cast img:nth-child(3){object-position:80% center}
 .door .community-cast img{object-position:78% center}.door .community-cast img:nth-child(2){object-position:82% center}.door .community-cast img:nth-child(3){object-position:80% center}
 .door .community-cast img:first-child{object-position:90% center}
+
+/* Navy menu backs with a clear emblem and no rays. */
+body.home-city .flip-back{background:linear-gradient(145deg,#1c3049,#101e32 68%,#15263d);box-shadow:inset 0 0 0 7px #101e30,inset 0 0 0 8px #b7a27366,inset 0 0 30px #0003}body.home-city .flip-back:before{opacity:.36;filter:brightness(1.8);background-size:70% auto}body.home-city .flip-community .flip-back:before{background-size:48% auto;opacity:.4}body.home-city .flip-back:after{color:#dfca99bb}
+
