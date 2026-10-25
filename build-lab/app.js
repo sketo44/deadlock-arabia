@@ -4,7 +4,7 @@ import {packBuildDocument,documentItems} from '../build-document.js?v=147';
 import {gameBuildCode} from '../game-build-code.js?v=147';
 import {validateBuildText} from '../build-moderation.js?v=123';
 import {computeHero} from './stats.js';
-import {shopOrder} from '../shop-order.js?v=165';
+import {shopOrder} from '../shop-order.js?v=173';
 import {label as arLabel} from '../localization.js';
 import {createShop} from './logic.js';
 const d=await(await fetch('data.json')).json(),items=d.items,heroes=d.heroes,shop=createShop(items),$=s=>document.querySelector(s),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])),fmt=n=>Math.round(n).toLocaleString('en-US'),asset=i=>'../'+i.image,colors={weapon:'#d99827',vitality:'#80ad31',spirit:'#a276c7'},names={weapon:'السلاح · Weapon',vitality:'الصحة والدفاع · Vitality',spirit:'السبيرت · Spirit'};let documentEditor=null;let ids=[],category='weapon',level=1,hero=heroes.find(h=>h.name==='Abrams')||heroes[0],pending=null;

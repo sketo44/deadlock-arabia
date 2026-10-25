@@ -66,3 +66,5 @@
 
 /* Fairfax rows follow the supplied in-game catalogue: 5 / 6 / 6 / 5. */
 @container(min-width:781px){.game-store .weapon [data-tier="3"] .shop-tiles{grid-template-columns:repeat(6,minmax(0,1fr))!important}.game-store .weapon [data-tier="4"] .shop-tiles{grid-template-columns:repeat(5,minmax(0,1fr))!important}}
+
+@container(min-width:781px){.game-store .shop-tiles{direction:ltr}.game-store :is(.vitality,.spirit) [data-tier="1"] .shop-tiles,.game-store :is(.vitality,.spirit) [data-tier="3"] .shop-tiles{grid-template-columns:repeat(5,minmax(0,1fr))!important}.game-store :is(.vitality,.spirit) [data-tier="2"] .shop-tiles,.game-store :is(.vitality,.spirit) [data-tier="4"] .shop-tiles{grid-template-columns:repeat(6,minmax(0,1fr))!important}}
