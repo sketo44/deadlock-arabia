@@ -1,5 +1,5 @@
 import {draftPage,mountDraft} from './draft-room.js?v=custom-163';
-import {tournamentPage as championshipPage,mountTournaments as mountChampionships} from './tournament-center.js?v=owners-155';
+import {tournamentPage as championshipPage,mountTournaments as mountChampionships} from './tournament-center.js?v=172';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let selected='tournaments',stop=()=>{};try{if(['tournaments','draft'].includes(sessionStorage.getItem('dla-arena-tab')))selected=sessionStorage.getItem('dla-arena-tab')}catch{}
 const icon='<svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><path d="M9 12h30v24H9zM16 7v10M32 7v10M9 23h30M20 23v13M28 23v13" stroke="currentColor" stroke-width="1.5"/></svg>';

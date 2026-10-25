@@ -9,3 +9,6 @@
 .cup-bracket-shell .cup-bracket{justify-content:center}
 
 #cup-center .cup-registration-help{background:#182838;border:1px solid #657263;border-radius:14px;padding:18px 22px;margin:18px 0;color:#f4ecd4}#cup-center .cup-registration-help summary{cursor:pointer;font-weight:800;color:#e4c780}#cup-center .cup-registration-help ol{padding-inline-start:24px;line-height:1.9}#cup-center .cup-registration-help li+li{margin-top:8px}#cup-center .cup-logo-preview{object-fit:contain;border:1px solid #657263;border-radius:10px;background:#101a26;margin-top:10px}#cup-center .cup-logo-preview[hidden]{display:none}
+
+/* Show the entire bracket without an inner scroll area. */
+.cup-bracket-shell .cup-bracket-scroll{max-height:none;overflow:visible;scrollbar-gutter:auto;padding:0}.cup-bracket-shell .cup-bracket{display:flex;min-width:max-content;width:max-content;justify-content:flex-start}.cup-bracket-shell .cup-round,.cup-bracket-shell .cup-round.is-selected{display:flex;width:240px;flex:0 0 240px}.cup-bracket-shell .cup-round h4{position:static}.cup-bracket-shell .cup-match-slot{height:calc(var(--cup-slot)*var(--cup-span));padding:0}.cup-bracket-shell .cup-round-matches{gap:0}.cup-bracket-shell .cup-match-slot:before,.cup-bracket-shell .cup-match-slot:after{display:block}
