@@ -1,5 +1,5 @@
 import {mountHeroPicker} from './hero-picker.js?v=147';
-import {mountBuildGroups} from './groups.js?v=167';
+import {mountBuildGroups} from './groups.js?v=168';
 import {packBuildDocument,documentItems} from '../build-document.js?v=147';
 import {gameBuildCode} from '../game-build-code.js?v=147';
 import {validateBuildText} from '../build-moderation.js?v=123';
