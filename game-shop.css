@@ -63,3 +63,6 @@
  .game-store :is(.vitality,.spirit) .catalog-layout>.shop-tier[data-tier="4"]{grid-column:47/101;grid-row:2}
 }
 @container(max-width:560px){.game-store .catalog-layout{display:block}.game-store .catalog-layout>.shop-tier[data-tier]{grid-column:auto;grid-row:auto}}
+
+/* Fairfax rows follow the supplied in-game catalogue: 5 / 6 / 6 / 5. */
+@container(min-width:781px){.game-store .weapon [data-tier="3"] .shop-tiles{grid-template-columns:repeat(6,minmax(0,1fr))!important}.game-store .weapon [data-tier="4"] .shop-tiles{grid-template-columns:repeat(5,minmax(0,1fr))!important}}
