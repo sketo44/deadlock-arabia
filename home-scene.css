@@ -244,3 +244,8 @@ body.home-city .flip-options a,body.home-city .flip-options button{background:#1
 body.home-city .flip-options a:hover{background:#2c352deb;border-color:#eddaa1}
 body.home-city .flip-return{background:#182220b8;border-color:#cbb98977;border-radius:10px}
 body.home-city .flip-community .flip-back:before{background-size:48% auto;opacity:.16}body.home-city .flip-community .flip-back:after{bottom:10px;font-size:11px;letter-spacing:3px}
+
+/* Frame the supplied community wallpaper portraits. */
+.community-cast img{object-position:78% center}.community-cast img:nth-child(2){object-position:82% center}.community-cast img:nth-child(3){object-position:80% center}
+.door .community-cast img{object-position:78% center}.door .community-cast img:nth-child(2){object-position:82% center}.door .community-cast img:nth-child(3){object-position:80% center}
+.door .community-cast img:first-child{object-position:90% center}
