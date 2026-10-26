@@ -1,0 +1,310 @@
+{
+  "1": {
+    "name": "Infernus",
+    "head": "./media/hero-heads/1.png",
+    "color": "#C93C26",
+    "nameImage": "../assets/hero-names-ar/1.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/inferno_mm.png"
+  },
+  "2": {
+    "name": "Seven",
+    "head": "./media/hero-heads/2.png",
+    "color": "#CC861E",
+    "nameImage": "../assets/hero-names-ar/2.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/gigawatt_mm.png"
+  },
+  "3": {
+    "name": "Vindicta",
+    "head": "./media/hero-heads/3.png",
+    "color": "#A2C7E5",
+    "nameImage": "../assets/hero-names-ar/3.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/hornet_mm.png"
+  },
+  "4": {
+    "name": "Lady Geist",
+    "head": "./media/hero-heads/4.png",
+    "color": "#218440",
+    "nameImage": "../assets/hero-names-ar/4.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/spectre_mm.png"
+  },
+  "6": {
+    "name": "Abrams",
+    "head": "./media/hero-heads/6.png",
+    "color": "#2092AE",
+    "nameImage": "../assets/hero-names-ar/6.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/bull_mm.png"
+  },
+  "7": {
+    "name": "Wraith",
+    "head": "./media/hero-heads/7.png",
+    "color": "#944D78",
+    "nameImage": "../assets/hero-names-ar/7.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/wraith_mm.png"
+  },
+  "8": {
+    "name": "McGinnis",
+    "head": "./media/hero-heads/8.png",
+    "color": "#23549D",
+    "nameImage": "../assets/hero-names-ar/8.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/engineer_mm.png"
+  },
+  "10": {
+    "name": "Paradox",
+    "head": "./media/hero-heads/10.png",
+    "color": "#983952",
+    "nameImage": "../assets/hero-names-ar/10.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/chrono_mm.png"
+  },
+  "11": {
+    "name": "Dynamo",
+    "head": "./media/hero-heads/11.png",
+    "color": "#D0B945",
+    "nameImage": "../assets/hero-names-ar/11.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/sumo_mm.png"
+  },
+  "12": {
+    "name": "Kelvin",
+    "head": "./media/hero-heads/12.png",
+    "color": "#74ABBC",
+    "nameImage": "../assets/hero-names-ar/12.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/kelvin_mm.png"
+  },
+  "13": {
+    "name": "Haze",
+    "head": "./media/hero-heads/13.png",
+    "color": "#AC6133",
+    "nameImage": "../assets/hero-names-ar/13.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/haze_mm.png"
+  },
+  "14": {
+    "name": "Holliday",
+    "head": "./media/hero-heads/14.png",
+    "color": "#A35A1B",
+    "nameImage": "../assets/hero-names-ar/14.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/astro_mm.png"
+  },
+  "15": {
+    "name": "Bebop",
+    "head": "./media/hero-heads/15.png",
+    "color": "#9F4734",
+    "nameImage": "../assets/hero-names-ar/15.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/bebop_mm.png"
+  },
+  "16": {
+    "name": "Calico",
+    "head": "./media/hero-heads/16.png",
+    "color": "#572798",
+    "nameImage": "../assets/hero-names-ar/16.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/nano_mm.png"
+  },
+  "17": {
+    "name": "Grey Talon",
+    "head": "./media/hero-heads/17.png",
+    "color": "#5EB083",
+    "nameImage": "../assets/hero-names-ar/17.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/archer_mm.png"
+  },
+  "18": {
+    "name": "Mo & Krill",
+    "head": "./media/hero-heads/18.png",
+    "color": "#C58428",
+    "nameImage": "../assets/hero-names-ar/18.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/digger_mm.png"
+  },
+  "19": {
+    "name": "Shiv",
+    "head": "./media/hero-heads/19.png",
+    "color": "#E52A68",
+    "nameImage": "../assets/hero-names-ar/19.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/shiv_mm.png"
+  },
+  "20": {
+    "name": "Ivy",
+    "head": "./media/hero-heads/20.png",
+    "color": "#9D8CA9",
+    "nameImage": "../assets/hero-names-ar/20.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/tengu_mm.png"
+  },
+  "25": {
+    "name": "Warden",
+    "head": "./media/hero-heads/25.png",
+    "color": "#4D68A3",
+    "nameImage": "../assets/hero-names-ar/25.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/warden_mm.png"
+  },
+  "27": {
+    "name": "Yamato",
+    "head": "./media/hero-heads/27.png",
+    "color": "#625789",
+    "nameImage": "../assets/hero-names-ar/27.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/yamato_mm.png"
+  },
+  "31": {
+    "name": "Lash",
+    "head": "./media/hero-heads/31.png",
+    "color": "#4174BB",
+    "nameImage": "../assets/hero-names-ar/31.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/lash_mm.png"
+  },
+  "35": {
+    "name": "Viscous",
+    "head": "./media/hero-heads/35.png",
+    "color": "#319826",
+    "nameImage": "../assets/hero-names-ar/35.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/viscous_mm.png"
+  },
+  "50": {
+    "name": "Pocket",
+    "head": "./media/hero-heads/50.png",
+    "color": "#858617",
+    "nameImage": "../assets/hero-names-ar/50.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/synth_mm.png"
+  },
+  "52": {
+    "name": "Mirage",
+    "head": "./media/hero-heads/52.png",
+    "color": "#6A2E68",
+    "nameImage": "../assets/hero-names-ar/52.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/mirage_mm.png"
+  },
+  "58": {
+    "name": "Vyper",
+    "head": "./media/hero-heads/58.png",
+    "color": "#A7AD00",
+    "nameImage": "../assets/hero-names-ar/58.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/kali_mm.png"
+  },
+  "60": {
+    "name": "Sinclair",
+    "head": "./media/hero-heads/60.png",
+    "color": "#6B6B6B",
+    "nameImage": "../assets/hero-names-ar/60.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/magician_mm.png"
+  },
+  "63": {
+    "name": "Mina",
+    "head": "./media/hero-heads/63.png",
+    "color": "#A9171E",
+    "nameImage": "../assets/hero-names-ar/63.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/vampirebat_mm.png"
+  },
+  "64": {
+    "name": "Drifter",
+    "head": "./media/hero-heads/64.png",
+    "color": "#9D2C2B",
+    "nameImage": "../assets/hero-names-ar/64.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/drifter_mm.png"
+  },
+  "65": {
+    "name": "Venator",
+    "head": "./media/hero-heads/65.png",
+    "color": "#BD3599",
+    "nameImage": "../assets/hero-names-ar/65.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/priest_mm.png"
+  },
+  "66": {
+    "name": "Victor",
+    "head": "./media/hero-heads/66.png",
+    "color": "#658B6F",
+    "nameImage": "../assets/hero-names-ar/66.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/frank_mm.png"
+  },
+  "67": {
+    "name": "Paige",
+    "head": "./media/hero-heads/67.png",
+    "color": "#258F63",
+    "nameImage": "../assets/hero-names-ar/67.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/bookworm_mm.png"
+  },
+  "69": {
+    "name": "The Doorman",
+    "head": "./media/hero-heads/69.png",
+    "color": "#B77528",
+    "nameImage": "../assets/hero-names-ar/69.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/doorman_mm.png"
+  },
+  "72": {
+    "name": "Billy",
+    "head": "./media/hero-heads/72.png",
+    "color": "#D4AD0E",
+    "nameImage": "../assets/hero-names-ar/72.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/punkgoat_mm.png"
+  },
+  "76": {
+    "name": "Graves",
+    "head": "./media/hero-heads/76.png",
+    "color": "#D9F334",
+    "nameImage": "../assets/hero-names-ar/76.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/necro_mm.png"
+  },
+  "77": {
+    "name": "Apollo",
+    "head": "./media/hero-heads/77.png",
+    "color": "#FF3333",
+    "nameImage": "../assets/hero-names-ar/77.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/fencer_mm.png"
+  },
+  "78": {
+    "name": "Deadman Danny",
+    "head": "./media/hero-heads/78.png",
+    "color": "#CE8D2A",
+    "nameImage": "../assets/hero-names-ar/78.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/deadpack_mm.png"
+  },
+  "79": {
+    "name": "Rem",
+    "head": "./media/hero-heads/79.png",
+    "color": "#5383D1",
+    "nameImage": "../assets/hero-names-ar/79.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/familiar_mm.png"
+  },
+  "80": {
+    "name": "Silver",
+    "head": "./media/hero-heads/80.png",
+    "color": "#BFBC9F",
+    "nameImage": "../assets/hero-names-ar/80.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/werewolf_mm.png"
+  },
+  "81": {
+    "name": "Celeste",
+    "head": "./media/hero-heads/81.png",
+    "color": "#BBA9E1",
+    "nameImage": "../assets/hero-names-ar/81.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/unicorn_mm.png"
+  },
+  "84": {
+    "name": "Rat King",
+    "head": "./media/hero-heads/84.png",
+    "color": "#733033",
+    "nameImage": "../assets/hero-names-ar/84.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/ratking_mm.png"
+  },
+  "85": {
+    "name": "Solomon",
+    "head": "./media/hero-heads/85.png",
+    "color": "#AA9E7E",
+    "nameImage": "../assets/hero-names-ar/85.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/chessmaster_mm.png"
+  },
+  "86": {
+    "name": "Violet",
+    "head": "./media/hero-heads/86.png",
+    "color": "#653cbc",
+    "nameImage": "../assets/hero-names-ar/86.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/artist_mm.png"
+  },
+  "88": {
+    "name": "Baba",
+    "head": "./media/hero-heads/88.png",
+    "color": "#895672",
+    "nameImage": "../assets/hero-names-ar/88.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/baba_mm.png"
+  },
+  "nurse-harrow": {
+    "name": "Nurse Harrow",
+    "head": "./media/hero-heads/nurse-harrow.png",
+    "color": "#55C9BA",
+    "nameImage": "../assets/hero-names-ar/nurse-harrow.png",
+    "source": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/nurse_mm.png"
+  }
+}

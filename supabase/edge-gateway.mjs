@@ -1,3 +1,4 @@
+import studio from '../netlify/functions/studio-drafts.mjs';
 import discord from '../netlify/functions/discord-bot.mjs';
 import drafts from '../netlify/functions/draft-rooms.mjs';
 import community from '../netlify/functions/arab-community.mjs';
@@ -10,13 +11,13 @@ import {randomBytes,createHash} from 'node:crypto';
 const hash=v=>createHash('sha256').update(v).digest('hex');
 const SITE='https://sketo44.github.io/deadlock-arabia/';
 const ORIGIN=new URL(SITE).origin;
-const routes={'arab-community':community,'game-rooms':rooms,tournaments,'draft-rooms':drafts,'patch-translations':patches,'discord-bot':discord};
+const routes={'arab-community':community,'game-rooms':rooms,tournaments,'draft-rooms':drafts,'patch-translations':patches,'discord-bot':discord,'studio-drafts':studio};
 const challengeHash=v=>createHash('sha256').update(v).digest('base64url');
-function redirect(route,params){const url=new URL(SITE);url.hash=route;for(const[k,v]of Object.entries(params))url.searchParams.set(k,v);return new Response(null,{status:302,headers:{Location:url.href,'Cache-Control':'no-store','Referrer-Policy':'no-referrer'}})}
+function redirect(route,params){const url=new URL(SITE);if(route==='draft')url.pathname=new URL('draft/',SITE).pathname;else url.hash=route;for(const[k,v]of Object.entries(params))url.searchParams.set(k,v);return new Response(null,{status:302,headers:{Location:url.href,'Cache-Control':'no-store','Referrer-Policy':'no-referrer'}})}
 async function auth(path,body){const r=await fetch(process.env.SUPABASE_URL+'/auth/v1/'+path,{method:'POST',headers:{apikey:process.env.SUPABASE_SERVICE_ROLE_KEY,Authorization:'Bearer '+process.env.SUPABASE_SERVICE_ROLE_KEY,'Content-Type':'application/json'},body:JSON.stringify(body),signal:AbortSignal.timeout(12000)});if(!r.ok)throw Error('Account exchange failed');return r.json()}
 async function start(request,url){
  const challenge=url.searchParams.get('challenge')||'',next=url.searchParams.get('next')||'community';
- if(!/^[A-Za-z0-9_-]{43}$/.test(challenge)||!['community','tournaments','account','planner'].includes(next))return json({error:'ابدأ الدخول من الموقع'},400);
+ if(!/^[A-Za-z0-9_-]{43}$/.test(challenge)||!['community','tournaments','account','planner','draft'].includes(next))return json({error:'ابدأ الدخول من الموقع'},400);
  const ip=hash(request.headers.get('x-forwarded-for')?.split(',')[0]||request.headers.get('cf-connecting-ip')||'unknown');
  await db('edge_login_flows?expires_at=lt.'+encodeURIComponent(new Date().toISOString()),{method:'DELETE'});
  await db('edge_login_codes?expires_at=lt.'+encodeURIComponent(new Date().toISOString()),{method:'DELETE'});

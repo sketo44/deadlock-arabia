@@ -1,0 +1,310 @@
+{
+  "1": {
+    "name": "Infernus",
+    "portrait": "./media/hero-cinematics/1.webp",
+    "background": "./media/hero-cinematic-backgrounds/1.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Infernus.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/infernus_bg_psd.vtex_c"
+  },
+  "2": {
+    "name": "Seven",
+    "portrait": "./media/hero-cinematics/2.webp",
+    "background": "./media/hero-cinematic-backgrounds/2.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Seven.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/seven_bg_psd.vtex_c"
+  },
+  "3": {
+    "name": "Vindicta",
+    "portrait": "./media/hero-cinematics/3.webp",
+    "background": "./media/hero-cinematic-backgrounds/3.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Vindicta.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/vindicta_bg_psd.vtex_c"
+  },
+  "4": {
+    "name": "Lady Geist",
+    "portrait": "./media/hero-cinematics/4.webp",
+    "background": "./media/hero-cinematic-backgrounds/4.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/LadyGeist.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/geist_bg_psd.vtex_c"
+  },
+  "6": {
+    "name": "Abrams",
+    "portrait": "./media/hero-cinematics/6.webp",
+    "background": "./media/hero-cinematic-backgrounds/6.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Abrams.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/abrams_bg_psd.vtex_c"
+  },
+  "7": {
+    "name": "Wraith",
+    "portrait": "./media/hero-cinematics/7.webp",
+    "background": "./media/hero-cinematic-backgrounds/7.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Wraith.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/wraith_bg_psd.vtex_c"
+  },
+  "8": {
+    "name": "McGinnis",
+    "portrait": "./media/hero-cinematics/8.webp",
+    "background": "./media/hero-cinematic-backgrounds/8.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/McGinnis.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/mcginnis_bg_psd.vtex_c"
+  },
+  "10": {
+    "name": "Paradox",
+    "portrait": "./media/hero-cinematics/10.webp",
+    "background": "./media/hero-cinematic-backgrounds/10.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Paradox.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/paradox_bg_psd.vtex_c"
+  },
+  "11": {
+    "name": "Dynamo",
+    "portrait": "./media/hero-cinematics/11.webp",
+    "background": "./media/hero-cinematic-backgrounds/11.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Dynamo.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/dynamo_bg_psd.vtex_c"
+  },
+  "12": {
+    "name": "Kelvin",
+    "portrait": "./media/hero-cinematics/12.webp",
+    "background": "./media/hero-cinematic-backgrounds/12.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Kelvin.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/kelvin_bg_psd.vtex_c"
+  },
+  "13": {
+    "name": "Haze",
+    "portrait": "./media/hero-cinematics/13.webp",
+    "background": "./media/hero-cinematic-backgrounds/13.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Haze.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/haze_bg_psd.vtex_c"
+  },
+  "14": {
+    "name": "Holliday",
+    "portrait": "./media/hero-cinematics/14.webp",
+    "background": "./media/hero-cinematic-backgrounds/14.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Holliday.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/astro_bg_psd.vtex_c"
+  },
+  "15": {
+    "name": "Bebop",
+    "portrait": "./media/hero-cinematics/15.webp",
+    "background": "./media/hero-cinematic-backgrounds/15.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Bebop.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/bebop_bg_psd.vtex_c"
+  },
+  "16": {
+    "name": "Calico",
+    "portrait": "./media/hero-cinematics/16.webp",
+    "background": "./media/hero-cinematic-backgrounds/16.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Calico.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/calico_bg_psd.vtex_c"
+  },
+  "17": {
+    "name": "Grey Talon",
+    "portrait": "./media/hero-cinematics/17.webp",
+    "background": "./media/hero-cinematic-backgrounds/17.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/GreyTalon.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/grey_talon_bg_psd.vtex_c"
+  },
+  "18": {
+    "name": "Mo & Krill",
+    "portrait": "./media/hero-cinematics/18.webp",
+    "background": "./media/hero-cinematic-backgrounds/18.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/MoAndKrill.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/krill_bg_psd.vtex_c"
+  },
+  "19": {
+    "name": "Shiv",
+    "portrait": "./media/hero-cinematics/19.webp",
+    "background": "./media/hero-cinematic-backgrounds/19.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Shiv.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/shiv_bg_psd.vtex_c"
+  },
+  "20": {
+    "name": "Ivy",
+    "portrait": "./media/hero-cinematics/20.webp",
+    "background": "./media/hero-cinematic-backgrounds/20.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Ivy.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/ivy_bg_psd.vtex_c"
+  },
+  "25": {
+    "name": "Warden",
+    "portrait": "./media/hero-cinematics/25.webp",
+    "background": "./media/hero-cinematic-backgrounds/25.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Warden.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/warden_bg_psd.vtex_c"
+  },
+  "27": {
+    "name": "Yamato",
+    "portrait": "./media/hero-cinematics/27.webp",
+    "background": "./media/hero-cinematic-backgrounds/27.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Yamato.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/yamato_bg_psd.vtex_c"
+  },
+  "31": {
+    "name": "Lash",
+    "portrait": "./media/hero-cinematics/31.webp",
+    "background": "./media/hero-cinematic-backgrounds/31.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Lash.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/lash_bg_psd.vtex_c"
+  },
+  "35": {
+    "name": "Viscous",
+    "portrait": "./media/hero-cinematics/35.webp",
+    "background": "./media/hero-cinematic-backgrounds/35.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Viscous.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/viscous_bg_psd.vtex_c"
+  },
+  "50": {
+    "name": "Pocket",
+    "portrait": "./media/hero-cinematics/50.webp",
+    "background": "./media/hero-cinematic-backgrounds/50.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Pocket.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/pocket_bg_psd.vtex_c"
+  },
+  "52": {
+    "name": "Mirage",
+    "portrait": "./media/hero-cinematics/52.webp",
+    "background": "./media/hero-cinematic-backgrounds/52.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Mirage.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/mirage_bg_psd.vtex_c"
+  },
+  "58": {
+    "name": "Vyper",
+    "portrait": "./media/hero-cinematics/58.webp",
+    "background": "./media/hero-cinematic-backgrounds/58.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Vyper.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/vyper_bg_psd.vtex_c"
+  },
+  "60": {
+    "name": "Sinclair",
+    "portrait": "./media/hero-cinematics/60.webp",
+    "background": "./media/hero-cinematic-backgrounds/60.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Sinclair.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/magician_bg_psd.vtex_c"
+  },
+  "63": {
+    "name": "Mina",
+    "portrait": "./media/hero-cinematics/63.webp",
+    "background": "./media/hero-cinematic-backgrounds/63.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Mina.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/mina_bg_psd.vtex_c"
+  },
+  "64": {
+    "name": "Drifter",
+    "portrait": "./media/hero-cinematics/64.webp",
+    "background": "./media/hero-cinematic-backgrounds/64.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Drifter.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/drifter_bg_psd.vtex_c"
+  },
+  "65": {
+    "name": "Venator",
+    "portrait": "./media/hero-cinematics/65.webp",
+    "background": "./media/hero-cinematic-backgrounds/65.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Venator.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/priest_bg_psd.vtex_c"
+  },
+  "66": {
+    "name": "Victor",
+    "portrait": "./media/hero-cinematics/66.webp",
+    "background": "./media/hero-cinematic-backgrounds/66.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Victor.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/victor_bg_psd.vtex_c"
+  },
+  "67": {
+    "name": "Paige",
+    "portrait": "./media/hero-cinematics/67.webp",
+    "background": "./media/hero-cinematic-backgrounds/67.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Paige.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/patience_bg_psd.vtex_c"
+  },
+  "69": {
+    "name": "The Doorman",
+    "portrait": "./media/hero-cinematics/69.webp",
+    "background": "./media/hero-cinematic-backgrounds/69.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/TheDoorman.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/doorman_bg_psd.vtex_c"
+  },
+  "72": {
+    "name": "Billy",
+    "portrait": "./media/hero-cinematics/72.webp",
+    "background": "./media/hero-cinematic-backgrounds/72.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Billy.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/billy_bg_psd.vtex_c"
+  },
+  "76": {
+    "name": "Graves",
+    "portrait": "./media/hero-cinematics/76.webp",
+    "background": "./media/hero-cinematic-backgrounds/76.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Graves.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/necro_bg_psd.vtex_c"
+  },
+  "77": {
+    "name": "Apollo",
+    "portrait": "./media/hero-cinematics/77.webp",
+    "background": "./media/hero-cinematic-backgrounds/77.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Apollo.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/fencer_bg_psd.vtex_c"
+  },
+  "78": {
+    "name": "Deadman Danny",
+    "portrait": "./media/hero-cinematics/78.webp",
+    "background": "./media/hero-cinematic-backgrounds/78.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/DeadmanDanny.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/deadpack_bg_psd.vtex_c"
+  },
+  "79": {
+    "name": "Rem",
+    "portrait": "./media/hero-cinematics/79.webp",
+    "background": "./media/hero-cinematic-backgrounds/79.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Rem.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/familiar_bg_psd.vtex_c"
+  },
+  "80": {
+    "name": "Silver",
+    "portrait": "./media/hero-cinematics/80.webp",
+    "background": "./media/hero-cinematic-backgrounds/80.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Silver.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/werewolf_bg_psd.vtex_c"
+  },
+  "81": {
+    "name": "Celeste",
+    "portrait": "./media/hero-cinematics/81.webp",
+    "background": "./media/hero-cinematic-backgrounds/81.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Celeste.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/unicorn_bg_psd.vtex_c"
+  },
+  "84": {
+    "name": "Rat King",
+    "portrait": "./media/hero-cinematics/84.webp",
+    "background": "./media/hero-cinematic-backgrounds/84.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/RatKing.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/ratking_bg_psd.vtex_c"
+  },
+  "85": {
+    "name": "Solomon",
+    "portrait": "./media/hero-cinematics/85.webp",
+    "background": "./media/hero-cinematic-backgrounds/85.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Solomon.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/chessmaster_bg_psd.vtex_c"
+  },
+  "86": {
+    "name": "Violet",
+    "portrait": "./media/hero-cinematics/86.webp",
+    "background": "./media/hero-cinematic-backgrounds/86.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Violet.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/artist_bg_psd.vtex_c"
+  },
+  "88": {
+    "name": "Baba",
+    "portrait": "./media/hero-cinematics/88.webp",
+    "background": "./media/hero-cinematic-backgrounds/88.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/Baba.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/baba_bg_psd.vtex_c"
+  },
+  "nurse-harrow": {
+    "name": "Nurse Harrow",
+    "portrait": "./media/hero-cinematics/nurse-harrow.webp",
+    "background": "./media/hero-cinematic-backgrounds/nurse-harrow.webp",
+    "source": "https://www.deadchaps.gg/draft-heroes-portrait/NurseHarrow.webp",
+    "backgroundSource": "panorama/images/heroes/backgrounds/nurse_bg_psd.vtex_c"
+  }
+}
