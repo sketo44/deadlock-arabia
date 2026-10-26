@@ -76,3 +76,9 @@ body:not(.draft-active) .intro>div{min-width:0;flex:1}
 /* Keep the draft free of the site's top navigation bar. */
 body .mast,body.draft-active .mast{display:none}
 @media(min-width:701px){body.draft-active main{height:100dvh}}
+
+.draft-tournaments-return{position:fixed;top:12px;left:18px;z-index:35;display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:8px 18px;border:1px solid #c3ac7a66;border-radius:10px;background:#172434eb;color:#ead9b6;text-decoration:none;font-size:12px;backdrop-filter:blur(12px)}
+.draft-tournaments-return:hover{background:#253348;border-color:#dec596}
+body.draft-active .draft-tournaments-return{position:absolute;top:8px;left:12px;min-height:32px;padding:5px 12px;font-size:11px}
+body.obs .draft-tournaments-return{display:none}
+@media(max-width:700px){.draft-tournaments-return{position:relative;top:auto;left:auto;margin:12px 16px 0}body.draft-active .draft-tournaments-return{position:relative;top:auto;left:auto;margin:8px 12px 0}}
