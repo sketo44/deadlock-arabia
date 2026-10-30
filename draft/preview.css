@@ -323,3 +323,16 @@ body.draft-active .patron-presence>img{filter:none;mask-image:linear-gradient(to
 body.draft-active .patron-presence:before{inset:-30%;background:radial-gradient(ellipse at 50% 50%,color-mix(in srgb,var(--patron-light) 12%,transparent),transparent 65%)}
 
 .ban-alarm .ban-word{line-height:1.15;padding:0 .08em;text-align:center;white-space:nowrap}
+
+/* Approved turn artwork: one illuminated patron per side, with a clear center. */
+body.draft-active .patron-presence{display:none}
+body.draft-active .scene-orange,body.draft-active .scene-blue{background-position:center;background-repeat:no-repeat;background-size:100% 100%;transition:opacity .85s ease}
+body.draft-active .scene-orange{background-image:url('./media/king-turn-art.webp')}
+body.draft-active .scene-blue{background-image:url('./media/mother-turn-art.webp')}
+@media(min-width:1101px){
+ body.draft-active main{width:60vw;max-width:1600px;padding-inline:16px}
+ body.draft-active .cine-layout,body.draft-active .arena.competitive .cine-layout{grid-template-columns:minmax(150px,16%) minmax(0,1fr) minmax(150px,16%);gap:20px}
+ body.draft-active .pick-slot,body.draft-active .arena.competitive .pick-slot{flex:0 0 clamp(44px,5.5vh,60px);height:clamp(44px,5.5vh,60px);min-height:44px;max-height:60px}
+}
+@media(max-width:700px){body.draft-active .scene-orange,body.draft-active .scene-blue{background-size:auto 100%}body.draft-active .scene-orange{background-position:left center}body.draft-active .scene-blue{background-position:right center}}
+@media(prefers-reduced-motion:reduce){body.draft-active .scene-color{transition:none}}
