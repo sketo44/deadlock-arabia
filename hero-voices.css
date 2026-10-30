@@ -1,1 +1,9 @@
 .hero-voice-toggle{display:inline-flex;align-items:center;justify-content:center;min-height:36px;padding:6px 12px;border:1px solid #c6b07d66;border-radius:8px;background:#15283be6;color:#e9ddc5;font:12px 'Segoe UI',Tahoma,sans-serif;cursor:pointer}.hero-voice-toggle:focus-visible{outline:2px solid #e7ca91;outline-offset:3px}.wraith-permanent-heading .hero-voice-toggle{margin-top:12px}.hero-voice-toggle[aria-pressed=true]{color:#c0cad5;background:#172434}.draft-page-title .hero-voice-toggle{flex:none}
+
+.hero-audio-controls{display:flex;align-items:center;flex-wrap:wrap;gap:10px 16px;width:fit-content;max-width:100%;padding:10px 12px;margin-top:14px;border:1px solid #c6b07d55;border-radius:12px;background:#142236e6;color:#e9ddc5;font:400 12px/1.8 'Noto Sans Arabic',Tahoma,sans-serif}
+.wraith-permanent-heading .hero-audio-controls .hero-voice-toggle{margin:0;min-height:44px;font-family:inherit;line-height:1.8}
+.hero-volume-control{display:flex;align-items:center;gap:10px;margin:0;font:inherit;color:#d5deea}
+.hero-volume-control input[type=range]{direction:ltr;min-height:44px;width:130px;padding:0;border:0;background:transparent;accent-color:#dec596;cursor:pointer}
+.hero-volume-control output{min-width:38px;text-align:center;direction:ltr;unicode-bidi:isolate;font-variant-numeric:tabular-nums;color:#eed6a6;font-size:12px}
+.hero-audio-controls :is(button,input):focus-visible{outline:2px solid #f0d6a3;outline-offset:4px}
+@media(max-width:480px){.hero-audio-controls{width:100%;gap:8px;padding:10px}.hero-volume-control{flex:1;justify-content:space-between;gap:8px}.hero-volume-control input[type=range]{width:100%;min-width:80px;flex:1}.hero-volume-control>span{font-size:11px;white-space:nowrap}}
