@@ -343,3 +343,5 @@ body[data-draft-view="lobby"] .scene-color{opacity:1;background-position:center;
 body[data-draft-view="lobby"] .scene-orange{background-image:url('./media/king-turn-art-v2.webp')}
 body[data-draft-view="lobby"] .scene-blue{background-image:url('./media/mother-turn-art.webp');mask-image:linear-gradient(to right,transparent 40%,#000 65%);-webkit-mask-image:linear-gradient(to right,transparent 40%,#000 65%)}
 @media(max-width:700px){body[data-draft-view="lobby"] .scene-color{background-size:auto 100%}body[data-draft-view="lobby"] .scene-orange{background-position:left center}body[data-draft-view="lobby"] .scene-blue{background-position:right center}}
+
+.seat-avatar{width:36px;height:36px;flex:0 0 36px;border-radius:6px;object-fit:cover}.seat strong{min-width:0;overflow-wrap:anywhere}
