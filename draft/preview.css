@@ -318,3 +318,6 @@ body.draft-active .scene-blue{background:radial-gradient(ellipse at 92% 22%,#397
 body.draft-active .patron-spotlight{position:fixed;inset:-15vh -10vw;clip-path:none;filter:none;mask-image:none;-webkit-mask-image:none;background:radial-gradient(ellipse 16vw 55vh at var(--spot-x) 25vh,color-mix(in srgb,var(--patron-light) 24%,transparent) 0%,color-mix(in srgb,var(--patron-light) 10%,transparent) 35%,transparent 75%);pointer-events:none}
 body.draft-active .presence-king{--spot-x:18%}
 body.draft-active .presence-mother{--spot-x:82%}
+
+body.draft-active .patron-presence>img{filter:none;mask-image:linear-gradient(to bottom,transparent 0%,#000 8%,#000 88%,transparent 100%);-webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 8%,#000 88%,transparent 100%)}
+body.draft-active .patron-presence:before{inset:-30%;background:radial-gradient(ellipse at 50% 50%,color-mix(in srgb,var(--patron-light) 12%,transparent),transparent 65%)}
