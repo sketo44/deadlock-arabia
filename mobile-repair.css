@@ -110,3 +110,14 @@ body:not(.home-city)>header{background:transparent!important;border-bottom:0!imp
 
 /* Closed navigation must stay hidden, including standalone assistant pages. */
 body>header nav.site-navigation[hidden]{display:none!important}
+
+/* Desktop navigation stays visible; the collapsed menu is for phones. */
+@media(min-width:901px){
+ body>header .nav-toggle{display:none!important}
+ body>header nav.site-navigation{display:flex!important;flex:1 1 auto;width:auto;order:initial;margin:0;padding:0;border:0;gap:12px;justify-content:center;flex-wrap:wrap}
+ body>header nav.site-navigation[hidden]{display:flex!important}
+ body.home-city>header{display:flex!important}
+ body.home-city .home-scene-root .site-header{display:none!important}
+}
+
+body.home-city>header{display:flex!important}body.home-city .home-scene-root .site-header{display:none!important}

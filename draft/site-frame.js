@@ -1,5 +1,5 @@
 const header=document.querySelector('.mast'),toggle=header.querySelector('.draft-menu-toggle'),nav=header.querySelector('.draft-site-nav');
-const small=matchMedia('(max-width:1180px)');
+const small=matchMedia('(max-width:900px)');
 function close(){toggle.setAttribute('aria-expanded','false');nav.dataset.open='false';nav.hidden=small.matches;nav.inert=small.matches}
 function sync(){close()}
 toggle.addEventListener('click',()=>{const open=toggle.getAttribute('aria-expanded')!=='true';toggle.setAttribute('aria-expanded',String(open));nav.dataset.open=String(open);nav.hidden=!open;nav.inert=!open});
