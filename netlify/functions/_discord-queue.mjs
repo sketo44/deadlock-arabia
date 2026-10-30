@@ -33,7 +33,7 @@ export function queueDraft(queue){
  state.teams.forEach((team,i)=>{team.slots=queue.teams[i].map(id=>{const p=queue.players.find(p=>p.discordId===id);return{id:p.steamId,name:p.name}})});
  state.discordQueueId=queue.id;return state;
 }
-export function queueMessage(q,site='https://sketo44.github.io/deadlock-arabia/'){
+export function queueMessage(q,site='https://www.deadlockar.com/'){
  const done=!!q.draftCode,closed=q.status!=='waiting',names=q.players.map((p,i)=>`${i+1}. <@${p.discordId}>`).join('\n')||'بانتظار أول لاعب';
  const description=done?'اكتمل العدد! افتحوا الدرافت للحظر والاختيار.':q.status==='cancelled'?'تم إلغاء القيم.':q.status==='ready'?'اكتمل العدد · نجهّز الفريقين والدرافت.':'اضغط انضمام للمشاركة. يلزم ربط Steam مرة واحدة.';
  return{allowed_mentions:{parse:[]},embeds:[{title:q.title,description,color:done?0xc5ab72:0x238b64,fields:[{name:`اللاعبون (${q.players.length}/12)`,value:names}]}],components:[{type:1,components:done?[{type:2,style:5,label:'افتح الدرافت',url:site+'draft/#room/'+q.draftCode}]:[{type:2,style:3,label:'انضمام',custom_id:'dla:join:'+q.id,disabled:closed},{type:2,style:2,label:'انسحاب',custom_id:'dla:leave:'+q.id,disabled:closed},{type:2,style:4,label:'إلغاء القيم',custom_id:'dla:cancel:'+q.id,disabled:closed}]}]};

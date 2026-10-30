@@ -1,6 +1,6 @@
 import {Resvg,initWasm} from './_vendor/resvg-wasm.mjs';
 import {draftHeroes} from '../../draft-heroes.js';
-const SITE='https://sketo44.github.io/deadlock-arabia/';
+const SITE='https://www.deadlockar.com/';
 let rendererReady;
 const xml=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&apos;'}[c]));
 async function bytes(path){const r=await fetch(SITE+path,{signal:AbortSignal.timeout(15000)});if(!r.ok)throw Error('Image asset unavailable');return new Uint8Array(await r.arrayBuffer())}
