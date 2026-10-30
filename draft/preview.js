@@ -5,6 +5,7 @@ import './ambient-snow.js';
 import {banMedia} from './ban-media.js';
 import {draftHeroes} from '../draft-heroes.js';
 import {heroVoiceClips} from '../hero-voice-data.js';
+import {draftVoices} from './draft-voices.js?v=1';
 const [data,heroHeads,heroCinematics]=await Promise.all(['../data/snapshot.json','./hero-heads.json','./hero-cinematics.json'].map(async path=>{const response=await fetch(path,{signal:AbortSignal.timeout(20000)});if(!response.ok)throw Error('Draft assets unavailable');return response.json()}));
 const heroHead=h=>heroHeads[h.id]?.head||'../'+h.image;
 const heroColor=h=>heroHeads[h.id]?.color||'#83b6fa';
@@ -62,7 +63,8 @@ function abilityPanel(h){const heroData=data.heroes.find(x=>String(x.id)===Strin
 function abilityButtons(pool){return pool.map(a=>`<button data-ability="${a.id}" class="${abilitySelection.includes(a.id)?'selected':''}" ${room.actions.some(x=>x.abilities?.includes(a.id))?'disabled':''}>${a.image?`<img src="../${a.image}" alt="">`:''}${esc(a.name)}<small>${a.ultimate?' · نهائية':''}</small></button>`).join('')}
 async function start(){await mutate('ready')}
 async function commit(id){await mutate('select',{hero:id,expectedStep:room.step,abilities:abilitySelection})}
-function playVoice(id,kind='pick'){if(muted)return;audio?.pause();const clips=kind==='ban'?(banMedia[String(id)]?.clips||[]):(heroVoiceClips[String(id)]||[]);if(!clips.length)return;audio=new Audio((kind==='ban'?'./':'../')+clips[Math.floor(Math.random()*clips.length)]);audio.volume=volume;audio.play().catch(()=>{})}
+const lastVoice=new Map();
+function playVoice(id,kind='pick'){if(muted)return;audio?.pause();const key=String(id),bank=draftVoices[key]?.[kind==='ban'?'ban':'pick'];const clips=bank?.length?bank:(kind==='ban'?(banMedia[key]?.clips||[]).map(src=>'./'+src):(heroVoiceClips[key]||[]).map(src=>'../'+src));if(!clips.length)return;const action=key+':'+kind,choices=clips.length>1?clips.filter(src=>src!==lastVoice.get(action)):clips,src=choices[Math.floor(Math.random()*choices.length)];lastVoice.set(action,src);audio=new Audio(src);audio.volume=volume;audio.play().catch(()=>{})}
 function criticalImage(h){return banMedia[String(h.id)]?.portrait||'../'+h.image}
 function updateClocks(){if(!room||room.status!=='active')return;const s=room.order[room.step],c=currentClock();$('#turn-clock')&&($('#turn-clock').textContent=room.config.seconds?clock(c.round||c.bank):'بدون وقت');for(let t=0;t<2;t++){const node=$(`[data-bank="${t}"]`);if(node)node.textContent=room.config.seconds?clock(t===s.team?c.bank:room.banks[t]):'—'}}
 
