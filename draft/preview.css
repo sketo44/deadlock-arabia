@@ -298,7 +298,7 @@ body[data-patron-team="0"] .presence-king>img,body[data-patron-team="1"] .presen
 @media(max-width:700px){.patron-presence{width:60vw;top:0;bottom:0}.presence-king{left:-15vw}.presence-mother{right:-15vw}.patron-presence>img{object-position:center bottom}body[data-patron-team="0"] .presence-king,body[data-patron-team="1"] .presence-mother{opacity:.7}}
 /* A readable ban cue replaces the lightning and full-screen red flash. */
 .ban-alarm{display:grid;place-items:center;background:radial-gradient(ellipse at center,#2d07193d,transparent 60%);box-shadow:none;z-index:60;overflow:hidden}
-.ban-word{display:block;padding:0 .45em;color:#ff354d;font:800 clamp(58px,9vw,112px)/1.8 'Noto Sans Arabic',Tahoma,sans-serif;text-shadow:0 4px 20px #140008,0 0 24px #ff173b55;letter-spacing:normal}
+.ban-word{display:block;padding:0 .45em;color:#ff354d;font:800 clamp(88px,14vw,180px)/1.8 'Noto Sans Arabic',Tahoma,sans-serif;text-shadow:0 4px 20px #140008,0 0 24px #ff173b55;letter-spacing:normal;rotate:-9deg}
 @media(prefers-reduced-motion:reduce){.patron-presence,.patron-presence:before,.patron-spotlight{transition:none}.ban-alarm{background:transparent;box-shadow:none}}
 
 /* Keep the draft in the central marked area and the patrons in the outer wings. */
