@@ -82,3 +82,5 @@ body .mast,body.draft-active .mast{display:none}
 body.draft-active .draft-tournaments-return{position:absolute;top:8px;left:12px;min-height:32px;padding:5px 12px;font-size:11px}
 body.obs .draft-tournaments-return{display:none}
 @media(max-width:700px){.draft-tournaments-return{position:relative;top:auto;left:auto;margin:12px 16px 0}body.draft-active .draft-tournaments-return{position:relative;top:auto;left:auto;margin:8px 12px 0}}
+
+@media(min-width:701px){body.draft-active .draft-tournaments-return{top:auto;bottom:12px;left:12px}}

@@ -280,3 +280,23 @@ body[data-draft-view="setup"] .scene-color,body[data-draft-view="setup"] .patron
 .ban-lightning .secondary-bolt{stroke-width:2;stroke:#ff8ca1}
 body.ban-impact .mast{border-bottom-color:#ff395e;transition:border-color .3s}
 @media(prefers-reduced-motion:reduce){.ban-lightning{display:none}.ban-alarm{background:#a9173238;box-shadow:none}}
+
+/* Balanced patrons frame the draft; the active side carries the light. */
+.patron-presence{top:0;bottom:0;width:min(34vw,580px);min-width:0;max-width:none;opacity:.28;visibility:visible}
+.presence-king{left:-4vw;--patron-light:#ffb75f}
+.presence-mother{right:-4vw;--patron-light:#8bc9ff}
+.patron-presence>img{inset:0;width:100%;height:100%;object-fit:contain;object-position:center bottom;mask-image:linear-gradient(#000 0%,#000 88%,transparent 100%);-webkit-mask-image:linear-gradient(#000 0%,#000 88%,transparent 100%)}
+.patron-presence:before{content:'';position:absolute;inset:8% -15% 2%;background:radial-gradient(ellipse at 50% 35%,color-mix(in srgb,var(--patron-light) 24%,transparent),transparent 66%);opacity:.18;transition:opacity .8s ease}
+.patron-spotlight{top:-4vh;bottom:4%;inset-inline:-10%;clip-path:none;filter:blur(14px);background:radial-gradient(ellipse at 50% 4%,color-mix(in srgb,var(--patron-light) 65%,transparent),transparent 28%),linear-gradient(180deg,color-mix(in srgb,var(--patron-light) 28%,transparent),transparent 80%);mask-image:radial-gradient(ellipse 46% 90% at 50% 0%,#000 20%,transparent 85%);-webkit-mask-image:radial-gradient(ellipse 46% 90% at 50% 0%,#000 20%,transparent 85%);opacity:.16;transition:opacity .8s ease}
+body[data-patron-team="0"] .presence-king,body[data-patron-team="1"] .presence-mother{opacity:1}
+body[data-patron-team="0"] .presence-mother,body[data-patron-team="1"] .presence-king{opacity:.24}
+body[data-patron-team="0"] .presence-king:before,body[data-patron-team="1"] .presence-mother:before,body[data-patron-team="0"] .presence-king .patron-spotlight,body[data-patron-team="1"] .presence-mother .patron-spotlight{opacity:1}
+body[data-patron-team="0"] .presence-king>img,body[data-patron-team="1"] .presence-mother>img{filter:drop-shadow(0 0 28px color-mix(in srgb,var(--patron-light) 23%,transparent))}
+@media(min-width:1101px){body.draft-active main{max-width:1280px}body.draft-active .cine-layout,body.draft-active .arena.competitive .cine-layout{grid-template-columns:185px minmax(0,1fr) 185px;gap:24px}}
+@media(min-width:1101px) and (min-height:850px){body.draft-active .arena:not(.competitive) .hero-stage{flex-basis:340px}}
+@media(max-width:1100px){.patron-presence{width:38vw}.presence-king{left:-6vw}.presence-mother{right:-6vw}}
+@media(max-width:700px){.patron-presence{width:60vw;top:0;bottom:0}.presence-king{left:-15vw}.presence-mother{right:-15vw}.patron-presence>img{object-position:center bottom}body[data-patron-team="0"] .presence-king,body[data-patron-team="1"] .presence-mother{opacity:.7}}
+/* A readable ban cue replaces the lightning and full-screen red flash. */
+.ban-alarm{display:grid;place-items:center;background:radial-gradient(ellipse at center,#2d07193d,transparent 60%);box-shadow:none;z-index:60;overflow:hidden}
+.ban-word{display:block;padding:0 .45em;color:#ff354d;font:800 clamp(58px,9vw,112px)/1.8 'Noto Sans Arabic',Tahoma,sans-serif;text-shadow:0 4px 20px #140008,0 0 24px #ff173b55;letter-spacing:normal}
+@media(prefers-reduced-motion:reduce){.patron-presence,.patron-presence:before,.patron-spotlight{transition:none}.ban-alarm{background:transparent;box-shadow:none}}
