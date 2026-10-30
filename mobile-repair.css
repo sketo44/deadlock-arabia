@@ -121,3 +121,13 @@ body>header nav.site-navigation[hidden]{display:none!important}
 }
 
 body.home-city>header{display:flex!important}body.home-city .home-scene-root .site-header{display:none!important}
+
+/* Home desktop links sit directly over the city artwork. */
+@media(min-width:901px){
+ body.home-city>header{display:none!important}
+ body.home-city .home-scene-root .site-header{display:grid!important;grid-template-columns:1fr auto 1fr;background:transparent!important;border:0!important;box-shadow:none!important;backdrop-filter:none!important;position:relative;z-index:20}
+ body.home-city .home-scene-root .site-header:after{display:none}
+ body.home-city .home-scene-root .site-header nav{display:flex!important;align-items:center;justify-content:center;gap:30px;height:100%}
+ body.home-city .home-scene-root .site-header nav>*{display:flex;align-items:center;color:#f1dfbc;font-size:14px;font-weight:700}
+ body.home-city .home-scene-root .site-header .account{display:flex!important;align-items:center;color:#f1dfbc}
+}
