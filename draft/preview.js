@@ -1,5 +1,5 @@
 import {steamLogin} from '../backend-client.js';
-import {triggerBanAlarm} from './ban-alarm.js?v=word-2';
+import {triggerBanAlarm} from './ban-alarm.js?v=word-3';
 import './ambient-snow.js';
 
 import {banMedia} from './ban-media.js';

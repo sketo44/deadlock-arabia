@@ -321,3 +321,5 @@ body.draft-active .presence-mother{--spot-x:82%}
 
 body.draft-active .patron-presence>img{filter:none;mask-image:linear-gradient(to bottom,transparent 0%,#000 8%,#000 88%,transparent 100%);-webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 8%,#000 88%,transparent 100%)}
 body.draft-active .patron-presence:before{inset:-30%;background:radial-gradient(ellipse at 50% 50%,color-mix(in srgb,var(--patron-light) 12%,transparent),transparent 65%)}
+
+.ban-alarm .ban-word{line-height:1.15;padding:0 .08em;text-align:center;white-space:nowrap}
