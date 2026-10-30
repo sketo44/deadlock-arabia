@@ -300,3 +300,16 @@ body[data-patron-team="0"] .presence-king>img,body[data-patron-team="1"] .presen
 .ban-alarm{display:grid;place-items:center;background:radial-gradient(ellipse at center,#2d07193d,transparent 60%);box-shadow:none;z-index:60;overflow:hidden}
 .ban-word{display:block;padding:0 .45em;color:#ff354d;font:800 clamp(58px,9vw,112px)/1.8 'Noto Sans Arabic',Tahoma,sans-serif;text-shadow:0 4px 20px #140008,0 0 24px #ff173b55;letter-spacing:normal}
 @media(prefers-reduced-motion:reduce){.patron-presence,.patron-presence:before,.patron-spotlight{transition:none}.ban-alarm{background:transparent;box-shadow:none}}
+
+/* Keep the draft in the central marked area and the patrons in the outer wings. */
+body.draft-active .scene-orange{background:radial-gradient(ellipse at 8% 22%,#8a4d202e,transparent 38%),linear-gradient(to top,#020203 8%,#080605 42%,#1b100a 100%)}
+body.draft-active .scene-blue{background:radial-gradient(ellipse at 92% 22%,#397ab32e,transparent 38%),linear-gradient(to top,#020203 8%,#05080d 42%,#0a1523 100%)}
+@media(min-width:1101px){
+ body.draft-active main{width:56vw;max-width:1440px;padding-inline:20px;min-height:88vh}
+ body.draft-active .cine-layout,body.draft-active .arena.competitive .cine-layout{grid-template-columns:minmax(130px,15%) minmax(0,1fr) minmax(130px,15%);gap:20px}
+ body.draft-active .patron-presence{top:15vh;bottom:auto;height:62vh;width:20vw;max-width:500px}
+ body.draft-active .presence-king{left:1vw}
+ body.draft-active .presence-mother{right:1vw}
+ body.draft-active .patron-presence>img{object-position:center center}
+ body.draft-active .patron-spotlight{top:-15vh;bottom:0}
+}
