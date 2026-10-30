@@ -9,8 +9,9 @@ import {db,json} from '../netlify/functions/_shared/store.mjs';
 import {loginStart,verify,cookieName} from '../netlify/functions/_shared/steam.mjs';
 import {randomBytes,createHash} from 'node:crypto';
 const hash=v=>createHash('sha256').update(v).digest('hex');
-const SITE='https://sketo44.github.io/deadlock-arabia/';
+const SITE='https://www.deadlockar.com/';
 const ORIGIN=new URL(SITE).origin;
+const SITE_ORIGINS=new Set([ORIGIN,'https://deadlockar.com','https://deadlock-ar.github.io']);
 const routes={'arab-community':community,'game-rooms':rooms,tournaments,'draft-rooms':drafts,'patch-translations':patches,'discord-bot':discord,'studio-drafts':studio};
 const challengeHash=v=>createHash('sha256').update(v).digest('base64url');
 function redirect(route,params){const url=new URL(SITE);if(route==='draft')url.pathname=new URL('draft/',SITE).pathname;else url.hash=route;for(const[k,v]of Object.entries(params))url.searchParams.set(k,v);return new Response(null,{status:302,headers:{Location:url.href,'Cache-Control':'no-store','Referrer-Policy':'no-referrer'}})}
@@ -57,8 +58,8 @@ async function exchange(request){
 }
 export default async function gateway(request){
  const url=new URL(request.url),origin=request.headers.get('origin');
- const cors={'Access-Control-Allow-Origin':ORIGIN,'Access-Control-Allow-Headers':'authorization, content-type, apikey, x-steam-token','Access-Control-Allow-Methods':'GET, POST, OPTIONS','Vary':'Origin','Cache-Control':'no-store'};
- if(origin&&origin!==ORIGIN)return json({error:'Origin rejected'},403);
+ const cors={'Access-Control-Allow-Origin':SITE_ORIGINS.has(origin)?origin:ORIGIN,'Access-Control-Allow-Headers':'authorization, content-type, apikey, x-steam-token','Access-Control-Allow-Methods':'GET, POST, OPTIONS','Vary':'Origin','Cache-Control':'no-store'};
+ if(origin&&!SITE_ORIGINS.has(origin))return json({error:'Origin rejected'},403);
  if(request.method==='OPTIONS')return new Response(null,{status:204,headers:cors});
  let response;
  try{
