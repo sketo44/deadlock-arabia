@@ -327,7 +327,7 @@ body.draft-active .patron-presence:before{inset:-30%;background:radial-gradient(
 /* Approved turn artwork: one illuminated patron per side, with a clear center. */
 body.draft-active .patron-presence{display:none}
 body.draft-active .scene-orange,body.draft-active .scene-blue{background-position:center;background-repeat:no-repeat;background-size:100% 100%;transition:opacity .85s ease}
-body.draft-active .scene-orange{background-image:url('./media/king-turn-art.webp')}
+body.draft-active .scene-orange{background-image:url('./media/king-turn-art-v2.webp')}
 body.draft-active .scene-blue{background-image:url('./media/mother-turn-art.webp')}
 @media(min-width:1101px){
  body.draft-active main{width:60vw;max-width:1600px;padding-inline:16px}
