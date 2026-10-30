@@ -1,3 +1,4 @@
 const pagePattern=/^(?:home|heroes|items|planner|community|patches|account|tournaments|leaderboard|arab-board|guide|model)(?:\/[a-zA-Z0-9_-]+)?$|^hero\/(?:[0-9]+|nurse-harrow)$/;
-export function restorePageUrl(href){const url=new URL(href);if(url.hash)return null;const page=url.searchParams.get('page');if(!pagePattern.test(page||''))return null;url.hash=page;return url.href}
-export function rememberPageUrl(href){const url=new URL(href),page=url.hash.slice(1);if(!pagePattern.test(page))return null;url.searchParams.set('page',page);return url.href}
+function cleanPageUrl(url){url.pathname=url.pathname.replace(/\/index\.html$/, '/');url.searchParams.delete('page');if(url.hash==='#home')url.hash='';return url.href}
+export function restorePageUrl(href){const url=new URL(href);if(!url.hash){const page=url.searchParams.get('page');if(pagePattern.test(page||''))url.hash=page}const clean=cleanPageUrl(url);return clean===href?null:clean}
+export function rememberPageUrl(href){const url=new URL(href);return cleanPageUrl(url)}

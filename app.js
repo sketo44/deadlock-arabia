@@ -5,7 +5,7 @@ import {sortedHeroes} from './hero-order.js?v=136';
 import {steamLogin} from './backend-client.js?v=discord-164';
 import {validateBuildText} from './build-moderation.js?v=123';
 import {plannerLab,mountPlannerLab} from './planner-lab.js?v=174';
-import {restorePageUrl,rememberPageUrl} from './navigation-state.js?v=hero-layout-119';
+import {restorePageUrl,rememberPageUrl} from './navigation-state.js?v=clean-urls-1';
 import {nurseHarrow} from './nurse-harrow.js?v=176';
 import {guidePage,mountGuide} from './city-guide.js?v=player-guide-5';
 import {modelPage,mountModel} from './hero-model.js';
