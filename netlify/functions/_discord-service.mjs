@@ -7,7 +7,7 @@ export const DISCORD_PUBLIC_KEY='ad6164a32463fd5f4ddad459bebdc3cfced99ca9107d450
 export const hashDiscord=value=>createHash('sha256').update(value).digest('hex');
 export const discordConfigured=()=>!!(process.env.DISCORD_BOT_TOKEN&&/^\d{17,22}$/.test(process.env.DISCORD_GUILD_ID||'')&&/^\d{17,22}$/.test(process.env.DISCORD_CHANNEL_ID||''));
 const base='https://discord.com/api/v10';
-export async function discordRequest(path,body,method='POST'){
+export async function discordRequest(path,body,method='POST'){throw new Error('Bot temporarily paused');
  const multipart=body instanceof FormData;const r=await fetch(base+path,{method,headers:{Authorization:'Bot '+process.env.DISCORD_BOT_TOKEN,...(!multipart?{'Content-Type':'application/json'}:{})},...(body?{body:multipart?body:JSON.stringify(body)}:{}),signal:AbortSignal.timeout(18000)});
  if(!r.ok)throw Error(r.status===429?'دسكورد طلب الانتظار؛ حاول بعد قليل':'تعذّر إرسال رسالة دسكورد ('+r.status+')');return r.status===204?null:r.json();
 }
