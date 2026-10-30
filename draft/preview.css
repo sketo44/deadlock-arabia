@@ -336,3 +336,10 @@ body.draft-active .scene-blue{background-image:url('./media/mother-turn-art.webp
 }
 @media(max-width:700px){body.draft-active .scene-orange,body.draft-active .scene-blue{background-size:auto 100%}body.draft-active .scene-orange{background-position:left center}body.draft-active .scene-blue{background-position:right center}}
 @media(prefers-reduced-motion:reduce){body.draft-active .scene-color{transition:none}}
+
+/* Lobby shares the full draft artwork, showing both patrons before turns begin. */
+body[data-draft-view="lobby"] .patron-presence{display:none}
+body[data-draft-view="lobby"] .scene-color{opacity:1;background-position:center;background-size:100% 100%;background-repeat:no-repeat}
+body[data-draft-view="lobby"] .scene-orange{background-image:url('./media/king-turn-art-v2.webp')}
+body[data-draft-view="lobby"] .scene-blue{background-image:url('./media/mother-turn-art.webp');mask-image:linear-gradient(to right,transparent 40%,#000 65%);-webkit-mask-image:linear-gradient(to right,transparent 40%,#000 65%)}
+@media(max-width:700px){body[data-draft-view="lobby"] .scene-color{background-size:auto 100%}body[data-draft-view="lobby"] .scene-orange{background-position:left center}body[data-draft-view="lobby"] .scene-blue{background-position:right center}}
