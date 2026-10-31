@@ -15,7 +15,7 @@ import {shopOrder} from './shop-order.js?v=174';
 import {googleLoginUrl} from './google-login.js';
 import {setAbilityStage,removeAbilityStep,moveAbilityStep,formatStat} from './planner-logic.js';
 import {patchPage,mountPatches} from './patches.js';
-import {arabBoardPage,mountArabBoard} from './arab-board.js?v=165';
+import {arabBoardPage,mountArabBoard} from './arab-board.js?v=166';
 import {explainUpgrade,upgradeNames} from './upgrade-copy.js';
 
 import {enableShopPreview} from './shop-preview.js';
