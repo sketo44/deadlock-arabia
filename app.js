@@ -9,7 +9,7 @@ import {restorePageUrl,rememberPageUrl} from './navigation-state.js?v=clean-urls
 import {nurseHarrow} from './nurse-harrow.js?v=176';
 import {guidePage,mountGuide} from './city-guide.js?v=player-guide-5';
 import {modelPage,mountModel} from './hero-model.js';
-import {communityHome,mountHome,mountLore} from './community-v2.js?v=178';
+import {communityHome,mountHome,mountLore} from './community-v2.js?v=179';
 import {tournamentPage,mountTournaments} from './arena.js?v=studio-2';
 import {shopOrder} from './shop-order.js?v=174';
 import {googleLoginUrl} from './google-login.js';
