@@ -1,0 +1,15 @@
+/* Button interaction adapted from Uiverse.io by gharsh11032000. */
+body>header,body.home-city .home-scene-root .site-header,body .mast{background:transparent!important;border:0!important;box-shadow:none!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
+body>header:before,body>header:after,body .mast:before,body .mast:after{display:none!important}
+body>header nav.site-navigation,body .mast .draft-site-nav{border:0!important;box-shadow:none!important}
+body>header nav.site-navigation>a,body.home-city .home-scene-root .site-header nav>a,body .mast .draft-site-nav>a,body>header .site-account,body>header>a.compact,body.home-city .home-scene-root .site-header .account,body .mast .draft-account-link,body .mast #identity{
+ position:relative!important;isolation:isolate;display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:44px;height:auto!important;box-sizing:border-box;padding:10px 18px!important;border:0!important;border-radius:100px!important;background:transparent!important;color:#f0dfbd!important;box-shadow:0 0 0 1px #ffffff26!important;overflow:hidden;cursor:pointer;text-decoration:none!important;font-weight:600;line-height:1.8;transition:color .6s cubic-bezier(.23,1,.32,1),box-shadow .6s cubic-bezier(.23,1,.32,1),scale .2s;
+}
+body header nav>a:before,body header .site-account:before,body header>a.compact:before,body header .account:before,body .mast .draft-account-link:before,body .mast #identity:before{content:'';position:absolute;z-index:-1;top:50%;left:50%;transform:translate(-50%,-50%) scale(0);width:220px;height:220px;border-radius:50%;background:#2196f3;opacity:0;pointer-events:none;transition:transform .8s cubic-bezier(.23,1,.32,1),opacity .8s}
+body header nav>a:after{display:none!important}
+body header nav>a:is(:hover,:focus-visible):before,body header :is(.site-account,a.compact,.account,.draft-account-link,#identity):is(:hover,:focus-visible):before{transform:translate(-50%,-50%) scale(1);opacity:1}
+body header nav>a:is(:hover,:focus-visible),body header :is(.site-account,a.compact,.account,.draft-account-link,#identity):is(:hover,:focus-visible){color:#fff!important;box-shadow:0 0 0 4px #2195f360!important;outline:none}
+body header nav>a:active,body header :is(.site-account,a.compact,.account,.draft-account-link,#identity):active{scale:.95}
+body header nav>a[aria-current=page]{color:#ffe1a2!important;box-shadow:0 0 0 1px #dec38c99!important}
+@media(max-width:900px){body>header nav.site-navigation[data-open=true],body .mast .draft-site-nav:not([hidden]){background:#172434f5!important;border-radius:14px;padding:12px!important}body>header nav.site-navigation>a,body .mast .draft-site-nav>a{padding:10px 12px!important}}
+@media(prefers-reduced-motion:reduce){body header nav>a,body header nav>a:before,body header :is(.site-account,a.compact,.account,.draft-account-link,#identity),body header :is(.site-account,a.compact,.account,.draft-account-link,#identity):before{transition:none}}

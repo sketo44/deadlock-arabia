@@ -1,4 +1,5 @@
 const header=document.querySelector('.mast'),toggle=header.querySelector('.draft-menu-toggle'),nav=header.querySelector('.draft-site-nav');
+nav.replaceChildren(...[['الرئيسية','../'],['عن اللعبة','../#heroes'],['المجتمع','../#community'],['البطولات','../#tournaments']].map(([text,href])=>{const a=document.createElement('a');a.textContent=text;a.href=href;return a}));
 const small=matchMedia('(max-width:900px)');
 function close(){toggle.setAttribute('aria-expanded','false');nav.dataset.open='false';nav.hidden=small.matches;nav.inert=small.matches}
 function sync(){close()}
