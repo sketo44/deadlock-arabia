@@ -266,3 +266,5 @@ body.home-city .flip-back{background:linear-gradient(145deg,#1c3049,#101e32 68%,
  body.home-city .flip-options a,body.home-city .flip-options button{backdrop-filter:none;-webkit-backdrop-filter:none}
 }
 @media(prefers-reduced-motion:reduce){body.home-city .flip-card .flip-front,body.home-city .flip-card .flip-back{transition:none}}
+
+body.home-city .home-scene-root .socials .social.discord svg{width:12px!important;height:12px!important;min-width:12px;flex:0 0 12px;transform:none!important}
